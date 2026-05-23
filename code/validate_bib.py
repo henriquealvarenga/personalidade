@@ -79,7 +79,12 @@ EDITOR_OK_TYPES = {"book", "proceedings"}
 
 # Regex para citações Pandoc.
 # Cobre: @chave, [@chave], -@chave, [@chave, p. 12], [@a; @b], {@chave}
-CITE_RE = re.compile(r"(?<![A-Za-z0-9_])@([A-Za-z0-9_:\-]+)")
+# O lookbehind exclui:
+#   [A-Za-z0-9_]  → evita matchear emails/handles ("user@host")
+#   \\            → respeita escape Pandoc/Markdown ("\@usuario") usado para
+#                   exibir literalmente uma arroba sem que seja tratada como cite
+#   /             → URLs ("unsplash.com/@usuario", "github.com/@user")
+CITE_RE = re.compile(r"(?<![A-Za-z0-9_\\/])@([A-Za-z0-9_:\-]+)")
 
 # Prefixos do Quarto que NÃO são citações bibliográficas, são cross-refs:
 # @tbl-... , @fig-... , @eq-... , @sec-... , @lst-... , @thm-... etc.
