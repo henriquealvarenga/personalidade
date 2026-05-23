@@ -33,7 +33,6 @@ book:
   repo-branch: main
   repo-actions: [edit, issue]
   search: true
-  downloads: [epub]
   sharing: [twitter, facebook, linkedin]
   page-navigation: true
   back-to-top-navigation: true
@@ -131,18 +130,11 @@ format:
     anchor-sections: true
     highlight-style: github
 
-  epub:
-    toc: true
-    toc-depth: 3
-    number-sections: true
-    epub-cover-image: images/capa.jpg
-    epub-metadata: epub-metadata.xml
-    epub-fonts:
-      - fonts/Inter-*.woff2
-      - fonts/PlayfairDisplay-*.woff2
-    css: styles.css
-    fig-format: png
-    fig-dpi: 200
+  # EPUB intencionalmente removido em 2026-05-23.
+  # Motivo: rodar `quarto render --to epub` após `quarto render --to html`
+  # limpava o _book/, deixando só o .epub no artifact e quebrando o deploy.
+  # Para regenerar EPUB no futuro, prefira `quarto render` (sem --to) e
+  # declare ambos formatos no _quarto.yml.
 
   # PDF intencionalmente DESABILITADO no CI.
   # Para gerar PDF localmente:  quarto render --to pdf

@@ -1,4 +1,4 @@
-name: Render & Publish (HTML + EPUB)
+name: Render & Publish (HTML)
 
 # =========================================================================
 #  Pipeline moderno do GitHub Pages — "Build & deployment: GitHub Actions"
@@ -123,10 +123,6 @@ jobs:
 
       - name: Render HTML
         run: quarto render --to html
-
-      - name: Render EPUB
-        run: quarto render --to epub
-        continue-on-error: true   # tolerar até a capa existir
 
       - name: Listar saída
         run: ls -la _book/
