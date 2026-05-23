@@ -1,0 +1,232 @@
+---
+title: "Roteiro de Entrevista Simulada — Caso clínico E"
+subtitle: "Roteiro original para vídeo didático — inferência diagnóstica pelo aluno"
+author: "Material didático para estudantes de medicina"
+bibliography: ../references/references.bib
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+::: callout-important
+## Aviso ao docente
+Material **original** para fins didáticos, construído a partir da **categoria diagnóstica** de um caso clínico publicado, sem reprodução de linguagem, cenas, vínculos, dados sociodemográficos ou frases do texto-fonte. O diagnóstico-alvo **não deve ser revelado** aos alunos antes do exercício de inferência.
+:::
+
+# Roteiro de Entrevista Simulada — Caso E
+
+## 1. Ficha técnica do caso
+
+- **Nome fictício da paciente:** Daniela Vasconcelos
+- **Idade:** 26 anos
+- **Gênero:** feminino
+- **Ocupação:** professora de dança contemporânea em escola particular; faz aulas particulares aos finais de semana e ocasionalmente trabalha como mestre de cerimônias em casamentos
+- **Contexto da entrevista:** ambulatório de psiquiatria geral, primeira consulta. A paciente procurou atendimento por conta própria após uma "crise" em um aniversário de uma colega, em que precisou ser retirada da pista de dança chorando.
+- **Duração estimada do vídeo:** 4 a 5 minutos
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade histriônica (DSM-5-TR 301.50; na CID-11 mapeia em padrão dimensional de **negative affectivity + dissocialidade** com foco em busca de atenção)
+- **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
+
+---
+
+## 2. Orientações para a atriz ou avatar que interpreta a paciente
+
+- **Postura corporal:** sentada na ponta da cadeira, costas eretas, gestos largos. Apoia o braço sobre a mesa do entrevistador ao reforçar uma frase.
+- **Tom de voz:** com bastante modulação, projetada. Sobe quando fala da "crise"; suaviza quando fala da entrevistadora.
+- **Ritmo da fala:** rápido, fluido, com frases enfáticas. Pausa raramente.
+- **Expressão facial:** expressiva, mas **sutil** — sobrancelhas ativas, sorriso fácil, olhos arregalados em momentos pontuais. **Evitar exagero teatral**: deve parecer carismática, não risível.
+- **Maneira de se relacionar com o entrevistador:** cordial, calorosa, ligeiramente sedutora (independentemente do gênero do entrevistador), faz perguntas pessoais a ele ("você é casado?", "trabalha aqui há muito tempo?"). Comenta o ambiente ("que sala agradável, doutor").
+- **Sinais comportamentais relevantes:** maquiagem cuidadosa para uma consulta, acessórios chamativos. Trocar de assunto com facilidade. Lágrima pontual ao tocar no ex-namorado, recuperação rápida em seguida (alguns segundos).
+- **Forma de reagir a temas sensíveis:** quando questionada sobre detalhes concretos do ex-namorado, **dá descrições vagas e idealizadas**, com pouca informação factual. Ao ser perguntada sobre solidão prolongada, fica brevemente desconfortável e muda o assunto.
+
+> **Importante para a direção:** a paciente **não** é vulgar, não é "histérica" no sentido leigo. O traço aparece em **emocionalidade superficial, busca constante de atenção, sedução interpessoal sutil, descrições idealizadas e pouco concretas dos vínculos**. Evitar caricatura.
+
+---
+
+## 3. Orientações para o ator ou avatar que interpreta o entrevistador
+
+- **Postura:** sentado profissionalmente, mantendo distância física confortável. Não responder às perguntas pessoais da paciente; redirecionar com gentileza.
+- **Estilo de entrevista:** atencioso, mas com cuidado para **não reforçar o padrão de sedução e teatralidade**. Não rir junto, não elogiar aparência, não fazer comentários afetuosos demais.
+- **Grau de acolhimento:** caloroso e contido. Tratar a queixa com seriedade clínica.
+- **Forma de explorar sintomas sem induzir respostas:** insistir em **detalhes concretos** ("me descreve um dia típico com ele", "que coisas ele dizia, especificamente"), o que torna visível a vagueza das descrições.
+- **Forma de investigar funcionamento longitudinal:** mapear vínculos amorosos prévios, vínculos de amizade, funcionamento ocupacional, relação com a família.
+- **Cuidados para não revelar o diagnóstico:** sem palavras como "histriônica", "teatral", "dramática", "sedutora", "superficial". Encerramento neutro.
+
+---
+
+## 4. Roteiro dialogado completo
+
+> Cenário visual: ambulatório, dia. Iluminação clara. Duração total estimada: **4 minutos e 30 segundos**.
+
+### Abertura
+
+**Entrevistador:** Boa tarde, Daniela. Eu sou o psiquiatra do ambulatório. Vi que você marcou esta consulta por conta própria. Quer me contar o que te trouxe aqui?
+
+**Paciente:** *(sorri largo, se inclina pra frente)* Boa tarde, doutor. Olha, eu vou ser bem sincera: eu tô **arrasada**. Faz duas semanas que eu não sou eu mesma, e na sexta passada eu vivi uma cena que eu não tenho como não vir buscar ajuda. *(coloca a mão sobre o peito)*
+
+### Queixa atual
+
+**Entrevistador:** Me conta o que aconteceu na sexta.
+
+**Paciente:** Foi no aniversário da minha amiga Luiza. Era uma festa linda, num rooftop no centro. Eu estava me sentindo bem, dançando — eu sou professora de dança, doutor, então quando rola uma música boa eu vou —, e do nada eu vi o Leonardo entrar com uma menina. *(olhos enchem rapidamente, lágrima discreta)* Eu não consegui respirar. Saí da pista, comecei a chorar, três meninas tiveram que me levar pro banheiro. Eu fiquei deitada no sofá da Luiza até o final.
+
+**Entrevistador:** Quem é o Leonardo?
+
+**Paciente:** O Leonardo era… ah, doutor, o Leonardo era especial. A gente teve uma coisa muito intensa, muito forte. Foi a única vez que eu senti aquilo que as músicas falam, sabe? *(passa a mão no cabelo)*
+
+**Entrevistador:** E vocês ficaram juntos por quanto tempo?
+
+**Paciente:** A gente ficou junto… *(pensa)* a gente saiu umas seis vezes, mas era cada encontro tão intenso que parecia uma vida. A gente se conheceu há uns dois meses e meio.
+
+### História do funcionamento interpessoal
+
+**Entrevistador:** Você consegue me descrever o Leonardo um pouco, pra eu entender quem ele é?
+
+**Paciente:** *(brilho nos olhos)* Ele é maravilhoso. Lindo, doutor. Olhar profundo. A gente conversava sobre tudo. Sobre a vida, sobre o universo. Era uma sintonia. *(pausa)*
+
+**Entrevistador:** Mas em termos concretos — o que ele faz, como ele é no dia a dia, o que ele gosta de fazer no tempo livre?
+
+**Paciente:** *(silêncio breve)* É que a gente não chegou a falar muito dessas coisas mais práticas, sabe? A gente vivia o momento. Acho que ele trabalha com tecnologia, alguma coisa assim.
+
+**Entrevistador:** E essa sensação de intensidade que você descreve com ele, você já tinha sentido em outros relacionamentos?
+
+**Paciente:** *(ri suavemente)* Já, doutor. Eu sou apaixonada pelo amor, sabe? *(coloca a mão na altura do coração)* Eu já tive uns três grandes amores na vida. Um deles foi o Rodrigo, no ano passado. A gente também terminou de um jeito muito triste. E antes dele teve o Caio, que sumiu sem explicação — até hoje eu não entendi. Cada um foi devastador no seu tempo.
+
+**Entrevistador:** E como são suas amizades, fora desses relacionamentos?
+
+**Paciente:** Eu tenho muitas amigas! Ah, é uma rede. Mas eu sou bem mais apegada às minhas dramas amorosos, eu confesso. *(sorri)* As meninas dizem que eu sou intensa demais, que eu mergulho rápido. Eu sou assim mesmo.
+
+### História ocupacional
+
+**Entrevistador:** Como é o seu trabalho com a dança?
+
+**Paciente:** Adoro, doutor. Eu dou aula numa escola particular, tenho minhas alunas particulares, e ainda faço uns cerimoniais em casamentos. Sou bem requisitada, viu? *(tom suave de orgulho)* Em casamento eu rendo bem, porque tem o palco, tem a emoção, e eu trabalho com isso.
+
+**Entrevistador:** E em termos de estabilidade financeira, de horários — como está sendo essa rotina?
+
+**Paciente:** Olha, é meio uma loucura, doutor. Eu não tenho carteira assinada em nenhum lugar, é tudo por hora ou por evento. Tem mês que entra muito, tem mês que aperta. Eu vivo um pouco no improviso. Mas eu não me imagino num escritório, em horário fixo, eu morreria. *(ri)*
+
+**Entrevistador:** Você sente que a forma como você lida com as emoções afeta o seu trabalho?
+
+**Paciente:** Já afetou. Quando eu tô numa fase ruim de relacionamento, eu falto, eu chego atrasada, eu não consigo render. Já perdi um contrato bom de uma escola assim. *(pausa)* Mas é a minha natureza, doutor.
+
+### Funcionamento emocional e comportamental
+
+**Entrevistador:** Você falou que quando viu o Leonardo na festa, sentiu uma reação muito forte. Você costuma reagir assim com frequência?
+
+**Paciente:** Acho que sim. Eu sinto muito. Eu posso passar do "tô amando a vida" pro "minha vida acabou" em questão de horas. Minhas amigas brincam comigo, dizem que eu sou novela em pessoa. *(ri)* Mas eu não posso evitar.
+
+**Entrevistador:** E quando você não está vivendo uma fase de paixão ou de crise, como você se sente?
+
+**Paciente:** *(pausa, olhar diferente, mais sério)* Sinceramente, doutor? Eu fico meio sem graça. Sem cor. É como se a vida ficasse mais sem motivo. Eu não gosto desses períodos. Eu sempre tô procurando algum estímulo novo.
+
+**Entrevistador:** Você costuma se preocupar com a sua aparência, com como os outros te enxergam?
+
+**Paciente:** Bastante. *(sorri)* Eu invisto em mim. Cabelo, pele, roupa. Eu acho que pra trabalhar com dança e eventos isso faz parte. E eu gosto de receber atenção, sem mentir.
+
+### História longitudinal
+
+**Entrevistador:** Esses jeitos seus — viver as emoções com muita intensidade, mergulhar rapidamente nos vínculos, gostar de atenção — vêm desde quando?
+
+**Paciente:** Sempre. Na escola eu era a líder do grupinho, a que organizava, a que fazia a coreografia da festa junina. *(ri)* Eu sempre fui essa pessoa. Minha mãe diz que eu sou assim desde os três anos, que eu fazia performance em festa de família.
+
+**Entrevistador:** E em algum momento da vida adulta isso já te custou alguma coisa importante?
+
+**Paciente:** *(silêncio breve, sorriso menor)* Custou alguns relacionamentos. Os homens cansam, eu acho. Achavam que eu era demais. E custou aquele contrato que eu te falei. Mas eu não sei viver de outro jeito.
+
+### Encerramento
+
+**Entrevistador:** Daniela, agradeço pelo seu relato. Vou registrar o que conversamos e quero te propor um retorno em duas semanas, pra gente continuar essa conversa.
+
+**Paciente:** Tá ótimo, doutor. *(sorri, levanta-se, faz menção de cumprimentar com um leve toque no ombro do entrevistador — esse gesto é opcional, fica a critério da direção)* O senhor é um amor, viu? Já me sinto muito melhor só de ter desabafado.
+
+> **Fim do roteiro de vídeo.**
+
+---
+
+## 5. Pergunta final para os alunos
+
+> **Em tela, fundo neutro, 10 segundos:**
+>
+> *Qual é o diagnóstico de personalidade mais provável?*
+> *Justifique sua hipótese com pelo menos três elementos observados na entrevista.*
+
+---
+
+## 6. Guia oculto para o professor
+
+### Diagnóstico mais provável
+
+Transtorno de personalidade histriônica.
+
+### Pistas clínicas presentes no roteiro
+
+1. **Reação afetiva intensa e desproporcional ao vínculo real** (crise pública diante de ex de relacionamento de duas semanas e meia).
+2. **Idealização e descrição vaga do parceiro**, sem informações concretas — "intensidade", "sintonia", "olhar profundo", sem saber o que ele faz.
+3. **Emoções superficiais e mutáveis**: lágrima curta, recuperação rápida, oscilação narrativa.
+4. **Busca ativa de atenção**: ocupação que envolve palco (dança, cerimonial), preocupação com aparência, satisfação explícita ao receber olhar do outro.
+5. **Sedução discreta no setting clínico**: perguntas pessoais ao entrevistador, comentários ambientais, gesto de proximidade física no encerramento.
+6. **Padrão repetido de relacionamentos curtos e "devastadores"**, com narrativa romântica recorrente.
+7. **Padrão persistente desde a infância** (líder de grupo, performances familiares).
+
+### Diagnósticos diferenciais possíveis
+
+- **Transtorno depressivo maior** (atual): reação aguda à perda, mas o padrão é **caractereológico**, sem critérios episódicos de depressão maior.
+- **Transtorno bipolar**: oscilações de humor em horas, não em dias/semanas. Sem hipomania funcional, sem alterações de sono ou energia características.
+- **Transtorno de personalidade borderline**: pode haver sobreposição (instabilidade afetiva, idealização de parceiros), mas faltam **pavor real de abandono, autolesão, autoimagem confusa, impulsividade autodestrutiva grave**. As reações da paciente são performáticas e socialmente moduladas, não disruptivas no sentido borderline.
+- **Transtorno de personalidade narcisista**: o desejo de atenção existe, mas vem **acompanhado de calor, sedução afetiva e dependência do olhar do outro** — não de fantasia grandiosa e desvalorização dos demais.
+- **Transtorno de ansiedade social** (negativo aqui): a paciente busca exposição, não a evita.
+
+### Elementos discriminadores
+
+- **Histriônica × borderline:** ambas podem ser dramáticas. Borderline tem **autolesão, pavor de abandono, instabilidade de identidade, raiva intensa**; histriônica tem **busca de atenção, sedução, superficialidade afetiva**, sem o nível de desorganização borderline.
+- **Histriônica × narcisista:** narcisista quer **admiração por excelência**; histriônica quer **atenção por encanto**. Histriônica é calorosa; narcisista é frio.
+
+### Sugestão breve de discussão em sala
+
+- Como conduzir a entrevista sem reforçar a sedução nem desqualificar a paciente?
+- A diferença entre **estilo histriônico** (traço, adaptativo em certas profissões) e **transtorno**.
+- Risco de viés de gênero no diagnóstico de histriônica — discutir com os alunos a história da categoria.
+
+---
+
+## 7. Mudanças feitas para evitar reprodução indevida ou infração de copyright
+
+| Dimensão | Caso original | Caso transformado |
+|---|---|---|
+| **Personagem** | Homem | Mulher |
+| **Idade** | 42 anos | 26 anos |
+| **Ocupação** | Não detalhada | Professora de dança, instrutora particular, mestre de cerimônias em casamentos |
+| **Cenário da consulta** | Procura uma psiquiatra dizendo que a vida "está se desmantelando" | Procura ambulatório por conta própria após "crise" em festa de aniversário |
+| **Trigger** | Término de relacionamento de dois meses; insônia por lamentar a perda | Encontro inesperado com ex em festa pública; saída em prantos da pista de dança |
+| **Tempo do "grande amor"** | Cinco encontros, dois meses | Seis encontros, dois meses e meio (intervalo aproximado, contexto distinto) |
+| **Aparência/sinais** | Camisa tropical, calça cáqui, soluços curtos e sorrisos amplos, toques no braço da entrevistadora | Maquiagem cuidada e acessórios chamativos; mão no peito; lágrima breve e recuperação rápida; toque no ombro no encerramento (opcional) |
+| **Vínculos prévios** | Não detalhados | Três "grandes amores" nomeados (Leonardo, Rodrigo, Caio), com padrão recorrente; muitas amigas, mais investidas em romances |
+| **Sequência narrativa** | Original abre com choro pelo término, descreve a aparência, narra a entrevista em terceira pessoa | Novo roteiro abre com narrativa cinematográfica da crise da festa; segue para descrição vaga do ex, vínculos repetidos, vida ocupacional e longitudinal |
+| **Frases marcantes do original** | "no abismo do desespero", "nas nuvens", "amor da minha vida, simplesmente linda, linda" | **Nenhuma** reaproveitada |
+
+Mudanças adicionais:
+
+- Inversão de gênero, redução de idade em 16 anos, criação de ocupação que **encena** o traço (palco, festa, performance) sem replicar o caso.
+- Substituição da cena específica do consultório com soluços e toques no braço da entrevistadora pela **cena da festa**, narrada em primeira pessoa.
+- Substituição do par "abismo–nuvens" por construção própria ("tô amando a vida"/"minha vida acabou").
+- Inclusão de cenas inéditas (encontro em rooftop, mãe descrevendo performances aos três anos, contrato perdido por crise amorosa).
+
+---
+
+## 8. Revisão final de possíveis semelhanças excessivas
+
+**1. Há alguma frase próxima demais do texto original?**
+Não. As citações marcantes do texto-fonte ("amor da minha vida, simplesmente linda, linda", "abismo do desespero", "nas nuvens") **não** foram reaproveitadas.
+
+**2. Há alguma cena que preserva excessivamente a estrutura do caso original?**
+A zona temática inevitável é a **descrição idealizada e vaga do parceiro recente**, núcleo do diagnóstico. A formulação foi construída de modo independente, com vocabulário e estrutura próprios.
+
+**3. A combinação de detalhes ainda torna o caso reconhecível?**
+Não. Gênero, idade, ocupação, cenário do desencadeante e estrutura interpessoal foram alterados em conjunto.
+
+**4. O caso foi transformado de maneira substancial?**
+Sim. Personagem, contexto, vínculos, queixa e gênero textual foram modificados.
+
+**5. Algum trecho deveria ser reescrito para maior segurança?**
+Não. Nenhum trecho exige reescrita adicional após revisão.

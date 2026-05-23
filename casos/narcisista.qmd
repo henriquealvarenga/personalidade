@@ -1,0 +1,235 @@
+---
+title: "Roteiro de Entrevista Simulada — Caso clínico F"
+subtitle: "Roteiro original para vídeo didático — inferência diagnóstica pelo aluno"
+author: "Material didático para estudantes de medicina"
+bibliography: ../references/references.bib
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+::: callout-important
+## Aviso ao docente
+Material **original** para fins didáticos, construído a partir da **categoria diagnóstica** de um caso clínico publicado, sem reprodução de linguagem, cenas, vínculos, dados sociodemográficos ou frases do texto-fonte. O diagnóstico-alvo **não deve ser revelado** aos alunos antes do exercício de inferência.
+:::
+
+# Roteiro de Entrevista Simulada — Caso F
+
+## 1. Ficha técnica do caso
+
+- **Nome fictício da paciente:** Vivian Solano
+- **Idade:** 38 anos
+- **Gênero:** feminino
+- **Ocupação:** cirurgiã plástica, sócia majoritária de clínica privada própria, com forte presença em mídias sociais profissionais
+- **Contexto da entrevista:** ambulatório de psiquiatria em consultório particular. A paciente **não chega por sofrimento próprio**: foi orientada por seu advogado a fazer uma avaliação psiquiátrica externa, em razão de um processo de revisão de guarda movido pelo ex-marido, que descreveu indisponibilidade emocional e exposição pública das filhas. Comparece para "obter um relatório", segundo suas próprias palavras.
+- **Duração estimada do vídeo:** 4 a 5 minutos
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade narcisista (DSM-5-TR 301.81; CID-11 6D11.0 — perfil dimensional dissocialidade + grandiosidade)
+- **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
+
+---
+
+## 2. Orientações para a atriz ou avatar que interpreta a paciente
+
+- **Postura corporal:** sentada com porte ereto, queixo levemente elevado, costas afastadas do encosto. Ocupa o espaço com confiança. Pernas cruzadas com elegância.
+- **Tom de voz:** firme, articulado, segurança alta. Sem hesitação. Modulação baixa: pouca variação afetiva.
+- **Ritmo da fala:** estável, sem pressa. Fala como quem está sendo ouvida, não consultada.
+- **Expressão facial:** controlada, sorriso polido e curto. Não há contato afetivo nos olhos; o olhar é avaliativo. Faz uma pequena careta de impaciência se interrompida.
+- **Maneira de se relacionar:** cordial-superior. Trata o entrevistador com formalidade que beira a condescendência ("doutor, eu também sou da área, vou te poupar"). Cita credenciais próprias, prêmios, faturamento, palestras, sem que lhe seja perguntado.
+- **Sinais comportamentais relevantes:** roupa cara e bem cortada; relógio visível; checa o celular discretamente duas vezes; comenta o consultório de modo sutilmente desvalorizador ("é aconchegante, é, bem… funcional"). Quando o ex-marido é mencionado, dispara comentários ácidos. Quando as filhas são mencionadas, fala delas como **extensões de si** (desempenho, escola cara, prêmios).
+- **Forma de reagir a temas sensíveis:** se o entrevistador toca em **vulnerabilidade** (medo, vergonha, solidão), a paciente desvia para autoexaltação ou para a culpa de terceiros. Sem lágrima. Sem rebaixamento de humor.
+
+> **Importante para a direção:** a paciente **não** é gritada, não é vulgar, não é caricata. O traço aparece em **grandiosidade, falta de empatia, sensação de ter direito a tratamento especial, desvalorização sutil do outro, instrumentalização dos vínculos**. A elegância e a competência reais fazem parte do quadro e devem ser preservadas.
+
+---
+
+## 3. Orientações para o ator ou avatar que interpreta o entrevistador
+
+- **Postura:** sentado profissionalmente, neutro, sem se intimidar pela credencial da paciente nem competir com ela.
+- **Estilo de entrevista:** semiestruturado, com perguntas calmas e diretas. Não responder às provocações sutis.
+- **Grau de acolhimento:** respeitoso, neutro. Sem elogios à carreira, sem ironia.
+- **Forma de explorar sintomas sem induzir respostas:** investigar **funcionamento conjugal, parental, com pacientes, com equipe** por meio de exemplos concretos. Pedir descrição do outro ("como você acha que sua filha mais velha está se sentindo?").
+- **Forma de investigar funcionamento longitudinal:** ancorar em escola, faculdade, residência médica, primeiros empregos, casamento.
+- **Cuidados para não revelar o diagnóstico:** sem usar "narcisista", "grandiosa", "egoísta", "fria". Não fazer interpretação em voz alta. Não confrontar diretamente as desqualificações.
+
+---
+
+## 4. Roteiro dialogado completo
+
+> Cenário visual: consultório particular, mesa lateral, ambiente clean. Duração total estimada: **4 minutos e 30 segundos**.
+
+### Abertura
+
+**Entrevistador:** Boa tarde, doutora Vivian. Eu sou o psiquiatra que vai te atender hoje. Vi que a consulta foi marcada com um pedido específico do seu advogado.
+
+**Paciente:** *(senta-se com elegância, cruza as pernas)* Boa tarde. Sim. Vou te poupar de rodeios, doutor. O meu ex-marido entrou com pedido de revisão da guarda das nossas duas filhas e citou na petição uma série de absurdos a meu respeito. O meu advogado avaliou que seria estratégico eu apresentar um relatório psiquiátrico externo. Por isso eu estou aqui. Não tenho queixa minha.
+
+### Queixa atual
+
+**Entrevistador:** Entendi. E você poderia me contar, do seu ponto de vista, o que está na base desse processo?
+
+**Paciente:** Inveja, basicamente. *(sorri brevemente)* O Eduardo nunca digeriu o fato de que a minha carreira deslanchou e a dele estagnou. Eu sou cirurgiã plástica, tenho a minha clínica, faturo bem, viajo para congressos internacionais, fui capa de uma revista de medicina estética no ano passado. Ele é clínico geral, atende em convênio. A diferença ficou óbvia. Ele agora resolveu me atacar pelo único lugar que pode me atingir, que são as meninas.
+
+**Entrevistador:** E o que ele alegou, especificamente?
+
+**Paciente:** Disse que eu sou ausente, que exponho as meninas em rede social, que delego cuidado para a babá. *(rola os olhos)* É uma piada, doutor. As meninas estão na melhor escola de São Paulo, têm a vida que eu não tive, viajam para Disney todo ano. Se isso é negligência, eu quero ver o resto.
+
+### História do funcionamento interpessoal
+
+**Entrevistador:** Como você descreveria sua relação com o Eduardo durante o casamento?
+
+**Paciente:** Foi funcional por um tempo. No começo ele me admirava. Depois ele começou a se sentir pequeno do meu lado, e isso azedou. Não tem como, doutor: quando duas pessoas estão em ligas diferentes, uma hora aquilo arrebenta.
+
+**Entrevistador:** E hoje, sua relação com as suas filhas — como você descreveria?
+
+**Paciente:** Excelente. A Helena, mais velha, tem nove anos, é a minha cópia. Disciplinada, focada, tira nota máxima. A Mariana, sete, é mais sensível, puxou ao pai nisso, mas vai amadurecer. Eu fico muito orgulhosa delas.
+
+**Entrevistador:** Você poderia me descrever um momento recente em que a Mariana esteve chateada, e como vocês conversaram sobre isso?
+
+**Paciente:** *(pausa breve, expressão de leve irritação)* Olha, doutor, eu não fico monitorando humor de criança o tempo todo. Para isso a gente tem a babá e a psicóloga delas. Eu garanto a estrutura. O lado emocional ali é distribuído.
+
+**Entrevistador:** E suas relações de amizade próximas, como estão hoje?
+
+**Paciente:** Eu tenho uma rede grande de relacionamento. Médicos, empresários, gente da mídia. Amigas íntimas, no sentido de chorar no ombro, talvez uma ou duas — e mesmo essas, eu meio que me afastei nos últimos anos porque elas começaram a ter problemas pequenos demais para o meu momento de vida.
+
+### História ocupacional
+
+**Entrevistador:** Me conta um pouco da sua trajetória profissional.
+
+**Paciente:** *(postura mais ereta, leve sorriso)* Eu fui primeira colocada do meu vestibular, formei com louvor, residência em uma das melhores cirurgias plásticas do país, especialização nos Estados Unidos. Abri a minha clínica aos trinta e dois. Hoje a clínica fatura mais do que o triplo do que faturava quando eu entrei como sócia minoritária na clínica em que comecei. Estou prestes a abrir uma segunda unidade.
+
+**Entrevistador:** Como é a sua relação com a sua equipe da clínica hoje?
+
+**Paciente:** Eu sou exigente. Eu pago acima de mercado, e em troca espero excelência. Tive rotatividade de gerentes administrativos — três em cinco anos —, mas as enfermeiras e as recepcionistas atuais estão comigo já há um tempo.
+
+**Entrevistador:** Por que essa rotatividade de gerentes, na sua leitura?
+
+**Paciente:** Eu acho que profissionais de gerência hoje em dia não estão acostumados a líderes com padrão. Eles entram achando que vão fazer um trabalho mediano e receber um salário ótimo. Quando percebem que comigo não dá, eles saem ou eu desligo. Não é problema meu.
+
+### Funcionamento emocional e comportamental
+
+**Entrevistador:** Você se considera uma pessoa que sente facilmente o que outras pessoas estão sentindo?
+
+**Paciente:** *(pequena pausa)* Eu sou pragmática. Eu observo, e eu sei o que a pessoa quer. Mas sentir junto, esse tipo de coisa, não é o meu forte, confesso. Eu acho que isso até me ajuda na cirurgia: sangue-frio.
+
+**Entrevistador:** E quando alguém te critica — um paciente, um colega, alguém da equipe —, como você reage?
+
+**Paciente:** Depende. Se for uma crítica embasada, eu absorvo. Mas, na maior parte das vezes, a crítica não é embasada. Vem de alguém que está se sentindo ameaçado pela minha posição. Aí eu não dou bola, ou se for o caso eu rompo. Já processei dois pacientes por difamação, e ganhei os dois.
+
+**Entrevistador:** Você costuma pensar em como você gostaria que sua vida estivesse daqui a cinco, dez anos?
+
+**Paciente:** *(sorri)* Constantemente. Eu quero ser a maior referência em cirurgia plástica facial do país. Quero três clínicas. Quero ter um programa próprio em alguma plataforma de streaming. Vai acontecer.
+
+### História longitudinal
+
+**Entrevistador:** Esses traços — exigência alta, foco em desempenho, relação mais distante com aspectos emocionais — vêm de quando?
+
+**Paciente:** Sempre. Eu sempre fui a melhor aluna, desde a primeira série. Os meus pais investiram pesado em mim porque viram cedo que eu era diferente. Eu nunca tive o tempo nem a paciência das outras meninas. A minha cabeça sempre esteve no que eu queria construir.
+
+**Entrevistador:** E em algum momento da sua vida, esse jeito te custou alguma coisa importante, do seu ponto de vista?
+
+**Paciente:** *(pausa)* O casamento, talvez. Mas eu não atribuo só a mim. Se o Eduardo tivesse o porte que eu precisava, teria dado certo. *(pausa breve, expressão um pouco mais dura)* E talvez as amigas que se afastaram. Mas eu sigo a minha vida. Eu não fico remoendo.
+
+### Encerramento
+
+**Entrevistador:** Vivian, obrigado pelo seu tempo hoje. Vou organizar as informações e quero te propor pelo menos duas consultas adicionais antes de elaborar qualquer documento.
+
+**Paciente:** *(franze a testa)* Duas? O meu advogado mencionou que uma seria suficiente para abrir um relatório inicial.
+
+**Entrevistador:** Compreendo a urgência do processo. Mas eu não consigo elaborar um documento responsável com um único encontro. Eu posso te encaixar nas próximas duas semanas.
+
+**Paciente:** *(silêncio, expressão controlada)* Tudo bem. Vou pedir para a secretária do meu advogado verificar a agenda. *(levanta-se, estende a mão de modo curto)* Até a próxima.
+
+> **Fim do roteiro de vídeo.**
+
+---
+
+## 5. Pergunta final para os alunos
+
+> **Em tela, fundo neutro, 10 segundos:**
+>
+> *Qual é o diagnóstico de personalidade mais provável?*
+> *Justifique sua hipótese com pelo menos três elementos observados na entrevista.*
+
+---
+
+## 6. Guia oculto para o professor
+
+### Diagnóstico mais provável
+
+Transtorno de personalidade narcisista.
+
+### Pistas clínicas presentes no roteiro
+
+1. **Senso grandioso de auto-importância** sustentado por realizações reais e por exagero das mesmas (capa de revista, "maior referência", ligas diferentes).
+2. **Fantasias de sucesso ilimitado** (três clínicas, programa próprio em streaming).
+3. **Necessidade de admiração** e instrumentalização da exposição (mídia profissional, presença em mídias sociais).
+4. **Sensação de ter direito a tratamento especial** (reação à exigência de mais de uma consulta, expectativa de "encaixe rápido").
+5. **Falta de empatia**: incapacidade de descrever o que a filha sente em um momento concreto, distribuição do cuidado emocional para "a babá e a psicóloga".
+6. **Inveja atribuída aos outros** (ex-marido "azedou" porque ela cresceu; pacientes processados por "difamação").
+7. **Desvalorização sutil do outro** (gerentes "medianos", amigas com "problemas pequenos demais", consultório "funcional").
+8. **Exploração relacional**: o casamento descrito como funcional enquanto durou a admiração; vínculos avaliados pela utilidade.
+
+### Diagnósticos diferenciais possíveis
+
+- **Transtorno de personalidade antissocial**: ambos podem ter exploração e ausência de empatia, mas falta aqui o **padrão de violação de normas desde a infância**, condutas ilegais e instabilidade laboral. A paciente é socialmente bem-sucedida, dentro da legalidade.
+- **Transtorno de personalidade histriônica**: dramatização e busca de atenção podem se sobrepor, mas a histriônica é **calorosa, sedutora, dependente do olhar afetivo**; a narcisista é **fria, busca admiração de status**, não afeto.
+- **Transtorno de personalidade obsessivo-compulsiva**: ambos podem apresentar perfeccionismo, mas no obsessivo a motivação é **moral/rigor**; aqui é **autoengrandecimento**.
+- **Episódio maníaco/hipomaníaco**: a grandiosidade aqui é **traço estável e ego-sintônico**, não episódica, sem alteração de sono, energia, fala acelerada ou impulsividade descontrolada.
+- **Traço narcisista subclínico em profissional de alta performance**: discutir com os alunos quando a grandiosidade é adaptativa e quando se torna prejuízo (afastamento de vínculos íntimos, fragilidade do casamento, processos contra pacientes, rotatividade de equipe).
+
+### Elementos discriminadores
+
+- **Narcisista × antissocial:** narcisista quer **admiração e status**; antissocial quer **vantagem e sensação de poder**, e viola regras de modo persistente.
+- **Narcisista × histriônica:** dois polos do mesmo cluster B na busca de atenção — frieza × calor; admiração × afeto.
+- **Narcisista × mania:** corte temporal (episódico × estável) e ausência dos demais sintomas maníacos.
+
+### Sugestão breve de discussão em sala
+
+- Manejo da **contratransferência** (irritação, sensação de competição, desejo de "colocar a paciente no lugar").
+- Como redigir um relatório técnico solicitado por terceiros, em contexto judicial, sem julgamento moral nem rotulagem precoce?
+- Discutir o **conflito ético** entre o pedido do advogado (instrumental) e a função clínica do psiquiatra.
+
+---
+
+## 7. Mudanças feitas para evitar reprodução indevida ou infração de copyright
+
+| Dimensão | Caso original | Caso transformado |
+|---|---|---|
+| **Personagem** | Homem | Mulher |
+| **Idade** | 45 anos | 38 anos |
+| **Cenário clínico** | UTI cardíaca, pós-infarto agudo, interconsulta hospitalar | Consultório psiquiátrico particular, em contexto judicial cível (revisão de guarda) |
+| **Trigger** | Tentativa de sair do hospital contra recomendação médica | Encaminhamento por advogado para fins de relatório psiquiátrico |
+| **Ocupação** | Pequeno empresário em ascensão | Cirurgiã plástica, sócia majoritária de clínica própria, com presença em mídia profissional |
+| **Cenas específicas** | Paciente gritando no quarto do hospital; pede comida de lanchonete; olha com inveja para o relógio da psiquiatra | Paciente entra discreta e elegante; desvaloriza sutilmente o consultório; reage friamente à proposta de mais consultas |
+| **Linguagem** | Texto expositivo com aspas pontuais | Diálogo natural; nenhuma frase reaproveitada |
+| **Frases marcantes do original** | "Eu não serei tratado dessa maneira! Como você se atreve?", "assim que as pessoas perceberem todo meu potencial, serei um milionário", queixa de tratamento e de comida hospitalar | **Nenhuma** reaproveitada |
+| **Vínculos** | Não detalhados | Ex-marido (clínico geral), duas filhas (Helena e Mariana), equipe da clínica com alta rotatividade de gerência |
+| **Sequência narrativa** | Original abre com gritaria, segue para fala sobre potencial e comida, encerra com inveja do relógio | Novo roteiro abre por entrada elegante, segue para queixa judicial, vida familiar, vida profissional, longitudinal, encerramento com tensão sobre o enquadre |
+
+Mudanças adicionais:
+
+- Inversão de gênero, mudança de geração, mudança completa de cenário clínico (UTI → ambulatório).
+- Eliminação de todas as cenas hospitalares emblemáticas (gritaria, comida, relógio).
+- Substituição da grandiosidade econômica genérica ("serei milionário") por **grandiosidade profissional concreta na medicina** — preservando o princípio sem replicar a cena.
+- Introdução de **contexto judicial cível** como motor da consulta, ausente no original, que permite ilustrar a **instrumentalização do encontro clínico**.
+- Cenas inéditas: rotatividade de gerentes, processos contra pacientes por "difamação", filha Mariana "que puxou ao pai", reação à proposta de mais de uma consulta.
+
+---
+
+## 8. Revisão final de possíveis semelhanças excessivas
+
+**1. Há alguma frase próxima demais do texto original?**
+Não. As frases marcantes do texto-fonte ("Eu não serei tratado dessa maneira", "assim que as pessoas perceberem todo meu potencial") **não** foram reaproveitadas.
+
+**2. Há alguma cena que preserva excessivamente a estrutura do caso original?**
+A zona de proximidade temática inevitável é a **desvalorização do entrevistador** e a **sensação de direito a tratamento especial**. A formulação concreta é nova: no original, isso aparece como gritaria no quarto e pedido de comida externa; no novo roteiro, aparece como **micro-desvalorização do consultório** e **reação à exigência de mais consultas** — situações funcionalmente equivalentes, mas narrativamente distintas.
+
+**3. A combinação de detalhes ainda torna o caso reconhecível?**
+Não. Gênero, cenário, ocupação, motivo da consulta e vínculos foram todos alterados.
+
+**4. O caso foi transformado de maneira substancial?**
+Sim. Personagem, contexto institucional, vínculos, queixa e gênero textual foram modificados.
+
+**5. Algum trecho deveria ser reescrito para maior segurança?**
+Não. Nenhum trecho exige reescrita adicional após revisão.

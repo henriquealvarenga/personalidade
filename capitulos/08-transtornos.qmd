@@ -1,0 +1,96 @@
+---
+title: "Transtornos de personalidade"
+---
+
+Passado quase um século desde o trabalho de Schneider, o tópico de classificações da personalidade é ainda insatisfatório, e pode ser extremamente difícil encaixar um sujeito em categorias arbitrárias de personalidade [@sims_sintomas_2001]. Apesar de imperfeitos, os manuais classificatórios médicos em geral têm todos um capítulo dedicado a tipos de personalidade disfuncionais, usualmente denominados de **transtornos de personalidade**.
+
+Atualmente, o DSM-5 classifica dez tipos de personalidades problemáticas em três grupos (@tbl-dsm5-clusters).
+
+| Grupo | Personalidades | Traços compartilhados |
+|:------|:---------------|:----------------------|
+| **A** | Paranoide, Esquizoide, Esquizotípica | Evitação, rigidez, prejuízo na interpretação da realidade (desconfiança). |
+| **B** | Antissocial, Borderline, Histriônica, Narcisista | Atitudes antissociais, impulsividade, expressão emocional exagerada, *acting out*. |
+| **C** | Evitativa, Dependente, Obsessivo-compulsiva | Evitação, preocupação, ansiedade, medo, necessidade de controle. |
+
+: Classificação dos transtornos de personalidade segundo o DSM-5 {#tbl-dsm5-clusters .striped .hover}
+
+A **CID-10**, vigente desde 1992 e ainda em uso parcial nos sistemas de saúde brasileiros por questões de legado, tinha oito diagnósticos categóricos e não os agrupava em *clusters* — uma classificação intermediária entre a categórica do DSM-5 e a dimensional que viria a ser adotada pela CID-11 (desenvolvida em seção própria mais adiante neste capítulo).
+
+## Limites do modelo categórico
+
+Muitos psiquiatras consideram a abordagem atual de transtornos de personalidade de pouca ajuda no tratamento de pacientes [@andreasen_introductory_2014]. Frequentemente, um paciente atende a critérios de mais de um dos transtornos de personalidade descritos, e muitas vezes o diagnóstico correto é "transtorno de personalidade não especificado" — o que é pouco informativo [@apa_dsm5_2013].
+
+Um outro problema é que os transtornos de personalidade sofrem de um estigma ainda maior que outros diagnósticos psiquiátricos [@magallonneri_stigmatization_2013; @catthoor_adolescents_2015]. Indivíduos com diagnóstico de transtorno de personalidade geralmente sofrem de rejeição tanto por parte do público como também por parte dos profissionais de saúde, reduzindo a chance de serem ajudados [@sheehan_stigma_2016]. Além disso, o diagnóstico de um transtorno de personalidade cria também um preconceito do indivíduo consigo mesmo, o que pode acarretar piora da autoestima, vergonha, sentimentos depressivos e sensação de incapacidade diante da vida [@sheehan_stigma_2016].
+
+Por todos esses motivos, muitos psiquiatras são relutantes em dar um diagnóstico de transtorno de personalidade, em especial o de transtorno de personalidade borderline [@zimmerman_differences_1999], cujo estigma é muito maior do que os outros [@sheehan_stigma_2016].
+
+Por outro lado, "proteger" o paciente evitando um diagnóstico pode também ter consequências negativas. Um paciente com transtorno de personalidade borderline diagnosticado erroneamente com transtorno bipolar poderá fazer uso desnecessário de medicações pouco efetivas para sua situação e poderá deixar de buscar a terapia adequada [@paris_reluctant_2007]. Além disso, a eficácia do tratamento de outros transtornos psiquiátricos é reduzida quando há comorbidade com transtornos de personalidade, e não reconhecer o transtorno de personalidade dificulta ainda mais esse tratamento. Pacientes com depressão e transtorno de personalidade borderline não respondem de forma consistente aos antidepressivos e geralmente fazem uso de uma série de medicações em sequência ou de associações de medicamentos em excesso [@paris_reluctant_2007].
+
+::: {.callout-note appearance="simple"}
+## A volatilidade histórica das categorias diagnósticas
+O DSM tem história turbulenta com transtornos de personalidade. Cada edição recategoriza, adiciona ou remove diagnósticos: a "personalidade masoquista" foi removida após críticas feministas; a "personalidade passivo-agressiva" perdeu *status* diagnóstico; a CID-11 (2022) abandonou o modelo categórico inteiro. **Se personalidades fossem realidades naturais "descobertas" pela ciência, essa volatilidade seria difícil de explicar.**
+
+Críticos de dentro da psiquiatria já apontavam esse problema. **Thomas Szasz** [@szasz_myth_mental_1961] argumentava que muitos transtornos de personalidade são "problemas de vida medicalizados", julgamentos morais disfarçados de taxonomia científica — sua tese é exagerada, mas o núcleo da denúncia (a fronteira entre categoria diagnóstica e juízo moral é mais porosa do que admitimos) permanece como advertência ética. **R. D. Laing** [@laing_divided_self_1960], da antipsiquiatria britânica, propôs inversão de perguntas: em vez de "*por que essa pessoa tem essa personalidade anormal?*", perguntar "*que contexto tornaria esse comportamento compreensível?*".
+
+Essas críticas — e a leitura situacionista e processual da personalidade — são desenvolvidas no [Apêndice II — Crítica interdisciplinar](../apendices/critica-interdisciplinar.qmd). O estudante deste capítulo não precisa adotar essas críticas para usar o DSM-5 na clínica; mas precisa **conhecê-las** para não confundir uma taxonomia operacional com uma ontologia.
+:::
+
+Devido a essas inúmeras dificuldades, o DSM-5 incluiu em sua **Seção III** um capítulo com um **modelo alternativo para transtornos de personalidade** que adota uma abordagem **dimensional** (baseada em traços) em vez da abordagem categórica tradicional [@apa_dsm5_2013]. A próxima seção descreve a resposta mais ambiciosa a essas mesmas dificuldades — a reformulação completa adotada pela CID-11.
+
+## A CID-11 — o modelo dimensional
+
+A insatisfação com o modelo categórico atingiu seu ponto de inflexão na **CID-11**, adotada pela Organização Mundial da Saúde em janeiro de 2022 e em vigor desde então [@who_icd11_2022]. A nova classificação **abandonou os dez transtornos de personalidade categóricos** do sistema anterior — paranoide, esquizoide, antissocial, histriônica, narcisista, evitativa, dependente e obsessivo-compulsiva foram dissolvidos em um modelo dimensional. **Apenas o padrão borderline foi preservado** como entidade clínica reconhecível com nome próprio, ainda assim na forma de um qualificador opcional, e não de categoria autônoma.
+
+A estrutura da CID-11 tem três componentes:
+
+**1. Um único diagnóstico geral** — *Transtorno de Personalidade* (código **6D10**) — com graduação obrigatória de severidade:
+
+- **6D10.0** Leve
+- **6D10.1** Moderado
+- **6D10.2** Grave
+- (+ **QE50.7** *Personality difficulty*, para apresentações subliminares que não satisfazem critério para diagnóstico)
+
+**2. Cinco qualificadores de domínio de traço** (código **6D11.x**), aplicáveis em qualquer combinação para refinar o perfil clínico:
+
+| Domínio | Descrição breve |
+|:--------|:----------------|
+| **6D11.0** Afetividade negativa | Vivência ampla de afetos negativos (ansiedade, raiva, vulnerabilidade emocional, baixa autoestima) |
+| **6D11.1** Desapego | Distância interpessoal e emocional, evitação de proximidade, restrição expressiva |
+| **6D11.2** Dissocialidade | Desprezo pelos direitos e sentimentos dos outros, autocentramento, agressão |
+| **6D11.3** Desinibição | Tendência à ação impulsiva, busca de gratificação imediata, irresponsabilidade |
+| **6D11.4** Anancástico | Foco rígido em padrões pessoais ou sociais de correção, perfeccionismo, controle |
+
+: Os cinco domínios de traço da CID-11 {#tbl-cid11-trait-domains .striped}
+
+**3. Um qualificador de padrão** — o único preservado do velho sistema categórico:
+
+- **6D11.5** *Padrão Borderline* — apresentação caracterizada por instabilidade afetiva intensa, comportamento autodestrutivo, padrão relacional caótico e desregulação emocional grave.
+
+A escolha de preservar **borderline** como qualificador — e não, por exemplo, antissocial ou narcisista — reflete o reconhecimento de que essa apresentação tem **utilidade clínica consolidada** (psicoterapias específicas como a DBT, prognóstico próprio, decisões terapêuticas distintas) que não se reduz integralmente ao perfil dimensional [@bach_icd11_personality_2018].
+
+::: {.callout-note appearance="simple"}
+## E a esquizotípica?
+A personalidade esquizotípica **nunca esteve** entre os transtornos de personalidade da CID — desde a CID-10 já estava classificada no espectro da esquizofrenia (F21). Na CID-11, mantém essa posição como **transtorno esquizotípico** (código **6A22**), no agrupamento *esquizofrenia e outros transtornos psicóticos primários*. O DSM-5, em contraste, conserva a esquizotípica entre os transtornos de personalidade, com nota cruzada para o espectro da esquizofrenia.
+:::
+
+A tabela abaixo mostra como cada transtorno categórico do DSM-5 mapeia *aproximadamente* no sistema dimensional da CID-11, com a referência histórica do diagnóstico equivalente na CID-10. Os qualificadores não são "tradução um-para-um" das antigas categorias — um mesmo paciente pode receber vários qualificadores, e a mesma combinação pode descrever apresentações clínicas diferentes em pacientes diferentes.
+
+| DSM-5 | CID-11 (perfil dimensional típico) | CID-10 (histórico) |
+|:------|:------------------------------------|:--------------------|
+| Paranoide | 6D11.0 Afetividade negativa + 6D11.1 Desapego | F60.0 Paranoide |
+| Esquizoide | 6D11.1 Desapego (predominante) | F60.1 Esquizoide |
+| Esquizotípica | **6A22** (espectro da esquizofrenia, *fora* dos PD) | F21 (espectro da esquizofrenia) |
+| Antissocial | 6D11.2 Dissocialidade + 6D11.3 Desinibição | F60.2 Dissocial |
+| **Borderline** | 6D10 + **6D11.5 Padrão Borderline** | F60.3 Emocionalmente instável |
+| Histriônica | 6D11.0 Afetividade negativa + 6D11.2 Dissocialidade | F60.4 Histriônica |
+| Evitativa | 6D11.0 Afetividade negativa + 6D11.1 Desapego | F60.6 Ansiosa (evitativa) |
+| Dependente | 6D11.0 Afetividade negativa + 6D11.1 Desapego | F60.7 Dependente |
+| Obsessivo-compulsiva | 6D11.4 Anancástico | F60.5 Anancástica |
+| Narcisista | 6D11.2 Dissocialidade (com grandiosidade) | F60.8 "Outros" |
+
+: Mapeamento dos transtornos do DSM-5 para a CID-11, com equivalente histórico CID-10 {#tbl-dsm-cid11 .striped .hover}
+
+::: {.callout-tip appearance="simple"}
+## Implicação clínica da virada dimensional
+Na prática brasileira, isso significa que o profissional formado hoje precisa **dominar dois sistemas** simultaneamente: o DSM-5-TR (categórico, ainda hegemônico em ensino e literatura científica) e a CID-11 (dimensional, oficial no SUS desde 2022). Os capítulos seguintes deste livro mantêm a apresentação categórica como organizador didático, mas o estudante deve saber traduzir cada diagnóstico para o perfil dimensional correspondente — e reconhecer que essa tradução é aproximada, não exata. A implicação para o tratamento é discutida no [Cap. 10 (Tratamento)](10-tratamento.qmd), e a crítica conceitual mais ampla, no [Apêndice II](../apendices/critica-interdisciplinar.qmd).
+:::

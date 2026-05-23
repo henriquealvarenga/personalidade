@@ -1,0 +1,106 @@
+---
+title: "A personalidade no transtorno"
+subtitle: "*Mommy* (Dolan) · *Garota, Interrompida* (Mangold) · entre o estereótipo e a verdade clínica"
+---
+
+::: {.callout-warning appearance="simple"}
+## [ESCREVER — capítulo a desenvolver]
+Scaffold com estrutura editorial. Análises substantivas a escrever pelo autor. Filmes podem ser substituídos a critério; a tese (cinema entre estereótipo e verdade clínica) é o eixo.
+:::
+
+## Abertura
+
+> *Diagnostiquei a mim mesma, fala a personagem [Susanna] — porque ninguém
+> mais quis fazê-lo.*
+>
+> — *Garota, Interrompida* (1999)
+
+O cinema, ao representar transtornos de personalidade, oscila entre dois polos: o **estereótipo dramático** — onde o transtorno vira gimmick narrativo — e a **verdade clínica** — onde o filme se torna um material legítimo para o ensino de psicopatologia. Os filmes deste capítulo foram escolhidos por se aproximarem do segundo polo: representações de transtorno de personalidade *borderline* (TPB) que escapam do clichê e dialogam com a literatura clínica.
+
+::: {.callout-warning appearance="simple"}
+## [ESCREVER — parágrafo de contextualização]
+Notar que o capítulo tem duplo objetivo:
+
+- ferramental clínico (reconhecer TPB em representação narrativa);
+- ferramental crítico (saber distinguir representação verossímil de caricatura, e ler o que essas representações fazem com a percepção pública dos pacientes).
+:::
+
+## Mommy (Xavier Dolan, 2014)
+
+::: {.callout-warning appearance="simple"}
+## [ESCREVER — sinopse e análise]
+**Sinopse**: Diane "Die" Després é uma viúva canadense de classe trabalhadora que recupera, sob nova legislação fictícia, a guarda de seu filho adolescente Steve — diagnosticado com TDAH e comportamento explosivo, recém-expulso de uma instituição. Acompanha-as Kyla, vizinha gaga e enigmática, que ajuda Steve nos estudos. O filme é rodado em formato 1:1 (quadrado), com duas aberturas marcantes para 16:9 nos momentos em que a narrativa "respira".
+
+**Análise clínica**:
+
+- Steve apresenta traços compatíveis com **transtorno explosivo intermitente** e padrões de personalidade borderline emergente (impulsividade, intensidade afetiva, idealização/desvalorização).
+- Die é figura complementar — desregulação afetiva crônica, padrão relacional caótico, dificuldade com limites parentais.
+- O filme **não diagnostica**, mas mostra com precisão clínica o ciclo idealização → conflito → ruptura → reconciliação tão característico das relações no TPB.
+- Discussão: a recusa de Dolan em patologizar os personagens é, paradoxalmente, o que torna o filme clinicamente acurado.
+:::
+
+## Garota, Interrompida (James Mangold, 1999)
+
+::: {.callout-warning appearance="simple"}
+## [ESCREVER — sinopse e análise]
+**Sinopse**: Susanna Kaysen (Winona Ryder), 17 anos, é internada em um hospital psiquiátrico em 1967 após uma tentativa de suicídio com aspirina e vodka. Permanece internada 18 meses, no setor de adolescentes. Diagnóstico recebido: *borderline personality disorder*. O filme é baseado no livro de memórias homônimo de Kaysen (1993).
+
+**Análise clínica**:
+
+- Susanna é o centro da narrativa; Lisa (Angelina Jolie, Oscar) é caso contrastante (TP antissocial).
+- A representação clínica do TPB é, para o padrão hollywoodiano, surpreendentemente fiel: instabilidade identitária, micropsicoses dissociativas breves, padrão relacional de fusão/repulsa, ideação suicida crônica.
+- Limites do filme: tendência ao romantismo da internação psiquiátrica, simplificação da terapêutica.
+- Discussão: o filme funciona melhor como **fonte de discussão** do que como retrato fiel — e essa é, justamente, sua utilidade pedagógica.
+:::
+
+## Entre o estereótipo e a verdade clínica
+
+::: {.callout-warning appearance="simple"}
+## [ESCREVER — análise crítica]
+Articular uma tipologia rápida das representações cinematográficas de TP:
+
+1. **Estereótipo dramático** (a evitar): *Atração Fatal*, *Garota Exemplar* — TPB / antissocial como vilania narrativa, sem nuance clínica.
+2. **Caricatura cômica**: *As Good as It Gets* (TOC + TP obsessivo-compulsiva) — útil para conversação introdutória, mas reforça estereótipos.
+3. **Representação verossímil**: *Mommy*, *Garota Interrompida*, *Black Swan* (em parte), *Persona* (Bergman, capítulo anterior) — material clinicamente discutível em sala.
+4. **Documentário e drama autobiográfico**: *Tarnation* (Caouette, 2003), *The Bridge* (Steel, 2006) — alta carga ética; usar com critério.
+
+Conectar a discussão com a literatura sobre **estigma midiático** em saúde mental e impacto sobre busca de tratamento.
+:::
+
+## A tese clínica
+
+::: {.callout-warning appearance="simple"}
+## [ESCREVER — síntese clínica]
+Linha argumentativa:
+
+1. Filmes não diagnosticam, mas iluminam — quando são bons, mostram a *experiência subjetiva* do transtorno melhor do que o critério operacional do DSM.
+2. O risco do uso pedagógico de filmes é treinar o aluno a "reconhecer estereótipos" em vez de fenômenos. A vacina é o pareamento sistemático com o material clínico (Caps. 8 e 9).
+3. A literatura modernista (Hesse, capítulo 13; Dostoiévski, capítulo 12) e o cinema modernista pós-Bergman fornecem um vocabulário sobre multiplicidade, instabilidade e contradição do eu que é, em muitos casos, mais preciso fenomenologicamente do que o vocabulário psiquiátrico padrão.
+
+Conectar com:
+
+- Cap. 8 (transtornos)
+- Cap. 9 (epidemiologia) — prevalência de TPB na população
+- Cap. 10 (tratamento) — DBT, mentalização, escolha terapêutica
+- [Apêndice](../apendices/descoberta-as-avessas.qmd) — a personalidade como padrão, não substância
+:::
+
+## Atividade de aula
+
+::: {.callout-tip appearance="simple"}
+## Sugestão de uso pedagógico
+1. Pré-aula: pedir aos alunos que assistam a *Mommy* na íntegra.
+2. Em sala: discutir o ciclo idealização/desvalorização de Die e Steve, mapeando-o nos critérios do DSM-5 para TPB.
+3. Exercício escrito: redigir o **plano terapêutico** que cada aluno proporia para Die.
+4. Encerramento: comparar com diretrizes (NICE, APA) para TPB.
+:::
+
+::: {.callout-warning appearance="simple"}
+## [VERIFICAR — referências bibliográficas]
+Adicionar entradas no `.bib`:
+
+- Dolan, X., *Mommy* (2014) — Les Films Séville / Mongrel Media. Filme.
+- Mangold, J., *Girl, Interrupted* (1999) — Columbia Pictures. Filme.
+- Kaysen, S., *Girl, Interrupted* (1993) — Turtle Bay Books. Memoir base do filme.
+- Sieff, E., *Media frames of mental illness: the potential impact of negative frames* (2003) — para a discussão sobre estigma.
+:::

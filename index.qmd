@@ -1,0 +1,97 @@
+---
+toc: true
+number-sections: false
+---
+
+# Prefácio {.unnumbered}
+
+> *Não sei quantas almas tenho.*
+> *Cada momento mudei.*
+> *Continuamente me estranho.*
+> *Nunca me vi nem acabei.*
+>
+> — Fernando Pessoa, *Não sei quantas almas tenho*
+
+> *Do I contradict myself?*
+> *Very well then I contradict myself,*
+> *I am large, I contain multitudes.*
+>
+> — Walt Whitman, *Song of Myself*
+
+## Sobre este livro
+
+Este livro nasceu de dois movimentos. O primeiro veio da sala de aula: um material didático sobre personalidade, escrito originalmente em 2020 para alunos da disciplina de psicopatologia do curso de Medicina da Universidade Federal de São João del-Rei (UFSJ) — esta **2ª edição (2026)** o revisa, atualiza com literatura recente e reorganiza em estrutura de livro digital. O segundo veio depois — um ensaio filosófico-literário sobre o próprio conceito de personalidade, que problematiza o que o manual didático afirma com aparente solidez.
+
+O livro apresenta, portanto, o trabalho técnico — capítulos clínicos sobre traços, transtornos, epidemiologia, tratamento e o cenário da psicometria digital — e, em apêndice opcional, traz o ensaio *A descoberta às avessas*, em que Whitman, Pessoa, Borges e Damásio são convocados a desorganizar a confortável noção de personalidade *como coisa*. O leitor que ler também o apêndice verá que o livro contradiz a si mesmo. Esse era o plano.
+
+## A quem este livro se destina
+
+::: {.callout-note appearance="simple"}
+## Públicos
+
+Foi escrito pensando em três tipos de leitor:
+
+- **Estudantes de Medicina** em rotação por psiquiatria e
+  psicopatologia, que precisam de um texto enxuto e atualizado sobre
+  transtornos de personalidade segundo DSM-5 / CID-11.
+- **Médicos generalistas e profissionais de saúde** que encontram esses
+  pacientes na prática diária e querem um material clínico utilizável,
+  sem o jargão específico do especialista.
+- **Leitores interessados** em psicologia e humanidades, que vão
+  encontrar especialmente no apêndice um diálogo entre psiquiatria,
+  filosofia e literatura.
+:::
+
+## Objetivos de aprendizagem
+
+Ao final deste livro, espera-se que o leitor seja capaz de:
+
+- **Conceituar** personalidade do ponto de vista clínico e crítico.
+- **Identificar** as relações entre saúde e personalidade.
+- **Avaliar** a importância dos períodos críticos do desenvolvimento.
+- **Avaliar criticamente** as teorias de classificação da personalidade.
+- **Diferenciar** os transtornos de personalidade descritos no DSM-5 e
+  na CID-11.
+- **Identificar** situações nas quais a personalidade é avaliada na
+  sociedade (mercado, política, vigilância).
+- **Avaliar** o uso e as consequências do *big data* na análise da
+  personalidade.
+- **Debater** as questões éticas acerca do uso de informações de
+  personalidade da população.
+- **Problematizar** a própria noção de personalidade *como coisa* à luz
+  de evidências neurocientíficas, filosóficas e literárias.
+
+## Questões para reflexão
+
+Estas perguntas funcionam como organizador prévio. Não tente respondê-las agora — volte a elas depois de cada capítulo.
+
+1.  O que é personalidade?
+2.  Quais os transtornos de personalidade classificados no DSM-5?
+3.  Há evidências de influências genéticas na personalidade?
+4.  Quais os *clusters* de transtornos de personalidade e quais
+    personalidades estão em cada cluster?
+5.  Existem medicações indicadas para uso nos transtornos de
+    personalidade do Grupo A?
+6.  Quais as características dos transtornos de personalidade do Grupo C?
+7.  Como o transtorno de personalidade obsessiva se diferencia do TOC?
+8.  Quais as diferenças entre transtorno de personalidade esquizoide e
+    esquizotípica? Em que esses transtornos se diferenciam do transtorno
+    de personalidade esquiva?
+9.  O que significa a expressão *Personality-Based Marketing*?
+10. Quais os problemas causados pelo uso de dados de personalidade
+    extraídos das pegadas digitais?
+11. Quais as implicações médicas da tecnologia capaz de analisar a
+    personalidade de uma pessoa em grau maior do que o próprio ser
+    humano?
+12. Quais as implicações culturais dessa mesma tecnologia?
+13. *Existe* a personalidade?
+
+## Como ler este livro
+
+Os capítulos da **Parte I** apresentam os fundamentos clínicos (introdução, construção da personalidade, períodos críticos, plasticidade, relação com a saúde). A **Parte II** trata da taxonomia, dos traços, dos transtornos, da epidemiologia e do tratamento. A **Parte III** aborda a personalidade na era digital (*big data* e IA). A **Parte IV** discute a personalidade na cultura — cinema e literatura — em três capítulos temáticos que pareiam filmes e romances com a clínica. A **Parte V** reúne **atividades** para uso em sala de aula: (a) roteiros de entrevistas simuladas com pacientes que representam diferentes transtornos de personalidade — material para inferência diagnóstica do aluno, utilizável também como base para vídeos didáticos; (b) uma atividade comparativa em que grupos investigam, com auxílio de IA, quatro tradições teóricas sobre a personalidade (essência, narrativa, dinâmica relacional, produção social). Dois **Apêndices** opcionais fecham o volume, dirigidos a quem quer ir além do recorte clínico: (I) o ensaio lírico-literário *A descoberta às avessas*, que convoca Whitman, Pessoa, Borges e Damásio para problematizar o conceito de personalidade; (II) a *Crítica interdisciplinar do conceito de personalidade*, que reúne neurociência da plasticidade, psicologia social das situações, filosofia do processo e psiquiatria crítica em torno da mesma tese — *personalidade é padrão, não substância*.
+
+Cada capítulo é razoavelmente autocontido, mas a leitura linear é recomendada para estudantes em primeiro contato com o material.
+
+## Uma palavra sobre as referências
+
+Este livro toma especial cuidado com a bibliografia. As referências clínicas foram validadas individualmente — DOI, autoria, ano e veículo — e atualizadas para a literatura disponível até a data de publicação. As referências literárias e filosóficas explicitam edição e tradução utilizadas. O código-fonte do livro, incluindo o arquivo BibTeX e o *script* de validação bibliográfica que roda no *GitHub Actions*, está disponível publicamente no repositório (ver [Créditos](creditos.qmd)).

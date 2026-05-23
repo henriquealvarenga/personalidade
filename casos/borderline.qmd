@@ -1,0 +1,251 @@
+---
+title: "Roteiro de Entrevista Simulada — Caso clínico I"
+subtitle: "Roteiro original para vídeo didático — inferência diagnóstica pelo aluno"
+author: "Material didático para estudantes de medicina"
+bibliography: ../references/references.bib
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+::: callout-important
+## Aviso ao docente
+Material **original** para fins didáticos, construído a partir da **categoria diagnóstica** de um caso clínico publicado, sem reprodução de linguagem, cenas, vínculos, dados sociodemográficos ou frases do texto-fonte. O diagnóstico-alvo **não deve ser revelado** aos alunos antes do exercício de inferência.
+:::
+
+# Roteiro de Entrevista Simulada — Caso I
+
+## 1. Ficha técnica do caso
+
+- **Nome fictício do paciente:** Pedro Bandeira
+- **Idade:** 27 anos
+- **Gênero:** masculino
+- **Ocupação:** garçom em restaurante de hotel; já trabalhou como motorista de aplicativo, atendente de loja, bartender — sempre por períodos curtos
+- **Contexto da entrevista:** ambulatório psiquiátrico de seguimento ambulatorial pós-emergência. O paciente foi atendido em pronto-socorro há nove dias por intoxicação aguda por paracetamol (10 g em poucas horas), em contexto de discussão com o namorado, que havia pedido "um tempo" no relacionamento. Recebeu alta após 48 horas em observação clínica e está vindo para a primeira consulta ambulatorial. Sem internação psiquiátrica desta vez; já houve **duas** internações breves em anos anteriores, sempre desencadeadas por ruptura ou suspeita de afastamento de parceiros.
+- **Duração estimada do vídeo:** 4 a 5 minutos
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade borderline (DSM-5-TR 301.83; CID-11 6D11.5 — perfil dimensional **negative affectivity + disinhibition + borderline pattern qualifier**)
+- **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
+
+---
+
+## 2. Orientações para o ator ou avatar que interpreta o paciente
+
+- **Postura corporal:** sentado mudando de posição com frequência. Em certos momentos encolhido, em outros recostado e com olhar desafiador. Manga comprida, mesmo em dia quente (cicatrizes recentes no antebraço, não exibidas).
+- **Tom de voz:** oscila no decorrer da entrevista — em alguns blocos é doce e pedinte; em outros, ressentido e cortante.
+- **Ritmo da fala:** variável. Em momentos fluido, em momentos truncado. Algumas frases iniciadas e não terminadas.
+- **Expressão facial:** muda rapidamente: tristeza profunda, irritação fina, sorriso curto e doce com o entrevistador, expressão vazia quando fala do namorado. Algumas lágrimas curtas.
+- **Maneira de se relacionar com o entrevistador:** inicialmente reservado; logo no segundo bloco, **idealiza** o serviço e o entrevistador ("você parece diferente dos outros"); ao final, esboça **desvalorização leve** quando o entrevistador propõe um plano com limites claros ("achei que aqui ia ser diferente").
+- **Sinais comportamentais relevantes:** cutuca a manga várias vezes; tira o celular e mostra a tela com mensagens do namorado; pede para o entrevistador "dar uma olhada"; pergunta se o entrevistador acha que o namorado "vai voltar"; entre tópicos, faz um comentário breve sobre não saber "quem ele é".
+- **Forma de reagir a temas sensíveis:** ao tocar na overdose, **alterna** entre minimização ("não foi grande coisa") e ressentimento ("se eu morresse, ele entenderia o que fez"). Ao ser perguntado sobre vontade de morrer hoje, responde com hesitação e ambivalência ("agora não, mas se ele não voltar até semana que vem, eu não garanto nada").
+
+> **Importante para a direção:** o paciente **não** é caricato, **não** é teatral à maneira histriônica. O traço aparece em **instabilidade afetiva, instabilidade da autoimagem, instabilidade dos vínculos, impulsividade, ameaças e atos autolesivos no contexto de abandono percebido**. A dor é real, oscilante e contagiosa para o entrevistador.
+
+---
+
+## 3. Orientações para o ator ou avatar que interpreta o entrevistador
+
+- **Postura:** sentado profissional, voz tranquila, mãos visíveis. Não invadir o espaço, não tocar.
+- **Estilo de entrevista:** **estruturado e contentor**, com clareza de combinados. Não responder à idealização ("você é diferente"); não reagir à desvalorização ("achei que aqui ia ser diferente"). Não dar opinião sobre o relacionamento.
+- **Grau de acolhimento:** caloroso e firme. Validar o sofrimento sem reforçar a interpretação dramática.
+- **Forma de explorar sintomas sem induzir respostas:** investigar **história de vínculos, impulsividade (substâncias, sexo, dirigir, gastos, comida), comportamentos autolesivos repetidos, vivências de vazio e oscilação de identidade**, com perguntas neutras.
+- **Forma de investigar funcionamento longitudinal:** ancorar em infância, adolescência, primeiros vínculos, primeiros empregos.
+- **Cuidados para não revelar o diagnóstico:** sem usar "borderline", "instável", "manipulador". Encerramento neutro, com plano explícito de **continuidade**, **segurança** e **limites**.
+
+---
+
+## 4. Roteiro dialogado completo
+
+> Cenário visual: ambulatório, dia. Iluminação clara. Duração total estimada: **4 minutos e 30 segundos**.
+
+### Abertura
+
+**Entrevistador:** Boa tarde, Pedro. Eu sou o psiquiatra do ambulatório. Eu li o relatório do pronto-socorro. Quero entender como você está hoje, e o que aconteceu até aqui.
+
+**Paciente:** *(ajeita-se na cadeira, puxa a manga)* Boa tarde. Tô… tô meio quebrado, doutor. Vim porque a enfermeira do PS marcou e me disse pra não furar.
+
+### Queixa atual
+
+**Entrevistador:** Pode me contar o que houve na noite da overdose?
+
+**Paciente:** *(silêncio, olhar pra baixo)* O Cauã, meu namorado, mandou mensagem dizendo que precisava de um tempo. *(pausa)* Eu pirei. Eu liguei umas dez vezes, ele não atendeu. Eu peguei dois cartelões de paracetamol e tomei tudo. Achei que ia dormir e pronto. Quando eu acordei eu tava no soro e o Cauã não tinha aparecido.
+
+**Entrevistador:** E como você está hoje, em relação a isso?
+
+**Paciente:** *(olhar oscila)* Hoje eu acho que foi exagero, sabe? Eu não queria morrer, eu queria que ele entendesse. *(pausa, voz endurece)* Mas se ele não voltar essa semana, doutor, eu não vou garantir o que vai acontecer.
+
+**Entrevistador:** Eu vou anotar isso e a gente vai voltar nesse ponto. Hoje, agora, você está pensando em se machucar?
+
+**Paciente:** *(silêncio)* Agora não. Eu tô cansado.
+
+### História do funcionamento interpessoal
+
+**Entrevistador:** Há quanto tempo você está com o Cauã?
+
+**Paciente:** Quatro meses. Mas a gente vive uma intensidade, doutor, que parece quatro anos. Ele é tudo. Antes dele eu achava que eu não existia.
+
+**Entrevistador:** E antes do Cauã, como foram seus outros relacionamentos?
+
+**Paciente:** Vários. Curtos. *(meio sem graça)* O último durou três meses, foi o Iuri. Foi um inferno também. A gente terminava e voltava. Antes dele, o Mateus, dois meses, terminou porque eu briguei com a mãe dele numa festa. Antes dele, a Lara — eu também me envolvo com mulheres, doutor —, durou um mês.
+
+**Entrevistador:** Você consegue identificar algum padrão nessas relações?
+
+**Paciente:** *(sorriso amargo)* Sempre começa muito bem. Eu encontro a pessoa, eu acho que é o amor da vida, eu mergulho. Em um mês a gente já tá morando junto, ou quase. Depois alguma coisa estraga. Eu fico convencido que a pessoa não me ama de verdade. Eu testo. Eu peço prova. Aí termina.
+
+**Entrevistador:** E com a sua família, como é?
+
+**Paciente:** Minha mãe me cobre, sempre cobriu. Hoje eu não falo com ela faz dois meses. A gente brigou feio quando eu perdi o emprego do bar. Eu chamei ela de coisa que eu não devia ter chamado. Meu pai eu não conheço.
+
+**Entrevistador:** E amigos próximos?
+
+**Paciente:** Uma amiga, a Renata, do colegial. Mas a gente também tem altos e baixos. Ano passado a gente ficou três meses sem se falar porque eu ouvi de outra pessoa que ela tinha falado de mim. Era mentira da terceira, mas eu cortei na hora.
+
+### História ocupacional
+
+**Entrevistador:** Em termos de trabalho, como tem sido?
+
+**Paciente:** Eu rodo bastante. Trabalhei em cinco lugares nos últimos três anos. Sempre dá problema. Ou eu acho que estão me sacaneando, ou eu me apaixono por alguém do trabalho, ou eu falto demais quando tô numa fase ruim de relacionamento. Hoje tô no restaurante do hotel, ainda dá pra segurar.
+
+### Funcionamento emocional e comportamental
+
+**Entrevistador:** Você descreveria seu humor como estável ou como oscilante?
+
+**Paciente:** *(sorriso curto)* Estável zero, doutor. Eu posso acordar de manhã achando que vou conquistar o mundo, e à tarde tô deitado no chão do quarto sem conseguir levantar. Em uma tarde só. Não é igual à minha tia, que tem depressão e fica meses ruim. É em horas.
+
+**Entrevistador:** Você usa álcool, drogas, alguma outra substância?
+
+**Paciente:** Bebo, sim. Em fim de semana eu exagero. Já cheirei cocaína em festa, umas dez vezes. Maconha às vezes. Quando eu tô mal, eu como muito de uma vez, ou eu paro de comer dois dias seguidos. Quando eu briguei com o Iuri eu saí de casa e fiquei com três caras numa noite, sem proteção. Eu sei que é burrice, doutor.
+
+**Entrevistador:** Você já se machucou de propósito antes da overdose?
+
+**Paciente:** *(pausa, levanta levemente a manga, mostra cicatrizes)* Desde os dezesseis. Faço corte, queimo com cigarro às vezes. Em geral em momento de muita raiva. Depois eu fico calmo.
+
+**Entrevistador:** E quando você está bem, sem crise, como você se descreveria?
+
+**Paciente:** *(silêncio longo)* Eu não sei, doutor. Essa é a verdade. Eu mudo de planos toda hora. Já quis ser cozinheiro, já quis fazer faculdade de psicologia, já quis ser DJ. Eu não sei quem eu sou de verdade. Em algumas relações eu sou de um jeito. Em outras eu sou completamente outro.
+
+### História longitudinal
+
+**Entrevistador:** Esses padrões — relações intensas e instáveis, oscilação rápida de humor, machucar-se nos momentos difíceis — vêm de quando?
+
+**Paciente:** Desde a adolescência. Aos quinze eu já tinha tentado uma vez, com remédio da minha mãe. Aos dezesseis começou o corte. Eu sempre fui assim. Eu nunca tive paz no peito por muito tempo.
+
+**Entrevistador:** E os seus períodos sem crise, ao longo dos anos, eles duraram quanto tempo?
+
+**Paciente:** Talvez dois meses, no máximo. Quando eu fazia terapia direitinho, três anos atrás, eu cheguei a quatro. Aí a terapeuta saiu da clínica e eu não consegui me adaptar à outra. Parei.
+
+### Encerramento
+
+**Entrevistador:** Pedro, eu quero te propor um plano. Hoje a gente termina aqui. Amanhã eu quero que você venha de novo, e a gente faz um seguimento próximo nas próximas duas semanas. Combinado.
+
+**Paciente:** *(olhar suaviza)* Sério? Você vai me ver amanhã?
+
+**Entrevistador:** Sim. Eu também quero combinar uma coisa com você: se você sentir vontade de se machucar ou de tomar qualquer medicação fora da prescrição, antes de fazer, você liga para o serviço. Vou te dar o número. A gente combina passos antes de qualquer coisa.
+
+**Paciente:** *(silêncio breve, expressão muda — um pouco frustrada)* Tá. Mas se você sumir como aquela terapeuta…
+
+**Entrevistador:** Eu vou estar aqui amanhã. A gente combina passo a passo. Boa tarde, Pedro.
+
+**Paciente:** *(levanta-se devagar, puxa a manga novamente)* Boa tarde, doutor.
+
+> **Fim do roteiro de vídeo.**
+
+---
+
+## 5. Pergunta final para os alunos
+
+> **Em tela, fundo neutro, 10 segundos:**
+>
+> *Qual é o diagnóstico de personalidade mais provável?*
+> *Justifique sua hipótese com pelo menos três elementos observados na entrevista.*
+
+---
+
+## 6. Guia oculto para o professor
+
+### Diagnóstico mais provável
+
+Transtorno de personalidade borderline.
+
+### Pistas clínicas presentes no roteiro
+
+1. **Esforços frenéticos para evitar abandono real ou imaginado** (overdose após mensagem de "um tempo"; chamadas insistentes ao parceiro).
+2. **Padrão de relacionamentos intensos e instáveis**, com **idealização e desvalorização** rápidas (Cauã como "tudo"; histórico de envolvimentos breves e tumultuados).
+3. **Distúrbio de identidade** com instabilidade marcante e persistente da autoimagem ("eu não sei quem eu sou de verdade"; planos profissionais oscilantes).
+4. **Impulsividade em pelo menos duas áreas potencialmente danosas** (uso de substâncias, sexo desprotegido em crise, alimentação errática, instabilidade laboral).
+5. **Comportamento, gestos ou ameaças suicidas recorrentes, ou comportamento automutilante** (overdose recente; cortes desde os 16; queimaduras com cigarro; tentativa aos 15).
+6. **Instabilidade afetiva por reatividade do humor** ("em uma tarde só", em contraste com a depressão da tia "que dura meses").
+7. **Sentimentos crônicos de vazio** ("nunca tive paz no peito por muito tempo").
+8. **Raiva intensa e dificuldade em controlá-la** (rompimento abrupto com a mãe após ofensa; corte de amizade por boato).
+9. **Reação dissociativa/ideias paranoides transitórias ligadas a estresse** (sugerida em "não sei quem eu sou", sem necessidade de aprofundar em roteiro).
+
+### Mecanismos de defesa em destaque
+
+- **Cisão (splitting):** alternância idealização-desvalorização do entrevistador no decorrer da própria consulta.
+- **Identificação projetiva** e **acting-out** com função comunicativa (overdose para que o outro "entenda").
+
+### Diagnósticos diferenciais possíveis
+
+- **Transtorno bipolar tipo II**: as oscilações borderline são **rápidas (horas) e reativas a eventos interpessoais**; bipolaridade tem episódios de **dias a semanas**, com sintomas neurovegetativos.
+- **Transtorno depressivo maior**: o quadro borderline pode incluir depressões, mas o **núcleo é instabilidade**, não anedonia persistente.
+- **Transtorno por uso de substâncias**: presente como comorbidade frequente; o uso aqui é **secundário e contextual**, não primário.
+- **Transtorno de personalidade histriônica**: também busca atenção, mas com **calor, sedução e superficialidade**, sem autolesão, sem pavor de abandono no nível borderline.
+- **TEPT complexo / trauma do desenvolvimento**: alta sobreposição clínica; investigar nas consultas seguintes (não no roteiro de vídeo).
+
+### Elementos discriminadores
+
+- **Borderline × bipolar:** janela temporal das oscilações (horas × dias-semanas), e reatividade interpessoal.
+- **Borderline × histriônica:** autolesão e pavor de abandono **definem** o quadro borderline.
+- **Borderline × depressão maior:** estabilidade do padrão **desde a adolescência**, com vazio crônico e identidade instável.
+
+### Sugestão breve de discussão em sala
+
+- Manejo da **cisão** dentro e fora da equipe — risco de divisão entre profissionais ("este me entende, aquele não").
+- Importância dos **limites claros e do plano de contingência** no primeiro encontro (combinado de ligação antes de qualquer ato).
+- Discutir a **diferença ética e clínica** entre "validar o sofrimento" e "endossar a interpretação dramática".
+- Manejo da **contratransferência** (desejo de salvar; medo de causar uma nova crise; raiva pela ameaça implícita).
+
+---
+
+## 7. Mudanças feitas para evitar reprodução indevida ou infração de copyright
+
+| Dimensão | Caso original | Caso transformado |
+|---|---|---|
+| **Personagem** | Mulher | Homem |
+| **Idade** | 23 anos | 27 anos |
+| **Cenário da consulta** | Internação em unidade psiquiátrica | Ambulatório de seguimento pós-emergência clínica, **sem internação psiquiátrica neste episódio** |
+| **Trigger** | Terapeuta saiu de férias por uma semana | Namorado pediu "um tempo" por mensagem |
+| **Método autolesivo no episódio** | Cortes em ambos os punhos, superficiais, sem necessidade de sutura | Intoxicação aguda por paracetamol em alta dose, com observação clínica de 48 h |
+| **Cena marcante intra-hospitalar** | Conflito entre médico residente (que defende alta) e equipe de enfermagem (que aponta quebra de regras), recurso ao diretor da unidade | **Eliminada**: o roteiro se passa em ambulatório, sem cena de equipe. A cisão é encenada **dentro da consulta** (idealização → desvalorização do próprio entrevistador). |
+| **Fenômeno perceptivo descrito** | Relato de voz que negava em seguida | **Eliminado**: substituído por **vivência de não saber "quem é"**, mais central à identidade borderline e menos confundível com psicose |
+| **Histórico de internações** | Quarta internação, todas por afastamento de alguém | Duas internações breves prévias, padrão semelhante, mas com **episódio atual ambulatorial** |
+| **Frases marcantes do original** | "abandoná-la", "apenas algumas horas", "ela nunca seria nada" | **Nenhuma** reaproveitada |
+| **Vínculos** | Centrado no terapeuta como gatilho | Namorado atual; histórico de parceiros de ambos os gêneros; mãe; amiga; terapeuta passada referida como precedente |
+| **Sequência narrativa** | Original abre na enfermaria com corte recente e segue para conflito de equipe | Novo roteiro abre em ambulatório, com seguimento pós-overdose, segue para padrão relacional, ocupacional, longitudinal, com cena final de **estabelecimento de combinado de segurança** |
+
+Mudanças adicionais:
+
+- Inversão de gênero, mudança de geração, mudança de cenário institucional (internação → ambulatório).
+- Substituição do **terapeuta como gatilho** por **parceiro afetivo como gatilho**, com referência secundária a uma terapeuta anterior — preservando o princípio clínico do abandono.
+- Eliminação da cena emblemática **do conflito de equipe na enfermaria**; substituída pelo fenômeno equivalente da **cisão observada na própria entrevista**.
+- Eliminação do **microssintoma psicótico** (voz negada) por elementos de **distúrbio de identidade**, mais discriminantes para o diagnóstico.
+- Cenas inéditas: combinado de contingência antes de qualquer ato; mostrar cicatrizes em manga comprida; referência à overdose como mensagem para o parceiro.
+
+---
+
+## 8. Revisão final de possíveis semelhanças excessivas
+
+**1. Há alguma frase próxima demais do texto original?**
+Não. As citações marcantes do original ("ela nunca seria nada", "abandoná-la", "apenas algumas horas") **não** foram reaproveitadas.
+
+**2. Há alguma cena que preserva excessivamente a estrutura do caso original?**
+A zona temática inevitável é o **ato autolesivo desencadeado por afastamento percebido**. A formulação é narrativamente nova: outro método (paracetamol vs. corte), outro cenário (ambulatório pós-PS vs. enfermaria), outro gatilho (parceiro vs. terapeuta). A **cena do conflito de equipe**, talvez a mais reconhecível do original, foi removida; em seu lugar, a cisão é encenada **dentro da própria consulta**.
+
+**3. A combinação de detalhes ainda torna o caso reconhecível?**
+Não. Gênero, idade, cenário, método autolesivo, gatilho e ambiente institucional foram alterados em conjunto.
+
+**4. O caso foi transformado de maneira substancial?**
+Sim. Personagem, cenário, gatilho, método, vínculos e gênero textual foram modificados.
+
+**5. Algum trecho deveria ser reescrito para maior segurança?**
+Não. Nenhum trecho exige reescrita adicional após revisão.

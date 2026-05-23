@@ -1,0 +1,176 @@
+project:
+  type: book
+  output-dir: _book
+
+lang: pt-BR
+language: _language-pt.yml
+
+book:
+  title: "Personalidade"
+  subtitle: "Uma Breve Introdução"
+  edition: "2ª edição"                       # metadado Pandoc — vai pro EPUB/citações
+  author:
+    - name: "Henrique Alvarenga da Silva"
+      orcid: 0000-0001-9799-5240
+      email: henrique@ufsj.edu.br
+      affiliations:
+        - name: Universidade Federal de São João del-Rei (UFSJ)
+          department: Curso de Medicina
+  date: today
+  date-format: "MMMM [de] YYYY"
+
+  description: |
+    Livro-texto sobre personalidade para o ensino de psicopatologia, com
+    capítulos clínicos sobre traços, transtornos, epidemiologia, tratamento
+    e big data. Em apêndice opcional, o ensaio filosófico-literário
+    'A descoberta às avessas' problematiza o próprio conceito.
+  keyword: "personalidade, psicopatologia, transtornos de personalidade, Big Five, DSM-5, psiquiatria, educação médica, Fernando Pessoa, Walt Whitman"
+  cover-image: images/capa.jpg
+  favicon: images/favicon.png
+  image: images/capa.jpg                  # thumbnail no sidebar e em previews sociais
+
+  repo-url: https://github.com/henriquealvarenga/personalidade
+  repo-branch: main
+  repo-actions: [edit, issue]
+  search: true
+  downloads: [epub]
+  sharing: [twitter, facebook, linkedin]
+  page-navigation: true
+  back-to-top-navigation: true
+
+  sidebar:
+    style: docked
+    collapse-level: 1
+    border: true
+
+  chapters:
+    - index.qmd
+    - part: "Parte I — Fundamentos clínicos"
+      chapters:
+        - capitulos/01-introducao.qmd
+        - capitulos/02-construcao-da-personalidade.qmd
+        - capitulos/03-periodos-criticos.qmd
+        - capitulos/04-plasticidade.qmd
+        - capitulos/05-personalidade-e-saude.qmd
+    - part: "Parte II — Taxonomia, traços e transtornos"
+      chapters:
+        - capitulos/06-taxonomia.qmd
+        - capitulos/07-tracos.qmd
+        - capitulos/08-transtornos.qmd
+        - capitulos/09-epidemiologia.qmd
+        - capitulos/10-tratamento.qmd
+    - part: "Parte III — Personalidade na era digital"
+      chapters:
+        - capitulos/11-big-data.qmd
+    - part: "Parte IV — A personalidade na cultura: cinema e literatura"
+      chapters:
+        - capitulos/12-personalidade-como-mascara.qmd
+        - capitulos/13-personalidade-como-narrativa.qmd
+        - capitulos/14-personalidade-no-transtorno.qmd
+    - part: "Parte V — Atividades"
+      chapters:
+        # ── Atividade 1: Casos clínicos (roteiros de entrevistas simuladas) ──
+        - casos/00-introducao.qmd
+        - casos/dependente.qmd          # Caso A — TP Dependente
+        - casos/esquizotipica.qmd       # Caso B — TP Esquizotípica
+        - casos/obsessivo.qmd           # Caso C — TP Obsessivo-Compulsiva
+        - casos/antissocial.qmd         # Caso D — TP Antissocial
+        - casos/histrionica.qmd         # Caso E — TP Histriônica
+        - casos/narcisista.qmd          # Caso F — TP Narcisista
+        - casos/esquiva.qmd             # Caso G — TP Evitativa
+        - casos/paranoide.qmd           # Caso H — TP Paranoide
+        - casos/borderline.qmd          # Caso I — TP Borderline
+        # Falta: TP Esquizoide (cluster A) — adicionar como Caso J quando pronto.
+        # ── Atividade 2: Quatro visões da personalidade × IAs ──
+        - atividades/visoes-personalidade.qmd
+        - atividades/atividade-visoes.qmd
+    - creditos.qmd
+    - references.qmd
+
+  appendices:
+    - apendices/descoberta-as-avessas.qmd
+    - apendices/critica-interdisciplinar.qmd
+
+# =========================================================================
+# Bibliografia — ABNT autor-data, processado pelo Citeproc do Pandoc
+# =========================================================================
+bibliography: references/references.bib
+csl: references/csl_styles/ABNT.csl
+citeproc: true
+link-citations: true
+link-bibliography: true
+reference-section-title: "Referências"
+
+# =========================================================================
+# Formatos de saída
+# =========================================================================
+format:
+  html:
+    theme:
+      - cosmo
+      - theme-editorial.scss
+    css: styles.css
+    fontsize: 1.05em
+    linestretch: 1.65
+    mainfont: "Inter"
+    monofont: "JetBrains Mono"
+    toc: true
+    toc-depth: 3
+    toc-title: "Nesta página"
+    number-sections: true
+    number-depth: 2
+    code-fold: false
+    code-tools: false
+    smooth-scroll: true
+    citations-hover: true
+    crossrefs-hover: true
+    footnotes-hover: true
+    callout-appearance: simple
+    fig-cap-location: bottom
+    tbl-cap-location: top
+    anchor-sections: true
+    highlight-style: github
+
+  epub:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    epub-cover-image: images/capa.jpg
+    epub-metadata: epub-metadata.xml
+    epub-fonts:
+      - fonts/Inter-*.woff2
+      - fonts/PlayfairDisplay-*.woff2
+    css: styles.css
+    fig-format: png
+    fig-dpi: 200
+
+  # PDF intencionalmente DESABILITADO no CI.
+  # Para gerar PDF localmente:  quarto render --to pdf
+  # pdf:
+  #   documentclass: scrbook
+  #   papersize: a5
+  #   geometry:
+  #     - inner=2.5cm
+  #     - outer=2cm
+  #     - top=2cm
+  #     - bottom=2cm
+  #   fontsize: 11pt
+  #   colorlinks: true
+  #   biblio-style: abnt
+  #   cite-method: biblatex
+  #   biblatexoptions: [style=abnt, backend=biber]
+
+# =========================================================================
+# Execução de código (não há código executável por enquanto;
+# placeholder para se houver futuras análises em R/Python).
+# =========================================================================
+execute:
+  freeze: auto
+  echo: false
+  warning: false
+
+# =========================================================================
+# Filtros e shortcodes (descomentar conforme necessário)
+# =========================================================================
+# filters:
+#   - acronyms

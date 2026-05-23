@@ -1,0 +1,34 @@
+---
+title: "Epidemiologia dos transtornos de personalidade"
+---
+
+Estima-se que entre **9% e 16% da população** apresente critérios para diagnóstico de algum transtorno de personalidade [@andreasen_introductory_2014]. Meta-análise mais recente, agregando 27 estudos populacionais em países ocidentais, encontrou prevalência global em torno de **12%** [@volkert_prevalence_2018]. A prevalência é ainda maior em amostras de pacientes com algum transtorno psiquiátrico (**30% a 50%**) [@andreasen_introductory_2014].
+
+Em amostras de pacientes em tratamento psiquiátrico ambulatorial, a prevalência combinada dos transtornos de personalidade **borderline** e **obsessivo-compulsiva** atinge taxas de quase 20% (@tbl-prevalencia) [@zimmerman_prevalence_2005]. Em amostras de pacientes admitidos para internação em hospitais clínicos, estima-se uma prevalência de cerca de 20% para o transtorno de personalidade borderline [@hales_textbook_2014].
+
+A alta prevalência desses transtornos em pacientes ambulatoriais e hospitalizados demonstra a importância do conhecimento desse tema — não apenas pelos especialistas, mas também pelo médico generalista.
+
+| Personalidade            | População geral [@torgersen_prevalence_2001] | População clínica [@zimmerman_prevalence_2005] |
+|:-------------------------|:--------------------------------------------:|:----------------------------------------------:|
+| Paranoide                | 1,7%                                         | 4,2%                                           |
+| Esquizoide               | 1,0%                                         | 1,4%                                           |
+| Esquizotípica            | 1,0%                                         | 0,6%                                           |
+| Antissocial              | 1,0%                                         | 3,6%                                           |
+| **Borderline**           | 1,6%                                         | **9,3%**                                       |
+| Histriônica              | 1,5%                                         | 1,0%                                           |
+| Evitativa                | 1,7%                                         | 14,7%                                          |
+| Dependente               | 0,7%                                         | 1,4%                                           |
+| **Obsessivo-compulsiva** | 2,1%                                         | **8,7%**                                       |
+| Narcisista\*             | 0,5%                                         | 2,3%                                           |
+
+: Prevalência dos transtornos de personalidade na população {#tbl-prevalencia .striped}
+
+\* Mais comum nos homens. \*\* Pacientes em tratamento psiquiátrico ambulatorial.
+
+::: {.callout-warning appearance="simple"}
+## [VERIFICAR — atualização epidemiológica adicional]
+Já complementado: @torgersen_prevalence_2001 + @volkert_prevalence_2018 (meta-análise mais ampla). Falta ainda:
+- @zimmerman_prevalence_2005 → considerar atualização pós-DSM-5;
+- adicionar revisões 2020-2025 sobre prevalência em populações
+  específicas (atenção primária, jovens adultos, pós-pandemia).
+:::

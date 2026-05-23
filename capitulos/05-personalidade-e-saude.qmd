@@ -1,0 +1,23 @@
+---
+title: "Personalidade e saúde"
+---
+
+Uma ligação entre a personalidade e a saúde mental tem sido hipotetizada desde a antiguidade. Hipócrates descreveu quatro tipos de personalidade (sanguíneo, fleumático, colérico e melancólico) e acreditava que cada uma dessas personalidades tinha diferentes vulnerabilidades às doenças físicas e mentais.
+
+Apesar de hoje usarmos diferentes nomenclaturas para nomear os diversos tipos de personalidade, a noção de que há uma relação clinicamente importante entre saúde e personalidade tem sido corroborada por diversas pesquisas [@kotov_linking_2010].
+
+::: {.callout-warning appearance="simple"}
+## [VERIFICAR — substituir referência]
+A referência [@kotov_linking_2010] no manuscrito original é um *press release* da APA. A meta-análise primária a que ela se refere é provavelmente **Kotov R, Gamez W, Schmidt F, Watson D. *Linking 'big' personality traits to anxiety, depressive, and substance use disorders: a meta-analysis*. Psychol Bull. 2010;136(5):768-821**. Substituir pelo artigo primário, com DOI verificado.
+:::
+
+Portanto, havendo uma relação importante entre personalidade e saúde — tendo sido demonstrado que a personalidade é um dos determinantes da saúde — é coerente haver também um sistema classificatório das personalidades. É a esse tema que dedicamos os próximos capítulos.
+
+::: {.callout-tip appearance="simple"}
+## [VERIFICAR — atualização sugerida]
+A literatura 2018-2025 sobre **traços de personalidade como fatores de risco para doenças físicas** (cardiovasculares, demência, mortalidade em geral) cresceu muito. Considerar adicionar:
+
+- meta-análises recentes sobre conscienciosidade e longevidade;
+- literatura sobre neuroticismo e risco cardiovascular;
+- estudos sobre *Big Five* e desfechos em saúde mental pós-pandemia.
+:::

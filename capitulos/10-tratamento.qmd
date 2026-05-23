@@ -1,0 +1,41 @@
+---
+title: "Tratamento dos transtornos de personalidade"
+---
+
+Existem poucos estudos a respeito do tratamento dos transtornos de personalidade. A maior parte da literatura disponível foca no tratamento do **transtorno de personalidade borderline**, sendo os demais raramente estudados.
+
+O tratamento mais importante para a maioria dos transtornos de personalidade é a **psicoterapia**. Terapias de grupo geralmente não são recomendadas em pacientes com personalidade paranoide, tendo em vista a possibilidade de esses pacientes interpretarem frequentemente de forma negativa os comentários e situações que surgem no contexto dessa forma de terapia [@andreasen_introductory_2014].
+
+Antipsicóticos podem ser úteis para reduzir os níveis de pensamentos paranoides nos pacientes com transtornos de personalidade do Grupo A (paranoide, esquizoide, esquizotípica), embora não existam estudos clínicos robustos realizados especificamente para essa população.
+
+## Terapia Comportamental Dialética (DBT) — o caso paradigmático
+
+A psicoterapia com maior corpo de evidência empírica em transtornos de personalidade é a **Terapia Comportamental Dialética** (*Dialectical Behavior Therapy*, DBT), desenvolvida por **Marsha Linehan** nos anos 1980-90 [@linehan_cognitive_1993]. Originalmente desenhada para tratamento do **transtorno de personalidade borderline** (TPB), a DBT é hoje considerada padrão-ouro pelas principais diretrizes internacionais (NICE, APA) para esse diagnóstico, e tem evidência crescente em outros transtornos de cluster B [@storebo_psychological_2020].
+
+A inovação conceitual de Linehan foi reconhecer que os sintomas do TPB **emergem da interação entre uma vulnerabilidade emocional biológica e ambientes invalidantes** ao longo do desenvolvimento — não de uma "personalidade interna autônoma". Os padrões disfuncionais foram aprendidos como adaptações racionais a contextos adversos; quando o contexto muda (relações validantes, habilidades de regulação emocional, ambiente terapêutico estruturado), os padrões mudam. Essa reconceituação **transformou o prognóstico do TPB** de "intratável" para "altamente tratável" em uma geração.
+
+::: {.callout-note appearance="simple"}
+## Os quatro módulos de habilidades da DBT
+A DBT estrutura o treinamento em quatro módulos: *mindfulness* (atenção plena), tolerância ao mal-estar, regulação emocional e efetividade interpessoal. O paciente aprende esses módulos em grupo e os pratica em terapia individual semanal, com coaching telefônico entre as sessões. O programa padrão dura 12 meses.
+:::
+
+## Outras psicoterapias com evidência
+
+- **Mentalization-Based Treatment (MBT)** — desenvolvida por Anthony Bateman e Peter Fonagy; foco na capacidade de "mentalizar" estados mentais próprios e dos outros. Forte evidência em TPB.
+- **Transference-Focused Psychotherapy (TFP)** — desenvolvida por Otto Kernberg; foco na transferência paciente-terapeuta como veículo para reorganização da identidade. Evidência em TPB e transtornos narcisistas graves.
+- **Schema Therapy** — desenvolvida por Jeffrey Young; integra elementos cognitivos, gestálticos e psicodinâmicos. Boa evidência em TPB e transtornos do cluster C.
+
+::: {.callout-warning appearance="simple"}
+## [VERIFICAR — atualização]
+Esta seção foi expandida em maio de 2026, mas as descrições de MBT, TFP e Schema Therapy ainda são esqueléticas. Cada uma merece um parágrafo próprio com indicação, mecanismo proposto e estudos centrais. Considerar também:
+
+- **Farmacoterapia**: revisões sistemáticas recentes sobre uso de estabilizadores, ISRS e antipsicóticos de segunda geração em borderline.
+- **Tratamento específico por cluster A e C**.
+- **Setting de tratamento**: ambulatorial vs hospital-dia vs internação; risco de iatrogenia.
+- **Tratamento na CID-11**: a virada dimensional ([discutida no Cap. 8](08-transtornos.qmd#a-cid-11-o-modelo-dimensional)) muda o que é alvo terapêutico — em vez de tratar "personalidade borderline" como tipo, a CID-11 sugere intervir sobre **severidade global** (6D10) e **domínios de traço** (6D11.x) que estejam clinicamente comprometendo o funcionamento. A DBT, por exemplo, pode ser indicada tanto para casos com *padrão borderline* (6D11.5) quanto para apresentações com alta desinibição (6D11.3) e afetividade negativa (6D11.0) sem padrão borderline formal.
+:::
+
+::: {.callout-tip appearance="simple"}
+## Conexão com o apêndice
+A eficácia da DBT é, além de fato clínico, um **argumento conceitual**: se padrões de personalidade fossem essências fixas, a DBT não poderia funcionar como funciona. Esse argumento é desenvolvido no [Apêndice II — Crítica interdisciplinar](../apendices/critica-interdisciplinar.qmd).
+:::

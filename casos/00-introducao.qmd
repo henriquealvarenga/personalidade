@@ -1,0 +1,66 @@
+---
+title: "Casos clínicos"
+subtitle: "Roteiros de entrevistas simuladas para inferência diagnóstica"
+---
+
+A Parte V do livro reúne uma série de **roteiros de entrevistas simuladas** com pacientes que apresentam diferentes transtornos de personalidade. Cada caso é apresentado em formato de diálogo entre entrevistador e paciente, podendo ser:
+
+- **lido como vinheta clínica** — material de estudo individual ou para discussão em grupo;
+- **utilizado como roteiro de vídeo** — base para a produção de simulações em vídeo com atores ou avatares digitais, sustentando uso pedagógico estruturado em sala de aula.
+
+## A metodologia
+
+A proposta pedagógica é simples e exigente: **o diagnóstico do caso não é revelado ao aluno antes do exercício de inferência**. Os casos são identificados por uma letra (Caso A, Caso B, Caso C, …) que não corresponde a qualquer ordem diagnóstica reconhecível.
+
+A sequência recomendada de estudo é:
+
+1. **Ler ou assistir o caso completo**, observando linguagem verbal, postura corporal, ritmo da fala, padrão relacional, conteúdo dos relatos sobre infância, trabalho, relações afetivas e história de adoecimento.
+2. **Formular hipótese diagnóstica** com base nos critérios clínicos discutidos nos capítulos da [Parte II](../capitulos/08-transtornos.qmd).
+3. **Considerar diagnósticos diferenciais** — não apenas dentro do espectro dos transtornos de personalidade, mas também com condições do Eixo I (transtornos de humor, ansiedade, uso de substâncias, esquizofrenia).
+4. **Justificar a hipótese** com sinais e sintomas concretos da entrevista, ancorando em critérios do DSM-5-TR e/ou da CID-11.
+5. **Conferir o diagnóstico-alvo** ao final do exercício — disponível no "Aviso ao docente" no topo de cada roteiro.
+
+::: {.callout-tip appearance="simple"}
+## Para uso em sala de aula
+A combinação ideal é a **leitura coletiva guiada** seguida de **debate em pequenos grupos** sobre a hipótese diagnóstica. O professor pode pedir aos alunos que listem, antes da revelação, os três sinais que mais pesaram em sua inferência. A discussão sobre os sinais discordantes entre alunos é, frequentemente, o momento de maior aprendizado.
+:::
+
+## Roteiro e originalidade
+
+Todos os casos são **construções originais** elaboradas a partir da **categoria diagnóstica** correspondente, sem reprodução de linguagem, cenas, vínculos familiares, dados sociodemográficos ou frases de qualquer caso clínico publicado. A inspiração vem do quadro clínico geral descrito na literatura psiquiátrica, jamais da narrativa específica de um paciente real ou de um texto-fonte identificável.
+
+Os roteiros foram redigidos com atenção para que evitem:
+
+- **caricaturas dramáticas** — o paciente antissocial não é o "psicopata de filme"; o paciente histriônico não é uma figura cômica; o paciente dependente não é apenas "apegado";
+- **revelação precoce do diagnóstico** — sinais clínicos aparecem ao longo da entrevista, não em rótulos diretos;
+- **conclusões interpretativas no texto** — o aluno é convidado a inferir, não a memorizar.
+
+## Estrutura de cada roteiro
+
+Cada caso segue o mesmo formato:
+
+1. **Aviso ao docente** — diagnóstico-alvo, origem do material, cuidados pedagógicos.
+2. **Ficha técnica** — dados básicos do paciente fictício e contexto da entrevista.
+3. **Orientações para os atores** — paciente e entrevistador (postura, tom, sinais).
+4. **Roteiro dialogado completo** — entrevista linha a linha, dividida em blocos (abertura, queixa atual, história, encerramento).
+5. **Sinais clínicos a observar** — lista comentada, para o estudante usar como *checklist*.
+6. **Discussão diagnóstica** — análise comentada do caso, **revelada apenas após** o exercício de inferência.
+
+## Cobertura
+
+A Parte V cobre, no momento, **nove casos** representando nove dos dez transtornos de personalidade descritos no DSM-5-TR:
+
+| Cluster | Transtornos cobertos | Cobertura |
+|:--------|:---------------------|:----------|
+| **Cluster A** (estranhos / excêntricos)        | Esquizotípica, Paranoide                              | 2 de 3 |
+| **Cluster B** (dramáticos / erráticos)         | Antissocial, Borderline, Histriônica, Narcisista     | 4 de 4 ✓ |
+| **Cluster C** (ansiosos / temerosos)           | Dependente, Evitativa, Obsessivo-Compulsiva           | 3 de 3 ✓ |
+
+: Cobertura atual dos transtornos por *cluster* {.striped tbl-colwidths="[20,55,15]"}
+
+Resta um único caso a ser elaborado em edições futuras — **Transtorno de personalidade esquizoide** (Cluster A). A estrutura modular do livro permite essa expansão sem reorganização editorial.
+
+::: {.callout-note appearance="simple"}
+## Aviso ético
+Os roteiros aqui apresentados são **materiais didáticos**. Não substituem entrevista clínica real nem podem ser usados como evidência diagnóstica em situações clínicas concretas. O aprendizado por simulação é complementar — e não substituto — da observação supervisionada de pacientes em contexto assistencial.
+:::

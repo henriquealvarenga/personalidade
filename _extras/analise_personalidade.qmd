@@ -1,0 +1,133 @@
+
+---
+title: "Análise das Visões de Personalidade"
+author: "Henrique Alvarenga"
+date: "`r Sys.Date()`"
+format: html
+---
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+# Importar respostas do Google Forms
+url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vQn1Agh-argOZmLpQHFppAXx3OZfny7f-G9k-FD9AIQU_eGjqyX8VnmfAy5yFXTgjyfQ3G2JOcy3kiN/pub?output=csv"
+respostas <- read_csv(url)
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+# Gabarito de correspondência entre alternativas e visões teóricas
+
+
+gabarito <- tribble(
+  ~resposta, ~grupo,
+  "Um conjunto de traços profundos e estáveis que a acompanham desde o nascimento.", "Essência",
+  "A história que ela constrói sobre si mesma, reinterpretando o passado e projetando o futuro.", "Narrativa",
+  "Os modos como ela se relaciona com o mundo e se transforma nessas relações.", "Dinâmica Relacional",
+  "Os papéis sociais e culturais que ela aprende a desempenhar em diferentes contextos.", "Produção Social",
+  "Perdeu sua essência ou está vivendo de forma incoerente com seu verdadeiro eu.", "Essência",
+  "Está ressignificando sua história pessoal em busca de um novo sentido.", "Narrativa",
+  "Está reagindo de forma natural às mudanças nos ambientes e relações.", "Dinâmica Relacional",
+  "Está se ajustando a novas exigências sociais e expectativas externas.", "Produção Social",
+  "Em predisposições biológicas e estruturais inatas.", "Essência",
+  "Nas vivências únicas e nas histórias que cada um conta de si.", "Narrativa",
+  "Nas experiências corporais e relacionais ao longo da vida.", "Dinâmica Relacional",
+  "Nos sistemas sociais e culturais que moldam nossa forma de ser.", "Produção Social",
+  "Provavelmente ela tem um temperamento forte e estável.", "Essência",
+  "Ela criou uma narrativa coerente sobre si mesma.", "Narrativa",
+  "Ela está cristalizando padrões que nasceram nas relações que viveu.", "Dinâmica Relacional",
+  "Ela está repetindo um papel social que aprendeu a representar.", "Produção Social",
+  "A personalidade profunda permanece a mesma, mesmo que o comportamento mude.", "Essência",
+  "O modo como ela interpreta e narra sua história nesses contextos.", "Narrativa",
+  "O ambiente influencia diretamente sua forma de agir e sentir.", "Dinâmica Relacional",
+  "Cada papel social exige um tipo de performance diferente.", "Produção Social",
+  "Sim, por meio de testes, diagnósticos ou observação clínica.", "Essência",
+  "Em parte, mas só se escutarmos como a pessoa narra a si mesma.", "Narrativa",
+  "Ela não é fixa o suficiente para ser descoberta — apenas vivida.", "Dinâmica Relacional",
+  "Não, ela é uma construção social que muda com o discurso dominante.", "Produção Social",
+  "Um papel secundário, a mente e os traços são mais importantes.", "Essência",
+  "Um papel simbólico e afetivo, intermediando experiências.", "Narrativa",
+  "Um papel central, pois a subjetividade emerge no corpo vivido.", "Dinâmica Relacional",
+  "Um papel político, pois o corpo é onde se inscrevem normas e expectativas.", "Produção Social",
+  "Manifestando uma ruptura com sua verdadeira natureza.", "Essência",
+  "Reescrevendo sua narrativa pessoal para lidar com o evento.", "Narrativa",
+  "Reagindo a mudanças em suas relações e contexto.", "Dinâmica Relacional",
+  "Respondendo a novas pressões sociais ou papéis esperados.", "Produção Social"
+)
+```
+
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+## Processar respostas e identificar grupos
+
+respostas_long <- respostas %>%
+  pivot_longer(cols = starts_with("Q"), names_to = "pergunta", values_to = "resposta") %>%
+  left_join(gabarito, by = "resposta")
+
+perfil_aluno <- respostas_long %>%
+  group_by(Nome, grupo) %>%
+  summarise(respostas = n(), .groups = "drop") %>%
+  ungroup() %>%
+  group_by(Nome) %>%
+  slice_max(order_by = respostas, n = 1, with_ties = FALSE)
+```
+
+
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+
+## Gráfico de distribuição por grupo
+
+perfil_aluno %>%
+  count(grupo) %>%
+  ggplot(aes(x = grupo, y = n, fill = grupo)) +
+  geom_col() +
+  labs(title = "Distribuição dos Alunos por Visão de Personalidade",
+       x = "Grupo Teórico", y = "Número de Alunos") +
+  theme_minimal() +
+  theme(legend.position = "none")
+```
+
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+#perfil_aluno %>%
+#  ggplot(aes(x = Nome, y = grupo, fill = grupo)) +
+#  geom_col() +
+#  labs(title = "Alunos por Visão de Personalidade", x = "Aluno", y = "Grupo") +
+#  theme_minimal() +
+#  theme(legend.position = "none")
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+## Gráfico de barras agrupadas: número de respostas por teoria para cada aluno
+
+respostas_long %>%
+  group_by(Nome, grupo) %>%
+  summarise(n = n(), .groups = "drop") %>%
+  ggplot(aes(x = Nome, y = n, fill = grupo)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.8)) +
+  labs(
+    title = "Distribuição das Respostas por Teoria para Cada Aluno",
+    x = "Nome do Aluno",
+    y = "Número de Respostas em cada vertente teórica",
+    fill = "Teoria"
+  ) +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1)
+  )
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+## Tabela com grupo teórico e nome de cada aluno, ordenada por grupo
+
+perfil_aluno %>%
+  select(Teoria = grupo, Nome) %>%
+  arrange(Teoria, Nome) %>%
+  knitr::kable(
+    caption = "Grupo Teórico de Cada Aluno",
+    col.names = c("Teoria", "Nome")
+  )
+```
+

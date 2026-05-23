@@ -1,0 +1,14 @@
+---
+title: "Períodos críticos do desenvolvimento humano"
+---
+
+Períodos críticos são janelas específicas do desenvolvimento, durante as quais influências genéticas e ambientais interagem para estabelecer características funcionais. Essas interações correspondem a rearranjos estruturais do córtex cerebral que ocorrem durante essa janela específica de desenvolvimento. Diferentes circuitos neurais passam por períodos críticos em diferentes idades.
+
+Os períodos críticos para circuitos neurais que realizam análises de baixo nível de estímulos sensoriais tendem a terminar antes ou logo após o nascimento. Em contraste, os períodos críticos para processos cognitivos de alto nível — como linguagem, pensamento crítico e reflexivo — se finalizam na adolescência. A infância e a adolescência são, portanto, fases de grande importância para o desenvolvimento, e a qualidade das experiências vividas nessa fase influenciam a formação da personalidade e da saúde do indivíduo [@weaver_shaping_2009; @weaver_integrating_2014].
+
+Eventos traumáticos na infância — incluindo abuso, negligência e adversidades cumulativas — estão consistentemente associados a maior risco de transtornos de personalidade na vida adulta.
+
+::: {.callout-warning appearance="simple"}
+## [VERIFICAR — atualização]
+Este capítulo se beneficia de literatura recente sobre **ACEs (*Adverse Childhood Experiences*)** e sobre janelas críticas para o desenvolvimento de circuitos prefrontais. Sugestão: adicionar revisão sistemática 2023-2025 sobre ACEs e transtorno de personalidade borderline (Porter et al., MacIntosh et al., ou similar). Marcar para busca PubMed.
+:::

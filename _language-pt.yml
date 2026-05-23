@@ -1,0 +1,59 @@
+# Sobrescritas de localização pt-BR para o Quarto.
+# Apenas as chaves abaixo são alteradas; o resto vem do pt-BR padrão.
+
+crossref-fig-title: "Figura"
+crossref-tbl-title: "Tabela"
+crossref-eq-prefix: "Equação"
+crossref-sec-prefix: "Seção"
+crossref-cnj-prefix: "Conjectura"
+crossref-cor-prefix: "Corolário"
+crossref-def-prefix: "Definição"
+crossref-exm-prefix: "Exemplo"
+crossref-exr-prefix: "Exercício"
+crossref-lem-prefix: "Lema"
+crossref-prp-prefix: "Proposição"
+crossref-thm-prefix: "Teorema"
+
+callout-note-title: "Nota"
+callout-tip-title: "Dica"
+callout-warning-title: "Atenção"
+callout-important-title: "Importante"
+callout-caution-title: "Cuidado"
+
+section-title-abstract: "Resumo"
+section-title-footnotes: "Notas"
+section-title-references: "Referências"
+section-title-appendices: "Apêndices"
+
+toc-title-document: "Sumário"
+toc-title-website: "Nesta página"
+
+source-notebooks-prefix: "Cadernos-fonte"
+related-formats-title: "Outros formatos"
+related-notebooks-title: "Cadernos relacionados"
+
+code-summary: "Código"
+code-tools-menu-caption: "Código"
+code-tools-show-all-code: "Mostrar todo código"
+code-tools-hide-all-code: "Ocultar todo código"
+code-tools-view-source: "Ver fonte"
+code-tools-source-code: "Código-fonte"
+code-line: "Linha"
+code-lines: "Linhas"
+copy-button-tooltip: "Copiar para a área de transferência"
+copy-button-tooltip-success: "Copiado!"
+
+search-no-results-text: "Nenhum resultado"
+search-matching-documents-text: "documentos encontrados"
+search-copy-link-title: "Copiar link para a busca"
+search-submit-button-title: "Buscar"
+search-clear-button-title: "Limpar"
+search-detached-cancel-button-title: "Cancelar"
+search-text-placeholder: "Buscar"
+
+back-to-top: "Voltar ao topo"
+
+# Repo actions
+repo-action-links-edit: "Editar esta página"
+repo-action-links-source: "Ver fonte"
+repo-action-links-issue: "Reportar problema"

@@ -1,0 +1,232 @@
+---
+title: "Roteiro de Entrevista Simulada — Caso clínico D"
+subtitle: "Roteiro original para vídeo didático — inferência diagnóstica pelo aluno"
+author: "Material didático para estudantes de medicina"
+bibliography: ../references/references.bib
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+::: callout-important
+## Aviso ao docente
+Material **original** para fins didáticos, construído a partir da **categoria diagnóstica** de um caso clínico publicado, sem reprodução de linguagem, cenas, vínculos, dados sociodemográficos ou frases do texto-fonte. O diagnóstico-alvo **não deve ser revelado** aos alunos antes do exercício de inferência.
+:::
+
+# Roteiro de Entrevista Simulada — Caso D
+
+## 1. Ficha técnica do caso
+
+- **Nome fictício do paciente:** Diogo Mendes
+- **Idade:** 28 anos
+- **Gênero:** masculino
+- **Ocupação:** sem vínculo formal há cerca de um ano. Trabalhou como vendedor de planos de internet porta a porta, vendedor de carros usados, "promotor" em casas noturnas — sempre por períodos curtos.
+- **Contexto da entrevista:** ambulatório psiquiátrico em serviço-escola, encaminhamento da Defensoria Pública como parte de medida alternativa por estelionato (apropriação de cartões de crédito de clientes da concessionária onde trabalhou). É a quarta passagem do paciente pelo sistema de justiça. Há também um processo civil em curso por inadimplência. O paciente comparece com convocação judicial assinada.
+- **Duração estimada do vídeo:** 4 a 5 minutos
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade antissocial / dissocial (CID-11 6D11.2 — desinibição + dissocialidade / DSM-5-TR 301.7)
+- **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
+
+---
+
+## 2. Orientações para o ator ou avatar que interpreta o paciente
+
+- **Postura corporal:** sentado de modo relaxado, levemente reclinado, uma perna sobre a outra com o tornozelo apoiado no joelho. Braço estendido sobre o encosto da cadeira ao lado. Ocupação ampla do espaço.
+- **Tom de voz:** firme, claro, com leve ironia ocasional. Sem ansiedade aparente.
+- **Ritmo da fala:** fluente, articulado, com alguma facilidade narrativa — o paciente sabe contar histórias.
+- **Expressão facial:** assertiva, sorriso fácil. Quando questionado sobre prejuízo a vítimas, expressão se neutraliza, sem traços de culpa visíveis.
+- **Maneira de se relacionar:** cordial, **simpático**, faz piadas leves, tenta criar cumplicidade com o entrevistador ("o senhor entende"). Não é hostil de início. Pode se tornar irritado se desafiado diretamente.
+- **Sinais comportamentais relevantes:** chama o entrevistador pelo primeiro nome após dois minutos; comenta sobre o consultório de modo a estabelecer intimidade ("este lugar aqui é tranquilo, hein"); olha para o relógio do entrevistador uma vez; checa o celular discretamente.
+- **Forma de reagir a temas sensíveis:** ao falar das vítimas dos golpes, **minimiza** ("dei azar", "a empresa também enrolava"), **racionaliza** ("se eles tivessem mais cuidado, não teria acontecido") e **transfere a culpa** ("o meu colega me ensinou o esquema"). Ao falar da infância, conta episódios graves como se fossem causos engraçados.
+
+> **Importante para a direção:** o paciente **não** deve parecer monstruoso, frio ou ameaçador. O traço aparece em **charme superficial, ausência de remorso, padrão repetido de violação de regras desde a infância e responsabilização externa**. A simpatia é parte do quadro. Evitar caricatura de "psicopata de filme".
+
+---
+
+## 3. Orientações para o ator ou avatar que interpreta o entrevistador
+
+- **Postura:** sentado tranquilo, mantendo limites profissionais claros. Não se deixar seduzir pela cumplicidade oferecida, sem hostilidade.
+- **Estilo de entrevista:** semiestruturado, com **perguntas concretas e datadas** ("quando foi a primeira vez que…", "quantas vezes ao longo dos últimos cinco anos…").
+- **Grau de acolhimento:** respeitoso, neutro. Não rir das piadas de modo cúmplice. Não confrontar moralmente.
+- **Forma de explorar sintomas sem induzir respostas:** investigar **história de conduta na infância e adolescência, padrão laboral, relacionamentos, uso de substâncias, comportamento de risco, capacidade de manter compromissos**.
+- **Forma de investigar funcionamento longitudinal:** ancorar em escola, primeiros empregos, primeiros relacionamentos, contato prévio com a justiça.
+- **Cuidados para não revelar o diagnóstico:** não usar palavras como "psicopata", "antissocial", "manipulador". Não fazer interpretação em voz alta. Encerramento neutro.
+
+---
+
+## 4. Roteiro dialogado completo
+
+> Cenário visual: sala de ambulatório com mesa e duas cadeiras. Tom neutro. Sem música. Duração total estimada: **4 minutos e 30 segundos**.
+
+### Abertura
+
+**Entrevistador:** Boa tarde, Diogo. Eu sou o psiquiatra responsável pelo seu atendimento aqui. Recebi o ofício da Defensoria informando que você vai cumprir esta avaliação como parte da medida alternativa. Para começar, me conta o que aconteceu, do seu ponto de vista, para você estar aqui hoje.
+
+**Paciente:** *(sorrindo, postura aberta)* Boa tarde, doutor. Olha, vou ser franco com o senhor: eu trabalhei numa concessionária ano passado, e uns clientes acabaram tendo problema com cartão de crédito. A polícia entendeu que fui eu. Eu não vou ficar aqui mentindo, eu mexi sim, mas não foi nada como botaram no processo.
+
+### Queixa atual
+
+**Entrevistador:** Você poderia me explicar melhor o que aconteceu?
+
+**Paciente:** Foi o seguinte: a concessionária deixava as fichas dos clientes em cima da mesa, sem proteção nenhuma. Qualquer pessoa que passasse ali via. Um colega meu — eu não vou dar nome — me mostrou um jeito de usar uns dados para fazer uns extras. Eu fui na onda, fiz duas, três vezes. Um cliente reclamou e estourou. Mas, sinceramente, se a empresa tivesse um mínimo de cuidado, isso não acontecia. Eu pago o preço por uma falha que não é só minha.
+
+**Entrevistador:** E como você se sente sobre os clientes que tiveram prejuízo financeiro com isso?
+
+**Paciente:** *(pausa breve, sorriso menor)* Eu não fiz isso com a intenção de prejudicar ninguém específico. Foi a oportunidade. Se eu pudesse devolver o valor, eu devolveria. Mas eu tô sem renda fixa, então também não dá.
+
+### História do funcionamento interpessoal
+
+**Entrevistador:** Você mora com quem hoje?
+
+**Paciente:** Tô morando com a minha mãe de novo, faz uns três meses. Estava com uma namorada, a Aline, mas a gente se separou. Ela ficou chateada porque eu peguei uns valores do cartão dela para resolver uma coisa minha. Eu ia devolver, mas a gente brigou antes.
+
+**Entrevistador:** E como tem sido a relação com sua mãe?
+
+**Paciente:** A minha mãe é santa. Ela me aguenta desde sempre. Já me tirou de duas confusões. Hoje a gente convive de boa, ela me dá um teto, eu ajudo no que dá.
+
+**Entrevistador:** E amigos próximos, com quem você possa contar de forma estável?
+
+**Paciente:** *(pensa, ri)* Estável é uma palavra forte, doutor. Eu conheço muita gente, eu me dou bem com quase todo mundo. Agora amigo de verdade, que eu pudesse ligar de madrugada se precisasse, talvez um. E mesmo esse, faz uns meses que a gente brigou por uma dívida.
+
+### História ocupacional
+
+**Entrevistador:** Me conta um pouco da sua história de trabalho. Quais foram os empregos que você teve?
+
+**Paciente:** Vários. Eu já vendi internet de porta em porta, já vendi carro, já trabalhei em casa noturna como promotor. Sou bom de papo, então em vendas eu encaixo bem. O problema é que sempre dá algum atrito com chefia. Ou o cara me persegue, ou tem alguma confusão com colega, e eu acabo saindo.
+
+**Entrevistador:** Quanto tempo, em média, você costuma ficar em cada trabalho?
+
+**Paciente:** Sei lá. Seis, oito meses. O mais longo foi um ano e meio, na concessionária — e olha no que deu.
+
+**Entrevistador:** E hoje, sem vínculo formal, como você está se sustentando?
+
+**Paciente:** Vai dando. Faço uns bicos. Vendo umas peças de carro que arrumo com um conhecido. Quando aperta, a minha mãe ajuda.
+
+### Funcionamento emocional e comportamental
+
+**Entrevistador:** Pensando nessas situações em que você teve problema com a justiça — esta é a quarta vez, segundo o ofício. Quando você olha pra trás, o que você acha?
+
+**Paciente:** Olha, doutor, eu tive azar. Na primeira vez eu era de menor, peguei uma moto emprestada de um cara, devolveria depois, e ele me denunciou. Na segunda foi uma briga em frente a uma boate, eu nem comecei. Na terceira foi por causa de uma dívida que armaram pra cima de mim. E essa agora é a do cartão. Eu não me considero criminoso, não. Eu sou um cara comum que se meteu em umas roubadas.
+
+**Entrevistador:** E em algum dessas vezes você sentiu remorso?
+
+**Paciente:** *(pausa)* Remorso é uma coisa difícil. Eu fico chateado quando a coisa estoura. Mas, sinceramente, eu não fico me culpando. Não adianta.
+
+**Entrevistador:** Você usa álcool, cigarro, alguma outra substância?
+
+**Paciente:** Bebo socialmente, fim de semana. Maconha de vez em quando, em festa. Já cheirei umas vezes, faz tempo. Nada compulsivo, doutor, fica tranquilo.
+
+**Entrevistador:** Você dirige com bebida, em geral?
+
+**Paciente:** Já dirigi, várias vezes. Nunca bati, nunca fui pego. Hoje eu tô mais devagar, porque carteira suspensa não combina comigo.
+
+### História longitudinal
+
+**Entrevistador:** Voltando mais para trás. Como era você na infância, na escola?
+
+**Paciente:** Aprontava bastante. *(sorri)* Era o que dava trabalho. Fui expulso de uma escola aos doze anos por ter batido num colega — ele tinha me xingado, e eu não levo desaforo. Aos quatorze eu já fugia de casa de vez em quando, ia para o centro com um grupo, voltava no outro dia. Roubei umas coisas em loja, mas era brincadeira de adolescente.
+
+**Entrevistador:** E na sua família, alguém mais teve histórias parecidas?
+
+**Paciente:** Meu pai era complicado. Bebia, sumia. Hoje eu não tenho contato. A minha mãe que me criou, sozinha.
+
+**Entrevistador:** Você chegou a ter algum acompanhamento psicológico ou psiquiátrico antes?
+
+**Paciente:** Já fui umas três vezes, quando era menor, por causa da escola e do conselho tutelar. Não rendeu muita coisa. Eu sentava lá, conversava, e ia embora. Não acho que eu precise disso, pra ser sincero. Vim porque o juiz mandou. Se não, não viria.
+
+### Encerramento
+
+**Entrevistador:** Diogo, agradeço pela conversa. Vou registrar o que conversamos hoje no relatório que a Defensoria pediu. Você tem agendamento de retorno daqui a três semanas, e eu peço que você compareça.
+
+**Paciente:** Combinado, doutor. *(estende a mão, sorri)* O senhor é gente boa, viu? Não me trataram mal aqui não.
+
+> **Fim do roteiro de vídeo.**
+
+---
+
+## 5. Pergunta final para os alunos
+
+> **Em tela, fundo neutro, 10 segundos:**
+>
+> *Qual é o diagnóstico de personalidade mais provável?*
+> *Justifique sua hipótese com pelo menos três elementos observados na entrevista.*
+
+---
+
+## 6. Guia oculto para o professor
+
+### Diagnóstico mais provável
+
+Transtorno de personalidade antissocial (dissocial).
+
+### Pistas clínicas presentes no roteiro
+
+1. **Padrão repetido de desrespeito a normas e direitos alheios desde a infância e adolescência** (expulsão escolar por agressão aos 12, fugas, furtos em loja, primeiro contato com a justiça antes da maioridade).
+2. **Padrão atual repetido na vida adulta**: quatro passagens pelo sistema de justiça, sendo a mais recente por estelionato.
+3. **Ausência de remorso e racionalização**: minimiza prejuízos, transfere responsabilidade ("se a empresa tivesse cuidado"), descreve vítimas como abstrações.
+4. **Impulsividade e desinibição** (uso da operação do cartão da namorada, comportamento de risco no trânsito, mudança frequente de parceiras).
+5. **Instabilidade laboral**: empregos curtos e repetidos em áreas de venda, sempre rompidos por "atrito com chefia".
+6. **Charme superficial**: simpatia ativa com o entrevistador, tentativa de cumplicidade, narrativa fluente das próprias condutas.
+7. **Exploração da figura cuidadora** (mãe que cobre suas dívidas, abriga, "santa").
+
+### Diagnósticos diferenciais possíveis
+
+- **Transtorno por uso de substâncias**: presente como comorbidade provável (álcool, cannabis, uso esporádico de cocaína), mas o padrão antissocial **antecede e excede** o uso de substâncias.
+- **Transtorno de personalidade borderline**: pode haver impulsividade e instabilidade, mas faltam as marcas centrais (instabilidade afetiva intensa, autoimagem oscilante, comportamento autolesivo, pavor de abandono).
+- **Transtorno de personalidade narcisista**: a autovalorização aqui é instrumental (charme para conseguir vantagem), não baseada em fantasia grandiosa de sucesso.
+- **Transtorno explosivo intermitente**: existem episódios de violência, mas o padrão é **mais amplo, com violação crônica de normas e exploração interpessoal**.
+- **Condutas adaptativas em contexto socioeconômico adverso**: discutir com os alunos a importância do **caráter persistente, pervasivo e desde a infância** para fechar diagnóstico de personalidade, evitando psiquiatrização da pobreza.
+
+### Elementos discriminadores
+
+- **História de conduta antes dos 15 anos** é critério obrigatório para o diagnóstico de antissocial — Diogo apresenta de modo claro.
+- **Ausência de sofrimento subjetivo genuíno** com as consequências dos próprios atos diferencia-o do paciente borderline.
+- **Charme funcional sem fantasia grandiosa** diferencia-o do narcisista clássico.
+
+### Sugestão breve de discussão em sala
+
+- Manejo da **contratransferência** (irritação, descrença, sedução pelo charme do paciente).
+- Limites do tratamento psiquiátrico em contexto judicial: o que o psiquiatra pode oferecer, o que não pode?
+- Como redigir um relatório à Defensoria com **descrição comportamental**, sem juízo moral nem prognóstico determinista.
+
+---
+
+## 7. Mudanças feitas para evitar reprodução indevida ou infração de copyright
+
+| Dimensão | Caso original | Caso transformado |
+|---|---|---|
+| **Personagem** | Homem, 32 anos, em cumprimento de pena | Homem, 28 anos, em medida alternativa, em ambulatório |
+| **Cenário da consulta** | Atendimento psiquiátrico **dentro da penitenciária**, após briga em prisão | Ambulatório psiquiátrico de serviço-escola, encaminhamento da Defensoria Pública |
+| **Trigger imediato** | Briga com outro preso por aposta de cinco dólares | Convocação judicial em medida alternativa por estelionato |
+| **Histórico criminal** | Falsificação de cheques + ataque a policial + furto em loja + roubo de carro aos 13 | Estelionato com cartões de crédito + apropriação do cartão da namorada + briga em frente a boate + uso indevido de moto na adolescência + expulsão escolar por agressão aos 12 |
+| **Histórico ocupacional** | Não detalhado | Sequência de empregos curtos em vendas (internet, carros, casa noturna), todos encerrados por atrito |
+| **Vínculos** | Mãe e juízes obrigam atendimento prévio | Mãe que abriga e financia; ex-namorada explorada financeiramente; "amigo" rompido por dívida |
+| **Sequência narrativa** | Original abre por briga na prisão, depois reconstrói histórico | Novo roteiro abre por encaminhamento judicial, segue para racionalização do golpe, vínculos, trabalho, longitudinal — em formato dialogado |
+| **Frases marcantes do original** | "não tinha nada melhor pra fazer e deu vontade", "não tem nada errado comigo, então pra quê?", humor "legal" | **Nenhuma** reaproveitada |
+| **Uso de substâncias** | Negado no momento, admitido fora da prisão | Uso social atual de álcool e maconha, uso esporádico anterior de cocaína, direção sob efeito relatada de modo trivializado |
+
+Mudanças adicionais:
+
+- Mudança de **cenário institucional** (presídio → ambulatório judicial).
+- Substituição do **conteúdo criminal** (cheques, furto de carro, ataque a policial) por uma constelação distinta de delitos (estelionato com cartões, apropriação no relacionamento, agressão escolar precoce).
+- Eliminação da cena específica da briga prisional por **cinco dólares**, substituída por estelionato em ambiente comercial.
+- Cenas inéditas: apropriação do cartão da namorada, narrativa de "azar" sobre as quatro passagens, comentário sobre direção sob efeito.
+
+---
+
+## 8. Revisão final de possíveis semelhanças excessivas
+
+**1. Há alguma frase próxima demais do texto original?**
+Não. As citações marcantes do original ("não tinha nada melhor pra fazer e deu vontade", "não tem nada errado comigo, então pra quê?") **não** aparecem em nenhuma forma. O vocabulário do novo roteiro é independente.
+
+**2. Há alguma cena que preserva excessivamente a estrutura do caso original?**
+A zona de proximidade temática é o **padrão de minimização e ausência de remorso** — característica nuclear do diagnóstico e, portanto, inevitável. A formulação concreta ("eu fico chateado quando a coisa estoura. Mas, sinceramente, eu não fico me culpando") é construção autoral nova, sem replicar a do texto-fonte.
+
+**3. A combinação de detalhes ainda torna o caso reconhecível?**
+Não. Idade, cenário institucional, natureza dos delitos, vínculos e trajetória ocupacional foram alterados em conjunto.
+
+**4. O caso foi transformado de maneira substancial?**
+Sim. Cenário, conteúdo dos delitos, perfil dos vínculos e gênero textual (exposição → diálogo) foram modificados.
+
+**5. Algum trecho deveria ser reescrito para maior segurança?**
+Não. Nenhum trecho exige reescrita adicional após revisão.

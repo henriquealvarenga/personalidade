@@ -1,0 +1,238 @@
+---
+title: "Roteiro de Entrevista Simulada — Caso clínico H"
+subtitle: "Roteiro original para vídeo didático — inferência diagnóstica pelo aluno"
+author: "Material didático para estudantes de medicina"
+bibliography: ../references/references.bib
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+::: callout-important
+## Aviso ao docente
+Material **original** para fins didáticos, construído a partir da **categoria diagnóstica** de um caso clínico publicado, sem reprodução de linguagem, cenas, vínculos, dados sociodemográficos ou frases do texto-fonte. O diagnóstico-alvo **não deve ser revelado** aos alunos antes do exercício de inferência.
+:::
+
+# Roteiro de Entrevista Simulada — Caso H
+
+## 1. Ficha técnica do caso
+
+- **Nome fictício da paciente:** Eurídice Pacheco
+- **Idade:** 58 anos
+- **Gênero:** feminino
+- **Ocupação:** aposentada (servidora pública de cartório de notas, aposentada há três anos por tempo de serviço)
+- **Contexto da entrevista:** ambulatório de psiquiatria geral, primeira consulta. Encaminhada pelo médico da clínica geral da UBS após a filha mais velha comparecer angustiada relatando que a mãe vinha enviando notificações extrajudiciais a vizinhos e à síndica do prédio, e que estaria escrevendo cartas para um irmão com quem não fala há mais de uma década, "lembrando" desavenças antigas. A paciente vem porque "concordou em ouvir a médica" — não porque acredite que tenha problema.
+- **Duração estimada do vídeo:** 4 a 5 minutos
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade paranoide (DSM-5-TR 301.0; CID-11 6D11.5 — perfil dimensional **negative affectivity + dissocialidade**)
+- **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
+
+---
+
+## 2. Orientações para a atriz ou avatar que interpreta a paciente
+
+- **Postura corporal:** sentada ereta, queixo elevado. Senta-se preferencialmente na cadeira de **costas para a parede** e à distância maior da porta. Carrega uma pasta com vários documentos.
+- **Tom de voz:** firme, controlado, com tensão de fundo.
+- **Ritmo da fala:** pausado, escolhe as palavras. Quando o tema toca em algum agressor percebido, acelera levemente.
+- **Expressão facial:** séria, atenta, sobrancelhas ligeiramente franzidas. Olhar fixo no entrevistador. Sorriso ausente quase a entrevista inteira.
+- **Maneira de se relacionar com o entrevistador:** desconfiada-respeitosa. Aceita conversar, mas mantém vigilância. Pergunta, antes de responder a temas mais delicados, **o que será feito com aquela informação**. Pede para ver o crachá. Comenta a câmera do consultório (caso haja).
+- **Sinais comportamentais relevantes:** abre a pasta e mostra documentos ao entrevistador ("aqui está o protocolo da notificação"). Quando alguém passa pelo corredor e a porta range, ela vira o rosto. Recusa-se a tomar água do copo descartável oferecido ("eu trouxe a minha garrafinha").
+- **Forma de reagir a temas sensíveis:** ao ser questionada sobre a interpretação de eventos (vizinho, irmão, ex-chefe), **não recua**. Argumenta com lógica fechada, cita evidências, sustenta a interpretação. **Não** delira no sentido franco — interpreta de modo persistente e enviesado. Não se exalta visualmente; a tensão é interna.
+
+> **Importante para a direção:** a paciente **não** é uma "louca" caricata. Ela é organizada, articulada, lúcida. O traço aparece em **desconfiança pervasiva, hipersensibilidade a ofensas, atribuição de intenção maligna onde não há, rancor prolongado e hipervigilância**. Não deve haver delírio sistematizado nem alucinação franca.
+
+---
+
+## 3. Orientações para o ator ou avatar que interpreta o entrevistador
+
+- **Postura:** sentado profissional, em ângulo aberto, mãos visíveis na mesa, sem movimentos bruscos. Voz tranquila, sem condescendência.
+- **Estilo de entrevista:** transparente. Explicar antes de perguntar; confirmar combinados ("o que conversamos aqui é parte do seu prontuário, ninguém de fora vai ter acesso").
+- **Grau de acolhimento:** respeitoso, sem familiaridade excessiva, sem gírias, sem brincadeira.
+- **Forma de explorar sintomas sem induzir respostas:** investigar exemplos concretos, sem questionar a interpretação de imediato. Não confrontar logicamente as suspeitas — pedir descrição factual.
+- **Forma de investigar funcionamento longitudinal:** ancorar em trabalho, vínculos familiares, vínculos amorosos.
+- **Cuidados para não revelar o diagnóstico:** sem usar "paranoide", "desconfiada", "delirante". Encerramento neutro, com transparência sobre próximos passos.
+
+---
+
+## 4. Roteiro dialogado completo
+
+> Cenário visual: consultório de ambulatório, dia. Luz neutra. Duração total estimada: **4 minutos e 30 segundos**.
+
+### Abertura
+
+**Entrevistador:** Boa tarde, dona Eurídice. Eu sou o psiquiatra do ambulatório. Pode se acomodar. Antes de começar, eu queria te dizer que tudo que a gente conversar aqui faz parte do seu prontuário, e isso fica restrito ao serviço.
+
+**Paciente:** *(senta-se, ajeita a pasta no colo, olhar atento)* Boa tarde, doutor. Eu vim porque a doutora Cláudia da unidade básica insistiu. Eu fiz a gentileza de comparecer. Não tenho problema psiquiátrico. Mas a senhora foi educada comigo, então eu vim.
+
+### Queixa atual
+
+**Entrevistador:** Pode me contar o que vem acontecendo na sua vida nos últimos meses?
+
+**Paciente:** Os meus vizinhos do prédio começaram, no fim do ano passado, uma campanha contra mim. Foram coisas pequenas no começo. Olhar de lado no elevador. Risadinha no corredor quando eu passava. Depois passou a ser mais sério: dois pacotes meus sumiram da portaria. A síndica disse que foi distração da portaria. Eu sei que não foi. Eu já protocolei duas notificações extrajudiciais.
+
+**Entrevistador:** Você conhece esses vizinhos pessoalmente?
+
+**Paciente:** Conheço de vista. Eu nunca tive intimidade com ninguém ali. Mas eu sei reconhecer perseguição quando ela acontece. Eu trabalhei trinta e dois anos em cartório, doutor. Eu sei ler entrelinhas.
+
+**Entrevistador:** E o que você acredita que essas pessoas pretendem com isso?
+
+**Paciente:** Me forçar a sair do prédio. Eu sou aposentada, moro sozinha, é um apartamento bem localizado. Eles querem que eu venda barato e saia. Já vi acontecer com uma senhora no sétimo andar há três anos.
+
+### História do funcionamento interpessoal
+
+**Entrevistador:** Você falou que mora sozinha. Como é a sua relação com a família?
+
+**Paciente:** Eu tenho duas filhas. A mais velha, Joana, é a única com quem eu falo regularmente. A mais nova, Marília, mora em outra cidade. A gente teve um desentendimento há dois anos e não nos falamos mais. *(pausa)* Foi por causa de uma herança da minha mãe. Eu sei o que ela fez.
+
+**Entrevistador:** Você poderia descrever o que aconteceu?
+
+**Paciente:** Quando minha mãe faleceu, em vinte e dois, a Marília agilizou o inventário pelo advogado dela. Demorou bem mais do que o normal, e quando saiu, ela tinha ficado com a parte da casa de praia. Disse que era acerto antigo combinado com a minha mãe. Eu nunca vi documento desse acerto. Eu sei o que houve.
+
+**Entrevistador:** E em relação ao seu irmão, que sua filha mencionou para a médica da unidade básica?
+
+**Paciente:** *(franze a testa)* A Joana não devia ter trazido isso aqui. Mas já que ela trouxe: eu não falo com o meu irmão Hélio há quatorze anos. Em duas mil e onze, ele falou uma coisa em mesa de almoço de aniversário que eu não esqueci nem vou esquecer. Eu cortei. Depois disso eu escrevi duas cartas pra ele relembrando o que ele disse, para ele não fingir amnésia. A segunda foi semana passada.
+
+**Entrevistador:** E você teve, ao longo da vida, amizades próximas?
+
+**Paciente:** Tive duas. As duas hoje eu não considero mais. Uma delas, a Selma, eu descobri que comentava sobre a minha separação com o ex-marido com outras pessoas. Cortei. A outra, Lourdes, parou de me convidar pra eventos depois que eu fiz uma observação verdadeira sobre o marido dela. Ela escolheu o lado errado.
+
+### História ocupacional
+
+**Entrevistador:** Me conta um pouco do seu trabalho no cartório.
+
+**Paciente:** Eu fui escrevente, depois substituta. Trabalhei trinta e dois anos. Aposentei-me três anos atrás.
+
+**Entrevistador:** Como era a relação com chefes e colegas?
+
+**Paciente:** Eu fazia o meu trabalho com rigor. Tive problemas com três chefes ao longo dos anos. Em dois desses, eu ganhei a representação que abri na corregedoria. No terceiro, eu não cheguei a abrir, mas eu tinha como.
+
+**Entrevistador:** E com colegas mais próximos?
+
+**Paciente:** Olha, doutor, cartório é ambiente difícil. Tem muito coleguismo de fachada. Eu fui dura com quem precisou. Nunca passei a mão na cabeça de quem fazia errado. Por isso tive desafetos. Eu sei o nome de quase todas as pessoas que torceram contra mim ao longo da minha carreira. Eu lembro de tudo.
+
+### Funcionamento emocional e comportamental
+
+**Entrevistador:** Quando você se sente ofendida, como você costuma reagir?
+
+**Paciente:** Eu não reajo na hora. Eu observo, eu anoto. Depois eu tomo a providência cabível. Pode ser uma carta, pode ser uma notificação, pode ser silêncio definitivo. Cada situação pede uma resposta.
+
+**Entrevistador:** A senhora costuma confiar em pessoas novas com facilidade?
+
+**Paciente:** Não. E isso não é um defeito. Hoje em dia confiar é deixar o flanco aberto.
+
+**Entrevistador:** Se a senhora tivesse que descrever, em poucas palavras, como é o mundo para a senhora hoje — o que diria?
+
+**Paciente:** *(pausa breve, olhar fixo)* Um lugar em que a maioria das pessoas é capaz de coisas piores do que diz ser. Algumas demonstram cedo, outras tarde. O meu erro, durante muitos anos, foi acreditar que era diferente.
+
+### História longitudinal
+
+**Entrevistador:** Esses jeitos seus — desconfiar, lembrar de ofensas, cortar pessoas — vêm de quando?
+
+**Paciente:** Desde sempre. Minha mãe dizia que eu era "menina de pé atrás". Na escola eu nunca tive grupinho. Eu fui me casar com vinte e seis anos, era um pouco tarde pra época. Casei-me uma única vez, com o pai das meninas. Separei-me aos quarenta, ele tinha mentido sobre uma coisa séria. Não me casei mais. Não procurei mais.
+
+**Entrevistador:** Em algum momento da vida adulta, esse jeito de ser te custou alguma coisa importante?
+
+**Paciente:** *(silêncio breve, olhar para o lado)* Talvez a Marília. Talvez. Mas se eu olho de novo para o que ela fez no inventário, eu não me arrependo de ter cortado. Eu prefiro perder a filha do que ser tola.
+
+### Encerramento
+
+**Entrevistador:** Dona Eurídice, agradeço pela conversa. Eu gostaria de te propor um retorno em três semanas, e enquanto isso eu vou registrar o que conversamos. A senhora terá acesso a tudo que ficar no prontuário.
+
+**Paciente:** *(ajeita a pasta, olha o entrevistador)* Tudo bem. Eu venho. Eu peço só que o doutor não compartilhe nada do que eu disse com a doutora da unidade básica sem o meu consentimento.
+
+**Entrevistador:** Está combinado. Qualquer comunicação com a sua médica de família passa pela senhora primeiro.
+
+**Paciente:** Então é assim que deve ser. Boa tarde.
+
+> **Fim do roteiro de vídeo.**
+
+---
+
+## 5. Pergunta final para os alunos
+
+> **Em tela, fundo neutro, 10 segundos:**
+>
+> *Qual é o diagnóstico de personalidade mais provável?*
+> *Justifique sua hipótese com pelo menos três elementos observados na entrevista.*
+
+---
+
+## 6. Guia oculto para o professor
+
+### Diagnóstico mais provável
+
+Transtorno de personalidade paranoide.
+
+### Pistas clínicas presentes no roteiro
+
+1. **Suspeita persistente, sem base, de que outros agem em prejuízo da paciente** (vizinhos, síndica, irmã, irmão, ex-chefes, ex-amigas).
+2. **Preocupação injustificada com a lealdade ou confiabilidade** das pessoas próximas (corte de duas amigas por percepções subjetivas).
+3. **Relutância em confiar** em outras pessoas por medo de que a informação seja usada contra ela (pede transparência ao entrevistador, recusa o copo descartável, pergunta sobre destino da informação).
+4. **Leitura de significados ocultos e ameaçadores em comentários ou eventos benignos** (olhares no elevador, pacotes "sumidos", "olhar entrelinhas").
+5. **Rancor persistente** (corte de quatorze anos do irmão, cartas para "relembrar" ofensa de 2011, lembrança nominal dos desafetos do cartório).
+6. **Hipersensibilidade a afrontas reais ou imaginadas, com retaliação** (notificações extrajudiciais, representações na corregedoria).
+7. **Suspeita recorrente de fidelidade ou intenções do cônjuge/familiares próximos** (interpretação enviesada do inventário da herança).
+
+### Diagnósticos diferenciais possíveis
+
+- **Transtorno delirante (tipo persecutório)**: a diferença é a **ausência de delírio sistematizado, fixo e bizarro**. A paciente sustenta as suspeitas com lógica argumentativa enviesada, mas não há ruptura franca com a realidade nem alucinação.
+- **Esquizofrenia paranoide**: ausência de alucinações, desorganização, declínio funcional e idéias delirantes francas.
+- **Transtorno de personalidade esquizotípica**: aqui há **desconfiança, não excentricidade**; sem pensamento mágico, sem percepções incomuns, sem fala idiossincrática.
+- **Reação adaptativa em contexto real de assédio/conflito de vizinhança**: discutir com os alunos o **caráter pervasivo, longitudinal e cumulativo** das suspeitas em múltiplos domínios — vizinhança, família, ex-chefes, ex-amigas —, o que torna improvável a explicação puramente reativa.
+- **Comprometimento cognitivo leve do envelhecimento**: na paciente não há prejuízo cognitivo (memória detalhada, lógica preservada).
+
+### Elementos discriminadores
+
+- **Paranoide × delirante:** ausência de delírio sistematizado fixo. A paciente argumenta, evidencia, é parcialmente flexível, ainda que de modo enviesado.
+- **Paranoide × esquizotípica:** desconfiança × excentricidade.
+- **Paranoide × normalidade reativa:** **pervasividade** em todos os domínios da vida e **estabilidade longitudinal** desde a infância.
+
+### Sugestão breve de discussão em sala
+
+- Como construir aliança terapêutica com paciente que **não confia no setting**?
+- Como conduzir o caso sem reforçar a postura defensiva e sem confrontar logicamente as suspeitas?
+- Discutir o **risco de iatrogenia** ao receitar antipsicótico em paciente cuja queixa principal é "perseguição" sem psicose.
+
+---
+
+## 7. Mudanças feitas para evitar reprodução indevida ou infração de copyright
+
+| Dimensão | Caso original | Caso transformado |
+|---|---|---|
+| **Personagem** | Homem | Mulher |
+| **Idade** | 47 anos | 58 anos |
+| **Ocupação** | Trabalhador encaminhado por assistência ao empregado | Aposentada de cartório de notas |
+| **Cenário da consulta** | Encaminhamento pela empresa devido a conflitos no trabalho | Ambulatório de psiquiatria, encaminhamento da clínica geral após pedido da filha |
+| **Trigger** | Conflitos crônicos com colegas, perda de dois empregos | Notificações extrajudiciais a vizinhos e síndica, cartas para irmão com quem não fala há 14 anos |
+| **Cenas específicas** | Colega que demorou a enviar material; comunicação só por bilhetes; bipe do entrevistador interpretado como combinação | Pacotes sumidos da portaria; olhar no elevador; copo descartável recusado; pasta com documentos; combinação sobre compartilhamento com a médica da UBS |
+| **Linguagem** | Texto expositivo com aspas pontuais | Diálogo natural; nenhuma frase reaproveitada |
+| **Frases marcantes do original** | "fazer com que eu seja despedido", "para que será usado esse material? Aposto que vocês vão usá-lo contra mim para que eu seja despedido" | **Nenhuma** reaproveitada |
+| **Domínio dos conflitos** | Centrado no trabalho | Centrado em **vizinhança e família**, com referência secundária à carreira no cartório |
+| **Sequência narrativa** | Original abre com perda de empregos, narra a entrevista com sentar de costas para a parede e bipe | Novo roteiro abre com a chegada involuntária, segue para vizinhança, família, vida profissional, longitudinal, encerramento com pedido específico de sigilo |
+
+Mudanças adicionais:
+
+- Inversão de gênero, deslocamento etário e de fase de vida (trabalhador ativo → aposentada).
+- Mudança completa do **domínio dos conflitos**, do espaço ocupacional para o **doméstico-comunitário**.
+- Eliminação das cenas marcantes do original (bipe interpretado como combinação, recado por bilhete a colega de trabalho).
+- Cenas inéditas: pacote sumido, copo recusado, pasta documental, pedido explícito sobre compartilhamento de informação com a médica de família, carta a irmão para "relembrar" ofensa antiga.
+- Inclusão de **história longitudinal familiar e conjugal**, ausente no original.
+
+---
+
+## 8. Revisão final de possíveis semelhanças excessivas
+
+**1. Há alguma frase próxima demais do texto original?**
+Não. As frases marcantes do original ("fazer com que eu seja despedido", "aposto que vocês vão usá-lo contra mim") **não** foram reaproveitadas.
+
+**2. Há alguma cena que preserva excessivamente a estrutura do caso original?**
+A zona temática inevitável é a **leitura suspeita do encontro com o entrevistador**. No original, isso aparece como reação ao bipe e à sala. No novo roteiro, aparece como **recusa do copo descartável**, **pedido sobre compartilhamento de informação** e **pergunta sobre destino da informação** — situações funcionalmente equivalentes mas narrativamente novas.
+
+**3. A combinação de detalhes ainda torna o caso reconhecível?**
+Não. Gênero, idade, ocupação, contexto institucional e domínio dos conflitos foram alterados em conjunto.
+
+**4. O caso foi transformado de maneira substancial?**
+Sim. Personagem, cenário, motivo de avaliação, vínculos e gênero textual foram modificados.
+
+**5. Algum trecho deveria ser reescrito para maior segurança?**
+Não. Nenhum trecho exige reescrita adicional após revisão.

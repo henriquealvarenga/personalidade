@@ -1,0 +1,24 @@
+<!--
+  Metadados EPUB (Dublin Core) — usados pelo Pandoc na geração do .epub
+  Referenciado em _quarto.yml → format.epub.epub-metadata
+-->
+<dc:identifier id="book-id" opf:scheme="UUID">urn:uuid:c7e9b6a1-3e2d-4f7a-9b51-personalidade-2026</dc:identifier>
+<dc:title>Personalidade: Uma Breve Introdução</dc:title>
+<dc:creator opf:role="aut" opf:file-as="Silva, Henrique Alvarenga da">Henrique Alvarenga da Silva</dc:creator>
+<dc:contributor opf:role="edt">Henrique Alvarenga da Silva</dc:contributor>
+<dc:publisher>Henrique Alvarenga da Silva (Edição do Autor)</dc:publisher>
+<dc:date opf:event="publication">2026</dc:date>
+<dc:date opf:event="edition">2026-05</dc:date>
+<dc:source>2ª edição</dc:source>
+<dc:language>pt-BR</dc:language>
+<dc:rights>© 2026 Henrique Alvarenga da Silva. Distribuído sob licença CC BY-NC-SA 4.0.</dc:rights>
+<dc:description>Livro-texto sobre personalidade para o ensino de psicopatologia: capítulos clínicos sobre traços, transtornos, epidemiologia, tratamento e big data. Em apêndice opcional, o ensaio filosófico-literário "A descoberta às avessas" problematiza o próprio conceito.</dc:description>
+<dc:subject>Personalidade</dc:subject>
+<dc:subject>Psicopatologia</dc:subject>
+<dc:subject>Transtornos de Personalidade</dc:subject>
+<dc:subject>Big Five</dc:subject>
+<dc:subject>DSM-5</dc:subject>
+<dc:subject>Psiquiatria</dc:subject>
+<dc:subject>Educação Médica</dc:subject>
+<dc:subject>Fernando Pessoa</dc:subject>
+<dc:subject>Walt Whitman</dc:subject>

@@ -1,0 +1,105 @@
+---
+title: "A personalidade como narrativa"
+subtitle: "*Synecdoche, NY* (Kaufman) · *Lobo da Estepe* (Hesse) · Damásio e o eu autobiográfico"
+---
+
+::: {.callout-warning appearance="simple"}
+## [ESCREVER — capítulo a desenvolver]
+Scaffold com estrutura editorial. Análises substantivas a escrever pelo autor.
+:::
+
+## Abertura
+
+> *Apenas dispondo o material de tal maneira poderia oferecer algo
+> próximo ao que sou — não a explicação, mas a sucessão.*
+>
+> — Herman Hesse, *O Lobo da Estepe*
+
+A neurociência contemporânea — Damásio em particular — vem desmontando a ideia do eu como entidade unitária e estável. O eu, na proposta de Damásio, é uma **construção narrativa em tempo real**: o cérebro produz, a cada instante, uma história sobre quem somos a partir de fragmentos sensoriais, emocionais e memoriais [@damasio_self_2010]. A literatura modernista — Hesse, Kaufman no cinema — chegou à mesma intuição cinquenta a setenta anos antes.
+
+Este capítulo articula essa tese: a personalidade é menos uma propriedade que se tem do que uma narrativa que se conta — e que pode ser reescrita, contradita, fragmentada.
+
+::: {.callout-warning appearance="simple"}
+## [ESCREVER — parágrafo de transição]
+Conectar a tese ao trabalho clínico: a importância da **história clínica** como reconstrução narrativa, e como a psicoterapia opera, em parte, sobre essa reconstrução.
+:::
+
+## Synecdoche, New York (Charlie Kaufman, 2008)
+
+::: {.callout-warning appearance="simple"}
+## [ESCREVER — sinopse e análise]
+**Sinopse**: Caden Cotard (Philip Seymour Hoffman) é um diretor de teatro que recebe uma bolsa MacArthur e decide montar uma peça monumental e definitivamente verdadeira sobre sua própria vida. Ao longo de décadas, constrói uma réplica de Nova York dentro de um armazém, contrata atores para interpretarem todos em sua vida — inclusive a si mesmo —, atores para interpretarem os atores, e assim ao infinito. O filme termina sem que a peça nunca seja apresentada.
+
+**Análise**:
+
+- A vida como representação de si mesma — recursão narrativa sem fundo.
+- O sobrenome Cotard como referência à síndrome psiquiátrica homônima (delírio niilista, certeza de estar morto).
+- A reconsolidação da memória [@nader_fear_2000; @schiller_extinction_2010] como mecanismo neural análogo ao que Caden tenta fazer narrativamente — reescrever a história a cada montagem.
+:::
+
+## O Lobo da Estepe (Hermann Hesse, 1927)
+
+::: {.callout-warning appearance="simple"}
+## [ESCREVER — sinopse e análise]
+**Sinopse**: Harry Haller, intelectual solitário e suicida, descobre no "Tratado do Lobo da Estepe" — folheto que aparece misteriosamente em suas mãos — uma tese: ele não é dividido em homem e lobo, como acredita, mas em centenas de figuras heterogêneas que convivem mal. A salvação não é matar o lobo; é reconhecer a multiplicidade.
+
+**Análise**:
+
+- Crítica de Hesse à concepção dual da alma (oposta à tradição cristã do "anjo e demônio").
+- Aproximação com a tese contemporânea do **eu como assembleia** (Minsky, *The Society of Mind*, 1986; Dennett, *Consciousness Explained*, 1991).
+- O Teatro Mágico do romance como dispositivo terapêutico ficcional — confronto com as próprias multiplicidades.
+:::
+
+## Damásio — o eu autobiográfico
+
+::: {.callout-warning appearance="simple"}
+## [ESCREVER — síntese conceitual]
+Damásio distingue três níveis do eu [@damasio_self_2010]:
+
+1. **Proto-self** — mapeamento contínuo do estado corporal.
+2. **Core self** — sensação básica de ser sujeito de uma experiência, momento a momento.
+3. **Autobiographical self** — narrativa construída a partir de memórias autobiográficas integradas.
+
+A escrever:
+
+- Como o nível 3 (autobiográfico) é o nível em que **a personalidade reside**, no sentido em que a usamos cotidianamente.
+- Como esse nível é, por construção, **reconstruído a cada lembrança** — a memória autobiográfica não é arquivo fixo, é processo de reescritura constante [@nader_fear_2000; @schiller_extinction_2010].
+- Implicações clínicas: por que duas pessoas com a mesma "biografia" objetiva têm personalidades distintas. Por que a psicoterapia pode mudar personalidade (a narrativa muda).
+:::
+
+## A tese clínica
+
+::: {.callout-warning appearance="simple"}
+## [ESCREVER — síntese clínica]
+Linha argumentativa sugerida:
+
+1. Se a personalidade é narrativa, então ela é **modificável** — não infinitamente, mas de forma significativa.
+2. A psicoterapia opera, em larga medida, sobre a narrativa — reescritura, ressignificação, reconsolidação de memórias afetivas.
+3. O conceito clínico de **identidade narrativa** (McAdams, *Life Story*; Schechtman, *The Constitution of Selves*) dá suporte teórico ao trabalho terapêutico.
+4. Implicação para o estudante: ao colher anamnese, você está sendo testemunha — e às vezes co-autor — da narrativa do paciente. Tenha consciência disso.
+
+Conectar com:
+
+- Cap. 4 (plasticidade) — modificabilidade dos traços
+- Cap. 10 (tratamento) — psicoterapia como intervenção narrativa
+- [Apêndice](../apendices/descoberta-as-avessas.qmd) — Damásio, Wittgenstein, Heráclito
+:::
+
+## Atividade de aula
+
+::: {.callout-tip appearance="simple"}
+## Sugestão de uso pedagógico
+1. Exibir cena-chave de *Synecdoche, NY* (Caden contrata o ator para interpretá-lo).
+2. Pedir aos alunos que escrevam, em primeira pessoa, **duas anamneses do mesmo paciente fictício** — uma curta, uma longa. Comparar as duas "personalidades" que emergem.
+3. Discutir: o que muda quando o paciente escolhe quais memórias contar primeiro?
+:::
+
+::: {.callout-warning appearance="simple"}
+## [VERIFICAR — referências bibliográficas]
+Adicionar entradas no `.bib`:
+
+- Kaufman, *Synecdoche, New York* (2008) — Sony Pictures Classics. Filme.
+- Hesse, *Der Steppenwolf* (1927) — edição brasileira: Record (trad. Ivo Barroso) é a referência mais usada.
+- McAdams, D. P., *The Stories We Live By: Personal Myths and the Making of the Self* (1993).
+- Minsky, *The Society of Mind* (1986) — opcional, para o argumento da assembleia.
+:::

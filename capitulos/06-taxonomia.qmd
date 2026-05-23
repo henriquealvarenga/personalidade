@@ -1,0 +1,25 @@
+---
+title: "Taxonomia da personalidade"
+---
+
+O interesse em padrões de comportamento remonta à antiguidade. Conceitos como **tipos psicológicos**, **temperamento** e **caráter** podem ser traçados até a Grécia antiga.
+
+Recentemente, análises estatísticas com uso de *big data* identificaram quatro grupos distintos de personalidades (*average*, *reserved*, *self-centred*, *role model*) [@gerlach_robust_2018], embora a robustez e a utilidade clínica desses agrupamentos sejam tema de debate.
+
+A taxonomia médica, tendendo a estudar os fenômenos considerados patológicos, em geral não trabalha com o conceito de *tipos* de personalidade, mas com **transtornos** de personalidade [@who_icd10_1992; @apa_dsm5_2013].
+
+Em contraste com as controvérsias acerca dos tipos de personalidade, a teoria dos **traços** de personalidade é hoje amplamente aceita, definindo cinco domínios principais que descrevem o perfil de personalidade de um indivíduo — conhecidos como **Big Five** ou **Five Factor Theory (FFT)** [@widiger_oxford_2017]. Esses traços são tratados em detalhe no [próximo capítulo](07-tracos.qmd).
+
+As classificações médicas usualmente lidam não com o conceito de *personalidade*, mas com o de **transtornos de personalidade** — um conceito bastante controverso e de utilidade ainda questionável. O conceito moderno de transtorno de personalidade começou a se formar apenas no início do século XX, a partir dos trabalhos de Schneider [@berrios_european_1993].
+
+Em 1923, Kurt Schneider publicou a primeira edição de *Psychopathic Personalities* [@schneider_klinische_1923]. Ao priorizar o termo *personalidade*, ele contribuiu para tornar as palavras *temperamento* e *caráter* obsoletas [@berrios_european_1993]. Schneider descreveu dez tipos de personalidades que considerava causarem sofrimento ao próprio sujeito ou aos outros: hipertímico, depressivo, inseguro, fanático, carente de autoestima, lábil de afeto, explosivo, perverso, violento e astênico. Ele concebeu essas categorias como formas de ser, e não como entidades diagnósticas. Para Schneider, essas personalidades não representavam doenças, não eram patologias no sentido médico — apenas formas de existir que causavam sofrimento e que, além disso, não eram definitivas ou permanentes [@berrios_european_1993].
+
+::: {.callout-note appearance="simple"}
+## A advertência de Schneider — anormal em relação a quê?
+A posição de Schneider continha uma cautela conceitual que se perdeu nas classificações que vieram depois: as "personalidades anormais" são variações extremas do normal, identificáveis pelo sofrimento que causam — não por desvio de uma natureza humana fixa. Isso deixa aberta uma pergunta que o DSM tende a calar: *anormal em relação a quê?* Uma "personalidade obsessiva" valorizada em culturas que premiam perfeccionismo torna-se patológica em culturas que valorizam espontaneidade. Essa relativização cultural — e o estatuto epistemológico instável das categorias diagnósticas — é tema do [Apêndice II — Crítica interdisciplinar](../apendices/critica-interdisciplinar.qmd).
+:::
+
+::: {.callout-note appearance="simple"}
+## A virada dimensional da CID-11
+A **CID-11**, adotada pela OMS em janeiro de 2022 [@who_icd11_2022], abandonou o modelo categórico e instituiu uma única entidade diagnóstica — *Transtorno de Personalidade* (6D10) — graduada em severidade (leve, moderado, grave), com cinco qualificadores de domínio de traço (afeto negativo, desapego, dissocialidade, desinibição, anancástico) e um único qualificador de padrão preservado: *padrão borderline*. Os outros nove transtornos categóricos do DSM-5 deixaram de existir como entidades autônomas. A estrutura completa, com tabela de mapeamento DSM-5 ↔ CID-11, é desenvolvida no [Cap. 8 — Transtornos de personalidade](08-transtornos.qmd).
+:::

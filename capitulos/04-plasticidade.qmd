@@ -1,0 +1,32 @@
+---
+title: "A plasticidade da personalidade"
+---
+
+## Eventos de vida e modificações da personalidade
+
+Apesar de a estabilidade desses padrões ser tradicionalmente considerada a característica definidora da personalidade, o ser humano tem plasticidade suficiente para transformar a si mesmo, e diversos fatores podem contribuir para alterar os traços de personalidade ao longo da vida [@hopwood_stability_2018].
+
+Diversos trabalhos já demonstraram a utilidade da psicoterapia em modificar traços de personalidade disfuncionais [@storebo_psychological_2020; @hadjipavlou_promising_2010]. A plasticidade documentada por essa literatura é, em si, um argumento forte contra a leitura essencialista da personalidade (algo que vamos retomar no [ensaio em apêndice](../apendices/descoberta-as-avessas.qmd) deste livro).
+
+::: {.callout-note appearance="simple"}
+## Estabilidade *vs.* mudança
+Os Big Five mostram estabilidade *test-retest* razoável ao longo de décadas — coeficientes na faixa de 0,5 a 0,7 em estudos longitudinais de longo prazo. Mas estabilidade não é imutabilidade: há mudança de nível médio ao longo da vida (em geral aumento de conscienciosidade e amabilidade, redução de neuroticismo) e há mudança individual associada a psicoterapia, eventos de vida e intervenções farmacológicas.
+:::
+
+## Plasticidade cortical — a base neural da transformação
+
+A leitura da personalidade como padrão modificável encontra base sólida na neurociência da plasticidade cortical. Os trabalhos pioneiros de **Michael Merzenich**, nas décadas de 1980 e 1990, mostraram que o cérebro adulto **permanece radicalmente maleável** [@merzenich_neuroscience_2013]: os mapas sensoriais no córtex não são fixos, mas se reorganizam continuamente em função do uso e da experiência. Quem toca piano por anos tem expansão da representação cortical dos dedos; quem para, regride. Trata-se de reorganização anatômica literal — não de metáfora.
+
+**Norman Doidge** [@doidge_brain_changes_2007] documenta transformações ainda mais radicais: pessoas com hemisférios cerebrais removidos que desenvolvem funções complexas no tecido remanescente; cegos que aprendem a "ver" por outros sentidos. Se estruturas tão fundamentais quanto a visão podem ser remapeadas, a noção de uma "estrutura de personalidade" suficientemente rígida para resistir à experiência fica em xeque.
+
+::: {.callout-note appearance="simple"}
+## O "eu" como múltiplos sistemas paralelos
+Joseph LeDoux [@ledoux_synaptic_self_2002] argumenta que o que chamamos de "eu" não é uma entidade unitária, mas a coordenação imperfeita de **múltiplos sistemas cerebrais paralelos** — memória explícita e implícita, regulação emocional, controle motor, planejamento. Quando esses sistemas estão razoavelmente alinhados, sentimos coerência; quando se desencontram (no estresse, na dissociação, no sonho), a coerência se quebra. A personalidade, nessa leitura, é menos uma "coisa" do que um *efeito de integração* — e por isso pode ser transformada quando os componentes se reorganizam.
+:::
+
+A plasticidade cortical é, portanto, **a explicação neural** do que a literatura clínica já documentava: traços de personalidade não são imutáveis, e mudança terapêutica significativa é biologicamente plausível.
+
+::: {.callout-warning appearance="simple"}
+## [VERIFICAR — atualização]
+A revisão Cochrane sobre psicoterapias para transtorno de personalidade borderline [@storebo_psychological_2020] foi atualizada em **2020** (Storebø et al., Cochrane Database Syst Rev 2020). Substituir referência.
+:::

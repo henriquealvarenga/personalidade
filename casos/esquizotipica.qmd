@@ -1,0 +1,235 @@
+---
+title: "Roteiro de Entrevista Simulada — Caso clínico B"
+subtitle: "Roteiro original para vídeo didático — inferência diagnóstica pelo aluno"
+author: "Material didático para estudantes de medicina"
+bibliography: ../references/references.bib
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+::: callout-important
+## Aviso ao docente
+Material **original** para fins didáticos. Construído a partir da **categoria diagnóstica** de um caso clínico publicado, sem reprodução de linguagem, cenas, sequência narrativa, vínculos, dados sociodemográficos ou frases do texto-fonte. O diagnóstico-alvo **não deve ser revelado** aos alunos antes do exercício de inferência.
+:::
+
+# Roteiro de Entrevista Simulada — Caso B
+
+## 1. Ficha técnica do caso
+
+- **Nome fictício do paciente:** Otávio Penha
+- **Idade:** 41 anos
+- **Gênero:** masculino
+- **Ocupação:** assistente de turno noturno em biblioteca universitária (mesmo cargo há 14 anos)
+- **Contexto da entrevista:** ambulatório de saúde mental, primeira consulta. Encaminhado pela clínica geral após relato da irmã mais velha de "comportamento estranho que está piorando" — sem episódio agudo, sem internação, sem risco.
+- **Duração estimada do vídeo:** 4 a 5 minutos
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade esquizotípica (CID-11 6D11.5* — sob esquizotipia / DSM-5-TR 301.22)
+- **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
+
+---
+
+## 2. Orientações para o ator ou avatar que interpreta o paciente
+
+- **Postura corporal:** sentado com leve afastamento da cadeira; uma das pernas cruzadas, mãos pousadas separadamente nas coxas, sem gesticular muito. Mantém uma certa rigidez no tronco.
+- **Tom de voz:** monocórdico, levemente baixo, com modulação reduzida.
+- **Ritmo da fala:** sem aceleração, mas com pausas idiossincráticas — interrompe a frase no meio para emendar uma associação tangencial.
+- **Expressão facial:** afeto pouco expressivo, reativo de modo discreto. Sorriso esporádico fora de contexto evidente. Faz contato visual breve, depois desvia para um ponto fixo no canto da sala.
+- **Maneira de se relacionar com o entrevistador:** cooperativo, polido, sem hostilidade. Trata o entrevistador com formalidade ("doutor", "senhor"), mas mantém uma distância afetiva nítida — não busca aprovação, não pede confirmação.
+- **Sinais comportamentais relevantes:** veste camadas incomuns para a estação (camiseta + camisa social + colete fino + cachecol leve, em dia ameno), em combinações de cor pouco usuais (verde-musgo com bordô). Usa anel grande de pedra em uma das mãos, segura-o ocasionalmente. Carrega uma pasta com vários cadernos pequenos, e tira um deles para "consultar uma anotação" durante a entrevista.
+- **Forma de reagir a temas sensíveis:** quando o entrevistador investiga as crenças incomuns, **não** se defende nem se ofende. Explica com tranquilidade e detalhamento, como quem fala de um campo de estudo. Quando tocado em tema afetivo (amigos, namoro, solidão), responde de forma curta e desinteressada.
+
+> **Importante para a direção:** o paciente **não** é psicótico. Não há delírio organizado, não há alucinação franca, não há ideação suicida. O traço aparece em **excentricidade do pensamento, frieza interpessoal e crenças mágicas não delirantes**, com preservação do juízo crítico parcial ("sei que parece estranho para os outros"). Evitar caricatura de "louco".
+
+---
+
+## 3. Orientações para o ator ou avatar que interpreta o entrevistador
+
+- **Postura:** sentado tranquilo, sem inclinar-se demais. Tom suave, sem pressa.
+- **Estilo de entrevista:** investigativo respeitoso. Pergunta sobre as crenças e práticas do paciente **sem ironia, sem condescendência, sem confronto direto**.
+- **Grau de acolhimento:** sereno e estável. Não reforça o conteúdo das crenças incomuns ("interessante isso") nem as desqualifica.
+- **Forma de explorar sintomas sem induzir respostas:** perguntas abertas sobre rotina, vínculos, percepções incomuns e sentido pessoal das crenças. Evitar termos como "delírio", "alucinação", "mágico" ou "esquizo-".
+- **Forma de investigar funcionamento longitudinal:** ancorar em escola, primeiro emprego, relações, mudanças de residência.
+- **Cuidados para não revelar o diagnóstico:** sem interpretações em voz alta, sem rotulagem, sem encaminhamento explícito a serviço de psicose. O encerramento deve ser neutro.
+
+---
+
+## 4. Roteiro dialogado completo
+
+> Cenário visual: consultório de ambulatório, dia. Iluminação natural. Sem música. Duração total estimada: **4 minutos e 30 segundos**.
+
+### Abertura
+
+**Entrevistador:** Boa tarde, Otávio. Eu sou o psiquiatra do ambulatório. Vi que você foi encaminhado pela clínica geral. Você poderia me dizer, com suas palavras, o que te trouxe aqui hoje?
+
+**Paciente:** *(pausa breve, olha para o canto da sala, depois para o entrevistador)* Boa tarde. Quem achou que eu deveria vir foi a Marta, minha irmã. Eu mesmo não acho que tem alguma coisa errada. Mas ela ficou preocupada depois que entrou no meu apartamento, na semana passada, por causa de um vazamento.
+
+### Queixa atual
+
+**Entrevistador:** E o que ela viu no apartamento que te preocupou, ou que preocupou ela?
+
+**Paciente:** Ela achou que estava muito cheio. Eu tenho organizado os objetos da casa em sequências — números primos, principalmente. Os livros na estante seguem a sequência de Fibonacci. As louças na cozinha também. Faz sentido para mim, ajuda a manter o ambiente em equilíbrio. Mas ela achou que era demais.
+
+**Entrevistador:** Quando você diz "manter o ambiente em equilíbrio", você quer dizer o quê?
+
+**Paciente:** *(olhar atento, calmo)* As pessoas, os lugares, eles têm um padrão de frequência. Eu percebo isso desde criança. Quando o ambiente está organizado de uma certa maneira, a frequência fica mais estável. Eu sei que para muita gente isso soa esquisito. Eu não digo isso no trabalho, por exemplo.
+
+### História do funcionamento interpessoal
+
+**Entrevistador:** Falando em pessoas — como tem sido sua convivência no dia a dia? Família, amigos, colegas?
+
+**Paciente:** Eu falo com a Marta talvez uma vez por semana, no telefone. Ela é a única que ainda tem paciência comigo. Tenho dois colegas no setor noturno da biblioteca, a gente se cumprimenta, divide o cafezinho, e cada um vai para o seu turno.
+
+**Entrevistador:** E amigos próximos, fora do trabalho?
+
+**Paciente:** Não. Tive um colega na faculdade, há uns vinte anos, com quem eu conversava bastante. Hoje a gente não fala mais. Eu não sinto falta, para ser honesto. Eu gosto do meu próprio tempo.
+
+**Entrevistador:** E relacionamentos amorosos, ao longo da vida?
+
+**Paciente:** Um namoro breve aos vinte e poucos. Não durou nem três meses. Ela achava que eu era muito distante. Eu acho que ela tinha razão. Depois disso eu não busquei mais.
+
+### História ocupacional
+
+**Entrevistador:** Me conta um pouco da biblioteca. Como é o seu trabalho lá?
+
+**Paciente:** Eu entro às dez da noite e saio às seis da manhã. Sou responsável pelo acervo de periódicos antigos. Quase ninguém aparece de madrugada, então fica eu, as estantes e o silêncio. Eu gosto disso. Já me ofereceram para mudar para o turno diurno duas vezes, com aumento. Eu preferi continuar onde estou.
+
+**Entrevistador:** Por que essa preferência?
+
+**Paciente:** De dia tem muita gente, muita conversa fora de propósito. À noite a frequência do prédio é outra. Eu rendo mais.
+
+**Entrevistador:** Você falou em frequência outra vez. Você pode me explicar melhor o que isso significa pra você?
+
+**Paciente:** *(pausa, tira o pequeno caderno da pasta, folheia, não lê — só segura)* É como se cada lugar e cada pessoa emitisse uma vibração. Eu consigo perceber quando alguém está prestes a ficar doente, por exemplo, pela maneira como ele anda. Já avisei a Marta duas vezes que ela ia ter enxaqueca naquela semana. Aconteceu nas duas vezes.
+
+**Entrevistador:** E como você lida quando outras pessoas duvidam dessas percepções?
+
+**Paciente:** Tranquilamente. Eu sei como soa para fora. Não é uma coisa que eu saio espalhando. Mas eu sei o que eu percebo.
+
+### Funcionamento emocional e comportamental
+
+**Entrevistador:** Como você descreveria o seu humor de modo geral, na maior parte do tempo?
+
+**Paciente:** Estável. Nem para cima nem para baixo. Eu não tenho crises de tristeza, nem fases de muita alegria. As pessoas às vezes me acham frio. Pode ser. Eu sinto as coisas, só não da forma que elas esperam.
+
+**Entrevistador:** E quando alguma coisa não sai como você planejou — um imprevisto, uma frustração —, como você reage?
+
+**Paciente:** Ajusto a sequência. Reorganizo o que precisa ser reorganizado. Não sinto raiva, em geral. Talvez um incômodo curto.
+
+**Entrevistador:** Você mencionou que percebe coisas que outras pessoas não percebem. Tem alguma vez que você teve a sensação de ouvir um nome, uma voz, sem que ninguém estivesse falando?
+
+**Paciente:** *(pensa)* Já. Algumas vezes, quando estou na biblioteca de madrugada, tenho a impressão de que alguém entrou no salão. Eu vou checar e não tem ninguém. Eu interpreto isso como uma presença do próprio lugar. O prédio é antigo, tem memória.
+
+**Entrevistador:** E quando você está na rua, vendo um cartaz, ouvindo um rádio — você já teve a impressão de que alguma coisa ali estava se referindo especificamente a você?
+
+**Paciente:** Sim, mais de uma vez. Outdoors, principalmente. Eu sei que estatisticamente isso não pode ser. Mas eu reconheço o padrão.
+
+### História longitudinal
+
+**Entrevistador:** Esses jeitos seus — perceber padrões, organizar objetos em sequências, preferir trabalhar sozinho à noite —, eles vêm de quando?
+
+**Paciente:** Desde sempre. Na escola, eu era o menino que ficava no canto, contando os ladrilhos do pátio. Os professores diziam que eu era inteligente, mas que vivia "no mundo da lua". Eu acho que eu vivo num mundo próprio mesmo, e não vejo problema nisso.
+
+**Entrevistador:** E sua família, sua irmã, como reagiu a isso ao longo da vida?
+
+**Paciente:** A Marta sempre cuidou de mim como se eu fosse um irmão mais novo, mesmo eu sendo mais velho. Ela é a única que entra no apartamento. Os meus pais já faleceram. Não tenho outro contato familiar.
+
+### Encerramento
+
+**Entrevistador:** Otávio, obrigado por ter conversado comigo de modo tão claro. Vou organizar o que conversamos hoje e quero agendar um retorno em duas semanas, para a gente continuar. Pode ser?
+
+**Paciente:** Pode. *(coloca o caderno de volta na pasta com cuidado)* Eu venho. Mas eu queria deixar claro: não estou aqui porque acho que estou doente. Estou aqui porque a Marta pediu.
+
+**Entrevistador:** Está registrado. A gente conversa de novo na próxima visita.
+
+> **Fim do roteiro de vídeo.**
+
+---
+
+## 5. Pergunta final para os alunos
+
+> **Em tela, fundo neutro, 10 segundos:**
+>
+> *Qual é o diagnóstico de personalidade mais provável?*
+> *Justifique sua hipótese com pelo menos três elementos observados na entrevista.*
+
+---
+
+## 6. Guia oculto para o professor
+
+### Diagnóstico mais provável
+
+Transtorno de personalidade esquizotípica.
+
+### Pistas clínicas presentes no roteiro
+
+1. **Crenças incomuns e pensamento mágico** sem qualidade delirante franca: percepção de "frequências", organização de objetos em sequências matemáticas como forma de equilíbrio.
+2. **Experiências perceptivas atípicas, episódicas** ("presença" na biblioteca, sensação de referência em outdoors), **com juízo crítico parcialmente preservado**.
+3. **Excentricidade na apresentação** (vestuário em camadas e cores incomuns, gestos idiossincráticos com o caderno).
+4. **Constrição afetiva e frieza interpessoal**: poucos vínculos, indiferença ao isolamento, distância emocional sem sofrimento subjetivo evidente.
+5. **Padrão persistente desde a infância**, com funcionamento ocupacional preservado em nicho protegido e solitário.
+6. **Fala com tangencialidade e idiossincrasia** (vocabulário sobre "frequências", "memória do prédio").
+
+### Diagnósticos diferenciais possíveis
+
+- **Esquizofrenia**: ausente delírio sistematizado, alucinação franca, desorganização do pensamento, prejuízo cognitivo ou declínio funcional. Quadro **estável e crônico**, sem episódios psicóticos.
+- **Transtorno delirante**: as crenças não têm a estrutura encapsulada e firme do delírio; o paciente reconhece como soam "estranhas para os outros".
+- **Transtorno de personalidade esquizoide**: também há isolamento e constrição afetiva, mas **não há** o componente cognitivo-perceptivo (pensamento mágico, ideias de referência, excentricidade).
+- **Transtorno do espectro autista**: pode haver dificuldade social e restrição de interesses, mas a marca aqui é o **pensamento mágico e as experiências perceptivas atípicas** — não o padrão de comunicação social e comportamentos repetitivos do autismo.
+- **Uso de substâncias** (incluindo psicodélicos): excluir; padrão crônico desde a infância sem janelas de remissão argumenta contra causa exógena.
+
+### Elementos discriminadores
+
+- A **preservação do juízo crítico parcial** e a ausência de prejuízo cognitivo separam de quadros psicóticos.
+- A **presença do componente cognitivo-perceptivo** (pensamento mágico, ideias de referência, percepções incomuns) separa da personalidade esquizoide.
+- O **caráter persistente e estável** desde a infância, sem episódios agudos, descarta uma psicose breve ou primeiro episódio de esquizofrenia.
+
+### Sugestão breve de discussão em sala
+
+- Quando a excentricidade vira diagnóstico? Onde está a linha entre estilo de vida e transtorno?
+- Como acolher um paciente que **não percebe sofrimento** e foi trazido por terceiros?
+- Que riscos terapêuticos existem em tentar "convencer" o paciente de que suas crenças não são reais?
+
+---
+
+## 7. Mudanças feitas para evitar reprodução indevida ou infração de copyright
+
+| Dimensão | Caso original | Caso transformado |
+|---|---|---|
+| **Personagem** | Mulher | Homem |
+| **Idade** | 24 anos | 41 anos |
+| **Ocupação** | Trabalho esporádico como "vidente" | Assistente noturno de biblioteca universitária há 14 anos |
+| **Cenário da consulta** | Leito de obstetrícia, interconsulta psiquiátrica pós-parto | Ambulatório de saúde mental, primeira consulta, encaminhamento da clínica geral |
+| **Trigger da avaliação** | Suspeita da equipe obstétrica de "esquizofrenia"; gravidez resultante de estupro | Irmã preocupada após entrar no apartamento e ver organização incomum |
+| **Conteúdo das crenças** | Astrologia, projeção astral, reencarnação | Padrões matemáticos (Fibonacci, primos), "frequências" das pessoas e dos lugares, premonição de doenças |
+| **Apresentação física** | Camisolas hospitalares sobrepostas, manto ao avesso, cabelo trançado pela metade | Camadas de roupa civil em combinações incomuns, anel grande, caderno na pasta |
+| **Trajetória reprodutiva / sexual** | Estupro recente, gravidez, plano de adoção | Não abordado; um único namoro breve há ~20 anos |
+| **Funcionamento familiar** | Família achava as crenças estranhas | Pais falecidos; irmã única cuidadora |
+| **Sequência narrativa** | Original apresenta o caso em terceira pessoa, com foco no exame do estado mental e na cena hospitalar | Novo roteiro é entrevista ambulatorial dialogada, sem replicar a ordem do texto-fonte |
+| **Linguagem** | Texto expositivo com aspas pontuais | Diálogo natural; nenhuma frase literal reaproveitada |
+
+Mudanças adicionais:
+
+- Eliminação completa do contexto obstétrico, do trauma sexual e da gravidez.
+- Substituição do conteúdo místico-religioso (astrologia, reencarnação) por **conteúdo mágico-matemático** funcionalmente equivalente (sequências numéricas, "frequências").
+- Substituição da cena visual marcante (paciente em camisolas sobrepostas com manto ao avesso) por uma apresentação ambulatorial cotidiana, sem componente bizarro hospitalar.
+- Substituição do "trabalho esporádico como vidente" por **emprego formal estável em nicho protegido e solitário** — preservando o princípio clínico (funcionamento ocupacional limitado a contextos com baixa demanda interpessoal) sem repetir a cena.
+
+---
+
+## 8. Revisão final de possíveis semelhanças excessivas
+
+**1. Há alguma frase próxima demais do texto original?**
+Não. As citações entre aspas do original ("escrito nas estrelas", "vidente com bola de cristal") **não** foram reaproveitadas em nenhuma forma. O vocabulário do novo roteiro é independente.
+
+**2. Há alguma cena que preserva excessivamente a estrutura do caso original?**
+A única zona de proximidade temática é a **descrição de crenças incomuns** e a **apresentação visual atípica do paciente** — ambas inevitáveis dada a fidelidade ao quadro clínico. A cena do original (hospitalar, pós-parto, com vestuário improvisado de hospital) **não foi reproduzida**; substituída por consulta ambulatorial com vestuário civil.
+
+**3. A combinação de detalhes ainda torna o caso reconhecível?**
+Não. Gênero, idade, ocupação, cenário, motivo da avaliação, conteúdo das crenças e estrutura familiar foram alterados em conjunto.
+
+**4. O caso foi transformado de maneira substancial?**
+Sim. Tema central, contexto clínico, perfil sociodemográfico, conteúdo das crenças e gênero textual (exposição → diálogo) foram modificados.
+
+**5. Algum trecho deveria ser reescrito para maior segurança?**
+Não. A revisão crítica não identificou trechos que exijam reescrita adicional.

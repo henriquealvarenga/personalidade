@@ -1,0 +1,142 @@
+---
+title: "Atividade: visões da personalidade × IAs"
+subtitle: "Quatro teorias confrontadas com três modelos de linguagem · 40 minutos"
+---
+
+::: {.callout-tip appearance="simple"}
+## Pré-requisito
+Leia antes o capítulo [Quatro visões da personalidade](visoes-personalidade.qmd). O texto teórico é o ponto de partida da atividade.
+:::
+
+## Por que essa atividade
+
+Trata-se de uma atividade em grupo que ensina **três coisas ao mesmo tempo**:
+
+1. **Teoria da personalidade** — aprofunda quatro tradições teóricas (essência, narrativa, dinâmica relacional, produção social) consultando fontes externas além do material do livro.
+2. **Pensamento crítico clínico** — exige avaliar respostas de IAs como hipóteses, não como verdades, comparando posições e identificando divergências e omissões.
+3. **Literacia em IA** — treina o aluno a perceber como diferentes modelos (ChatGPT, Claude, Gemini) representam diferentemente um mesmo conceito, e como isso afeta a inferência clínica.
+
+É uma atividade desenhada para formar o **clínico do século XXI**: aquele que sabe usar IA como ferramenta sem perder o julgamento crítico.
+
+## Teorias atribuídas aos grupos
+
+A turma é dividida em **quatro grupos**, cada um responsável por uma visão:
+
+1. **Personalidade como Essência** — visão clássica/aristotélica; biologia profunda; traços inatos.
+2. **Personalidade como Narrativa** — Ricoeur, McAdams; *life story model*.
+3. **Personalidade como Dinâmica Relacional** — Merleau-Ponty, Kohut, Winnicott; *self* como emergência relacional.
+4. **Personalidade como Produção Social** — Foucault, Goffman, Butler; performance, papéis, discursos.
+
+::: {.callout-note appearance="simple"}
+## Grupo extra (turmas grandes)
+Em turmas maiores, pode-se acrescentar um quinto grupo:
+
+5. **Personalidade como Padrão emergente e plástico** — Cloninger, neurociência do desenvolvimento, epigenética. Conecta com o [capítulo sobre plasticidade](../capitulos/04-plasticidade.qmd).
+:::
+
+## Fases da atividade
+
+| Fase | Duração | O que acontece |
+|------|---------|----------------|
+| **1** | 10 min | Cada grupo consulta 2-3 modelos de IA (ChatGPT, Claude, Gemini) sobre sua teoria — pede definição, exemplos, autores, críticas. |
+| **2** | 15 min | Comparação crítica entre as respostas obtidas. Onde as IAs concordam? Onde divergem? O que omitem? |
+| **3** | 15 min | Apresentação em plenária (2 min por grupo) seguida de síntese pelo docente. |
+
+::: {.callout-tip appearance="simple"}
+## Prompts sugeridos para começar
+Cada grupo pode usar variantes destes pedidos nas IAs:
+
+- *"Explique a concepção de personalidade como [essência / narrativa / dinâmica relacional / produção social]. Quais os principais autores? Quais as críticas mais comuns?"*
+- *"Como essa visão de personalidade é aplicada na prática clínica?"*
+- *"Quais são os limites e riscos dessa concepção?"*
+- *"Como essa concepção dialoga (ou conflita) com as demais visões de personalidade?"*
+
+O exercício mais frutífero geralmente é **comparar a mesma pergunta feita a três modelos diferentes**.
+:::
+
+## Inferência diagnóstica do aluno
+
+Independente da fase em grupo, há um **formulário individual** preenchido por cada aluno, com 8 perguntas-cenário sobre situações em que a personalidade aparece. Para cada pergunta, o aluno escolhe entre 4 alternativas — cada uma representando uma das quatro visões.
+
+Ao final, é possível identificar para qual visão teórica cada aluno **tende mais** com base no padrão de respostas. Isso permite uma discussão posterior sobre alinhamentos teóricos implícitos e como cada aluno (futuro médico) **organiza sua compreensão clínica** sem necessariamente perceber.
+
+### Formulário (preenchimento individual)
+
+🔗 [**Abrir o formulário em nova aba**](https://forms.gle/DdncxVTiEiHTjcgs8){target="_blank"}
+
+::: {.content-visible when-format="html"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScnlT3st2NUKtm7Oz_4DJwLg7P2yIOoAoGqsUDhLI-jhGFDpQ/viewform?embedded=true"
+        width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0"
+        title="Formulário: Personalidade — Diferentes Visões">
+  Carregando formulário…
+</iframe>
+:::
+
+::: {.content-visible unless-format="html"}
+*[O formulário interativo está disponível apenas na versão HTML do livro. Use o link acima para abri-lo no navegador.]*
+:::
+
+### Análise dos resultados (dashboard ao vivo)
+
+Conforme os alunos respondem ao formulário, as respostas são gravadas em uma planilha Google. Um *script* em R (`_extras/analise_personalidade.qmd`) lê essas respostas e gera, **em tempo real**:
+
+- gráfico da distribuição de alunos por visão teórica predominante;
+- gráfico do padrão de respostas individual de cada aluno;
+- tabela final agrupada por teoria.
+
+Esse dashboard é renderizado **fora do livro** — não entra no *build* automático, porque depende de acesso à internet a cada execução e os dados precisam estar sempre frescos.
+
+::: {.callout-note appearance="simple"}
+## Passo a passo — gerar o dashboard antes da aula
+
+**Pré-requisitos** (verificar uma única vez na primeira aula que usar a atividade):
+
+1. **R** instalado no seu Mac (em geral via [CRAN](https://cran.r-project.org/) ou Homebrew: `brew install r`).
+2. **Pacote `tidyverse`** instalado no R. Para instalar, abra o R no terminal ou no Positron e rode:
+   ```r
+   install.packages("tidyverse")
+   ```
+3. **Quarto** com suporte a R (já instalado, pois você usa pra renderizar o livro).
+
+**Rodar o dashboard** (a cada aula que usar a atividade):
+
+1. Abra o **Positron** e dentro dele abra o arquivo
+   `_extras/analise_personalidade.qmd`.
+2. No terminal do Positron, garanta que está na raiz do projeto:
+   ```bash
+   cd "/Users/henriquealvarenga/Developer/_UFSJ/Personalidade_Project"
+   ```
+3. Renderize o arquivo:
+   ```bash
+   quarto render _extras/analise_personalidade.qmd
+   ```
+4. O Quarto vai gerar o arquivo `_extras/analise_personalidade.html`. Abra-o:
+   ```bash
+   open _extras/analise_personalidade.html
+   ```
+5. Conecte o Mac ao projetor da sala e mostre o HTML aberto no Safari/Chrome.
+
+**Toda vez que rodar `quarto render`, o *script* busca a versão mais recente das respostas no Google Sheets.** Se um aluno acabou de submeter, basta re-renderizar para o gráfico atualizar.
+
+**Solução de problemas comuns:**
+
+- *"could not connect to host"*: sua rede está bloqueando o Google Sheets. Tente reconectar ou usar a internet do celular.
+- *"Error: 'read_csv' is not exported"*: o `tidyverse` não está instalado. Volte ao pré-requisito 2.
+- *Tabela com `NA` em "grupo"*: alguma resposta do formulário não bate com o gabarito hardcoded no *script*. Edite o `gabarito` no `analise_personalidade.qmd` para incluir a frase nova.
+
+**Se quiser que o dashboard fique disponível como página pública** (sem precisar do seu Mac aberto), pode publicar via [QuartoPub](https://quartopub.com/) com um comando — gratuito, gera URL própria. Posso te ajudar quando precisar.
+:::
+
+## Para usar como avaliação
+
+A atividade pode integrar a avaliação da disciplina de duas formas:
+
+1. **Avaliação formativa** — apresentação em plenária + qualidade da síntese crítica feita por cada grupo (peso reduzido).
+2. **Avaliação somativa** — relatório individual de 1-2 páginas em que o aluno reflita sobre: (i) qual visão sua resposta no formulário sugere predominar, (ii) se concorda com esse achado e por quê, (iii) que visão ele acha mais útil para a prática clínica e por quê.
+
+::: {.callout-tip appearance="simple"}
+## Conexão com o livro
+- A leitura preparatória está em [Quatro visões da personalidade](visoes-personalidade.qmd).
+- A discussão sobre **personalidade como padrão e não substância** retorna no [Apêndice — A descoberta às avessas](../apendices/descoberta-as-avessas.qmd).
+- A perspectiva clínica formal (Big Five, transtornos) está nos [capítulos da Parte II](../capitulos/06-taxonomia.qmd).
+:::

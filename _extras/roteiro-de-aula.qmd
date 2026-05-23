@@ -1,0 +1,140 @@
+---
+title: "Roteiro de aula"
+subtitle: "*Existe mesmo a personalidade? Uma descoberta às avessas* — 90 minutos"
+---
+
+::: {.callout-note appearance="simple"}
+## Ficha técnica
+
+- **Duração:** 90 minutos
+- **Público-alvo:** estudantes de Medicina, Psicologia ou Filosofia
+  (graduação)
+- **Pré-requisito:** leitura prévia da [Coda](../coda/descoberta-as-avessas.qmd)
+- **Materiais:** trechos impressos de Whitman (seção 51 de *Song of
+  Myself*), Pessoa (fragmento de cada heterônimo), opcionalmente a
+  letra de *I Contain Multitudes* de Dylan, quadro e giz/marcador.
+:::
+
+## 1. Abertura provocativa (8 min)
+
+Escreva no quadro: **"Você tem uma personalidade?"**
+
+Peça que levantem a mão quem tem. Depois pergunte: *Onde fica? Como você sabe?*
+
+**Não conclua nada.** Instale a dúvida e deixe a turma desconfortável por alguns segundos.
+
+## 2. O truque da linguagem (10 min)
+
+Apresente o conceito de **reificação** — verbo virando substantivo, processo virando coisa. Use exemplos:
+
+> ela foi gentil → sua gentileza → sua personalidade gentil
+
+Mencione **Wittgenstein** (a palavra não vem com a coisa colada dentro) e **William James** (*psychologist's fallacy*).
+
+**Pergunta para a turma:** *Que outras "coisas" existem só porque inventamos o nome?*
+
+::: {.callout-tip appearance="simple"}
+## Sugestões esperadas
+alma, caráter, livre-arbítrio, gênio.
+:::
+
+## 3. O que diz a neurociência (12 min)
+
+Três pontos:
+
+1.  **Walter Mischel** e a baixa consistência situacional (correlações
+    em torno de 0,30).
+2.  **António Damásio** — o eu como narrativa em tempo real, produzido
+    pelo cérebro.
+3.  **Reconsolidação da memória** — lembrar é reescrever.
+
+Apresente o **contraponto**: os *Big Five* mostram estabilidade *test-retest* razoável ao longo de décadas.
+
+**Pergunta:** *Como conciliar?* — abra para discussão.
+
+## 4. A metáfora do rio (5 min)
+
+**Heráclito duas vezes:** você não entra duas vezes no mesmo rio, *e* o rio é o mesmo. Personalidade como padrão de fluxo, não substância. Como um redemoinho — real, mas sem fundo.
+
+## 5. A virada da literatura (10 min)
+
+**Contraste rápido:**
+
+- o romance do século XIX (Tolstói, Flaubert, George Eliot) constrói
+  personagens como essências reconhecíveis;
+- o modernismo desmonta — Woolf em *Mrs. Dalloway*, Joyce em *Ulysses*.
+
+**Pergunta para a turma:** *Por que essa virada aconteceu? O que mudou no mundo entre 1870 e 1925?*
+
+::: {.callout-tip appearance="simple"}
+## Sugestões esperadas
+cidade industrial, multidão, psicanálise, fotografia, cinema.
+:::
+
+## 6. Whitman — a dilatação (15 min)
+
+Apresente *Song of Myself* (1855 → 1892). Leia em voz alta a passagem da seção 51:
+
+> *Do I contradict myself?*
+> *Very well then I contradict myself,*
+> *(I am large, I contain multitudes.)*
+
+Mostre os catálogos (peça que abram em qualquer página e vejam as listas).
+
+Apresente **Borges**: os *dois* Whitmans — o jornalista de Brooklyn e o personagem mítico do livro.
+
+**Pergunta:** *o "eu" de Whitman é arrogante ou generoso?*
+
+## 7. Pessoa — a fragmentação (20 min)
+
+Apresente **Pessoa** (1888-1935). Conte o "dia triunfal" — 8 de março de 1914 — e o nascimento de Caeiro. Estabeleça a diferença entre **pseudônimo** e **heterônimo**. Apresente os quatro centrais com um parágrafo e um trecho de cada:
+
+| Heterônimo          | Caracterização                                                 | Texto sugerido para leitura       |
+|:--------------------|:---------------------------------------------------------------|:----------------------------------|
+| **Alberto Caeiro**  | pastor antimetafísico — *pensar é estar doente dos olhos*     | "Não basta abrir a janela…"       |
+| **Ricardo Reis**    | médico monarquista, odes horacianas                            | *Para ser grande, sê inteiro*     |
+| **Álvaro de Campos**| engenheiro naval, herdeiro de Whitman e depois desencantado    | trecho de *Tabacaria*             |
+| **Bernardo Soares** | semi-heterônimo, ajudante de guarda-livros                     | fragmento do *Livro do Desassossego* |
+
+Conte que os heterônimos discutiam entre si. Explore o sobrenome **Pessoa** (de *persona*, máscara).
+
+## 8. Síntese — a descoberta às avessas (5 min)
+
+Volte à pergunta inicial. Proponha a reformulação:
+
+> Não existe personalidade *como coisa*, mas existe *como padrão* —
+> algo que se repete o suficiente para ser reconhecível, mas que não
+> tem fundo.
+
+Frise o ponto: na descoberta comum, achamos algo que já estava ali; aqui, fizemos o contrário — vimos que algo que parecia óbvio era ilusão de linguagem.
+
+## 9. Atividade final (10 min)
+
+Peça que cada estudante invente um **heterônimo de si mesmo**. Em cinco minutos:
+
+- nome diferente,
+- profissão diferente,
+- posição filosófica diferente,
+- e um parágrafo escrito por essa pessoa.
+
+Leia dois ou três em voz alta.
+
+**Pergunta:** *Você se reconheceu? Ele "é" você?*
+
+## 10. Pergunta para casa
+
+> Em suas redes sociais, é a mesma pessoa em todas? Se não, qual é
+> "você"?
+
+Uma página, na próxima aula.
+
+::: {.callout-tip appearance="simple"}
+## Avaliação sugerida
+- **Participação na discussão da seção 3** (Mischel × Big Five): vale
+  observar se o estudante consegue articular o paradoxo
+  estabilidade/situacionalidade.
+- **Heterônimo de si mesmo**: avaliar coerência interna do "outro
+  autor" produzido, não qualidade literária.
+- **Pergunta para casa**: avaliar se há reflexão sobre identidade
+  performática × identidade essencial.
+:::

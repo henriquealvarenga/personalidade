@@ -1,0 +1,10 @@
+---
+number-sections: false
+nocite: |
+  @*
+---
+
+# Referências {.unnumbered}
+
+::: {#refs}
+:::

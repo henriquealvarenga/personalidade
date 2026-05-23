@@ -1,0 +1,227 @@
+---
+title: "Roteiro de Entrevista Simulada — Caso clínico C"
+subtitle: "Roteiro original para vídeo didático — inferência diagnóstica pelo aluno"
+author: "Material didático para estudantes de medicina"
+bibliography: ../references/references.bib
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+::: callout-important
+## Aviso ao docente
+Material **original** para fins didáticos, construído a partir da **categoria diagnóstica** de um caso publicado, sem reprodução de linguagem, cenas, vínculos, dados sociodemográficos ou frases do texto-fonte. O diagnóstico-alvo **não deve ser revelado** aos alunos antes do exercício de inferência.
+:::
+
+# Roteiro de Entrevista Simulada — Caso C
+
+## 1. Ficha técnica do caso
+
+- **Nome fictício da paciente:** Helena Albuquerque
+- **Idade:** 46 anos
+- **Gênero:** feminino
+- **Ocupação:** restauradora-chefe de laboratório de conservação em museu público de arte
+- **Contexto da entrevista:** ambulatório de psiquiatria, primeira consulta. Encaminhada pelo serviço de saúde ocupacional do museu após queixa formal da equipe sobre atrasos crônicos em entregas e bloqueio de projetos. A paciente foi notificada e veio "por imposição da diretoria", segundo suas próprias palavras.
+- **Duração estimada do vídeo:** 4 a 5 minutos
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade obsessivo-compulsiva (CID-11 6D11.5 — anancástica / DSM-5-TR 301.4)
+- **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
+
+---
+
+## 2. Orientações para a atriz ou avatar que interpreta a paciente
+
+- **Postura corporal:** sentada com as costas eretas, encostada na cadeira, ombros alinhados. Pernas cruzadas com simetria. Bolsa pousada ao lado, perfeitamente paralela à beirada da mesa.
+- **Tom de voz:** firme, controlado, sem oscilação emocional aparente.
+- **Ritmo da fala:** preciso, articulado, com escolha cuidadosa de palavras. Sem hesitações afetivas; pausa quando quer encontrar a "palavra correta".
+- **Expressão facial:** séria, com leve elevação das sobrancelhas quando o entrevistador pergunta algo que ela considera fora do ponto. Sorriso raro, breve e contido.
+- **Maneira de se relacionar:** formal, polida, ligeiramente distante. Trata o entrevistador com respeito profissional, mas sem calor. Demonstra discreta superioridade técnica ao mencionar o trabalho.
+- **Sinais comportamentais relevantes:** corrige a si mesma quando usa um termo impreciso ("eu disse 'rápido', mas o termo correto seria 'no prazo originalmente proposto'"). Tira uma agenda física da bolsa para confirmar uma data. Recusa um copo de água oferecido por considerar que "atrapalha o foco da conversa".
+- **Forma de reagir a temas sensíveis:** ao ser perguntada sobre relações afetivas, responde de modo objetivo e curto, sem afeto evidente. Quando o entrevistador toca em "delegar" ou "abrir mão de controle", surge irritação contida, mantida sob o tom polido. **Não** chora, **não** se exalta, **não** desorganiza a fala.
+
+> **Importante para a direção:** a paciente **não** é hostil nem antipática. O traço aparece em **rigidez, formalidade, perfeccionismo e moralismo no trabalho**, não em maneirismos. Evitar caricatura de "controladora". A personagem tem competência real, e isso deve transparecer.
+
+---
+
+## 3. Orientações para o ator ou avatar que interpreta o entrevistador
+
+- **Postura:** sentado de frente, postura aberta, mesa de lado (sem barreira). Tom respeitoso, sem condescendência.
+- **Estilo de entrevista:** semiestruturada, com perguntas neutras. Evitar comentários avaliativos ("isso é normal", "todo mundo é assim").
+- **Grau de acolhimento:** profissional e respeitoso. Reconhecer a competência da paciente, sem reforçar a desqualificação dos colegas.
+- **Forma de explorar sintomas sem induzir respostas:** investigar **processo de trabalho, vida cotidiana, vínculos, manejo de imprevistos**, com perguntas concretas ("me dá um exemplo recente de…").
+- **Forma de investigar funcionamento longitudinal:** ancorar em escola, faculdade, primeiro emprego, vida familiar, casamento.
+- **Cuidados para não revelar o diagnóstico:** não nomear traços ("perfeccionista", "rígida", "controladora"). Não confrontar diretamente as crenças morais sobre trabalho.
+
+---
+
+## 4. Roteiro dialogado completo
+
+> Cenário visual: consultório ambulatorial, dia. Iluminação clara. Duração total estimada: **4 minutos e 30 segundos**.
+
+### Abertura
+
+**Entrevistador:** Boa tarde, Helena. Eu sou o psiquiatra responsável pela primeira consulta. Vi que a saúde ocupacional do museu te encaminhou. Pode me contar como esse encaminhamento aconteceu, e como você se sentiu em vir?
+
+**Paciente:** *(senta-se com postura ereta, junta as mãos sobre o colo)* Boa tarde, doutor. Vou ser direta. Eu estou aqui porque a diretoria do museu decidiu que eu deveria fazer uma avaliação. Eu, particularmente, não vejo necessidade. Estou bem. O problema, do meu ponto de vista, não é meu.
+
+### Queixa atual
+
+**Entrevistador:** Entendo. Pode me contar o que aconteceu para a diretoria solicitar essa avaliação?
+
+**Paciente:** A equipe enviou uma reclamação formal porque, segundo eles, eu estaria atrasando as entregas das peças em restauração. Em parte é verdade: a exposição de outono não foi inaugurada no dia previsto. Mas foi adiada por minha decisão técnica. Não há como restaurar adequadamente uma tela do século dezenove em três semanas. Quem define o cronograma é a curadoria, que não conhece o procedimento.
+
+**Entrevistador:** E o que você fez quando percebeu que o prazo era inviável, do seu ponto de vista?
+
+**Paciente:** Documentei. Escrevi um parecer técnico de doze páginas e protocolei na diretoria. Eu sempre documento. Tenho cópia datada e assinada de cada decisão técnica que tomei nos últimos quinze anos no museu. Isso me protege.
+
+### História do funcionamento interpessoal
+
+**Entrevistador:** Como tem sido o seu relacionamento com a equipe que trabalha com você?
+
+**Paciente:** Eu sou rigorosa, e isso incomoda. Tenho três auxiliares no laboratório. Eu não delego a etapa final de nenhuma peça importante. Já tentei delegar, mas tive que refazer. Hoje eu prefiro ficar mais tempo e fazer eu mesma.
+
+**Entrevistador:** E em relação às pessoas próximas, fora do trabalho? Família, amigos?
+
+**Paciente:** Eu sou casada há dezessete anos. Meu marido é arquiteto, trabalha por conta. Não temos filhos, foi uma decisão minha. Eu sabia que não conseguiria conciliar a carga de trabalho com a criação de uma criança, e seria irresponsável tentar.
+
+**Entrevistador:** E amizades?
+
+**Paciente:** *(pausa breve)* Tenho conhecidas. Próximas, não. Eu não cultivo. Não tenho tempo, e não vejo necessidade.
+
+**Entrevistador:** E o seu marido, como ele descreve a convivência com você, na rotina?
+
+**Paciente:** Ele reclama. Diz que eu tenho regras demais sobre como as coisas devem ser feitas em casa. Eu organizo a despensa por categoria e validade decrescente; ele acha excessivo. Eu acho funcional. *(pequena pausa)* Tivemos algumas discussões nos últimos dois anos sobre isso. Não chegou a ser grave.
+
+### História ocupacional
+
+**Entrevistador:** Me conta um pouco da sua trajetória. Como você foi parar na restauração?
+
+**Paciente:** Fiz bacharelado em conservação e restauro, depois mestrado. Sou a única do meu grupo de mestrado que ainda atua na área. Os outros desistiram do rigor. Entrei no museu como bolsista, virei restauradora, depois chefe de laboratório. Estou no mesmo cargo há nove anos.
+
+**Entrevistador:** Você mencionou "o rigor". O que você quer dizer com isso?
+
+**Paciente:** Restauração é uma área em que ou se faz da forma correta, com método, com protocolo, com tempo, ou não se faz. Hoje em dia tem muita gente que improvisa, entrega rápido para o cliente ficar feliz, e a peça se compromete em cinco anos. Eu não trabalho assim. Se a peça está sob minha responsabilidade, é feita do jeito certo.
+
+**Entrevistador:** E quando você precisa abrir mão de alguma etapa, ou aceitar um padrão menos rigoroso por contingência?
+
+**Paciente:** *(silêncio curto, expressão tensa)* Eu não abro mão. Prefiro absorver mais horas. Eu não tiro férias há quatro anos. Inclusive, no laboratório, eu sou a primeira a chegar e a última a sair. Os auxiliares já me chamaram de "imbatível". Não foi elogio, eu sei.
+
+### Funcionamento emocional e comportamental
+
+**Entrevistador:** Quando algum imprevisto acontece — uma instrução de cima muda, um material atrasa, um auxiliar erra um procedimento — como você costuma reagir?
+
+**Paciente:** Por dentro, fico irritada. Por fora, eu reorganizo. Eu refaço o cronograma, refaço o procedimento. O auxiliar que erra recebe uma orientação por escrito, com o passo onde ele falhou. Já tive uma auxiliar que se demitiu por causa disso. Eu lamento, mas não vou abaixar o padrão.
+
+**Entrevistador:** Você consegue lembrar de alguma situação na qual você riu de si mesma, ou aceitou uma falha sua de modo mais leve?
+
+**Paciente:** *(pausa longa)* Não me ocorre nenhuma agora. Eu erro pouco, justamente porque eu reviso muito antes de entregar.
+
+**Entrevistador:** E como você se sente quando precisa ficar parada, sem produzir — num feriado, num fim de semana sem demanda?
+
+**Paciente:** Desconfortável. Eu organizo o armário, atualizo planilhas de gastos pessoais. Eu tenho controle de cada gasto da minha vida adulta, separado por categoria. Isso me deixa em paz. Ficar sem fazer nada me deixa ansiosa.
+
+### História longitudinal
+
+**Entrevistador:** Esses jeitos seus — exigência alta com o trabalho, dificuldade em delegar, gosto por organização detalhada — eles vêm de quando?
+
+**Paciente:** Sempre. Na escola eu era a aluna que fazia a redação três vezes antes de entregar. Na faculdade eu fichava todo capítulo de cada livro, ainda guardo os fichamentos. Nunca tirei nota abaixo de nove em nada. *(pausa)* Não acho isso um defeito. Acho que é por isso que eu sou competente no que faço.
+
+**Entrevistador:** E em algum momento da vida adulta esses padrões te custaram algo importante, do seu ponto de vista?
+
+**Paciente:** *(silêncio, olhar para o lado)* Talvez na convivência com o meu marido. Ele já disse que se sente "vigiado". Eu não me vejo assim. Mas eu sei que para ele é assim.
+
+### Encerramento
+
+**Entrevistador:** Helena, agradeço pela clareza. Vou organizar as informações de hoje e quero te propor um retorno em duas semanas, para a gente continuar essa conversa.
+
+**Paciente:** Tudo bem. Eu trago a documentação que a saúde ocupacional pediu, está pronta. *(coloca a agenda de volta na bolsa, ajeita a alça)* Bom dia, doutor.
+
+> **Fim do roteiro de vídeo.**
+
+---
+
+## 5. Pergunta final para os alunos
+
+> **Em tela, fundo neutro, 10 segundos:**
+>
+> *Qual é o diagnóstico de personalidade mais provável?*
+> *Justifique sua hipótese com pelo menos três elementos observados na entrevista.*
+
+---
+
+## 6. Guia oculto para o professor
+
+### Diagnóstico mais provável
+
+Transtorno de personalidade obsessivo-compulsiva (anancástica).
+
+### Pistas clínicas presentes no roteiro
+
+1. **Preocupação excessiva com ordem, regras e detalhes** a ponto de prejudicar a finalização da tarefa (atraso da exposição, parecer técnico de doze páginas).
+2. **Perfeccionismo que compromete a entrega**: padrões tão elevados que ela prefere absorver as próprias horas a aceitar entrega "menos do que ideal".
+3. **Dificuldade em delegar** porque insiste que os outros não fariam "como se deve" (refaz o trabalho dos auxiliares).
+4. **Dedicação excessiva ao trabalho** em detrimento de lazer e vínculos (sem férias há quatro anos, sem amizades próximas, sem filhos por opção justificada como "responsabilidade").
+5. **Rigidez moralista** sobre o jeito "certo" de trabalhar e julgamento dos colegas que "desistiram do rigor".
+6. **Inflexibilidade em casa** (organização da despensa, controle minucioso de gastos pessoais por categoria).
+7. **Ego-sintonia**: a paciente **não** se vê como portadora de problema; a queixa é dos outros.
+
+### Diagnósticos diferenciais possíveis
+
+- **Transtorno obsessivo-compulsivo (TOC)**: o quadro mais frequentemente confundido. No **TOC** há **obsessões intrusivas e indesejadas** (egodistônicas) e **compulsões com função ansiolítica**. Helena **não** apresenta intrusões nem rituais com sensação de absurdo — a rigidez é **ego-sintônica** e justificada moralmente.
+- **Transtorno depressivo persistente**: pode haver redução de prazer e excesso de trabalho, mas falta o componente afetivo central (anedonia, fadiga, autodepreciação).
+- **Transtorno de personalidade esquizoide**: o isolamento social existe, mas é **consequência da dedicação ao trabalho** e da seletividade rigorosa, não de desinteresse afetivo primário.
+- **Transtorno do espectro autista**: pode coexistir e ser confundido, mas a marca aqui é **rigidez moral, perfeccionismo e controle interpessoal**, não dificuldade de leitura social ou padrões restritos de interesse.
+
+### Elementos discriminadores
+
+- **TOC × Personalidade obsessivo-compulsiva:** TOC = obsessões e compulsões egodistônicas, com angústia e tentativa de neutralização. Personalidade = padrão estável, **ego-sintônico**, de rigidez, perfeccionismo e controle, que o paciente vê como virtude.
+- **Personalidade obsessivo-compulsiva × esquizoide:** na esquizoide há **indiferença afetiva primária**; aqui há **uso do trabalho como organizador da vida** e dificuldade de delegar/relacionar, mas com vínculo conjugal estável.
+
+### Sugestão breve de discussão em sala
+
+- Por que esse perfil costuma chegar tarde ao psiquiatra (geralmente trazido por terceiros)?
+- O traço pode ser **adaptativo em certos contextos profissionais**: como diferenciar competência rigorosa de quadro clínico?
+- Implicações para o trabalho médico em equipe e para o autocuidado de profissionais com esse perfil.
+
+---
+
+## 7. Mudanças feitas para evitar reprodução indevida ou infração de copyright
+
+| Dimensão | Caso original | Caso transformado |
+|---|---|---|
+| **Personagem** | Homem | Mulher |
+| **Idade** | 36 anos | 46 anos |
+| **Ocupação** | Funcionário corporativo (com referência à dedicação de 10–12h/dia) | Restauradora-chefe de laboratório em museu público de arte |
+| **Cenário da consulta** | Agência de assistência a empregados | Ambulatório de psiquiatria, encaminhamento via saúde ocupacional do museu |
+| **Trigger da avaliação** | Dificuldade em decidir e em finalizar trabalhos importantes; queixas vagas | Atraso documentado em exposição pública, reclamação formal da equipe |
+| **Estrutura familiar** | Não detalhado no original | Casada há 17 anos, sem filhos por decisão, sem vínculos íntimos fora do casamento |
+| **Cenas específicas** | Escritório organizado, fala sobre saber para onde "foi cada dólar" gastado, prazos "inadequados para a qualidade do trabalho" | Cronograma reescrito após cada imprevisto, fichamentos guardados desde a faculdade, parecer técnico de doze páginas, controle de gastos pessoais por categoria |
+| **Sequência narrativa** | Original abre com queixa de chefia e segue para autoimagem grandiosa do paciente | Novo roteiro abre com a chegada involuntária; explora processo de trabalho, vínculos e história longitudinal por meio de diálogo investigativo |
+| **Linguagem** | Texto expositivo com aspas pontuais ("tão dedicado…", "se mais pessoas neste país…", "eu sei para onde foi cada dólar…") | Diálogo natural; **nenhuma** dessas frases reaproveitada, em nenhuma forma |
+| **Componente moralista** | Crítica genérica a "preguiçosos" e "pessoas que não seguem as regras" | Crítica específica à área de restauração e ao improviso técnico — temática diferente e contextualizada |
+
+Mudanças adicionais:
+
+- Inversão de gênero, mudança de geração (36 → 46), troca completa de área profissional (contábil/corporativa → conservação patrimonial).
+- Substituição das frases marcantes do original por formulações inéditas, com vocabulário técnico próprio da nova profissão.
+- Inclusão de cenas inéditas (parecer de doze páginas, despensa por categoria, auxiliar que se demitiu, fichamentos guardados da faculdade).
+- Adição de **vínculo conjugal estável com atrito específico**, ausente no original — permitindo investigar interpessoalidade fora do trabalho.
+
+---
+
+## 8. Revisão final de possíveis semelhanças excessivas
+
+**1. Há alguma frase próxima demais do texto original?**
+Não. As frases citadas no texto-fonte ("tão dedicado ao meu trabalho que faço os outros parecerem preguiçosos", "se mais pessoas neste país fossem como eu", "eu sei para onde foi cada dólar que já gastei na vida", "prazos inadequados para a qualidade do trabalho que eu ofereço") **não** foram reaproveitadas em forma alguma.
+
+**2. Há alguma cena que preserva excessivamente a estrutura do caso original?**
+A zona de proximidade temática é o **controle minucioso de gastos pessoais** e o **discurso moral sobre o trabalho dos outros**. Ambos foram reformulados em outro registro: o controle de gastos aparece como sintoma comportamental concreto (planilhas por categoria) e não como frase de impacto; o discurso moral foi recontextualizado na **especificidade técnica da restauração**, não em crítica genérica à sociedade.
+
+**3. A combinação de detalhes ainda torna o caso reconhecível?**
+Não. Gênero, idade, área, cenário, motivo do encaminhamento e estrutura familiar foram alterados em conjunto.
+
+**4. O caso foi transformado de maneira substancial?**
+Sim. Tema central, contexto clínico, perfil sociodemográfico, vínculos e gênero textual foram modificados.
+
+**5. Algum trecho deveria ser reescrito para maior segurança?**
+Não. Após revisão, nenhum trecho exige reescrita adicional.

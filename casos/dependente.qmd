@@ -1,0 +1,254 @@
+---
+title: "Roteiro de Entrevista Simulada — Caso clínico A"
+subtitle: "Roteiro original para vídeo didático — inferência diagnóstica pelo aluno"
+author: "Material didático para estudantes de medicina"
+bibliography: ../references/references.bib
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+::: callout-important
+## Aviso ao docente
+Este roteiro é um **material original**, criado para fins didáticos. Foi construído a partir da **categoria diagnóstica** de um caso clínico publicado, mas **não reproduz** linguagem, cenas, sequência narrativa, vínculos, dados sociodemográficos ou frases do texto-fonte. O diagnóstico-alvo **não deve ser revelado** aos alunos antes do exercício de inferência.
+:::
+
+# Roteiro de Entrevista Simulada — Caso A
+
+## 1. Ficha técnica do caso
+
+- **Nome fictício da paciente:** Marina Bittencourt
+- **Idade:** 29 anos
+- **Gênero:** feminino
+- **Ocupação:** auxiliar de farmácia em drogaria de bairro (mesmo cargo há 7 anos)
+- **Contexto da entrevista:** primeira consulta em ambulatório de saúde mental de uma unidade básica, encaminhada pela médica de família após queixas inespecíficas de mal-estar e insônia
+- **Duração estimada do vídeo:** 4 a 5 minutos
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade dependente (CID-11 6D10.4 / DSM-5-TR 301.6)
+- **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo, na descrição, nas legendas ou na thumbnail
+
+---
+
+## 2. Orientações para a atriz ou avatar que interpreta a paciente
+
+- **Postura corporal:** sentada com os ombros levemente curvados para frente, joelhos juntos, mãos cruzadas no colo ou segurando a alça da bolsa. Pouca ocupação do espaço da cadeira.
+- **Tom de voz:** baixo e suave, mas inteligível. Sem tremor evidente.
+- **Ritmo da fala:** lentificado, com pausas curtas antes de respostas que envolvam opinião própria. Acelera levemente quando fala de pessoas próximas.
+- **Expressão facial:** apreensiva, sobrancelhas discretamente elevadas. Sorriso breve e tímido quando recebe acolhimento. Olhar oscila entre o entrevistador e o chão; busca contato visual sobretudo após terminar uma frase, como se checasse aprovação.
+- **Maneira de se relacionar:** colaborativa, deferente. Tende a concordar com o entrevistador antes mesmo de a pergunta terminar. Em momentos de dúvida, pergunta "isso é a resposta certa?" ou "é isso que o senhor / a senhora queria saber?".
+- **Sinais comportamentais relevantes:** evita responder imediatamente a perguntas que pedem preferência pessoal ("não sei… o que vocês acham?"). Ao mencionar a irmã, o rosto se ilumina discretamente. Ao mencionar a possibilidade de morar sozinha, fica visivelmente desconfortável: respira fundo, baixa o olhar.
+- **Reação a temas sensíveis:** quando o entrevistador toca em autonomia, rompimento ou perda, ela **não** chora dramaticamente — fica em silêncio breve, depois minimiza ("sou exagerada, deve ser bobagem minha"). Evite lágrimas teatrais e qualquer postura infantilizada.
+
+> **Importante para a direção:** a paciente não deve parecer frágil de modo caricato, nem submissa de forma exagerada. O traço aparece na **estrutura interpessoal** da fala — quem ela cita, o que ela delega, o que evita decidir — e não em maneirismos.
+
+---
+
+## 3. Orientações para o ator ou avatar que interpreta o entrevistador
+
+- **Postura:** sentado de frente para a paciente, em ângulo levemente aberto. Mãos relaxadas, prontuário ou tablet apoiado, sem barreira física rígida.
+- **Estilo de entrevista:** semiestruturada, exploratória, com perguntas abertas predominando sobre perguntas de checagem.
+- **Grau de acolhimento:** caloroso porém **não condescendente**. Evite formulações que confirmem a dependência ("você fez muito bem em consultar sua irmã") ou que sinalizem julgamento ("isso não é normal para a sua idade").
+- **Forma de explorar sintomas sem induzir respostas:** nunca usar termos diagnósticos ("dependente", "submissa", "passiva"). Trabalhar com perguntas comportamentais: *"como costuma decidir…"*, *"o que costuma acontecer quando…"*, *"me conta um exemplo recente de…"*.
+- **Investigação do funcionamento longitudinal:** procurar âncoras temporais (escola, primeiro emprego, saída de casa, relações afetivas) sem dar pistas verbais sobre o que se espera ouvir.
+- **Cuidados para não revelar o diagnóstico:** não usar frases como *"você parece depender muito da sua irmã"* nem fazer interpretações em voz alta. O encerramento deve ser neutro e não devolver hipótese diagnóstica.
+
+---
+
+## 4. Roteiro dialogado completo
+
+> Cenário visual: consultório simples de UBS, mesa lateral, duas cadeiras. Iluminação suave. Sem música. Tempo total estimado: **4 minutos e 30 segundos**.
+
+### Abertura
+
+**Entrevistador:** Boa tarde, Marina. Senta aqui, fica à vontade. Eu sou o doutor responsável pelo ambulatório hoje. Vi que a doutora Júlia te encaminhou aqui pra gente. Pra começar, eu queria que você me contasse, com suas palavras, o que está te incomodando nesses últimos tempos.
+
+**Paciente:** *(ajeita a bolsa no colo, olha rapidamente para o chão e depois para o entrevistador)* Boa tarde, doutor. É… eu não sei muito bem por onde começar. A minha irmã achou melhor eu vir aqui conversar, porque eu não tô dormindo direito faz umas três semanas. Fico acordada até tarde, sabe? E aí no dia seguinte na farmácia eu fico meio… meio devagar.
+
+### Queixa atual
+
+**Entrevistador:** Entendi. E você consegue identificar se aconteceu alguma coisa nessas últimas semanas que tenha te tirado o sono?
+
+**Paciente:** Acho que sim. A Luana, minha irmã, contou que o marido dela foi aprovado num concurso lá em Florianópolis. Eles vão ter que se mudar até o fim do ano. *(pausa breve)* Aí eu fiquei meio… meio sem chão. Eu moro com eles, sabe? Desde que minha mãe faleceu, há quase dez anos.
+
+**Entrevistador:** Sinto muito pela sua mãe. E como tem sido pensar nessa mudança que está vindo?
+
+**Paciente:** É que… eu não sei o que eu vou fazer. A Luana fala pra eu ir junto, mas o marido dela, o Rafael, ele tá começando a vida lá, eu acho que não fica bem eu… *(olha para o entrevistador)* o senhor acha que fica?
+
+**Entrevistador:** Esse é um ponto importante, a gente pode voltar nele. Antes, me ajuda a entender melhor: como está sendo o seu dia a dia agora, com essa notícia?
+
+**Paciente:** Eu fico travada. Tem coisas pequenas, sabe? Tipo, ontem eu fui no mercado e fiquei uns vinte minutos parada na frente do arroz, sem saber qual marca pegar. Eu acabei mandando foto pra Luana, ela me disse qual era, aí eu consegui.
+
+### História do funcionamento interpessoal
+
+**Entrevistador:** Você falou bastante na sua irmã. Me conta um pouco mais sobre essa relação de vocês.
+
+**Paciente:** A Luana é cinco anos mais velha. Ela sempre cuidou de mim, desde criança. Quando minha mãe ficou doente, foi a Luana que organizou tudo. Hoje ela é como… como uma bússola pra mim. A gente se fala várias vezes por dia. Se eu não falo com ela de manhã, eu já fico meio inquieta.
+
+**Entrevistador:** E fora a sua irmã, com quem mais você costuma contar no dia a dia?
+
+**Paciente:** Tem a Camila, minha melhor amiga desde o colégio, e a Beatriz, que trabalha comigo na farmácia. A gente almoça junto quase todo dia. Eu também falo com elas sobre quase tudo. *(meio sem graça)* Acho que peço opinião demais, viu? As meninas até brincam comigo.
+
+**Entrevistador:** E em termos de relacionamento amoroso, como tem sido pra você?
+
+**Paciente:** *(olhar para o lado, pausa)* É que… eu namorei um rapaz por dois anos, o Heitor. Ele era muito bom comigo. Ele me pediu pra gente morar junto, no ano passado. Eu fiquei muito feliz no começo, mas aí eu comecei a pensar… ele trabalha viajando, ficaria muito tempo fora, e eu não sei se eu daria conta de ficar num apartamento sozinha. Eu acabei dizendo que não tava na hora. A gente terminou pouco tempo depois.
+
+**Entrevistador:** Como você se sentiu com esse término?
+
+**Paciente:** Triste. Mas eu também fiquei meio aliviada, sabe? Porque assim eu não precisei tomar essa decisão de sair de casa. *(pausa curta)* Aí já tem outro rapaz que tá querendo sair comigo agora, do mês passado. Eu ainda nem respondi direito porque eu queria saber primeiro o que a Luana ia achar dele.
+
+### História ocupacional
+
+**Entrevistador:** E me conta um pouco do trabalho. Você está na drogaria há quanto tempo?
+
+**Paciente:** Sete anos. Comecei como estagiária, no segundo ano do técnico de farmácia.
+
+**Entrevistador:** E como está sendo essa trajetória no trabalho?
+
+**Paciente:** Eu gosto, é tranquilo. O dono é o seu Wilson, ele me conhece desde nova. Ele me chama de "filha". *(sorri discretamente)* Ele já me ofereceu duas vezes pra eu virar gerente de uma filial nova que ele abriu. Eu não aceitei.
+
+**Entrevistador:** Posso perguntar por quê?
+
+**Paciente:** É que como gerente eu ia ter que passar serviço pros outros, dar bronca quando precisasse, decidir o que comprar, essas coisas. Eu não sei se eu… *(olha pro chão)* eu acho que eu não daria conta. E se eu mandasse alguém fazer alguma coisa e desse errado? Eu prefiro continuar onde eu tô. Lá o seu Wilson decide e eu executo, é melhor pra todo mundo.
+
+**Entrevistador:** E quando você precisa, no balcão mesmo, dar uma orientação que vai contra o que o cliente está pedindo, como você lida?
+
+**Paciente:** Ah, isso é difícil pra mim. Geralmente eu chamo o farmacêutico responsável. Eu não gosto de ser eu a dar a notícia.
+
+### Funcionamento emocional e comportamental
+
+**Entrevistador:** Marina, quando alguém importante pra você discorda de uma escolha sua, o que costuma acontecer?
+
+**Paciente:** Eu… normalmente eu mudo de ideia. *(silêncio breve)* Não na hora, na hora eu fico quietinha. Mas depois eu fico pensando, e acabo concordando. Acho que as pessoas que me amam sabem mais do que eu o que é bom pra mim.
+
+**Entrevistador:** E quando você fica sozinha por um tempo maior — algumas horas, um fim de semana — como é pra você?
+
+**Paciente:** *(respira fundo)* Eu fico meio perdida. Ano passado a Luana e o Rafael viajaram dez dias e eu fui ficar na casa da Camila, porque eu não consegui ficar em casa sozinha. Eu durmo mal, fico imaginando que alguma coisa ruim aconteceu com eles.
+
+**Entrevistador:** E hoje, pensando na mudança que tá vindo: você já pensou em alternativas pra você, além de ir com sua irmã?
+
+**Paciente:** *(longa pausa)* Eu pensei. Mas eu acho que eu não conseguiria. Eu não saberia escolher um lugar pra morar, lidar com aluguel, com conta de luz… Quando a Luana foi viajar de lua de mel, eu nem soube ligar pro encanador quando vazou uma torneira. Eu esperei ela voltar.
+
+### História longitudinal
+
+**Entrevistador:** Pensando mais pra trás, na sua adolescência, no começo da vida adulta: esses padrões — pedir opinião, achar difícil decidir sozinha, não gostar de ficar sozinha — eles vêm de quando?
+
+**Paciente:** Sempre foi assim, eu acho. Na escola eu nunca escolhia trabalho de grupo, esperava as meninas escolherem. Quando teve o vestibular, foi minha mãe e a Luana que escolheram o curso. *(meio sem graça)* Até roupa, até hoje, eu mando foto pra Luana antes de comprar.
+
+**Entrevistador:** E em algum momento da vida você tentou fazer diferente?
+
+**Paciente:** Uma vez. Quando eu tinha vinte e um anos eu fui passar um mês na casa de uma tia, em Goiânia, pra ver se eu me viraria. Voltei em dez dias. Não deu, doutor. Eu chorava todo dia, ligava pra Luana de manhã e à noite. Aí ela mesma falou: "vem embora, filha". E eu vim.
+
+### Encerramento
+
+**Entrevistador:** Marina, agradeço por você ter me contado tudo isso com tanta clareza. Vamos fazer assim: hoje a gente termina aqui, eu vou organizar o que conversamos, e na próxima semana a gente marca um retorno pra pensar junto em como te ajudar a atravessar esse período. Pode ser?
+
+**Paciente:** Pode, doutor. *(pausa, olha para o entrevistador)* O senhor acha que eu fiz bem em vir?
+
+**Entrevistador:** *(neutro, sem reforçar o pedido de aprovação)* Acho que você buscar ajuda é algo que vamos poder usar bem aqui dentro. A gente se vê na próxima semana.
+
+**Paciente:** Tá bom. Obrigada. *(levanta-se devagar, fica um instante parada antes de sair)*
+
+> **Fim do roteiro de vídeo.**
+> Inserir, em tela, a pergunta final para o aluno.
+
+---
+
+## 5. Pergunta final para os alunos
+
+> **Em tela, fundo neutro, 10 segundos:**
+>
+> *Qual é o diagnóstico de personalidade mais provável?*
+> *Justifique sua hipótese com pelo menos três elementos observados na entrevista.*
+
+---
+
+## 6. Guia oculto para o professor
+
+> **Esta seção não deve aparecer no vídeo nem ser distribuída aos alunos antes do debate.**
+
+### Diagnóstico mais provável
+
+Transtorno de personalidade dependente.
+
+### Pistas clínicas presentes no roteiro
+
+1. **Delegação rotineira de decisões da vida cotidiana** a uma figura central (escolha de marca no mercado, escolha de roupa, encanador, vestibular).
+2. **Necessidade de que outros assumam responsabilidade pelas principais áreas da vida** (rejeição reiterada de promoção que exigiria liderança e iniciativa).
+3. **Dificuldade em discordar** por medo de perder aprovação ou apoio ("eu fico quietinha. Depois eu mudo de ideia").
+4. **Desconforto e desamparo intensos quando sozinha**, com mobilização ativa para garantir companhia (busca a casa da amiga durante a viagem da irmã; rompimento do namoro motivado pelo medo de morar sem suporte).
+5. **Padrão persistente desde a infância e adolescência**, com tentativa frustrada de autonomia aos 21 anos.
+6. **Urgência em buscar substituto cuidador** assim que a relação central está sob ameaça (já considerando um novo relacionamento e organizando-se em torno da iminente mudança da irmã).
+
+### Diagnósticos diferenciais possíveis
+
+- **Episódio depressivo maior** (ou transtorno depressivo persistente): a paciente apresenta insônia e queixa afetiva, mas o quadro **não é episódico**, **não há anedonia**, fadiga global ou perda de interesse — o padrão é **caractereológico** e longitudinal.
+- **Transtorno de ansiedade de separação no adulto**: há sobreposição importante, mas o quadro de Marina é mais amplo, envolvendo **delegação difusa de decisões** e **submissão interpessoal**, não apenas medo da separação de figuras específicas.
+- **Transtorno de personalidade evitativa**: também há baixa autoeficácia, mas, na evitativa, o motor central é **medo de rejeição e crítica** — não desejo ativo de ser cuidado. Marina **busca** relações de proximidade intensa, não as evita.
+- **Transtorno de personalidade borderline**: pode haver pavor de abandono, mas falta a **instabilidade afetiva**, a **impulsividade**, a **autoimagem oscilante** e o **comportamento autolesivo**.
+- **Traços culturalmente normativos de coesão familiar**: discutir com os alunos onde termina a norma cultural e começa o prejuízo funcional (recusa repetida de promoções; rompimento de relação afetiva por incapacidade de autonomia; sofrimento clínico).
+
+### Elementos discriminadores
+
+- A **direção do desejo interpessoal** (busca ativa de cuidado vs. evitação) separa o quadro da personalidade evitativa.
+- A **estabilidade do humor e da autoimagem** separa do borderline.
+- A **pervasividade** (em decisões, trabalho, vínculos, escolhas cotidianas) e o **início precoce** separam de um quadro depressivo ou ansioso atual.
+
+### Sugestão breve de discussão em sala
+
+- Como a equipe da UBS pode planejar a transição da mudança da irmã sem reforçar a dependência?
+- Que riscos a paciente corre se a primeira intervenção for substituir a figura cuidadora (terapeuta como nova "Luana")?
+- Em que sentido a recusa reiterada de promoções é um **dado clínico**, não apenas uma escolha profissional?
+
+---
+
+## 7. Mudanças feitas para evitar reprodução indevida ou infração de copyright
+
+| Dimensão | Caso original | Caso transformado |
+|---|---|---|
+| **Personagem** | Homem | Mulher |
+| **Idade** | 32 anos | 29 anos |
+| **Ocupação** | Empresa de contabilidade | Auxiliar de farmácia de bairro |
+| **Figura cuidadora central** | Mãe viva, com quem mora | Irmã mais velha (mãe falecida há ~10 anos) |
+| **Estrutura familiar** | Filho que nunca saiu da casa materna | Mora com a irmã e o cunhado |
+| **Queixa inicial / motivo da consulta** | Quadro depressivo após término de namoro vetado pela mãe | Insônia e desorientação cotidiana após anúncio de mudança da irmã para outra cidade |
+| **Trajetória amorosa** | Rompeu namoro recente por imposição materna | Recusou morar junto e terminou um namoro estável por medo de morar sem suporte |
+| **Trajetória educacional / profissional** | Um semestre na universidade, voltou por saudade da mãe | Tentativa frustrada de morar com tia em outra cidade aos 21 anos; estável há 7 anos no mesmo emprego técnico |
+| **Cenário da consulta** | Consultório psiquiátrico ambulatorial | Ambulatório de saúde mental de UBS, com encaminhamento de médica de família |
+| **Cenas específicas** | Telefonemas diários a dois amigos de infância; recusa de promoções no escritório de contabilidade | Foto enviada à irmã na frente da prateleira de arroz; recusa de gerência de filial; episódio do encanador; viagem de dez dias interrompida |
+| **Sequência narrativa** | Original abre por queixa depressiva, depois mãe, depois trabalho, depois amigos | Novo roteiro abre por insônia, depois aterrissa em mudança da irmã, depois explora interpessoal, ocupacional, longitudinal — em formato de diálogo investigativo, sem replicar a ordem do texto-fonte |
+| **Linguagem** | Texto expositivo em terceira pessoa, com aspas pontuais | Diálogo realista em duas vozes, sem aspas literais do original |
+| **Frases marcantes do original** | Não reutilizadas em nenhum ponto | Nenhuma reaproveitada |
+| **Cluster diagnóstico** | Cluster C — dependente | Cluster C — dependente (preservado apenas em nível conceitual) |
+
+Mudanças adicionais relevantes:
+
+- Eliminação completa da figura materna como agente da decisão amorosa.
+- Inversão da direção da ruptura afetiva: no original, a mãe vetou a namorada; no novo, **a própria paciente** recusou o avanço da relação por **incapacidade de autonomia**, e não por imposição familiar.
+- Substituição da "saudade da mãe na universidade" por uma **tentativa adulta de morar sozinha em outra cidade**, encerrada por sofrimento e regresso assistido pela irmã.
+- Criação de cenas inéditas, ausentes do texto-fonte (cena do mercado, recusa de gerência de filial, episódio do encanador, fotos de roupa para aprovação).
+- Reescrita em forma de **entrevista clínica dialogada**, com investigação semiestruturada — algo que o caso-fonte não apresenta.
+
+---
+
+## 8. Revisão final de possíveis semelhanças excessivas
+
+**1. Há alguma frase próxima demais do texto original?**
+Não foram identificadas frases literais ou paráfrases próximas do texto-fonte. As citações entre aspas do original ("cuidou de mim todos esses anos", "não conseguiria supervisionar ninguém", "se sente perdido", "talvez ela saiba o que é melhor") **não** aparecem, nem em forma direta nem em variantes superficiais.
+
+**2. Há alguma cena que preserva excessivamente a estrutura do caso original?**
+O ponto de maior risco residual seria a **recusa de promoção no trabalho**, presente também no original. No caso original, a justificativa é "não conseguir supervisionar ninguém nem tomar decisões por outras pessoas". No novo, a justificativa é construída em diálogo, em outra área profissional (drogaria de bairro vs. contabilidade), com cargo distinto (gerência de filial vs. promoção interna) e formulada em linguagem própria pela personagem ("e se eu mandasse alguém fazer alguma coisa e desse errado?"). A **função clínica** da cena é preservada — ilustrar dificuldade de assumir responsabilidades —, mas a **forma narrativa** está suficientemente afastada para ser considerada original.
+
+**3. A combinação de detalhes ainda torna o caso reconhecível?**
+Não. Gênero, idade, profissão, figura cuidadora, contexto familiar, motivo da consulta, trajetória educacional, história amorosa e cenário do atendimento foram alterados de modo combinado, e não isoladamente. Um leitor que conheça o caso-fonte **não** identificaria o personagem como "o mesmo paciente".
+
+**4. O caso foi transformado de maneira substancial?**
+Sim. A transformação atinge personagem, vínculos, cenário, queixa, sequência narrativa, gênero textual (exposição → diálogo) e formato (texto-fonte → roteiro audiovisual com instruções de direção). Apenas a **categoria diagnóstica** e os **princípios clínicos gerais** do transtorno foram preservados, como autorizado.
+
+**5. Algum trecho deveria ser reescrito para maior segurança?**
+Após revisão, **nenhum trecho** exige reescrita adicional. A única zona de proximidade temática (recusa de promoção) já foi reescrita em linguagem, profissão e estrutura distintas, e essa proximidade é inevitável dada a fidelidade ao quadro clínico — não decorre de imitação textual.
+
+---
+
+::: callout-note
+**Revise este primeiro roteiro. Quando você aprovar ou pedir ajustes, eu sigo para o próximo caso.**
+:::

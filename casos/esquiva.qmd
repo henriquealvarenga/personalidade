@@ -1,0 +1,232 @@
+---
+title: "Roteiro de Entrevista Simulada — Caso clínico G"
+subtitle: "Roteiro original para vídeo didático — inferência diagnóstica pelo aluno"
+author: "Material didático para estudantes de medicina"
+bibliography: ../references/references.bib
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+::: callout-important
+## Aviso ao docente
+Material **original** para fins didáticos, construído a partir da **categoria diagnóstica** de um caso clínico publicado, sem reprodução de linguagem, cenas, vínculos, dados sociodemográficos ou frases do texto-fonte. O diagnóstico-alvo **não deve ser revelado** aos alunos antes do exercício de inferência.
+:::
+
+# Roteiro de Entrevista Simulada — Caso G
+
+## 1. Ficha técnica do caso
+
+- **Nome fictício do paciente:** Felipe Tannous
+- **Idade:** 34 anos
+- **Gênero:** masculino
+- **Ocupação:** desenvolvedor de software (back-end), em regime totalmente remoto há cinco anos, em empresa multinacional do setor financeiro
+- **Contexto da entrevista:** ambulatório de psiquiatria geral, primeira consulta. Marcou por iniciativa própria, com forte estímulo da esposa, após descobrir que ele tinha sido nomeado para uma promoção interna e simplesmente **não comparecera** à entrevista final, por medo de falar diante de três pessoas. Vem pedir "ajuda para conseguir lidar com essas situações".
+- **Duração estimada do vídeo:** 4 a 5 minutos
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade evitativa (esquiva) (DSM-5-TR 301.82; CID-11 6D11.3 — perfil dimensional **negative affectivity + detachment**)
+- **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
+
+---
+
+## 2. Orientações para o ator ou avatar que interpreta o paciente
+
+- **Postura corporal:** sentado encolhido, ombros tensos, mãos entrelaçadas no colo. Tenta cruzar e descruzar as pernas algumas vezes. Não ocupa o espaço.
+- **Tom de voz:** baixo, controlado, levemente engasgado quando o tema é exposição social.
+- **Ritmo da fala:** lento, com pausas antes de cada resposta. Fala curtas, com sub-pausa para escolher a palavra.
+- **Expressão facial:** apreensiva, sobrancelhas levemente franzidas. Sorri brevemente em momentos de alívio (quando o entrevistador acolhe sem julgar). Olhar oscila entre o chão e o entrevistador, com contato visual breve.
+- **Maneira de se relacionar:** educado, agradecido pelo acolhimento. Pede desculpas várias vezes ("desculpa, eu falo devagar", "desculpa, isso é meio embaraçoso"). **Não** é sedutor, **não** é hostil, **não** é dependente em primeiro plano.
+- **Sinais comportamentais relevantes:** roupa discreta, neutra, sem destaques. Bebe água com a mão visivelmente tensa. Quando o entrevistador menciona algo positivo dele ("é interessante o que você descreve"), o paciente franze a testa, como quem desconfia do elogio.
+- **Forma de reagir a temas sensíveis:** ao falar de exposição pública, recusa de promoção, primeira tentativa de namoro — corre os olhos, baixa a cabeça, respira fundo. **Não** chora, **não** entra em colapso. A dor é interna, contida. Reaparece o conforto quando o tema volta para o ambiente seguro (esposa, círculo restrito de amigos antigos).
+
+> **Importante para a direção:** o paciente **não** é tímido genericamente. O traço aparece em **medo persistente de avaliação negativa, sentimento de inadequação pessoal, evitação ocupacional e social significativa, com desejo subjetivo de proximidade**. Evitar caricatura de "introvertido nervoso". Evitar postura infantilizada.
+
+---
+
+## 3. Orientações para o ator ou avatar que interpreta o entrevistador
+
+- **Postura:** sentado tranquilo, voz suave, ritmo desacelerado. Não pressionar.
+- **Estilo de entrevista:** acolhedor, com perguntas abertas e tempo de espera generoso para a resposta.
+- **Grau de acolhimento:** alto, sem ser efusivo. Não elogiar excessivamente, porque o paciente desconfia de elogio.
+- **Forma de explorar sintomas sem induzir respostas:** investigar **história escolar, primeira inserção profissional, namoros, decisões de carreira, círculo social** com perguntas concretas ("como foi quando…", "o que aconteceu quando…").
+- **Forma de investigar funcionamento longitudinal:** ancorar em escola, faculdade, primeiros empregos, primeiro relacionamento.
+- **Cuidados para não revelar o diagnóstico:** não usar "tímido demais", "evitativo", "ansioso social", "fóbico social". Encerramento neutro.
+
+---
+
+## 4. Roteiro dialogado completo
+
+> Cenário visual: ambulatório, dia. Iluminação suave. Duração total estimada: **4 minutos e 30 segundos**.
+
+### Abertura
+
+**Entrevistador:** Boa tarde, Felipe. Eu sou o psiquiatra do ambulatório. Vi que você marcou a consulta por conta própria. Pode me contar o que te trouxe aqui hoje?
+
+**Paciente:** *(respira fundo)* Boa tarde, doutor. Obrigado por me receber. Eu… *(pausa)* eu vim porque aconteceu uma coisa no trabalho que mexeu comigo. E porque a minha esposa, a Bia, insistiu bastante. Eu acho que chegou num ponto que eu não consigo mais resolver sozinho.
+
+### Queixa atual
+
+**Entrevistador:** Conta o que aconteceu no trabalho.
+
+**Paciente:** Eu trabalho remoto há cinco anos numa empresa boa. No mês passado, o meu gerente me nomeou para uma promoção. Era para virar tech lead de um time pequeno. Foi quase uma surpresa, sabe? *(sorriso fraco, breve)* Aí marcaram uma entrevista final com três pessoas da diretoria. Eu fiquei com a data marcada por duas semanas. Na noite anterior eu não dormi. No dia, eu mandei um e-mail dizendo que estava doente. Não estava doente, doutor. Eu não consegui entrar na chamada.
+
+**Entrevistador:** E depois disso, como foi?
+
+**Paciente:** Eles perderam o interesse. O cargo foi para outra pessoa. O meu gerente me chamou para conversar, foi muito gentil, mas eu vi que ele ficou frustrado. Eu também fiquei. A Bia chorou de raiva por mim. Aí ela disse: "Felipe, você precisa procurar alguém". E aqui estou.
+
+### História do funcionamento interpessoal
+
+**Entrevistador:** Você falou da Bia. Há quanto tempo vocês estão juntos?
+
+**Paciente:** Nove anos. Casados há quatro. *(suaviza um pouco)* Ela é a melhor coisa que me aconteceu. A gente se conheceu num servidor de fórum, online, jogando em conjunto. A gente conversou por texto durante um ano antes de a gente se ver pessoalmente. Quando eu vi ela, eu já a conhecia.
+
+**Entrevistador:** E antes da Bia, você teve outros relacionamentos?
+
+**Paciente:** *(silêncio breve, baixa o olhar)* Um. Bem rápido, na faculdade. Durou três semanas. Eu nem sei se a gente namorou de fato. Eu fui me afastando porque cada vez que a gente ia sair com o grupo dela, eu não dormia na noite anterior.
+
+**Entrevistador:** E amigos próximos, hoje, fora a Bia?
+
+**Paciente:** Tenho três. O Rafael e o Marcos, da escola, e o Iago, que eu conheci no curso técnico. A gente se vê uma vez por mês mais ou menos, em casa, joga, vê filme. Eu confio neles, eu gosto muito. Mas é só isso. Fora deles, eu não tenho mais ninguém.
+
+**Entrevistador:** E você sentiria vontade de ampliar esse círculo?
+
+**Paciente:** *(pausa longa)* Sentiria. *(meio sem graça)* Mas só de pensar em conhecer gente nova eu já sinto um aperto. Eu acho que vão me achar estranho, sem assunto, chato.
+
+### História ocupacional
+
+**Entrevistador:** Como você foi parar nesse trabalho remoto?
+
+**Paciente:** Eu escolhi de propósito. Quando eu me formei, eu fui trabalhar numa empresa de tecnologia em escritório aberto. Aquilo foi um ano de tortura. Eu não almoçava com o pessoal, eu comia na minha mesa. Quando o gerente passava perto, eu suava. Eu pedia para ir ao banheiro só pra respirar.
+
+**Entrevistador:** E como você saiu de lá?
+
+**Paciente:** Eu fui procurando vagas remotas, uma a uma. Foi muito difícil no começo, porque as entrevistas em vídeo já me travavam. Mas a partir da segunda empresa eu já estava só em casa. Hoje eu rendo bem. Só que tudo que envolve aparecer — reunião com câmera obrigatória, apresentação para liderança — eu evito. Eu mando colega cobrir, eu peço para passar a apresentação para outra pessoa.
+
+**Entrevistador:** Você sente que esse padrão tem te custado coisas, ao longo do tempo?
+
+**Paciente:** Tem. Essa promoção é o exemplo mais claro. Mas teve outras. Eu não fui pra um projeto importante há dois anos porque envolvia ir para a sede uma vez por mês. Eu travei e disse que não dava. O projeto deu visibilidade pra outro colega, que hoje tá num cargo bem acima do meu.
+
+### Funcionamento emocional e comportamental
+
+**Entrevistador:** Quando você está numa situação social que não consegue evitar — um almoço de família, uma reunião escolar de algum sobrinho —, como você se sente?
+
+**Paciente:** Eu sofro antes, sofro durante e sofro depois. Antes, eu fico ensaiando o que vou falar. Durante, eu fico observando se estão me achando estranho. Depois, eu fico revisando cada coisa que eu falei, achando que falei besteira.
+
+**Entrevistador:** E quando alguém te critica, ou parece criticar — como você reage?
+
+**Paciente:** *(pausa)* Eu absorvo, doutor. Eu fico ruminando aquilo por dias. Se um colega me responde frio num chat de trabalho, eu já passo a tarde achando que ele está bravo comigo, que vou ser demitido, que estraguei alguma coisa. A Bia já me disse que eu transformo qualquer detalhe em catástrofe pessoal.
+
+**Entrevistador:** Você se descreveria como uma pessoa que se sente, em geral, à altura dos outros?
+
+**Paciente:** *(silêncio breve, leve sorriso triste)* Não. Eu sempre me senti um degrau abaixo. Mesmo quando me elogiam, eu acho que é educação, ou é porque ainda não me conhecem direito.
+
+### História longitudinal
+
+**Entrevistador:** Esses jeitos seus — evitar exposição, sentir-se em segundo plano, ruminar críticas — vêm de quando?
+
+**Paciente:** Desde criança, doutor. Eu era a criança que escondia atrás da mãe em festa de aniversário. Na escola eu não fazia trabalho na frente da sala, eu fingia que estava doente. No ensino médio eu fui ficando mais funcional porque eu tinha um grupinho pequeno, e dentro dele eu era eu mesmo.
+
+**Entrevistador:** E na faculdade?
+
+**Paciente:** Eu escolhi engenharia da computação em parte porque era curso técnico, com pouco trabalho em grupo grande, e com saída profissional remota. Eu já planejei a minha vida em torno disso, doutor. *(meio sem graça)* Eu sei que parece estratégico, mas é defensivo.
+
+### Encerramento
+
+**Entrevistador:** Felipe, obrigado por ter conversado comigo de modo tão claro. Vou organizar o que conversamos hoje. Quero te propor um retorno em duas semanas, e a gente vai construir junto um plano de tratamento.
+
+**Paciente:** *(suspiro de alívio breve, sorriso pequeno)* Obrigado, doutor. Eu agradeço o senhor não ter feito eu me sentir ridículo. Sério.
+
+> **Fim do roteiro de vídeo.**
+
+---
+
+## 5. Pergunta final para os alunos
+
+> **Em tela, fundo neutro, 10 segundos:**
+>
+> *Qual é o diagnóstico de personalidade mais provável?*
+> *Justifique sua hipótese com pelo menos três elementos observados na entrevista.*
+
+---
+
+## 6. Guia oculto para o professor
+
+### Diagnóstico mais provável
+
+Transtorno de personalidade evitativa (esquiva).
+
+### Pistas clínicas presentes no roteiro
+
+1. **Evitação de atividades ocupacionais que envolvem contato interpessoal significativo** por medo de crítica/desaprovação (recusa de promoção, recusa de projeto que exigia ida à sede).
+2. **Relutância em se envolver com pessoas a menos que tenha certeza de aceitação** (relacionamentos longos com poucas pessoas; planejamento de carreira em torno de minimizar exposição).
+3. **Reserva nas relações íntimas por medo de ser ridicularizado** (sente-se inadequado, desconfia de elogios).
+4. **Preocupação com críticas ou rejeição em situações sociais** (ruminação prolongada após qualquer interação ambígua).
+5. **Inibição em situações sociais novas por sentimento de inadequação**.
+6. **Autoimagem de inferioridade socialmente desinteressante** ("sempre me senti um degrau abaixo").
+7. **Relutância em assumir riscos pessoais ou atividades novas por medo de embaraço**.
+8. **Desejo subjetivo de proximidade preservado** (gostaria de ampliar o círculo; mantém amizades antigas e casamento estável).
+
+### Diagnósticos diferenciais possíveis
+
+- **Transtorno de ansiedade social (TAS)**: superposição importante. A diferença é **pervasividade** e **estabilidade do padrão desde a infância**, envolvendo **autoimagem global de inadequação** — e não apenas medo focal de situações sociais específicas. Ambos podem coexistir.
+- **Transtorno de personalidade dependente**: também há baixa autoeficácia, mas o motor central é **medo de avaliação**, não desejo ativo de ser cuidado. Felipe **não delega decisões** à esposa nem teme ficar sozinho — teme ser ridicularizado.
+- **Transtorno de personalidade esquizoide**: também há vínculos restritos, mas no esquizoide a marca é **desinteresse afetivo primário**; aqui há **desejo de proximidade frustrado pelo medo**.
+- **Transtorno do espectro autista**: pode haver dificuldade social, mas a marca aqui é o **conteúdo cognitivo de inferioridade e medo de avaliação**, e não dificuldades comunicativas ou padrões restritos de interesse de raiz neurodesenvolvimental.
+- **Episódio depressivo maior**: o paciente apresenta autoavaliação negativa, mas o padrão é caractereológico, sem critérios episódicos.
+
+### Elementos discriminadores
+
+- **Evitativa × ansiedade social:** o transtorno de personalidade é **mais pervasivo, mais estável e envolve autoimagem global**; o transtorno ansioso é mais **focal** e responsivo a exposição.
+- **Evitativa × esquizoide:** o esquizoide **não quer**; a evitativa **quer mas não consegue**.
+- **Evitativa × dependente:** os dois podem aparecer juntos. A evitativa **evita** os vínculos; a dependente **se cola** neles.
+
+### Sugestão breve de discussão em sala
+
+- Por que esse perfil costuma demorar a chegar ao psiquiatra (geralmente trazido por um vínculo significativo)?
+- O risco de o paciente **abandonar o tratamento** após qualquer mal-entendido com a equipe.
+- Discutir o impacto de carreiras remotas/digitais no curso clínico desse padrão (evitação tecnologicamente facilitada).
+
+---
+
+## 7. Mudanças feitas para evitar reprodução indevida ou infração de copyright
+
+| Dimensão | Caso original | Caso transformado |
+|---|---|---|
+| **Personagem** | Mulher | Homem |
+| **Idade** | 21 anos | 34 anos |
+| **Ocupação** | Estudante de faculdade | Desenvolvedor de software remoto, carreira consolidada |
+| **Cenário da consulta** | Centro de aconselhamento universitário | Ambulatório de psiquiatria geral |
+| **Trigger** | Vexame após responder errado a uma pergunta na aula; evitação da sala | Recusa silenciosa de promoção interna; falta à entrevista final de seleção alegando doença |
+| **Vínculos amorosos** | Vontade de ter namorado, medo de "levar um fora" | Casamento estável de longa data com a Bia, com tentativa anterior frustrada de namoro na faculdade |
+| **Vínculos sociais** | Duas amigas íntimas com janta semanal | Três amigos antigos, encontros mensais em casa |
+| **Cenas específicas** | Não voltou à sala desde o vexame; teme não se formar | Falta à entrevista de promoção; recusa de projeto que exigia ir à sede; escolha de carreira para minimizar exposição |
+| **Sequência narrativa** | Original em terceira pessoa, focado em queixas de depressão e ansiedade | Novo roteiro dialogado, motivado por evento ocupacional específico e pelo pedido da esposa |
+| **Linguagem** | Texto expositivo com aspas pontuais | Diálogo natural; nenhuma frase reaproveitada |
+| **Frases marcantes do original** | "passou vexame", "vou acabar levando um fora", "socialmente retardada" | **Nenhuma** reaproveitada |
+
+Mudanças adicionais:
+
+- Inversão de gênero, mudança de geração (21 → 34), mudança de fase de vida (estudante → trabalhador casado).
+- Substituição do cenário acadêmico (faculdade) pelo cenário profissional (carreira remota em tecnologia).
+- Substituição da cena de "vexame na sala" por um evento funcionalmente equivalente, porém narrativamente novo: **não comparecer à entrevista de promoção**.
+- Introdução de um relacionamento conjugal estável, ausente no caso original, que ilustra **a possibilidade de vínculo profundo** quando a aceitação é percebida.
+- Cenas inéditas: encontro com a esposa via fórum online; primeiro emprego em escritório aberto; recusa de projeto por exigir presença.
+
+---
+
+## 8. Revisão final de possíveis semelhanças excessivas
+
+**1. Há alguma frase próxima demais do texto original?**
+Não. As citações marcantes do original ("passou vexame", "vou acabar levando um fora", "socialmente retardada") **não** foram reaproveitadas.
+
+**2. Há alguma cena que preserva excessivamente a estrutura do caso original?**
+A zona de proximidade temática inevitável é a **evitação após exposição**. No original, evitação foca na sala de aula após erro pontual; no novo, foca em **toda a vida ocupacional**, com o evento desencadeante sendo uma **promoção recusada por inação** — situação clinicamente equivalente, narrativamente independente.
+
+**3. A combinação de detalhes ainda torna o caso reconhecível?**
+Não. Gênero, idade, fase de vida, ocupação, cenário e estrutura interpessoal foram alterados em conjunto.
+
+**4. O caso foi transformado de maneira substancial?**
+Sim. Personagem, contexto, vínculos e gênero textual foram modificados.
+
+**5. Algum trecho deveria ser reescrito para maior segurança?**
+Não. Nenhum trecho exige reescrita adicional após revisão.

@@ -1,0 +1,40 @@
+---
+title: "Atividade online: casos clínicos de transtornos de personalidade"
+---
+
+Esta atividade é parte da disciplina de psicopatologia do curso de Medicina da UFSJ. Discute casos clínicos breves para reconhecimento prático dos padrões descritos nos capítulos anteriores.
+
+::: {.callout-note appearance="simple"}
+## Formulário da atividade
+🔗 [Casos clínicos — formulário online](https://forms.gle/sBZaST6oXTsgRB3u7)
+:::
+
+::: {.callout-warning appearance="simple"}
+## [VERIFICAR — URL e estado do formulário]
+Validar que o link do Google Forms continua ativo. Considerar:
+
+- migrar para um formulário institucional da UFSJ;
+- incluir os casos clínicos **dentro** do próprio livro (como vinhetas)
+  para que o material seja autocontido e atemporal, sem dependência de
+  serviços externos;
+- usar `callout` por caso, com discussão expansível em
+  `{.callout-tip collapse=true}`.
+:::
+
+## Estrutura sugerida para os casos
+
+Cada vinheta clínica deveria conter:
+
+1.  **Apresentação** — relato breve, primeira pessoa ou terceira pessoa,
+    com queixa principal e contexto.
+2.  **Pistas semiológicas** — sinais e sintomas relevantes para o
+    diagnóstico diferencial dos transtornos de personalidade.
+3.  **Discussão** (colapsável) — hipóteses diagnósticas, diagnósticos
+    diferenciais com outras condições psiquiátricas (depressão,
+    bipolar, ansiedade), conduta inicial.
+4.  **Pontos de aprendizado** — ligação com os capítulos anteriores
+    (qual cluster, qual traço, qual evidência de tratamento).
+
+::: {.callout-tip appearance="simple"}
+Quando os casos forem migrados para o livro, mantenha o formulário online apenas como **avaliação** (perguntas pós-leitura) — não como veículo do conteúdo.
+:::
