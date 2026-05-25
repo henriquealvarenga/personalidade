@@ -15,7 +15,7 @@ A proposta pedagógica é simples e exigente: **o diagnóstico do caso não é r
 A sequência recomendada de estudo é:
 
 1. **Ler ou assistir o caso completo**, observando linguagem verbal, postura corporal, ritmo da fala, padrão relacional, conteúdo dos relatos sobre infância, trabalho, relações afetivas e história de adoecimento.
-2. **Formular hipótese diagnóstica** com base nos critérios clínicos discutidos nos capítulos da [Parte II](../capitulos/08-transtornos.qmd).
+2. **Formular hipótese diagnóstica** com base nos critérios clínicos discutidos nos capítulos da [Parte II](../capitulos/parte-2-taxonomia/08-transtornos.qmd).
 3. **Considerar diagnósticos diferenciais** — não apenas dentro do espectro dos transtornos de personalidade, mas também com condições do Eixo I (transtornos de humor, ansiedade, uso de substâncias, esquizofrenia).
 4. **Justificar a hipótese** com sinais e sintomas concretos da entrevista, ancorando em critérios do DSM-5-TR e/ou da CID-11.
 5. **Conferir o diagnóstico-alvo** ao final do exercício — disponível no "Aviso ao docente" no topo de cada roteiro.

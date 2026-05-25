@@ -82,7 +82,7 @@ Conectar com:
 
 - Cap. 4 (plasticidade) — modificabilidade dos traços
 - Cap. 10 (tratamento) — psicoterapia como intervenção narrativa
-- [Apêndice](../apendices/descoberta-as-avessas.qmd) — Damásio, Wittgenstein, Heráclito
+- [Apêndice](../../apendices/descoberta-as-avessas.qmd) — Damásio, Wittgenstein, Heráclito
 :::
 
 ## Atividade de aula

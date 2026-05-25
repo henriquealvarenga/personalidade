@@ -31,7 +31,7 @@ A turma é dividida em **quatro grupos**, cada um responsável por uma visão:
 ## Grupo extra (turmas grandes)
 Em turmas maiores, pode-se acrescentar um quinto grupo:
 
-5. **Personalidade como Padrão emergente e plástico** — Cloninger, neurociência do desenvolvimento, epigenética. Conecta com o [capítulo sobre plasticidade](../capitulos/04-plasticidade.qmd).
+5. **Personalidade como Padrão emergente e plástico** — Cloninger, neurociência do desenvolvimento, epigenética. Conecta com o [capítulo sobre plasticidade](../capitulos/parte-1-fundamentos/04-plasticidade.qmd).
 :::
 
 ## Fases da atividade
@@ -138,5 +138,5 @@ A atividade pode integrar a avaliação da disciplina de duas formas:
 ## Conexão com o livro
 - A leitura preparatória está em [Quatro visões da personalidade](visoes-personalidade.qmd).
 - A discussão sobre **personalidade como padrão e não substância** retorna no [Apêndice — A descoberta às avessas](../apendices/descoberta-as-avessas.qmd).
-- A perspectiva clínica formal (Big Five, transtornos) está nos [capítulos da Parte II](../capitulos/06-taxonomia.qmd).
+- A perspectiva clínica formal (Big Five, transtornos) está nos [capítulos da Parte II](../capitulos/parte-2-taxonomia/06-taxonomia.qmd).
 :::

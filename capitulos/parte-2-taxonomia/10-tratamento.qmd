@@ -37,5 +37,5 @@ Esta seção foi expandida em maio de 2026, mas as descrições de MBT, TFP e Sc
 
 ::: {.callout-tip appearance="simple"}
 ## Conexão com o apêndice
-A eficácia da DBT é, além de fato clínico, um **argumento conceitual**: se padrões de personalidade fossem essências fixas, a DBT não poderia funcionar como funciona. Esse argumento é desenvolvido no [Apêndice II — Crítica interdisciplinar](../apendices/critica-interdisciplinar.qmd).
+A eficácia da DBT é, além de fato clínico, um **argumento conceitual**: se padrões de personalidade fossem essências fixas, a DBT não poderia funcionar como funciona. Esse argumento é desenvolvido no [Apêndice II — Crítica interdisciplinar](../../apendices/critica-interdisciplinar.qmd).
 :::

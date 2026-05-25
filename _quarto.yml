@@ -46,26 +46,26 @@ book:
     - index.qmd
     - part: "Parte I — Fundamentos clínicos"
       chapters:
-        - capitulos/01-introducao.qmd
-        - capitulos/02-construcao-da-personalidade.qmd
-        - capitulos/03-periodos-criticos.qmd
-        - capitulos/04-plasticidade.qmd
-        - capitulos/05-personalidade-e-saude.qmd
+        - capitulos/parte-1-fundamentos/01-introducao.qmd
+        - capitulos/parte-1-fundamentos/02-construcao-da-personalidade.qmd
+        - capitulos/parte-1-fundamentos/03-periodos-criticos.qmd
+        - capitulos/parte-1-fundamentos/04-plasticidade.qmd
+        - capitulos/parte-1-fundamentos/05-personalidade-e-saude.qmd
     - part: "Parte II — Taxonomia, traços e transtornos"
       chapters:
-        - capitulos/06-taxonomia.qmd
-        - capitulos/07-tracos.qmd
-        - capitulos/08-transtornos.qmd
-        - capitulos/09-epidemiologia.qmd
-        - capitulos/10-tratamento.qmd
+        - capitulos/parte-2-taxonomia/06-taxonomia.qmd
+        - capitulos/parte-2-taxonomia/07-tracos.qmd
+        - capitulos/parte-2-taxonomia/08-transtornos.qmd
+        - capitulos/parte-2-taxonomia/09-epidemiologia.qmd
+        - capitulos/parte-2-taxonomia/10-tratamento.qmd
     - part: "Parte III — Personalidade na era digital"
       chapters:
-        - capitulos/11-big-data.qmd
+        - capitulos/parte-3-era-digital/11-big-data.qmd
     - part: "Parte IV — A personalidade na cultura: cinema e literatura"
       chapters:
-        - capitulos/12-personalidade-como-mascara.qmd
-        - capitulos/13-personalidade-como-narrativa.qmd
-        - capitulos/14-personalidade-no-transtorno.qmd
+        - capitulos/parte-4-cultura/12-personalidade-como-mascara.qmd
+        - capitulos/parte-4-cultura/13-personalidade-como-narrativa.qmd
+        - capitulos/parte-4-cultura/14-personalidade-no-transtorno.qmd
     - part: "Parte V — Atividades"
       chapters:
         # ── Atividade 1: Casos clínicos (roteiros de entrevistas simuladas) ──

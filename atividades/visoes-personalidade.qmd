@@ -106,7 +106,7 @@ Esse modelo tem sido criticado por alguns autores por relativizar em excesso a n
 
 ::: {.callout-warning appearance="simple"}
 ## [VERIFICAR — converter para BibTeX]
-As referências abaixo estão em formato de texto. Em uma próxima edição, podem ser convertidas para entradas BibTeX em `references/references.bib` e citadas via `[@chave]` no corpo do texto.
+As referências abaixo estão em formato de texto. Em uma próxima edição, podem ser convertidas para entradas BibTeX em `references/references.bib` e citadas via `[\@chave]` no corpo do texto.
 :::
 
 - Allport, G. W. (1937). *Personality: A Psychological Interpretation*. Holt.

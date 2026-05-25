@@ -73,7 +73,7 @@ Conectar com:
 
 - Cap. 7 (traços) — extraversão, neuroticismo
 - Cap. 8 (transtornos) — TP histriônica, TP narcisista
-- [Apêndice](../apendices/descoberta-as-avessas.qmd) — Pessoa, multiplicidade do eu
+- [Apêndice](../../apendices/descoberta-as-avessas.qmd) — Pessoa, multiplicidade do eu
 :::
 
 ## Atividade de aula

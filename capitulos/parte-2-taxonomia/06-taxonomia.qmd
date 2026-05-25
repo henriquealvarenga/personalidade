@@ -16,7 +16,7 @@ Em 1923, Kurt Schneider publicou a primeira edição de *Psychopathic Personalit
 
 ::: {.callout-note appearance="simple"}
 ## A advertência de Schneider — anormal em relação a quê?
-A posição de Schneider continha uma cautela conceitual que se perdeu nas classificações que vieram depois: as "personalidades anormais" são variações extremas do normal, identificáveis pelo sofrimento que causam — não por desvio de uma natureza humana fixa. Isso deixa aberta uma pergunta que o DSM tende a calar: *anormal em relação a quê?* Uma "personalidade obsessiva" valorizada em culturas que premiam perfeccionismo torna-se patológica em culturas que valorizam espontaneidade. Essa relativização cultural — e o estatuto epistemológico instável das categorias diagnósticas — é tema do [Apêndice II — Crítica interdisciplinar](../apendices/critica-interdisciplinar.qmd).
+A posição de Schneider continha uma cautela conceitual que se perdeu nas classificações que vieram depois: as "personalidades anormais" são variações extremas do normal, identificáveis pelo sofrimento que causam — não por desvio de uma natureza humana fixa. Isso deixa aberta uma pergunta que o DSM tende a calar: *anormal em relação a quê?* Uma "personalidade obsessiva" valorizada em culturas que premiam perfeccionismo torna-se patológica em culturas que valorizam espontaneidade. Essa relativização cultural — e o estatuto epistemológico instável das categorias diagnósticas — é tema do [Apêndice II — Crítica interdisciplinar](../../apendices/critica-interdisciplinar.qmd).
 :::
 
 ::: {.callout-note appearance="simple"}

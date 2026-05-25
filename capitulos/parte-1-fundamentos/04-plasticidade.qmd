@@ -6,7 +6,7 @@ title: "A plasticidade da personalidade"
 
 Apesar de a estabilidade desses padrões ser tradicionalmente considerada a característica definidora da personalidade, o ser humano tem plasticidade suficiente para transformar a si mesmo, e diversos fatores podem contribuir para alterar os traços de personalidade ao longo da vida [@hopwood_stability_2018].
 
-Diversos trabalhos já demonstraram a utilidade da psicoterapia em modificar traços de personalidade disfuncionais [@storebo_psychological_2020; @hadjipavlou_promising_2010]. A plasticidade documentada por essa literatura é, em si, um argumento forte contra a leitura essencialista da personalidade (algo que vamos retomar no [ensaio em apêndice](../apendices/descoberta-as-avessas.qmd) deste livro).
+Diversos trabalhos já demonstraram a utilidade da psicoterapia em modificar traços de personalidade disfuncionais [@storebo_psychological_2020; @hadjipavlou_promising_2010]. A plasticidade documentada por essa literatura é, em si, um argumento forte contra a leitura essencialista da personalidade (algo que vamos retomar no [ensaio em apêndice](../../apendices/descoberta-as-avessas.qmd) deste livro).
 
 ::: {.callout-note appearance="simple"}
 ## Estabilidade *vs.* mudança

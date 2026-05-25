@@ -82,7 +82,7 @@ Conectar com:
 - Cap. 8 (transtornos)
 - Cap. 9 (epidemiologia) — prevalência de TPB na população
 - Cap. 10 (tratamento) — DBT, mentalização, escolha terapêutica
-- [Apêndice](../apendices/descoberta-as-avessas.qmd) — a personalidade como padrão, não substância
+- [Apêndice](../../apendices/descoberta-as-avessas.qmd) — a personalidade como padrão, não substância
 :::
 
 ## Atividade de aula

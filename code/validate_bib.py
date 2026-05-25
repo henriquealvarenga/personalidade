@@ -165,7 +165,8 @@ def iter_qmd_files(dirs: Iterable[Path]) -> Iterable[Path]:
                 seen.add(d)
                 yield d
             continue
-        for p in d.glob("*.qmd"):
+        # rglob = recursivo (procura também em subpastas, ex.: capitulos/parte-1-fundamentos/)
+        for p in d.rglob("*.qmd"):
             if p not in seen:
                 seen.add(p)
                 yield p
