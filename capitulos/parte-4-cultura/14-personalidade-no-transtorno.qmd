@@ -15,7 +15,7 @@ Scaffold com estrutura editorial. Análises substantivas a escrever pelo autor. 
 >
 > — *Garota, Interrompida* (1999)
 
-O cinema, ao representar transtornos de personalidade, oscila entre dois polos: o **estereótipo dramático** — onde o transtorno vira gimmick narrativo — e a **verdade clínica** — onde o filme se torna um material legítimo para o ensino de psicopatologia. Os filmes deste capítulo foram escolhidos por se aproximarem do segundo polo: representações de transtorno de personalidade *borderline* (TPB) que escapam do clichê e dialogam com a literatura clínica.
+O cinema, ao representar transtornos de personalidade, divide-se grosseiramente entre o **estereótipo dramático** — onde o transtorno vira gimmick narrativo — e a **verdade clínica** — onde o filme se torna um material legítimo para o ensino de psicopatologia. Os filmes deste capítulo foram escolhidos por se aproximarem do segundo polo: representações de transtorno de personalidade *borderline* (TPB) que escapam do clichê e dialogam com a literatura clínica.
 
 ::: {.callout-warning appearance="simple"}
 ## [ESCREVER — parágrafo de contextualização]

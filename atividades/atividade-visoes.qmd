@@ -10,7 +10,7 @@ Leia antes o capítulo [Quatro visões da personalidade](visoes-personalidade.qm
 
 ## Por que essa atividade
 
-Trata-se de uma atividade em grupo que ensina **três coisas ao mesmo tempo**:
+Esta atividade em grupo ensina **três coisas ao mesmo tempo**:
 
 1. **Teoria da personalidade** — aprofunda quatro tradições teóricas (essência, narrativa, dinâmica relacional, produção social) consultando fontes externas além do material do livro.
 2. **Pensamento crítico clínico** — exige avaliar respostas de IAs como hipóteses, não como verdades, comparando posições e identificando divergências e omissões.

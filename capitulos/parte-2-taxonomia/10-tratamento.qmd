@@ -8,7 +8,7 @@ O tratamento mais importante para a maioria dos transtornos de personalidade é 
 
 Antipsicóticos podem ser úteis para reduzir os níveis de pensamentos paranoides nos pacientes com transtornos de personalidade do Grupo A (paranoide, esquizoide, esquizotípica), embora não existam estudos clínicos robustos realizados especificamente para essa população.
 
-## Terapia Comportamental Dialética (DBT) — o caso paradigmático
+## Terapia Comportamental Dialética (DBT)
 
 A psicoterapia com maior corpo de evidência empírica em transtornos de personalidade é a **Terapia Comportamental Dialética** (*Dialectical Behavior Therapy*, DBT), desenvolvida por **Marsha Linehan** nos anos 1980-90 [@linehan_cognitive_1993]. Originalmente desenhada para tratamento do **transtorno de personalidade borderline** (TPB), a DBT é hoje considerada padrão-ouro pelas principais diretrizes internacionais (NICE, APA) para esse diagnóstico, e tem evidência crescente em outros transtornos de cluster B [@storebo_psychological_2020].
 
