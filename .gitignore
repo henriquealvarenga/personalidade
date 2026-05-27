@@ -46,6 +46,10 @@ validation-deep.html
 # Backups defensivos do .bib (criados manualmente antes de edições arriscadas)
 references/*.bib.bak-*
 
+# PDFs de referências (mantidos localmente para consulta; não versionar)
+references/PDFs/
+references/pdfs/
+
 # Pixelmator project file (5.9 MB) — descomente se preferir versionar a fonte editável
 images/capa.pxd
 
