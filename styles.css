@@ -225,3 +225,16 @@ main.content > * {
   from { opacity: 0; transform: translateX(8px); }
   to   { opacity: 1; transform: translateX(0); }
 }
+
+/* ------------------------------------------------------------------ */
+/* Rodapé — identificação profissional                                 */
+/* A barra do tema usa caixa alta com letter-spacing largo, pensado    */
+/* para um rótulo curto. A identificação exigida pelo CFM (nome,       */
+/* especialidade, CRM, RQE) é longa e, em caixa alta, ocupava várias   */
+/* linhas. Aqui ela volta a caixa mista.                               */
+/* ------------------------------------------------------------------ */
+.nav-footer .nav-footer-center {
+  text-transform: none;
+  letter-spacing: 0.005em;
+  font-size: 0.72rem !important;
+}

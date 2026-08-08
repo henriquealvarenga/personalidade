@@ -8,6 +8,10 @@ language: _language-pt.yml
 book:
   title: "Personalidade"
   subtitle: "Uma Breve Introdução"
+  # Sem site-url o Quarto não gera sitemap nem robots.txt, e o canonical
+  # não tem como ser montado. Sem barra final: a barra dispara um defeito
+  # conhecido do Quarto que produz barra dupla no canonical.
+  site-url: "https://henriquealvarenga.com/personalidade"
   edition: "2ª edição"                       # metadado Pandoc — vai pro EPUB/citações
   author:
     - name: "Henrique Alvarenga da Silva"
@@ -36,6 +40,11 @@ book:
   sharing: [twitter, facebook, linkedin]
   page-navigation: true
   back-to-top-navigation: true
+
+  page-footer:
+    center: |
+      Dr. Henrique Alvarenga da Silva · Médico Psiquiatra · CRM-MG 31.778 · RQE 8381<br>
+      [henriquealvarenga.com](https://henriquealvarenga.com)
 
   sidebar:
     style: docked
@@ -109,6 +118,10 @@ format:
       - cosmo
       - theme-editorial.scss
     css: styles.css
+    canonical-url: true
+    include-in-header:
+      - file: _includes/autor.html
+      - file: _includes/rodape.html
     fontsize: 1.05em
     linestretch: 1.65
     mainfont: "Inter"
