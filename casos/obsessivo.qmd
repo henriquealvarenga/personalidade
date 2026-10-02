@@ -1,6 +1,6 @@
 ---
-title: "Roteiro de Entrevista Simulada — Caso clínico C"
-subtitle: "Roteiro original para vídeo didático — inferência diagnóstica pelo aluno"
+title: "Caso clínico C"
+subtitle: "Helena"
 author: "Material didático para estudantes de medicina"
 bibliography: ../references/references.bib
 format:
