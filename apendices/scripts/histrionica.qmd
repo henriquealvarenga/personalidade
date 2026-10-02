@@ -1,11 +1,11 @@
 ---
-title: "Caso clínico E"
 subtitle: "Daniela"
-format:
-  html:
-    toc: true
-    toc-depth: 3
+number-sections: false
 ---
+
+# Script E {.unnumbered}
+
+Versão para leitura deste caso: [Caso clínico E](../../capitulos/parte-5-atividades/atividade-1-casos/caso-e.qmd).
 
 ::: callout-important
 ## Aviso ao docente
@@ -20,7 +20,7 @@ Material **original** para fins didáticos, construído a partir da **categoria 
 - **Ocupação:** professora de dança contemporânea em escola particular; faz aulas particulares aos finais de semana e ocasionalmente trabalha como mestre de cerimônias em casamentos
 - **Contexto da entrevista:** ambulatório de psiquiatria geral, primeira consulta. A paciente procurou atendimento por conta própria após uma "crise" em um aniversário de uma colega, em que precisou ser retirada da pista de dança chorando.
 - **Duração estimada do vídeo:** 4 a 5 minutos
-- **Diagnóstico-alvo para o professor:** Transtorno de personalidade histriônica (DSM-5-TR 301.50; na CID-11 mapeia em padrão dimensional de **negative affectivity + dissocialidade** com foco em busca de atenção)
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade histriônica (DSM-5-TR F60.4; CID-11 6D10, perfil dimensional de **afetividade negativa (6D11.0) + dissocialidade (6D11.2)** com foco em busca de atenção)
 - **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
 
 ---

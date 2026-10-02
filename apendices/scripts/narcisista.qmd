@@ -1,11 +1,11 @@
 ---
-title: "Caso clínico F"
 subtitle: "Vivian"
-format:
-  html:
-    toc: true
-    toc-depth: 3
+number-sections: false
 ---
+
+# Script F {.unnumbered}
+
+Versão para leitura deste caso: [Caso clínico F](../../capitulos/parte-5-atividades/atividade-1-casos/caso-f.qmd).
 
 ::: callout-important
 ## Aviso ao docente
@@ -20,7 +20,7 @@ Material **original** para fins didáticos, construído a partir da **categoria 
 - **Ocupação:** cirurgiã plástica, sócia majoritária de clínica privada própria, com forte presença em mídias sociais profissionais
 - **Contexto da entrevista:** ambulatório de psiquiatria em consultório particular. A paciente **não chega por sofrimento próprio**: foi orientada por seu advogado a fazer uma avaliação psiquiátrica externa, em razão de um processo de revisão de guarda movido pelo ex-marido, que descreveu indisponibilidade emocional e exposição pública das filhas. Comparece para "obter um relatório", segundo suas próprias palavras.
 - **Duração estimada do vídeo:** 4 a 5 minutos
-- **Diagnóstico-alvo para o professor:** Transtorno de personalidade narcisista (DSM-5-TR 301.81; CID-11 6D11.0 — perfil dimensional dissocialidade + grandiosidade)
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade narcisista (DSM-5-TR F60.81; CID-11 6D10 com qualificador de dissocialidade, 6D11.2, que inclui a grandiosidade)
 - **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
 
 ---

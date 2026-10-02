@@ -1,0 +1,56 @@
+---
+title: "Caso clínico C"
+subtitle: "Helena"
+---
+
+::: {.callout-warning appearance="simple"}
+## Página em elaboração
+Este caso está sendo reescrito em formato de leitura. As seções abaixo serão preenchidas em breve.
+:::
+
+## História clínica
+
+*Em elaboração.*
+
+<!-- 2 a 3 parágrafos com os elementos para o diagnóstico, sem nomeá-lo.
+     Fonte: apendices/scripts/obsessivo.qmd — seções 1 (ficha técnica),
+     4 (roteiro) e 6 ("Pistas clínicas presentes no roteiro"). -->
+
+## Sua hipótese
+
+Qual é o diagnóstico de personalidade mais provável? Justifique sua hipótese
+com pelo menos três elementos do caso.
+
+## Discussão
+
+::: {.callout-tip collapse="true"}
+## Ver o diagnóstico
+**Transtorno de personalidade obsessivo-compulsiva (anancástica).**
+
+O roteiro deste caso para simulação está no [Script C](../../../apendices/scripts/obsessivo.qmd).
+:::
+
+::: {.callout-note collapse="true"}
+## História do diagnóstico na psiquiatria
+*Em elaboração.*
+
+<!-- Origem do conceito, autores, entrada e mudanças nos manuais. -->
+:::
+
+::: {.callout-note collapse="true"}
+## Importância do diagnóstico hoje
+*Em elaboração.*
+:::
+
+::: {.callout-note collapse="true"}
+## O diagnóstico no DSM-5-TR e na CID-11
+*Em elaboração.*
+
+<!-- Conferir com o Cap. 8 (08-transtornos.qmd), que tem a tabela de
+     correspondência DSM-5 × CID-11 (@tbl-dsm-cid11). -->
+:::
+
+::: {.callout-note collapse="true"}
+## Críticas ao diagnóstico
+*Em elaboração.*
+:::

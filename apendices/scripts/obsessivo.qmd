@@ -1,11 +1,11 @@
 ---
-title: "Caso clínico C"
 subtitle: "Helena"
-format:
-  html:
-    toc: true
-    toc-depth: 3
+number-sections: false
 ---
+
+# Script C {.unnumbered}
+
+Versão para leitura deste caso: [Caso clínico C](../../capitulos/parte-5-atividades/atividade-1-casos/caso-c.qmd).
 
 ::: callout-important
 ## Aviso ao docente
@@ -20,7 +20,7 @@ Material **original** para fins didáticos, construído a partir da **categoria 
 - **Ocupação:** restauradora-chefe de laboratório de conservação em museu público de arte
 - **Contexto da entrevista:** ambulatório de psiquiatria, primeira consulta. Encaminhada pelo serviço de saúde ocupacional do museu após queixa formal da equipe sobre atrasos crônicos em entregas e bloqueio de projetos. A paciente foi notificada e veio "por imposição da diretoria", segundo suas próprias palavras.
 - **Duração estimada do vídeo:** 4 a 5 minutos
-- **Diagnóstico-alvo para o professor:** Transtorno de personalidade obsessivo-compulsiva (CID-11 6D11.5 — anancástica / DSM-5-TR 301.4)
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade obsessivo-compulsiva (DSM-5-TR F60.5; CID-11 6D10 com qualificador anancástico, 6D11.4)
 - **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
 
 ---

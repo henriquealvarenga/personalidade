@@ -1,11 +1,11 @@
 ---
-title: "Caso clínico G"
 subtitle: "Felipe"
-format:
-  html:
-    toc: true
-    toc-depth: 3
+number-sections: false
 ---
+
+# Script G {.unnumbered}
+
+Versão para leitura deste caso: [Caso clínico G](../../capitulos/parte-5-atividades/atividade-1-casos/caso-g.qmd).
 
 ::: callout-important
 ## Aviso ao docente
@@ -22,7 +22,7 @@ Material **original** para fins didáticos, construído a partir da **categoria 
 - **Ocupação:** desenvolvedor de software (back-end), em regime totalmente remoto há cinco anos, em empresa multinacional do setor financeiro
 - **Contexto da entrevista:** ambulatório de psiquiatria geral, primeira consulta. Marcou por iniciativa própria, com forte estímulo da esposa, após descobrir que ele tinha sido nomeado para uma promoção interna e simplesmente **não comparecera** à entrevista final, por medo de falar diante de três pessoas. Vem pedir "ajuda para conseguir lidar com essas situações".
 - **Duração estimada do vídeo:** 4 a 5 minutos
-- **Diagnóstico-alvo para o professor:** Transtorno de personalidade evitativa (esquiva) (DSM-5-TR 301.82; CID-11 6D11.3 — perfil dimensional **negative affectivity + detachment**)
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade evitativa (esquiva) (DSM-5-TR F60.6; CID-11 6D10, perfil dimensional **afetividade negativa (6D11.0) + desapego (6D11.1)**)
 - **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
 
 ---

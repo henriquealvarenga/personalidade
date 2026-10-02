@@ -1,0 +1,41 @@
+---
+title: "Scripts para simulação"
+subtitle: "Roteiros de entrevistas simuladas para atores ou avatares"
+---
+
+Este apêndice reúne os **scripts** dos nove casos clínicos da [Atividade 1](../../capitulos/parte-5-atividades/atividade-1-casos/00-introducao.qmd). São os mesmos pacientes (o Script A corresponde ao Caso clínico A, e assim por diante), mas em outro formato: entrevistas simuladas, com diálogo linha a linha e orientações para quem interpreta o paciente e o entrevistador. Servem de base para a produção de simulações em vídeo com atores ou avatares digitais, sustentando uso pedagógico estruturado em sala de aula.
+
+::: {.callout-important appearance="simple"}
+## Material do professor
+Cada script revela o diagnóstico-alvo já na ficha técnica. No exercício de inferência, os alunos devem trabalhar com o vídeo produzido a partir do script, ou com a versão para leitura da Atividade 1, e não com o script em si.
+:::
+
+## Uso em sala de aula
+
+Depois de assistir à simulação, os alunos formulam e justificam a hipótese diagnóstica, como na Atividade 1. O vídeo acrescenta o que a leitura não mostra: postura corporal, tom e ritmo da fala, maneira de se relacionar com o entrevistador. A discussão diagnóstica de cada caso está no "Guia oculto para o professor", ao final do script.
+
+## Roteiro e originalidade
+
+Todos os casos são **construções originais** elaboradas a partir da **categoria diagnóstica** correspondente, sem reprodução de linguagem, cenas, vínculos familiares, dados sociodemográficos ou frases de qualquer caso clínico publicado. A inspiração vem do quadro clínico geral descrito na literatura psiquiátrica, jamais da narrativa específica de um paciente real ou de um texto-fonte identificável.
+
+Os roteiros foram redigidos com atenção para que evitem:
+
+- **caricaturas dramáticas** — o paciente antissocial não é o "psicopata de filme"; o paciente histriônico não é uma figura cômica; o paciente dependente não é apenas "apegado";
+- **revelação precoce do diagnóstico** — sinais clínicos aparecem ao longo da entrevista, não em rótulos diretos;
+- **conclusões interpretativas no texto** — o aluno é convidado a inferir, não a memorizar.
+
+## Estrutura de cada script
+
+Cada script abre com um **aviso ao docente** (origem do material e cuidados pedagógicos) e segue o mesmo formato:
+
+1. **Ficha técnica do caso** — dados do paciente fictício, contexto da entrevista, duração estimada do vídeo e diagnóstico-alvo.
+2. **Orientações para quem interpreta o paciente** — postura, tom de voz, ritmo da fala, sinais comportamentais e reação a temas sensíveis.
+3. **Orientações para quem interpreta o entrevistador** — estilo de entrevista e cuidados para não revelar o diagnóstico.
+4. **Roteiro dialogado completo** — entrevista linha a linha, dividida em blocos (abertura, queixa atual, história, encerramento).
+5. **Pergunta final para os alunos** — a tela que encerra o vídeo.
+6. **Guia oculto para o professor** — diagnóstico mais provável, pistas clínicas, diagnósticos diferenciais, elementos discriminadores e sugestões para a discussão em sala.
+
+::: {.callout-note appearance="simple"}
+## Aviso ético
+Os roteiros aqui apresentados são **materiais didáticos**. Não substituem entrevista clínica real nem podem ser usados como evidência diagnóstica em situações clínicas concretas. O aprendizado por simulação é complementar — e não substituto — da observação supervisionada de pacientes em contexto assistencial.
+:::

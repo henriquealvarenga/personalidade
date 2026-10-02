@@ -1,11 +1,11 @@
 ---
-title: "Caso clínico B"
 subtitle: "Otávio"
-format:
-  html:
-    toc: true
-    toc-depth: 3
+number-sections: false
 ---
+
+# Script B {.unnumbered}
+
+Versão para leitura deste caso: [Caso clínico B](../../capitulos/parte-5-atividades/atividade-1-casos/caso-b.qmd).
 
 ::: callout-important
 ## Aviso ao docente
@@ -20,7 +20,7 @@ Material **original** para fins didáticos. Construído a partir da **categoria 
 - **Ocupação:** assistente de turno noturno em biblioteca universitária (mesmo cargo há 14 anos)
 - **Contexto da entrevista:** ambulatório de saúde mental, primeira consulta. Encaminhado pela clínica geral após relato da irmã mais velha de "comportamento estranho que está piorando" — sem episódio agudo, sem internação, sem risco.
 - **Duração estimada do vídeo:** 4 a 5 minutos
-- **Diagnóstico-alvo para o professor:** Transtorno de personalidade esquizotípica (CID-11 6D11.5* — sob esquizotipia / DSM-5-TR 301.22)
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade esquizotípica (DSM-5-TR F21; na CID-11, transtorno esquizotípico, 6A22, classificado no espectro da esquizofrenia e fora dos transtornos de personalidade)
 - **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
 
 ---

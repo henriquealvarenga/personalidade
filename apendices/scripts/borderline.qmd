@@ -1,11 +1,11 @@
 ---
-title: "Caso clínico I"
 subtitle: "Pedro"
-format:
-  html:
-    toc: true
-    toc-depth: 3
+number-sections: false
 ---
+
+# Script I {.unnumbered}
+
+Versão para leitura deste caso: [Caso clínico I](../../capitulos/parte-5-atividades/atividade-1-casos/caso-i.qmd).
 
 ::: callout-important
 ## Aviso ao docente
@@ -20,7 +20,7 @@ Material **original** para fins didáticos, construído a partir da **categoria 
 - **Ocupação:** garçom em restaurante de hotel; já trabalhou como motorista de aplicativo, atendente de loja, bartender — sempre por períodos curtos
 - **Contexto da entrevista:** ambulatório psiquiátrico de seguimento ambulatorial pós-emergência. O paciente foi atendido em pronto-socorro há nove dias por intoxicação aguda por paracetamol (10 g em poucas horas), em contexto de discussão com o namorado, que havia pedido "um tempo" no relacionamento. Recebeu alta após 48 horas em observação clínica e está vindo para a primeira consulta ambulatorial. Sem internação psiquiátrica desta vez; já houve **duas** internações breves em anos anteriores, sempre desencadeadas por ruptura ou suspeita de afastamento de parceiros.
 - **Duração estimada do vídeo:** 4 a 5 minutos
-- **Diagnóstico-alvo para o professor:** Transtorno de personalidade borderline (DSM-5-TR 301.83; CID-11 6D11.5 — perfil dimensional **negative affectivity + disinhibition + borderline pattern qualifier**)
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade borderline (DSM-5-TR F60.3; CID-11 6D10 com qualificador de **padrão borderline (6D11.5)**, perfil dimensional **afetividade negativa (6D11.0) + desinibição (6D11.3)**)
 - **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
 
 ---

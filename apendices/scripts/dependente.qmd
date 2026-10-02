@@ -1,11 +1,11 @@
 ---
-title: "Caso clínico A"
 subtitle: "Marina"
-format:
-  html:
-    toc: true
-    toc-depth: 3
+number-sections: false
 ---
+
+# Script A {.unnumbered}
+
+Versão para leitura deste caso: [Caso clínico A](../../capitulos/parte-5-atividades/atividade-1-casos/caso-a.qmd).
 
 ::: callout-important
 ## Aviso ao docente
@@ -20,7 +20,7 @@ Este roteiro é um **material original**, criado para fins didáticos. Foi const
 - **Ocupação:** auxiliar de farmácia em drogaria de bairro (mesmo cargo há 7 anos)
 - **Contexto da entrevista:** primeira consulta em ambulatório de saúde mental de uma unidade básica, encaminhada pela médica de família após queixas inespecíficas de mal-estar e insônia
 - **Duração estimada do vídeo:** 4 a 5 minutos
-- **Diagnóstico-alvo para o professor:** Transtorno de personalidade dependente (CID-11 6D10.4 / DSM-5-TR 301.6)
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade dependente (DSM-5-TR F60.7; CID-11 6D10 — a CID-11 não tem categoria dependente; gravidade e traços a especificar)
 - **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo, na descrição, nas legendas ou na thumbnail
 
 ---

@@ -1,11 +1,11 @@
 ---
-title: "Caso clínico D"
 subtitle: "Diogo"
-format:
-  html:
-    toc: true
-    toc-depth: 3
+number-sections: false
 ---
+
+# Script D {.unnumbered}
+
+Versão para leitura deste caso: [Caso clínico D](../../capitulos/parte-5-atividades/atividade-1-casos/caso-d.qmd).
 
 ::: callout-important
 ## Aviso ao docente
@@ -20,7 +20,7 @@ Material **original** para fins didáticos, construído a partir da **categoria 
 - **Ocupação:** sem vínculo formal há cerca de um ano. Trabalhou como vendedor de planos de internet porta a porta, vendedor de carros usados, "promotor" em casas noturnas — sempre por períodos curtos.
 - **Contexto da entrevista:** ambulatório psiquiátrico em serviço-escola, encaminhamento da Defensoria Pública como parte de medida alternativa por estelionato (apropriação de cartões de crédito de clientes da concessionária onde trabalhou). É a quarta passagem do paciente pelo sistema de justiça. Há também um processo civil em curso por inadimplência. O paciente comparece com convocação judicial assinada.
 - **Duração estimada do vídeo:** 4 a 5 minutos
-- **Diagnóstico-alvo para o professor:** Transtorno de personalidade antissocial / dissocial (CID-11 6D11.2 — desinibição + dissocialidade / DSM-5-TR 301.7)
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade antissocial / dissocial (DSM-5-TR F60.2; CID-11 6D10 com qualificadores de dissocialidade, 6D11.2, e desinibição, 6D11.3)
 - **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
 
 ---

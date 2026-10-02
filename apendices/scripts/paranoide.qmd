@@ -1,11 +1,11 @@
 ---
-title: "Caso clínico H"
 subtitle: "Eurídice"
-format:
-  html:
-    toc: true
-    toc-depth: 3
+number-sections: false
 ---
+
+# Script H {.unnumbered}
+
+Versão para leitura deste caso: [Caso clínico H](../../capitulos/parte-5-atividades/atividade-1-casos/caso-h.qmd).
 
 ::: callout-important
 ## Aviso ao docente
@@ -20,7 +20,7 @@ Material **original** para fins didáticos, construído a partir da **categoria 
 - **Ocupação:** aposentada (servidora pública de cartório de notas, aposentada há três anos por tempo de serviço)
 - **Contexto da entrevista:** ambulatório de psiquiatria geral, primeira consulta. Encaminhada pelo médico da clínica geral da UBS após a filha mais velha comparecer angustiada relatando que a mãe vinha enviando notificações extrajudiciais a vizinhos e à síndica do prédio, e que estaria escrevendo cartas para um irmão com quem não fala há mais de uma década, "lembrando" desavenças antigas. A paciente vem porque "concordou em ouvir a médica" — não porque acredite que tenha problema.
 - **Duração estimada do vídeo:** 4 a 5 minutos
-- **Diagnóstico-alvo para o professor:** Transtorno de personalidade paranoide (DSM-5-TR 301.0; CID-11 6D11.5 — perfil dimensional **negative affectivity + dissocialidade**)
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade paranoide (DSM-5-TR F60.0; CID-11 6D10, perfil dimensional **afetividade negativa (6D11.0) + dissocialidade (6D11.2)**)
 - **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
 
 ---
