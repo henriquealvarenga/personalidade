@@ -16,7 +16,7 @@ book:
   author:
     - name: "Henrique Alvarenga da Silva"
       orcid: 0000-0001-9799-5240
-      email: henrique@ufsj.edu.br
+      email: henriquealvarenga@ufsj.edu.br
       affiliations:
         - name: Universidade Federal de São João del-Rei (UFSJ)
           department: Curso de Medicina
@@ -33,9 +33,9 @@ book:
   favicon: images/favicon.png
   image: images/capa.jpg                  # thumbnail no sidebar e em previews sociais
 
-  repo-url: https://github.com/henriquealvarenga/personalidade
-  repo-branch: main
-  repo-actions: [issue]
+  # Sem repo-url: o repositório é privado, e os links que o Quarto gera a
+  # partir dele (ícone do GitHub, "Reportar um problema") davam 404 para
+  # os leitores. O contato passa a ser por e-mail (ícone em sidebar.tools).
   search: true
   sharing: [twitter, facebook, linkedin]
   page-navigation: true
@@ -50,6 +50,12 @@ book:
     style: docked
     collapse-level: 1
     border: true
+    # Ícones no topo do menu lateral. Tem de ficar aqui, e não em book.tools:
+    # o Quarto aceita book.tools no schema, mas só lê sidebar.tools.
+    tools:
+      - icon: envelope
+        href: mailto:henriquealvarenga@ufsj.edu.br
+        text: "Sugestões e correções"
 
   chapters:
     - index.qmd

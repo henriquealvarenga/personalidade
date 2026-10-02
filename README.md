@@ -66,5 +66,5 @@ edição, autor) sobre a fotografia foi feita por Henrique Alvarenga da Silva.
 
 ## Contato
 
-📧 <henrique@ufsj.edu.br>
+📧 <henriquealvarenga@ufsj.edu.br>
 🔗 <https://github.com/henriquealvarenga/personalidade>

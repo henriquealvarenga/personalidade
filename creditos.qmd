@@ -14,7 +14,7 @@ Médico psiquiatra. Professor de Psiquiatria do Curso de Medicina da Universidad
 
 ::: {.contact-links}
 [🌐 Site pessoal](https://www.henriquealvarenga.com){.contact-link}
-[📧 E-mail](mailto:henrique@ufsj.edu.br){.contact-link}
+[📧 E-mail](mailto:henriquealvarenga@ufsj.edu.br){.contact-link}
 [🆔 ORCID](https://orcid.org/0000-0001-9799-5240){.contact-link}
 [📚 GitHub](https://github.com/henriquealvarenga){.contact-link}
 :::
@@ -69,13 +69,9 @@ A IA foi utilizada como ferramenta de apoio, não substituto do trabalho intelec
 :::
 
 ::: {.about-section}
-## Repositório e colaboração
+## Colaboração
 
-O código-fonte está disponível publicamente:
-
-🔗 **Repositório:** [github.com/henriquealvarenga/personalidade](https://github.com/henriquealvarenga/personalidade)
-
-Contribuições são bem-vindas via *issues* ou *pull requests*, especialmente:
+Contribuições são bem-vindas por e-mail ([henriquealvarenga@ufsj.edu.br](mailto:henriquealvarenga@ufsj.edu.br)), especialmente:
 
 - Correções bibliográficas
 - Sugestões de novos casos clínicos
@@ -196,8 +192,6 @@ Silva, H. A. da. (2026). *Personalidade: Uma breve introdução* (2ª ed.). Edi�
 Dúvidas, sugestões ou correções:
 
 📧 [henriquealvarenga@ufsj.edu.br](mailto:henriquealvarenga@ufsj.edu.br)
-
-Ou via *issues* no [repositório GitHub](https://github.com/henriquealvarenga/personalidade).
 
 ---
 
