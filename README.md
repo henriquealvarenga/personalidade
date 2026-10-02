@@ -22,7 +22,7 @@ em GitHub Pages via GitHub Actions a cada *push* na branch `main`.
 Para renderizar localmente:
 
 ```bash
-quarto render            # HTML + EPUB
+quarto render            # HTML
 quarto preview           # servidor local com hot reload
 ```
 

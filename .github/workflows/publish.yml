@@ -10,7 +10,7 @@ name: Render & Publish (HTML)
 #  Estrutura em 3 jobs:
 #    1. validate-bib  → roda validate_bib.py + deep_validate_bib.py.
 #                       Falha bloqueia tudo. Em PRs, só este job roda.
-#    2. build         → renderiza HTML + EPUB com Quarto, empacota como
+#    2. build         → renderiza HTML com Quarto, empacota como
 #                       Pages artifact.
 #    3. deploy        → publica o artifact em github-pages (URL pública).
 #                       Só em push para main; PRs não publicam.

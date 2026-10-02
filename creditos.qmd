@@ -122,7 +122,7 @@ Outras imagens eventualmente utilizadas neste livro provêm de fontes de uso liv
 | **Editor**        | Edição do Autor — Henrique Alvarenga da Silva |
 | **Afiliação institucional do autor** | UFSJ — Universidade Federal de São João del-Rei, Curso de Medicina |
 | **Local**         | São João del-Rei, MG, Brasil |
-| **Formato**       | E-book (HTML + EPUB) |
+| **Formato**       | E-book (HTML) |
 | **ISBN**          | em cadastramento |
 | **URL canônica**  | <https://henriquealvarenga.com/personalidade/> |
 
