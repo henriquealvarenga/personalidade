@@ -124,7 +124,7 @@ Outras imagens eventualmente utilizadas neste livro provêm de fontes de uso liv
 | **Local**         | São João del-Rei, MG, Brasil |
 | **Formato**       | E-book (HTML + EPUB) |
 | **ISBN**          | em cadastramento |
-| **URL canônica**  | <https://henriquealvarenga.github.io/personalidade/> |
+| **URL canônica**  | <https://henriquealvarenga.com/personalidade/> |
 
 : Ficha bibliográfica {.striped tbl-colwidths="[25,75]"}
 :::
@@ -157,15 +157,15 @@ Selecione o estilo abaixo:
 
 ### ABNT (NBR 6023)
 
-SILVA, Henrique Alvarenga da. **Personalidade**: uma breve introdução. 2. ed. São João del-Rei: Edição do Autor, 2026. E-book. Disponível em: <https://henriquealvarenga.github.io/personalidade/>. Acesso em: [inserir data de acesso].
+SILVA, Henrique Alvarenga da. **Personalidade**: uma breve introdução. 2. ed. São João del-Rei: Edição do Autor, 2026. E-book. Disponível em: <https://henriquealvarenga.com/personalidade/>. Acesso em: [inserir data de acesso].
 
 ### Vancouver
 
-Silva HA. Personalidade: uma breve introdução. 2ª ed. [Internet]. São João del-Rei (MG): Edição do Autor; 2026 [citado em ano mês dia]. Disponível em: https://henriquealvarenga.github.io/personalidade/
+Silva HA. Personalidade: uma breve introdução. 2ª ed. [Internet]. São João del-Rei (MG): Edição do Autor; 2026 [citado em ano mês dia]. Disponível em: https://henriquealvarenga.com/personalidade/
 
 ### APA (7ª ed.)
 
-Silva, H. A. da. (2026). *Personalidade: Uma breve introdução* (2ª ed.). Edição do Autor. https://henriquealvarenga.github.io/personalidade/
+Silva, H. A. da. (2026). *Personalidade: Uma breve introdução* (2ª ed.). Edição do Autor. https://henriquealvarenga.com/personalidade/
 
 ### BibTeX
 
@@ -177,7 +177,7 @@ Silva, H. A. da. (2026). *Personalidade: Uma breve introdução* (2ª ed.). Edi�
   publisher = {Edição do Autor},
   address   = {São João del-Rei, MG, Brasil},
   year      = {2026},
-  url       = {https://henriquealvarenga.github.io/personalidade/},
+  url       = {https://henriquealvarenga.com/personalidade/},
   note      = {E-book; segunda edição}
 }
 ```

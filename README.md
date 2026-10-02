@@ -9,7 +9,7 @@ o próprio conceito.
 
 **Autor:** Henrique Alvarenga da Silva
 **Edição:** 2ª edição (2026); a 1ª edição circulou em 2020 como material didático interno
-**Site publicado:** <https://henriquealvarenga.github.io/personalidade/>
+**Site publicado:** <https://henriquealvarenga.com/personalidade/>
 
 ---
 
