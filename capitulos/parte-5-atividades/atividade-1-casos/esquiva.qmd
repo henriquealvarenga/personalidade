@@ -1,8 +1,6 @@
 ---
 title: "Caso clínico G"
 subtitle: "Felipe"
-author: "Material didático para estudantes de medicina"
-bibliography: ../references/references.bib
 format:
   html:
     toc: true

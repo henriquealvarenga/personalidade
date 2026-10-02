@@ -1,8 +1,6 @@
 ---
 title: "Caso clínico B"
 subtitle: "Otávio"
-author: "Material didático para estudantes de medicina"
-bibliography: ../references/references.bib
 format:
   html:
     toc: true
@@ -13,8 +11,6 @@ format:
 ## Aviso ao docente
 Material **original** para fins didáticos. Construído a partir da **categoria diagnóstica** de um caso clínico publicado, sem reprodução de linguagem, cenas, sequência narrativa, vínculos, dados sociodemográficos ou frases do texto-fonte. O diagnóstico-alvo **não deve ser revelado** aos alunos antes do exercício de inferência.
 :::
-
-# Roteiro de Entrevista Simulada — Caso B
 
 ## 1. Ficha técnica do caso
 

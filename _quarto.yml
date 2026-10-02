@@ -35,7 +35,7 @@ book:
 
   repo-url: https://github.com/henriquealvarenga/personalidade
   repo-branch: main
-  repo-actions: [edit, issue]
+  repo-actions: [issue]
   search: true
   sharing: [twitter, facebook, linkedin]
   page-navigation: true
@@ -78,20 +78,20 @@ book:
     - part: "Parte V — Atividades"
       chapters:
         # ── Atividade 1: Casos clínicos (roteiros de entrevistas simuladas) ──
-        - casos/00-introducao.qmd
-        - casos/dependente.qmd          # Caso A — TP Dependente
-        - casos/esquizotipica.qmd       # Caso B — TP Esquizotípica
-        - casos/obsessivo.qmd           # Caso C — TP Obsessivo-Compulsiva
-        - casos/antissocial.qmd         # Caso D — TP Antissocial
-        - casos/histrionica.qmd         # Caso E — TP Histriônica
-        - casos/narcisista.qmd          # Caso F — TP Narcisista
-        - casos/esquiva.qmd             # Caso G — TP Evitativa
-        - casos/paranoide.qmd           # Caso H — TP Paranoide
-        - casos/borderline.qmd          # Caso I — TP Borderline
+        - capitulos/parte-5-atividades/atividade-1-casos/00-introducao.qmd
+        - capitulos/parte-5-atividades/atividade-1-casos/dependente.qmd      # Caso A — TP Dependente
+        - capitulos/parte-5-atividades/atividade-1-casos/esquizotipica.qmd   # Caso B — TP Esquizotípica
+        - capitulos/parte-5-atividades/atividade-1-casos/obsessivo.qmd       # Caso C — TP Obsessivo-Compulsiva
+        - capitulos/parte-5-atividades/atividade-1-casos/antissocial.qmd     # Caso D — TP Antissocial
+        - capitulos/parte-5-atividades/atividade-1-casos/histrionica.qmd     # Caso E — TP Histriônica
+        - capitulos/parte-5-atividades/atividade-1-casos/narcisista.qmd      # Caso F — TP Narcisista
+        - capitulos/parte-5-atividades/atividade-1-casos/esquiva.qmd         # Caso G — TP Evitativa
+        - capitulos/parte-5-atividades/atividade-1-casos/paranoide.qmd       # Caso H — TP Paranoide
+        - capitulos/parte-5-atividades/atividade-1-casos/borderline.qmd      # Caso I — TP Borderline
         # Falta: TP Esquizoide (cluster A) — adicionar como Caso J quando pronto.
         # ── Atividade 2: Quatro visões da personalidade × IAs ──
-        - atividades/visoes-personalidade.qmd
-        - atividades/atividade-visoes.qmd
+        - capitulos/parte-5-atividades/atividade-2-visoes-ia/01-leitura-preparatoria.qmd
+        - capitulos/parte-5-atividades/atividade-2-visoes-ia/02-atividade.qmd
     - creditos.qmd
     - references.qmd
 
