@@ -110,7 +110,7 @@ Cada campo vazio tem um comentário `<!-- -->`, invisível no site, que indica d
 
    Regras de forma:
    - **Dentro dos blocos:** só prosa (parágrafos, listas, negrito para conceitos-chave). Não use títulos (`#`) dentro dos blocos.
-   - **Citações:** no formato Pandoc, `[@chave]` ou `@chave`. O ABNT é aplicado automaticamente.
+   - **Citações:** no formato Pandoc, `[@chave]` ou `@chave`. O estilo de citação (Vancouver, numérico, definido no `_quarto.yml`) é aplicado automaticamente.
    - **Limpeza:** ao preencher um bloco, apague o `*Em elaboração.*` e o comentário-guia dele.
    - **Extensão:** combine com o autor na primeira sessão e registre a decisão em [Decisões de estilo](#decisões-de-estilo).
 
@@ -150,9 +150,11 @@ Isto **não** é texto pronto para usar. São pontos a conferir na fonte e citar
   - o qualificador de padrão borderline (6D11.5).
 - **Códigos do DSM-5-TR:** são os códigos F da CID-10-MC. Os 301.x são da CID-9-MC e aparecem em edições anteriores. Conferir antes de afirmar.
 - **Modelo Alternativo (Seção III) do DSM-5:** pelo que consta, mantém só seis tipos (antissocial, evitativa, borderline, narcisista, obsessivo-compulsiva e esquizotípica). Isso afeta os casos A, E e H (dependente, histriônica, paranoide). **Conferir na fonte antes de usar.**
-- **Divergências entre o Cap. 8 e os scripts, a decidir com o autor:**
-  - **Paranoide (Caso H):** a tabela do capítulo usa afetividade negativa + desapego, e o script usa afetividade negativa + dissocialidade.
-  - **Dependente (Caso A):** a tabela do capítulo inclui desapego; vale conferir na literatura.
+- **Tabela `@tbl-dsm-cid11` do Cap. 8:** revista em 2026-10-03 pelo autor e corrigida com `simon_crosswalk_2023`, que agora é a fonte de todos os perfis de traço.
+  - **Dependente (Caso A):** o desapego estava errado (a linha era cópia da evitativa); agora afetividade negativa, com desinibição secundária.
+  - **Paranoide (Caso H):** agora afetividade negativa + dissocialidade, com desapego em alguns estudos — coerente com o script. `bach_categorical_2018` (Tabela 6, p. 8) dá os três domínios.
+  - Histriônica, evitativa, obsessivo-compulsiva, narcisista e borderline foram completadas; ver o resumo de `simon_crosswalk_2023`.
+  - Ao escrever os blocos dos casos C, E, F, G, H e I, usar o perfil da tabela e conferir no resumo.
 
 ## Decisões de estilo
 
@@ -164,7 +166,7 @@ Registre aqui as decisões que o autor tomar nas sessões, como extensão de cad
 
 | Caso | Paciente | Página | Script | Diagnóstico | História | 4 blocos | Status |
 |---|---|---|---|---|---|---|---|
-| A | Marina | `caso-a.qmd` | `dependente.qmd` | TP dependente | — | — | esqueleto |
+| A | Marina | `caso-a.qmd` | `dependente.qmd` | TP dependente | pronto | — | em andamento |
 | B | Otávio | `caso-b.qmd` | `esquizotipica.qmd` | TP esquizotípica | — | — | esqueleto |
 | C | Helena | `caso-c.qmd` | `obsessivo.qmd` | TP obsessivo-compulsiva | — | — | esqueleto |
 | D | Diogo | `caso-d.qmd` | `antissocial.qmd` | TP antissocial | — | — | esqueleto |
@@ -183,3 +185,22 @@ Legenda: — = não iniciado · em andamento · pronto.
   - Foram criados os esqueletos `caso-a` … `caso-i`.
   - Foi criado `code/verificar_spoiler.py`.
   - Nenhum texto de caso foi escrito ainda.
+- **2026-10-03 — Caso A (Marina), 1ª sessão.**
+  - **História clínica:** escrita e reduzida pelo autor. Verificador de spoiler: OK.
+  - **Desapego (Cap. 8):** a tabela `@tbl-dsm-cid11` dava ao transtorno dependente afetividade negativa + desapego (cópia da linha da evitativa). Nenhuma fonte sustenta isso; a linha agora diz afetividade negativa (predominante) + desinibição (secundária), com `simon_crosswalk_2023`. Apoios: CDDR da OMS, pp. 560–561 (dependência é manifestação da afetividade negativa); `bach_categorical_2018`, Tabs. 4–6; `bach_icd11_personality_2018`, Tab. 8; `krueger_initial_2012`, Tab. 3; `gore_dependency_2013`, pp. 167–170.
+  - **Chaves novas no `.bib`:** `bach_categorical_2018`, `gore_dependency_2013`, `simon_crosswalk_2023`, `disney_dependent_2013`, `bornstein_reconceptualizing_2011`, `bornstein_costs_2012`, `apa_dsm5tr_2022`. Atualizado o `note` de `bach_icd11_personality_2018`. Backups locais: `references.bib.bak-20261003_133634_pre_caso_a` e `…_135002_pre_caso_a_lote2`.
+  - **Resumos criados** (pasta nova `references/resumos/`): `bach_categorical_2018`, `bach_icd11_personality_2018`, `bach_icd11_european_2022`, `gore_dependency_2013`, `krueger_initial_2012`, `simon_crosswalk_2023`, `who_cddr_icd11_2024`.
+  - **PDFs renomeados** para o padrão da pasta: Bach2018 (ANZJP), Simon2023, Disney2013, Bornstein2011, Bornstein2012, APA2022 (DSM-5-TR, edição em inglês).
+  - **Pendências:**
+    - escrever os quatro blocos do Caso A; antes, ler e resumir Disney 2013 (manuscrito aceito, paginação própria), Bornstein 2011, Bornstein 2012 e o capítulo do DSM-5-TR (incluindo a Seção III);
+    - decidir a extensão dos blocos (sugestão: 2 a 3 parágrafos cada) e registrar em "Decisões de estilo";
+    - Lambrecht, Simon e Bach (2023), *Personal Disord* 15(2):122–127, doi:10.1037/per0000646, o único estudo com traços avaliados pelo clínico, não foi encontrado; é opcional;
+    - Cap. 8, linha 17: diz que a CID-10 está "vigente desde 1992"; 1992 é o ano do livro de descrições clínicas (`who_icd10_1992`), que não traz a data de entrada em vigor. Falta fonte para conferir.
+- **2026-10-03 — Correções no Cap. 8 (pedidas pelo autor).**
+  - **Linha 42:** a CID-11 foi aprovada pela Assembleia Mundial da Saúde em maio de 2019 e entrou em vigor em 1º de janeiro de 2022 (antes dizia "adotada em janeiro de 2022"); abandonou os **oito** tipos da CID-10 (antes, "os dez [...] do sistema anterior", com nomes do DSM). Fontes: `who_cddr_icd11_2024` (p. 1) e `who_icd10_1992` (pp. 201–206), esta agora conferida e fora de pending-verification. A mesma data foi corrigida no callout da linha 95.
+  - **Tabela `@tbl-dsm-cid11`:** todas as linhas de traço revistas com `simon_crosswalk_2023` (citada no parágrafo que apresenta a tabela); borderline com o código F60.31 da CID-10.
+  - **CID-11 no Brasil (callout da linha 95):** antes dizia "conclusão oficial prevista para 1º de janeiro de 2027, sendo 2026 um ano de transição e capacitação"; a Nota Técnica nº 91/2024 do Ministério da Saúde prevê o **início** do uso nos sistemas de vigilância em janeiro de 2027, com integração plena até 2027 ou 2028, e a CID-10 versão 2019 em uso desde 2025. Buscas em 2026-10-03 não acharam mudança posterior.
+  - **Chaves novas no `.bib`:** `brasil_notatecnica91_2024` (PDF guardado em `references/PDF/`), `cfm_cronograma_cid11_2025`. Corrigido o título de `prata_implementation_2025` para o original em português (e o nome do PDF). Backup local: `references.bib.bak-20261003_140135_pre_cid11_brasil`.
+  - **Resumos criados:** `brasil_notatecnica91_2024`, `prata_implementation_2025`, `who_icd10_1992`; atualizados `who_cddr_icd11_2024` e `simon_crosswalk_2023`.
+  - **Estilo de citação:** o autor trocou para Vancouver; atualizadas as menções no `_quarto.yml` e neste arquivo.
+  - **Data de publicação do livro:** o `_quarto.yml` usava `date: today` desde a 2ª edição, e cada render trocava a data exibida. Fixada, por decisão do autor, em `2026-10-03` (exibida como "outubro de 2026"). Não voltar a usar `today`.

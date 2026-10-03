@@ -20,7 +20,9 @@ book:
       affiliations:
         - name: Universidade Federal de São João del-Rei (UFSJ)
           department: Curso de Medicina
-  date: today
+  # Data de publicação FIXA, escolhida pelo autor. Não usar `today`: com ele,
+  # cada render (local ou no CI) troca a data exibida para a do dia.
+  date: "2026-10-03"
   date-format: "MMMM [de] YYYY"
 
   description: |
@@ -121,10 +123,10 @@ book:
     - apendices/scripts/borderline.qmd      # Script I — TP Borderline
 
 # =========================================================================
-# Bibliografia — ABNT autor-data, processado pelo Citeproc do Pandoc
+# Bibliografia — Vancouver (numérico), processado pelo Citeproc do Pandoc
 # =========================================================================
 bibliography: references/references.bib
-csl: references/csl_styles/ABNT.csl
+csl: references/csl_styles/vancouver.csl
 citeproc: true
 link-citations: true
 link-bibliography: true

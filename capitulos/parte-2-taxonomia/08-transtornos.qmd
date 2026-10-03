@@ -39,7 +39,7 @@ Devido a essas inúmeras dificuldades, o DSM-5 incluiu em sua **Seção III** um
 
 ## A CID-11 — o modelo dimensional
 
-A insatisfação com o modelo categórico atingiu seu ponto de inflexão na **CID-11**, adotada pela Organização Mundial da Saúde em janeiro de 2022 e em vigor desde então [@who_icd11_2022]. A nova classificação **abandonou os dez transtornos de personalidade categóricos** do sistema anterior — paranoide, esquizoide, antissocial, histriônica, narcisista, evitativa, dependente e obsessivo-compulsiva foram dissolvidos em um modelo dimensional. **Apenas o padrão borderline foi preservado** como entidade clínica reconhecível com nome próprio, ainda assim na forma de um qualificador opcional, e não de categoria autônoma.
+A insatisfação com o modelo categórico atingiu seu ponto de inflexão na **CID-11**, aprovada pela Assembleia Mundial da Saúde em maio de 2019 e em vigor desde 1º de janeiro de 2022 [@who_icd11_2022; @who_cddr_icd11_2024]. A nova classificação **abandonou os oito tipos categóricos de transtorno de personalidade da CID-10** — paranoide, esquizoide, dissocial, emocionalmente instável, histriônico, anancástico, ansioso (evitativo) e dependente [@who_icd10_1992] —, que foram dissolvidos em um modelo dimensional. **Apenas o padrão borderline** (na CID-10, um subtipo do transtorno emocionalmente instável) **foi preservado** como entidade clínica reconhecível com nome próprio, ainda assim na forma de um qualificador opcional, e não de categoria autônoma.
 
 A estrutura da CID-11 tem três componentes:
 
@@ -73,24 +73,24 @@ A escolha de preservar **borderline** como qualificador — e não, por exemplo,
 A personalidade esquizotípica **nunca esteve** entre os transtornos de personalidade da CID — desde a CID-10 já estava classificada no espectro da esquizofrenia (F21). Na CID-11, mantém essa posição como **transtorno esquizotípico** (código **6A22**), no agrupamento *esquizofrenia e outros transtornos psicóticos primários*. O DSM-5, em contraste, conserva a esquizotípica entre os transtornos de personalidade, com nota cruzada para o espectro da esquizofrenia.
 :::
 
-A tabela abaixo mostra como cada transtorno categórico do DSM-5 mapeia *aproximadamente* no sistema dimensional da CID-11, com a referência histórica do diagnóstico equivalente na CID-10. Os qualificadores não são "tradução um-para-um" das antigas categorias — um mesmo paciente pode receber vários qualificadores, e a mesma combinação pode descrever apresentações clínicas diferentes em pacientes diferentes.
+A tabela abaixo mostra como cada transtorno categórico do DSM-5 mapeia *aproximadamente* no sistema dimensional da CID-11, com a referência histórica do diagnóstico equivalente na CID-10. Os perfis de traço seguem uma revisão de nove estudos empíricos [@simon_crosswalk_2023]: os domínios ligados por "+" são os que mais se associam a cada tipo; os "secundários" aparecem na maioria dos estudos, com associação menor. Os qualificadores não são "tradução um-para-um" das antigas categorias — um mesmo paciente pode receber vários qualificadores, e a mesma combinação pode descrever apresentações clínicas diferentes em pacientes diferentes.
 
 | DSM-5 | CID-11 (perfil dimensional típico) | CID-10 (histórico) |
 |:------|:------------------------------------|:--------------------|
-| Paranoide | 6D11.0 Afetividade negativa + 6D11.1 Desapego | F60.0 Paranoide |
+| Paranoide | 6D11.0 Afetividade negativa + 6D11.2 Dissocialidade; em alguns estudos, também 6D11.1 Desapego | F60.0 Paranoide |
 | Esquizoide | 6D11.1 Desapego (predominante) | F60.1 Esquizoide |
 | Esquizotípica | **6A22** (espectro da esquizofrenia, *fora* dos PD) | F21 (espectro da esquizofrenia) |
 | Antissocial | 6D11.2 Dissocialidade + 6D11.3 Desinibição | F60.2 Dissocial |
-| **Borderline** | 6D10 + **6D11.5 Padrão Borderline** | F60.3 Emocionalmente instável |
-| Histriônica | 6D11.0 Afetividade negativa + 6D11.2 Dissocialidade | F60.4 Histriônica |
-| Evitativa | 6D11.0 Afetividade negativa + 6D11.1 Desapego | F60.6 Ansiosa (evitativa) |
-| Dependente | 6D11.0 Afetividade negativa + 6D11.1 Desapego | F60.7 Dependente |
-| Obsessivo-compulsiva | 6D11.4 Anancástico | F60.5 Anancástica |
-| Narcisista | 6D11.2 Dissocialidade (com grandiosidade) | F60.8 "Outros" |
+| **Borderline** | 6D10 + **6D11.5 Padrão Borderline**; traços mais associados: 6D11.0 Afetividade negativa + 6D11.3 Desinibição | F60.31 Emocionalmente instável, tipo borderline |
+| Histriônica | 6D11.2 Dissocialidade, 6D11.3 Desinibição e 6D11.0 Afetividade negativa (associações fracas a moderadas) | F60.4 Histriônica |
+| Evitativa | 6D11.0 Afetividade negativa + 6D11.1 Desapego; secundário: 6D11.4 Anancástico | F60.6 Ansiosa (evitativa) |
+| Dependente | 6D11.0 Afetividade negativa; secundário: 6D11.3 Desinibição | F60.7 Dependente |
+| Obsessivo-compulsiva | 6D11.4 Anancástico; secundário: 6D11.0 Afetividade negativa | F60.5 Anancástica |
+| Narcisista | 6D11.2 Dissocialidade; secundários: 6D11.4 Anancástico e 6D11.3 Desinibição | F60.8 "Outros" |
 
 : Mapeamento dos transtornos do DSM-5 para a CID-11, com equivalente histórico CID-10 {#tbl-dsm-cid11 .striped .hover}
 
 ::: {.callout-tip appearance="simple"}
 ## Implicação clínica da virada dimensional
-Na prática brasileira, isso significa que o profissional formado hoje precisa **conhecer dois sistemas** simultaneamente: o DSM-5-TR (categórico, ainda hegemônico em ensino e literatura científica) e a CID-11 (dimensional, adotada pela OMS em 2022 e em vigência internacional desde então) [@who_icd11_2022]. No Brasil, a CID-11 **ainda não substituiu a CID-10**: o processo de implementação foi iniciado em 2021 e tem **conclusão oficial prevista para 1º de janeiro de 2027**, sendo 2026 um ano de transição e capacitação [@prata_implementation_2025]. Apesar disso, conhecer o modelo dimensional desde já é necessário — tanto pela hegemonia da CID-11 na literatura científica internacional quanto pela necessidade de preparação para a virada nacional. Os capítulos seguintes deste livro mantêm a apresentação categórica como organizador didático, mas o estudante deve saber traduzir cada diagnóstico para o perfil dimensional correspondente — e reconhecer que essa tradução é aproximada, não exata. A implicação para o tratamento é discutida no [Cap. 10 (Tratamento)](10-tratamento.qmd), e a crítica conceitual mais ampla, no [Apêndice II](../../apendices/critica-interdisciplinar.qmd).
+Na prática brasileira, isso significa que o profissional formado hoje precisa **conhecer dois sistemas** simultaneamente: o DSM-5-TR (categórico, ainda hegemônico em ensino e literatura científica) e a CID-11 (dimensional, aprovada pela Assembleia Mundial da Saúde em 2019 e em vigor internacionalmente desde 2022) [@who_icd11_2022; @who_cddr_icd11_2024]. No Brasil, a CID-11 **ainda não substituiu a CID-10**: o processo de implementação começou em 2021 [@prata_implementation_2025], e o uso da CID-11 nos sistemas de vigilância em saúde está previsto para **começar em janeiro de 2027**, de forma gradual, com integração plena até 2027 ou 2028; até lá, o país usa a CID-10 na versão de 2019, adotada em 2025 [@brasil_notatecnica91_2024]. Apesar disso, conhecer o modelo dimensional desde já é necessário — tanto pela hegemonia da CID-11 na literatura científica internacional quanto pela necessidade de preparação para a virada nacional. Os capítulos seguintes deste livro mantêm a apresentação categórica como organizador didático, mas o estudante deve saber traduzir cada diagnóstico para o perfil dimensional correspondente — e reconhecer que essa tradução é aproximada, não exata. A implicação para o tratamento é discutida no [Cap. 10 (Tratamento)](10-tratamento.qmd), e a crítica conceitual mais ampla, no [Apêndice II](../../apendices/critica-interdisciplinar.qmd).
 :::
