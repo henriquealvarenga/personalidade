@@ -140,6 +140,7 @@ Cada campo vazio tem um comentário `<!-- -->`, invisível no site, que indica d
 
 - Nada **fora** dos blocos recolhidos pode nomear ou insinuar o diagnóstico. Isso inclui título, subtítulo, história, pergunta e os títulos dos blocos, que devem continuar neutros.
 - Link para o script só **dentro** do bloco "Ver o diagnóstico", porque o script revela o diagnóstico.
+- **Lista de referências no fim da página:** fica visível, fora dos blocos recolhidos, e pode nomear o diagnóstico nos títulos das obras (em inglês, por exemplo). Decisão do autor em 2026-10-03: aceitável. O `verificar_spoiler.py` não olha essa lista.
 - Os nomes dos arquivos de leitura (`caso-a` … `caso-i`) são neutros de propósito, para o endereço da página não entregar o diagnóstico. Não renomeie.
 - Há duas pendências conhecidas, que ficam a decidir com o autor:
   - a busca do site indexa o conteúdo dos blocos recolhidos (`search: false` nas páginas de caso resolveria, ao custo de tirá-las da busca);
@@ -232,3 +233,8 @@ Legenda: — = não iniciado · em andamento · pronto.
   - **Estilo de citação:** `vancouver.csl` ganhou um bloco para o português com o ordinal feminino; as edições saem "3ª ed." (antes "3º ed.").
   - **README:** a 1ª edição passa a ser descrita com formato, ISBN e coleção (conferidos no manuscrito e no registro do ISBN).
   - **Resumo criado:** `torgersen_prevalence_2001`.
+- **2026-10-03 — Referências no fim das páginas (livro todo).**
+  - O título "Referências" aparecia no fim das páginas sem a lista: em livros com `references.qmd`, o Quarto gera a lista de cada capítulo com `display: none`. Afetava as 16 páginas com citações.
+  - Correção: regra em `theme-editorial.scss` que mostra a lista; script `_includes/referencias-locais.html` (incluído no `_quarto.yml`) que aponta cada citação para a lista da própria página, cuja numeração Vancouver bate com a do texto — antes, o "(5)" levava à página geral, onde a obra tem outro número. O script também atualiza o `data-original-href`, senão um script do Quarto desfaz a troca.
+  - Testado no Chrome em modo headless: lista visível em todas as páginas; no Caso A, 40 de 40 citações apontam para a própria página; no Cap. 8, 23 de 23.
+  - Nos casos, a lista fica visível fora dos blocos recolhidos; o autor aceitou (ver "Regras anti-spoiler").

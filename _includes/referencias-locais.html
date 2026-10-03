@@ -1,0 +1,25 @@
+<!-- Citações apontando para a lista do próprio capítulo.
+
+     Em livros, o Quarto liga cada citação à página geral de referências
+     (references.html#ref-chave). Com estilo numérico (Vancouver), a numeração
+     é de cada capítulo: o "(5)" de um capítulo é outra obra na página geral.
+     Este script troca o destino do link pela lista do fim do capítulo, quando
+     a obra está nela. A lista é mostrada pelo CSS em theme-editorial.scss.
+
+     O quarto-nav.js guarda o endereço original de cada link em
+     data-original-href, e um script do Quarto o restaura depois em links que
+     não considera internos. Por isso o endereço guardado também é trocado;
+     sem isso, a troca seria desfeita. -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll('a[role="doc-biblioref"]').forEach(function (a) {
+    var href = a.getAttribute("href") || "";
+    var i = href.indexOf("#ref-");
+    if (i < 0) return;
+    var id = href.slice(i + 1);
+    if (!document.getElementById(id)) return;
+    a.setAttribute("href", "#" + id);
+    if (a.dataset.originalHref !== undefined) a.dataset.originalHref = a.href;
+  });
+});
+</script>

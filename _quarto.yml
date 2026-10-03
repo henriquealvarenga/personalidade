@@ -145,6 +145,7 @@ format:
     include-in-header:
       - file: _includes/autor.html
       - file: _includes/rodape.html
+      - file: _includes/referencias-locais.html
     fontsize: 1.05em
     linestretch: 1.65
     mainfont: "Inter"
