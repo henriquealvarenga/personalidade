@@ -149,24 +149,27 @@ Isto **não** é texto pronto para usar. São pontos a conferir na fonte e citar
   - qualificadores de traço (6D11.0 a 6D11.4);
   - o qualificador de padrão borderline (6D11.5).
 - **Códigos do DSM-5-TR:** são os códigos F da CID-10-MC. Os 301.x são da CID-9-MC e aparecem em edições anteriores. Conferir antes de afirmar.
-- **Modelo Alternativo (Seção III) do DSM-5:** pelo que consta, mantém só seis tipos (antissocial, evitativa, borderline, narcisista, obsessivo-compulsiva e esquizotípica). Isso afeta os casos A, E e H (dependente, histriônica, paranoide). **Conferir na fonte antes de usar.**
+- **Modelo Alternativo (Seção III) do DSM-5-TR:** conferido em `apa_dsm5tr_2022`. Deriva só seis transtornos específicos — antissocial, evitativo, borderline, narcisista, obsessivo-compulsivo e esquizotípico (p. 881); paranoide, esquizoide, histriônico e dependente são representados como "transtorno de personalidade com traços especificados" (PD-TS) (p. 891). Afeta os casos A (feito), E e H. Ver o resumo.
 - **Tabela `@tbl-dsm-cid11` do Cap. 8:** revista em 2026-10-03 pelo autor e corrigida com `simon_crosswalk_2023`, que agora é a fonte de todos os perfis de traço.
   - **Dependente (Caso A):** o desapego estava errado (a linha era cópia da evitativa); agora afetividade negativa, com desinibição secundária.
   - **Paranoide (Caso H):** agora afetividade negativa + dissocialidade, com desapego em alguns estudos — coerente com o script. `bach_categorical_2018` (Tabela 6, p. 8) dá os três domínios.
   - Histriônica, evitativa, obsessivo-compulsiva, narcisista e borderline foram completadas; ver o resumo de `simon_crosswalk_2023`.
   - Ao escrever os blocos dos casos C, E, F, G, H e I, usar o perfil da tabela e conferir no resumo.
+- **Cap. 9, tabela `@tbl-prevalencia`, coluna "População geral" — a decidir com o autor:** os valores atribuídos a `torgersen_prevalence_2001` não batem com o artigo (resumo, p. 590, e a tabela de prevalências por sexo). Exemplos: dependente 0,7% na tabela × 1,5% no artigo; evitativa 1,7% × 5,0%; paranoide 1,7% × 2,4%; borderline 1,6% × 0,7%; esquizoide 1,0% × 1,7%. A coluna parece vir de outra fonte. A coluna "População clínica" (`zimmerman_prevalence_2005`) confere no dependente (1,4%). Por isso o Caso A não cita Torgersen.
 
 ## Decisões de estilo
 
 Registre aqui as decisões que o autor tomar nas sessões, como extensão de cada bloco, tom ou uso de exemplos.
 
-- *(nenhuma ainda)*
+- **Extensão dos blocos:** três parágrafos curtos por bloco, adotados no Caso A (2026-10-03) por sugestão; o autor ainda não confirmou.
+- **Ligação com o caso:** cada bloco termina, quando cabe, voltando ao paciente (no Caso A: critérios do DSM-5-TR que Marina preenche, classificação provável na CID-11, a recusa de promoção que não é desapego, a pergunta sobre norma cultural e prejuízo).
+- **Citações:** o estilo Vancouver não mostra a página no texto; manter o localizador (`[@chave, p. X]`) mesmo assim, porque fica no código e nos resumos. Disney (2013) é citado sem página (o PDF local é o manuscrito aceito, com paginação própria).
 
 ## Progresso
 
 | Caso | Paciente | Página | Script | Diagnóstico | História | 4 blocos | Status |
 |---|---|---|---|---|---|---|---|
-| A | Marina | `caso-a.qmd` | `dependente.qmd` | TP dependente | pronto | — | em andamento |
+| A | Marina | `caso-a.qmd` | `dependente.qmd` | TP dependente | pronto | pronto | pronto |
 | B | Otávio | `caso-b.qmd` | `esquizotipica.qmd` | TP esquizotípica | — | — | esqueleto |
 | C | Helena | `caso-c.qmd` | `obsessivo.qmd` | TP obsessivo-compulsiva | — | — | esqueleto |
 | D | Diogo | `caso-d.qmd` | `antissocial.qmd` | TP antissocial | — | — | esqueleto |
@@ -204,3 +207,15 @@ Legenda: — = não iniciado · em andamento · pronto.
   - **Resumos criados:** `brasil_notatecnica91_2024`, `prata_implementation_2025`, `who_icd10_1992`; atualizados `who_cddr_icd11_2024` e `simon_crosswalk_2023`.
   - **Estilo de citação:** o autor trocou para Vancouver; atualizadas as menções no `_quarto.yml` e neste arquivo.
   - **Data de publicação do livro:** o `_quarto.yml` usava `date: today` desde a 2ª edição, e cada render trocava a data exibida. Fixada, por decisão do autor, em `2026-10-03` (exibida como "outubro de 2026"). Não voltar a usar `today`.
+- **2026-10-03 — Caso A (Marina), 2ª sessão: caso concluído.**
+  - **Quatro blocos escritos** (três parágrafos cada) e aviso "Página em elaboração" retirado. Corrigido "MArina" na história.
+  - **Fontes usadas nos blocos:** `maass_personality_disorders_2019`, `disney_dependent_2013`, `who_icd10_1992`, `bornstein_reconceptualizing_2011`, `bornstein_costs_2012`, `apa_dsm5tr_2022`, `volkert_prevalence_2018`, `zimmerman_prevalence_2005`, `who_cddr_icd11_2024`, `simon_crosswalk_2023`, `gore_dependency_2013`. Disney, os dois Bornstein e o DSM-5-TR foram lidos com apoio de subagentes; os trechos usados foram conferidos no texto.
+  - **Resumos criados:** `apa_dsm5tr_2022`, `disney_dependent_2013`, `bornstein_reconceptualizing_2011`, `bornstein_costs_2012`, `maass_personality_disorders_2019`, `volkert_prevalence_2018`, `zimmerman_prevalence_2005`.
+  - **`.bib`:** corrigido o segundo autor de `volkert_prevalence_2018` (era "Gablónski, Theresa-Maria"; é Thorsten-Christian Gablonski) e o campo `edition` de `apa_dsm5tr_2022`. Backup local: `references.bib.bak-*_pre_volkert`.
+  - **Verificação:** `validate_bib` com zero erros; render sem avisos; `verificar_spoiler.py caso-a` OK.
+  - **Pendências para o autor:**
+    - confirmar a extensão dos blocos (ver "Decisões de estilo");
+    - Cap. 9: coluna de Torgersen na tabela de prevalência (ver "Pontos de atenção");
+    - classificação de Marina na CID-11 ("provavelmente leve, com afetividade negativa proeminente") é inferência a partir da CDDR, pp. 556 e 560 — conferir se concorda;
+    - o estilo/idioma de citação imprime "3º ed." nos livros (deveria ser "3ª ed.");
+    - os textos extraídos dos PDFs ficam só na pasta temporária da sessão; o autor pode querer guardá-los numa pasta local fora do git.
