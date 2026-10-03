@@ -1,0 +1,33 @@
+# berrios_european_1993
+
+- **Referência:** BERRIOS, G. E. European views on personality disorders: a conceptual history. *Comprehensive Psychiatry*, v. 34, n. 1, p. 14–30, 1993.
+- **DOI / URL:** <https://doi.org/10.1016/0010-440x(93)90031-x>
+- **Conferência 1 (metadados):** Crossref (2026-05-23, quando o DOI foi corrigido; ver `note` no .bib), reconferida em 2026-10-03 (autor, título, periódico, v. 34, n. 1, pp. 14–30, janeiro de 1993); cabeçalho da p. 14 do PDF reconferido em 2026-10-03 (*Comprehensive Psychiatry*, v. 34, n. 1, jan./fev. 1993, pp. 14–30).
+- **Conferência 2 (conteúdo):** PDF lido em 2026-10-03, em partes. Caso D: resumo (p. 14), parte sobre os transtornos "psicopáticos" do século XIX e começo do XX (pp. 18–23) e conclusões (pp. 25–26). Caso H: resumo (p. 14) e passagem sobre Kurt Schneider (p. 22). Páginas impressas da revista (a p. 1 do PDF é a p. 14), conferidas no cabeçalho de cada página do PDF.
+
+## O que a obra diz
+
+História conceitual das origens europeias da categoria "transtorno de personalidade" do DSM-III-R, distinguindo a história das palavras, a dos comportamentos e a dos conceitos e percorrendo as tradições francesa, alemã e britânica e as tipologias do começo do século XX. O conceito de transtorno do caráter (personalidade) se formou no século XIX, depois que noções como caráter, constituição, temperamento e eu receberam definição psicológica e que as "insanidades" se transformaram em "psicoses"; até o fim do século, "personalidade" designava os aspectos subjetivos do eu e "transtorno da personalidade" queria dizer alteração da consciência (p. ex., dissociação histérica).
+
+O artigo revisa a genealogia habitual da psicopatia: a *manie sans délire* de Pinel e a *moral insanity* de Prichard não tratavam de transtornos de personalidade (Pinel tentava construir uma forma de loucura definida sem delírio, ainda útil nos tribunais; Prichard procurava um lugar para estados maníaco-depressivos sem sintomas psicóticos). "Psicopático" significava, no fim do século XIX, simplesmente psicopatológico; Koch estreitou o sentido com as "inferioridades psicopáticas", noção que só fazia sentido dentro da teoria da degeneração. Schneider, em *Personalidades psicopáticas* (1ª ed., 1923), definiu as personalidades psicopáticas como as anormais que fazem sofrer a si mesmas ou à sociedade e descreveu dez grupos, como formas de ser e não entidades diagnósticas. A noção acabou presa às atrocidades eugênicas da Alemanha da época, e nas classificações dos anos 1990 os termos "personalidade psicopática" e "transtorno psicopático" desapareceram: na CID-10 foram incorporados ao transtorno de personalidade dissocial (F60.2); no DSM-III-R, ao transtorno de personalidade antissocial (301.70).
+
+## Trechos úteis para os casos
+
+- p. 14 (resumo): até o fim do século XIX, "personalidade" designava os aspectos subjetivos do eu, e "transtorno da personalidade", alteração da consciência.
+- p. 19: o que Pinel quis dizer com *manie sans délire* foi debatido durante todo o século XIX; em 1866, Falret argumentou que a única razão para manter a categoria era usá-la como defesa nos tribunais; "as intenções clínicas de Pinel tinham pouco a ver com os transtornos de personalidade".
+- p. 19: a afirmação de que a *moral insanity*, cunhada por Prichard, foi precursora do transtorno psicopático "foi efetivamente desacreditada" (cita Whitlock: "nem a mais remota semelhança" entre os exemplos de Pinel e Prichard e a personalidade psicopática de hoje).
+- p. 20: a preocupação principal de Prichard era dar lugar a quadros maníaco-depressivos sem sintomas psicóticos; seus casos muitas vezes melhoravam; "Prichard não estava falando de personalidades psicopáticas".
+- p. 21: sem a teoria da degeneração, o conceito de inferioridade psicopática teria feito pouco sentido.
+- p. 21: os termos personalidade (e transtorno) psicopática desapareceram das classificações atuais; na CID-10 foram incorporados ao transtorno de personalidade dissocial (F60.2) e, no DSM-III-R, ao grupo B (transtorno de personalidade antissocial, 301.70).
+- p. 21: no fim do século XIX, "psicopático" queria dizer psicopatológico e se aplicava a qualquer transtorno mental; Koch deu sentido mais estreito com as "inferioridades psicopáticas" (estados anormais por "fraqueza do cérebro", leves a graves; as graves, sempre resultado de degeneração, incluíam comportamentos antissociais).
+- pp. 21–22: Schneider observou que o critério classificatório de Koch tinha sido moral, e não científico, e que as psicopatias eram "essencialmente, um problema alemão".
+- p. 22: Kurt Schneider publicou a 1ª edição de *Psychopathic Personalities* (*Die psychopathischen Persönlichkeiten*) em 1923, no *Handbuch der Psychiatrie* de Aschaffenburg; Berrios cita a 9ª edição (Deuticke, 1950; sua referência 145). Ao preferir o termo "personalidade", Schneider ajudou a tornar obsoletos "temperamento" e "caráter".
+- p. 22: Schneider definiu a personalidade anormal como desvio da média e as personalidades psicopáticas como as personalidades anormais "que sofrem, ou fazem a sociedade sofrer, por causa de sua anormalidade"; não eram doenças no sentido médico. Descreveu **dez grupos psicopáticos**: hipertímicos, depressivos, inseguros, **fanáticos**, carentes de autoestima (*lacking in self-esteem*), lábeis de afeto, explosivos, desalmados (*wicked*), abúlicos e astênicos — concebidos como formas de ser, e não como entidades diagnósticas.
+- p. 22: Schneider não via relação entre seus tipos e as neuroses ou psicoses, mas admitia que a personalidade modulasse a forma das psicoses.
+- p. 22: a posição de Mezger (toda psicopatia seria, em última instância, degeneração) ilustra como a noção de personalidade psicopática ficou presa às atrocidades eugênicas cometidas na Alemanha da época.
+- p. 23: Henderson (*Psychopathic States*) definia os estados psicopáticos por transtornos de conduta de natureza antissocial ou associal, recorrentes, resistentes a medidas sociais, penais ou médicas.
+
+## Onde é citada no livro
+
+- `caso-d.qmd`, bloco "História do diagnóstico na psiquiatria": revisão da genealogia Pinel–Prichard; sentido antigo de "psicopático"; Koch e a degeneração; Schneider (1923) e a definição ampla; a captura eugênica; o desaparecimento do termo nas classificações (CID-10 F60.2).
+- `caso-h.qmd`, bloco "História do diagnóstico na psiquiatria": os fanáticos entre os dez tipos de personalidade psicopática de Schneider (livro de 1923, várias vezes reeditado).

@@ -6,9 +6,11 @@ O que faz:
   1.  Lê as páginas geradas dos casos de leitura da Atividade 1
       (_book/capitulos/parte-5-atividades/atividade-1-casos/caso-*.html).
   2.  Descarta o conteúdo dos blocos recolhidos (div.callout-collapse), que é
-      onde o diagnóstico deve ficar, e o menu lateral (igual em todas as
+      onde o diagnóstico deve ficar, o menu lateral (igual em todas as
       páginas; os endereços dos scripts no apêndice contêm o diagnóstico por
-      decisão do autor).
+      decisão do autor) e a lista de referências do fim da página (div#refs;
+      os títulos das obras podem nomear o diagnóstico, decisão do autor em
+      2026-10-03).
   3.  Procura no restante (título, subtítulo, história, pergunta, sumário,
       atributos como title/alt/href) termos que nomeiem algum diagnóstico.
   4.  Confere que cada página tem os 5 blocos recolhidos e que todos começam
@@ -62,8 +64,10 @@ class TextoVisivel(HTMLParser):
         if tag in VAZIOS:
             return
         classes = (a.get("class") or "").split()
-        entra = (tag == "div" and "callout-collapse" in classes) or (
-            tag == "nav" and a.get("id") == "quarto-sidebar"
+        entra = (
+            (tag == "div" and "callout-collapse" in classes)
+            or (tag == "nav" and a.get("id") == "quarto-sidebar")
+            or (tag == "div" and a.get("id") == "refs")
         )
         self.pilha.append(entra)
         if entra:

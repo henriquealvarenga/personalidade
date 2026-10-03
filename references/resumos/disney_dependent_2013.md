@@ -27,3 +27,4 @@ Revisão crítica do transtorno de personalidade dependente: raízes psicanalít
 ## Onde é citada no livro
 
 - `caso-a.qmd`, blocos "História do diagnóstico na psiquiatria", "Importância do diagnóstico hoje" e "Críticas ao diagnóstico".
+- `caso-g.qmd`, bloco "Críticas ao diagnóstico": correlação de 0,66 entre os sintomas dos transtornos dependente e evitativo (manuscrito, p. 23; citado sem página).
