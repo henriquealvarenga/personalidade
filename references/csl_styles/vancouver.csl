@@ -46,6 +46,14 @@
       <date-part name="year"/>
     </date>
   </locale>
+  <!-- Ajuste local (Personalidade, 2026-10-03): em português, "edição" é
+       feminino, e o ordinal padrão do idioma sai masculino ("3º ed.").
+       Neste estilo, o ordinal só é usado para a edição. -->
+  <locale xml:lang="pt">
+    <terms>
+      <term name="ordinal">ª</term>
+    </terms>
+  </locale>
   <macro name="author">
     <names variable="author">
       <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>

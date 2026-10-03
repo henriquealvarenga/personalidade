@@ -155,13 +155,13 @@ Isto **não** é texto pronto para usar. São pontos a conferir na fonte e citar
   - **Paranoide (Caso H):** agora afetividade negativa + dissocialidade, com desapego em alguns estudos — coerente com o script. `bach_categorical_2018` (Tabela 6, p. 8) dá os três domínios.
   - Histriônica, evitativa, obsessivo-compulsiva, narcisista e borderline foram completadas; ver o resumo de `simon_crosswalk_2023`.
   - Ao escrever os blocos dos casos C, E, F, G, H e I, usar o perfil da tabela e conferir no resumo.
-- **Cap. 9, tabela `@tbl-prevalencia`, coluna "População geral" — a decidir com o autor:** os valores atribuídos a `torgersen_prevalence_2001` não batem com o artigo (resumo, p. 590, e a tabela de prevalências por sexo). Exemplos: dependente 0,7% na tabela × 1,5% no artigo; evitativa 1,7% × 5,0%; paranoide 1,7% × 2,4%; borderline 1,6% × 0,7%; esquizoide 1,0% × 1,7%. A coluna parece vir de outra fonte. A coluna "População clínica" (`zimmerman_prevalence_2005`) confere no dependente (1,4%). Por isso o Caso A não cita Torgersen.
+- **Cap. 9, tabela `@tbl-prevalencia`:** corrigida em 2026-10-03 por decisão do autor. A coluna "População geral" não batia com `torgersen_prevalence_2001`; agora traz os valores ponderados da Tabela 2 do artigo (p. 593), e o asterisco "mais comum nos homens" passou do narcisista para o antissocial e o obsessivo-compulsivo. A coluna clínica (`zimmerman_prevalence_2005`) confere nos dez valores.
 
 ## Decisões de estilo
 
 Registre aqui as decisões que o autor tomar nas sessões, como extensão de cada bloco, tom ou uso de exemplos.
 
-- **Extensão dos blocos:** três parágrafos curtos por bloco, adotados no Caso A (2026-10-03) por sugestão; o autor ainda não confirmou.
+- **Extensão dos blocos:** três parágrafos curtos por bloco — decisão do autor (2026-10-03), a partir do Caso A.
 - **Ligação com o caso:** cada bloco termina, quando cabe, voltando ao paciente (no Caso A: critérios do DSM-5-TR que Marina preenche, classificação provável na CID-11, a recusa de promoção que não é desapego, a pergunta sobre norma cultural e prejuízo).
 - **Citações:** o estilo Vancouver não mostra a página no texto; manter o localizador (`[@chave, p. X]`) mesmo assim, porque fica no código e nos resumos. Disney (2013) é citado sem página (o PDF local é o manuscrito aceito, com paginação própria).
 
@@ -219,3 +219,10 @@ Legenda: — = não iniciado · em andamento · pronto.
     - classificação de Marina na CID-11 ("provavelmente leve, com afetividade negativa proeminente") é inferência a partir da CDDR, pp. 556 e 560 — conferir se concorda;
     - o estilo/idioma de citação imprime "3º ed." nos livros (deveria ser "3ª ed.");
     - os textos extraídos dos PDFs ficam só na pasta temporária da sessão; o autor pode querer guardá-los numa pasta local fora do git.
+- **2026-10-03 — Pontos em aberto resolvidos com o autor.**
+  - **Caso A:** devolvida à história a frase em que Marina se cala quando discordam dela (critério 3); o bloco do DSM-5-TR passa a "pelo menos seis" critérios. Classificação na CID-11 (leve, com afetividade negativa proeminente) confirmada pelo autor. No bloco de importância, acrescentada a prevalência de Oslo (1,5%; 2,0% em mulheres e 0,9% em homens) para coerência com o Cap. 9.
+  - **Extensão dos blocos:** três parágrafos, decisão do autor (ver "Decisões de estilo").
+  - **Cap. 9:** tabela de prevalência corrigida (ver "Pontos de atenção"); a linha 5 dizia que a metanálise de `volkert_prevalence_2018` reuniu "27 estudos" — são dez estudos, publicados em 27 artigos.
+  - **Estilo de citação:** `vancouver.csl` ganhou um bloco para o português com o ordinal feminino; as edições saem "3ª ed." (antes "3º ed.").
+  - **README:** a 1ª edição passa a ser descrita com formato, ISBN e coleção (conferidos no manuscrito e no registro do ISBN).
+  - **Resumo criado:** `torgersen_prevalence_2001`.
