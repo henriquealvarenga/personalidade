@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-extrair_texto_pdfs.py — Gera uma cópia em texto de cada PDF de referência.
+extrair_texto_pdfs.py — Gera uma cópia em texto de cada PDF e EPUB de referência.
 
 Para que serve:
-  Os PDFs de references/PDF/ são lidos com frequência (conferência 2 das
-  referências, ver revisao.md). Em texto, dá para procurar em todos de uma vez
+  Os PDFs e EPUBs de references/PDF/ são lidos com frequência (conferência 2
+  das referências, ver revisao.md). Em texto, dá para procurar em todos de uma vez
   (grep) e ler trechos longos gastando muito menos do que lendo o PDF como
   imagem. O texto serve para ACHAR o trecho; a confirmação final, com a página
   anotada no resumo, continua sendo no PDF: tabelas, quadros de destaque e
@@ -23,8 +23,16 @@ O que faz:
       escaneada tem duas páginas do original lado a lado (página larga com
       margem central em branco), cada metade é lida em separado, da esquerda
       para a direita. Essas páginas começam com a linha "[texto de OCR]".
-  4.  Só refaz o .txt quando o PDF é mais novo que ele (ou com --tudo).
-  5.  Lista os .txt cujo PDF não existe mais (renomeado ou apagado); com
+  4.  EPUBs: o texto segue a ordem de leitura do livro (o spine), com uma
+      marca "=== seção N: título ===" no início de cada arquivo interno (N é
+      a posição no spine; o título vem do índice do EPUB, ou é o nome do
+      arquivo). EPUB não tem páginas: quando ele traz a paginação da edição
+      impressa, ela aparece no texto como "[p. N]"; quando não traz, a
+      citação com página exige conferir numa edição paginada. EPUBs gerados
+      pelo Internet Archive são OCR automático de páginas escaneadas (uma
+      seção por página, com erros), e o cabeçalho do .txt avisa.
+  5.  Só refaz o .txt quando o PDF/EPUB é mais novo que ele (ou com --tudo).
+  6.  Lista os .txt cujo PDF/EPUB não existe mais (renomeado ou apagado); com
       --limpar, apaga esses .txt.
 
 references/texto/ fica fora do git (.gitignore), como os PDFs: é texto
@@ -39,23 +47,28 @@ Uso:
                                                       # (brew install tesseract-lang)
 
 Códigos de saída:
-  0  todos os PDFs têm .txt
-  1  algum PDF ficou sem .txt (escaneado sem tesseract, ou erro na extração)
+  0  todos os PDFs e EPUBs têm .txt
+  1  algum ficou sem .txt (PDF escaneado sem tesseract, ou erro na extração)
   2  pdftotext/pdftoppm não encontrados (brew install poppler)
 """
 
 from __future__ import annotations
 
 import argparse
+import html
 import os
+import posixpath
 import re
 import shutil
 import subprocess
 import sys
 import tempfile
+import zipfile
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date
+from html.parser import HTMLParser
 from pathlib import Path
+from urllib.parse import unquote
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PASTA_PDF = PROJECT_ROOT / "references" / "PDF"
@@ -142,7 +155,25 @@ def palavras(texto: str) -> int:
     return len(re.findall(r"[A-Za-zÀ-ÿ]{3,}", texto))
 
 
-def escrever(destino: Path, pdf: Path, paginas: list[str], lidas_ocr: int, duplas: int, lingua: str) -> None:
+def extrair_pdf(pdf: Path, pool: ThreadPoolExecutor, lingua: str, tem_ocr: bool) -> tuple[list[str], int, int] | None:
+    """Páginas, quantas foram lidas por OCR e quantas eram duplas; None se o PDF não tem texto nenhum."""
+    paginas = pdftotext(pdf)
+    vazias = [n for n, p in enumerate(paginas, start=1) if len("".join(p.split())) < MIN_CARACTERES]
+    lidas_ocr = duplas = 0
+    if vazias and tem_ocr:
+        if len(vazias) > 2:
+            print(f"OCR   {pdf.name} ({len(vazias)} páginas sem texto)")
+        for n, texto in zip(vazias, pool.map(lambda n: ocr_pagina(pdf, n, lingua), vazias)):
+            if palavras(texto) >= MIN_PALAVRAS_OCR:
+                paginas[n - 1] = limpar(texto)
+                lidas_ocr += 1
+                duplas += "metade esquerda" in texto
+    if lidas_ocr == 0 and len(vazias) == len(paginas):
+        return None
+    return paginas, lidas_ocr, duplas
+
+
+def escrever_pdf(destino: Path, pdf: Path, paginas: list[str], lidas_ocr: int, duplas: int, lingua: str) -> None:
     cabecalho = [
         f"# Texto extraído de: {pdf.relative_to(PROJECT_ROOT)}",
         f"# Gerado por code/extrair_texto_pdfs.py em {date.today().isoformat()}. Não editar: rodar o script de novo.",
@@ -160,10 +191,150 @@ def escrever(destino: Path, pdf: Path, paginas: list[str], lidas_ocr: int, dupla
     destino.write_text("\n".join(cabecalho) + "\n" + "\n".join(corpo) + "\n", encoding="utf-8")
 
 
+# --- EPUB ---------------------------------------------------------------------
+
+BLOCOS_HTML = {"p", "div", "h1", "h2", "h3", "h4", "h5", "h6", "li", "tr", "blockquote", "section",
+               "article", "table", "dd", "dt", "pre", "figcaption", "header", "footer", "aside"}
+VAZIOS_HTML = {"br", "hr", "img", "meta", "link", "input", "col", "area", "base", "wbr", "source"}
+AVISO_ARCHIVE = "produced in EPUB format by the Internet Archive"
+
+
+def pagina_impressa(attrs: dict) -> tuple[str, bool] | None:
+    """(número, descartar o conteúdo?) se o elemento marca o início de uma página impressa.
+
+    Marcadores explícitos (epub:type="pagebreak", role="doc-pagebreak", classes
+    pageno/pagenum do Gutenberg) só contêm o rótulo da página, que é descartado.
+    Âncoras id="page_N", comuns em EPUBs de editora, podem envolver texto, que
+    é mantido. Outras numerações (ex.: data-ep_ppid="Page-__-N") são do
+    programa que gerou o EPUB, não da edição impressa, e são ignoradas.
+    """
+    tipo = f"{attrs.get('epub:type') or ''} {attrs.get('role') or ''}"
+    if "pagebreak" in tipo or re.search(r"page-?(no|num(ber)?)\b", attrs.get("class") or ""):
+        rotulo = attrs.get("title") or attrs.get("aria-label") or attrs.get("id") or ""
+        m = re.search(r"(\d+|\b[ivxlcdm]+)\s*\]?\s*$", rotulo, re.I)  # "[Pg 3]", "Page_3", "xii"
+        return (m.group(1), True) if m else None
+    m = re.fullmatch(r"page[_-]?(\d+|[ivxlcdm]+)", attrs.get("id") or "", re.I)
+    return (m.group(1), False) if m else None
+
+
+class TextoXHTML(HTMLParser):
+    """Texto de um arquivo XHTML do EPUB: um parágrafo por bloco, [p. N] nas quebras de página."""
+
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.partes: list[str] = []
+        self.pilha: list[tuple[str, bool]] = []  # (tag, descarta o texto de dentro?)
+        self.oculto = 0
+
+    def handle_starttag(self, tag, attrs):
+        marca = pagina_impressa(dict(attrs))
+        if not self.oculto:
+            if tag == "br" or tag in BLOCOS_HTML:
+                self.partes.append("\n")
+            if marca:
+                self.partes.append(f" [p. {marca[0]}] ")
+        if tag in VAZIOS_HTML:
+            return
+        descarta = tag in ("head", "script", "style") or bool(marca and marca[1])
+        self.pilha.append((tag, descarta))
+        self.oculto += descarta
+
+    def handle_startendtag(self, tag, attrs):
+        self.handle_starttag(tag, attrs)
+        if tag not in VAZIOS_HTML:
+            self.handle_endtag(tag)
+
+    def handle_endtag(self, tag):
+        if tag in VAZIOS_HTML or tag not in (t for t, _ in self.pilha):
+            return
+        while self.pilha:  # fecha também o que ficou aberto dentro dele
+            t, descarta = self.pilha.pop()
+            self.oculto -= descarta
+            if t == tag:
+                break
+        if tag in BLOCOS_HTML and not self.oculto:
+            self.partes.append("\n")
+
+    def handle_data(self, data):
+        if not self.oculto:
+            self.partes.append(data)
+
+    def texto(self) -> str:
+        linhas = (" ".join(linha.split()) for linha in "".join(self.partes).split("\n"))
+        return re.sub(r"\n{3,}", "\n\n", "\n".join(linhas)).strip()
+
+
+def secoes_epub(epub: Path) -> list[tuple[int, str, str]]:
+    """(posição no spine, título, texto) de cada arquivo do EPUB, na ordem de leitura."""
+    with zipfile.ZipFile(epub) as z:
+        def ler(caminho: str) -> str:
+            return z.read(caminho).decode("utf-8", errors="replace")
+
+        def resolver(base: str, href: str) -> str:
+            return posixpath.normpath(posixpath.join(posixpath.dirname(base), unquote(href.split("#")[0])))
+
+        opf = re.search(r'full-path="([^"]+)"', ler("META-INF/container.xml")).group(1)
+        pacote = ler(opf)
+        itens = {}
+        for tag in re.findall(r"<item\s[^>]*>", pacote):
+            a = dict(re.findall(r'([\w:-]+)="([^"]*)"', tag))
+            itens[a.get("id")] = a
+        spine = re.findall(r'<itemref\s[^>]*idref="([^"]+)"', pacote)
+
+        # Títulos do índice: nav do EPUB 3 (só a parte "toc", não a lista de páginas) e NCX do EPUB 2.
+        titulos: dict[str, str] = {}
+        for a in itens.values():
+            href = resolver(opf, a.get("href", ""))
+            if "nav" in a.get("properties", "").split():
+                toc = re.search(r'<nav[^>]*epub:type="[^"]*\btoc\b[^"]*"[^>]*>(.*?)</nav>', ler(href), re.S)
+                pares = re.findall(r'<a[^>]*href="([^"]+)"[^>]*>(.*?)</a>', toc.group(1) if toc else "", re.S)
+            elif a.get("media-type") == "application/x-dtbncx+xml":
+                pares = [(s, t) for t, s in re.findall(
+                    r"<navLabel>\s*<text>(.*?)</text>\s*</navLabel>\s*<content[^>]*src=\"([^\"]+)\"", ler(href), re.S)]
+            else:
+                continue
+            for alvo, rotulo in pares:
+                rotulo = " ".join(html.unescape(re.sub(r"<[^>]+>", "", rotulo)).split())
+                if rotulo:
+                    titulos.setdefault(resolver(href, alvo), rotulo[:80])
+
+        secoes = []
+        for pos, idref in enumerate(spine, start=1):
+            if idref not in itens or "nav" in itens[idref].get("properties", "").split():
+                continue  # o índice já virou os títulos das seções
+            arquivo = resolver(opf, itens[idref]["href"])
+            parser = TextoXHTML()
+            parser.feed(ler(arquivo))
+            if texto := limpar(parser.texto()):
+                secoes.append((pos, titulos.get(arquivo) or posixpath.splitext(posixpath.basename(arquivo))[0], texto))
+        return secoes
+
+
+def escrever_epub(destino: Path, epub: Path, secoes: list[tuple[int, str, str]]) -> None:
+    corpo = "\n".join(f"\n=== seção {pos}: {titulo} ===\n{texto}" for pos, titulo, texto in secoes)
+    cabecalho = [
+        f"# Texto extraído de: {epub.relative_to(PROJECT_ROOT)}",
+        f"# Gerado por code/extrair_texto_pdfs.py em {date.today().isoformat()}. Não editar: rodar o script de novo.",
+        f"# EPUB, {len(secoes)} seções na ordem de leitura. '=== seção N: título ===' marca o início de cada"
+        " arquivo interno do livro (N é a posição no spine).",
+    ]
+    if re.search(r"\[p\. [^\]]+\]", corpo):
+        cabecalho.append("# '[p. N]' marca o início da página N da edição impressa que o EPUB reproduz.")
+    else:
+        cabecalho.append("# Este EPUB não traz a paginação impressa: citação com página exige conferir numa edição paginada.")
+    if AVISO_ARCHIVE in corpo:
+        cabecalho.append("# Gerado pelo Internet Archive por OCR automático de páginas escaneadas: cada seção é uma"
+                         " página escaneada (o número impresso costuma aparecer no texto); há erros de"
+                         " reconhecimento e a ordem de leitura pode falhar.")
+    cabecalho.append("# Serve para achar o trecho; confirmar no EPUB antes de anotar no resumo.")
+    destino.parent.mkdir(parents=True, exist_ok=True)
+    destino.write_text("\n".join(cabecalho) + "\n" + corpo + "\n", encoding="utf-8")
+
+
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Gera references/texto/*.txt a partir de references/PDF/*.pdf.")
+    ap = argparse.ArgumentParser(description="Gera references/texto/*.txt a partir dos PDFs e EPUBs de references/PDF/.")
     ap.add_argument("--tudo", action="store_true", help="refaz todos os .txt")
-    ap.add_argument("--limpar", action="store_true", help="apaga .txt cujo PDF não existe mais")
+    ap.add_argument("--limpar", action="store_true", help="apaga .txt cujo PDF/EPUB não existe mais")
     ap.add_argument("--ocr-lang", default="eng", help="idiomas do OCR, no formato do tesseract (padrão: eng)")
     args = ap.parse_args()
 
@@ -172,45 +343,45 @@ def main() -> int:
         return 2
     tem_ocr = shutil.which("tesseract") is not None
 
-    pdfs = sorted(PASTA_PDF.rglob("*.pdf"))
+    # PDFs primeiro: se houver PDF e EPUB com o mesmo nome, o .txt fica com o PDF.
+    documentos = sorted(PASTA_PDF.rglob("*.pdf")) + sorted(PASTA_PDF.rglob("*.epub"))
     feitos = pulados = 0
     sem_texto: list[Path] = []
     erros: list[str] = []
+    destinos: set[Path] = set()
 
     with ThreadPoolExecutor(os.cpu_count()) as pool:
-        for pdf in pdfs:
-            destino = PASTA_TEXTO / pdf.relative_to(PASTA_PDF).with_suffix(".txt")
-            if not args.tudo and destino.exists() and destino.stat().st_mtime >= pdf.stat().st_mtime:
+        for doc in documentos:
+            destino = PASTA_TEXTO / doc.relative_to(PASTA_PDF).with_suffix(".txt")
+            if destino in destinos:
+                erros.append(f"{doc.name}: há um PDF com o mesmo nome; renomeie um dos dois")
+                continue
+            destinos.add(destino)
+            if not args.tudo and destino.exists() and destino.stat().st_mtime >= doc.stat().st_mtime:
                 pulados += 1
                 continue
-            try:
-                paginas = pdftotext(pdf)
-                vazias = [n for n, p in enumerate(paginas, start=1) if len("".join(p.split())) < MIN_CARACTERES]
-                if vazias and not tem_ocr and len(vazias) == len(paginas):
-                    sem_texto.append(pdf)
+            if doc.suffix == ".epub":
+                try:
+                    escrever_epub(destino, doc, secoes_epub(doc))
+                except (zipfile.BadZipFile, KeyError, AttributeError) as e:
+                    erros.append(f"{doc.name}: EPUB ilegível ({type(e).__name__}: {e})")
                     continue
-                lidas_ocr = duplas = 0
-                if vazias and tem_ocr:
-                    if len(vazias) > 2:
-                        print(f"OCR   {pdf.name} ({len(vazias)} páginas sem texto)")
-                    for n, texto in zip(vazias, pool.map(lambda n: ocr_pagina(pdf, n, args.ocr_lang), vazias)):
-                        if palavras(texto) >= MIN_PALAVRAS_OCR:
-                            paginas[n - 1] = limpar(texto)
-                            lidas_ocr += 1
-                            duplas += "metade esquerda" in texto
-                if lidas_ocr == 0 and len(vazias) == len(paginas):
-                    sem_texto.append(pdf)
+            else:
+                try:
+                    extraido = extrair_pdf(doc, pool, args.ocr_lang, tem_ocr)
+                except subprocess.CalledProcessError as e:
+                    erros.append(f"{doc.name}: {str(e.stderr or '').strip()[:200]}")
                     continue
-            except subprocess.CalledProcessError as e:
-                erros.append(f"{pdf.name}: {str(e.stderr or '').strip()[:200]}")
-                continue
-            escrever(destino, pdf, paginas, lidas_ocr, duplas, args.ocr_lang)
+                if extraido is None:
+                    sem_texto.append(doc)
+                    continue
+                escrever_pdf(destino, doc, *extraido, args.ocr_lang)
             feitos += 1
 
-    esperados = {PASTA_TEXTO / p.relative_to(PASTA_PDF).with_suffix(".txt") for p in pdfs}
-    orfaos = sorted(t for t in PASTA_TEXTO.rglob("*.txt") if t not in esperados) if PASTA_TEXTO.exists() else []
+    orfaos = sorted(t for t in PASTA_TEXTO.rglob("*.txt") if t not in destinos) if PASTA_TEXTO.exists() else []
 
-    print(f"\n{len(pdfs)} PDFs: {feitos} extraídos agora, {pulados} já estavam em dia.")
+    n_epub = sum(d.suffix == ".epub" for d in documentos)
+    print(f"\n{len(documentos) - n_epub} PDFs e {n_epub} EPUBs: {feitos} extraídos agora, {pulados} já estavam em dia.")
     if sem_texto:
         dica = "" if tem_ocr else " (instale o OCR: brew install tesseract)"
         print(f"\n{len(sem_texto)} PDF(s) escaneados, sem texto{dica}:")

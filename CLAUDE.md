@@ -40,8 +40,9 @@ Já existe texto pronto das obras do repositório. **Antes de abrir um PDF, cons
 1. **Resumo** — `references/resumos/<chave>.md` (versionado). Diz o que a obra afirma, com as páginas já conferidas e onde ela é citada no livro. Muitas vezes basta.
 2. **Texto integral** — `references/texto/<mesmo nome do PDF>.txt`, um para cada PDF e EPUB de `references/PDF/`. Fica só na máquina local (fora do git, por direitos autorais). Use `grep` para achar trechos em todas as obras de uma vez e leia o trecho no `.txt`, que gasta bem menos do que ler o PDF.
    - A marca `=== p. N ===` é a página **do arquivo PDF**, não a impressa; o número impresso costuma aparecer no texto, no alto ou no pé da página.
+   - Nos EPUBs, o texto vem em `=== seção N: título ===`; a página impressa, quando o EPUB a traz, aparece como `[p. N]`. Os EPUBs do Internet Archive são OCR com erros (ver [revisao.md](revisao.md), regra 4).
    - Tabelas, quadros e páginas em duas colunas podem sair embaralhados; páginas marcadas `[texto de OCR]` podem ter erros. Para uma tabela, `pdftotext -layout -f N -l N arquivo.pdf -`.
-   - Se um PDF novo ainda não tem `.txt`, rode `python3 code/extrair_texto_pdfs.py` (só processa os novos ou alterados).
+   - Se um PDF ou EPUB novo ainda não tem `.txt`, rode `python3 code/extrair_texto_pdfs.py` (só processa os novos ou alterados).
 3. **PDF** — só para confirmar a página impressa e o trecho exato antes de citar ou de anotar no resumo.
 
 ## Verificação

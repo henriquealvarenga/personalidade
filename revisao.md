@@ -54,12 +54,14 @@ Cada campo vazio tem um comentário `<!-- -->`, invisível no site, que indica d
 
 4. **PDFs: de preferência, ler e resumir antes de usar.**
    - **Onde guardar os PDFs:** em `references/PDF/`, com o nome `SobrenomeAno - Título.pdf`: só o sobrenome do primeiro autor, colado ao ano (ex.: `Goldberg1993 - The structure of phenotypic personality traits.pdf`); os dois-pontos do título viram ` - `. É uma pasta local, fora do git, conforme o `.gitignore`.
-   - **Texto dos PDFs:** `python3 code/extrair_texto_pdfs.py` gera `references/texto/<mesmo nome>.txt`. Rode de novo sempre que entrar PDF novo. A pasta fica fora do git, como os PDFs.
+   - **Texto dos PDFs e EPUBs:** `python3 code/extrair_texto_pdfs.py` gera `references/texto/<mesmo nome>.txt`. Rode de novo sempre que entrar PDF ou EPUB novo. A pasta fica fora do git, como os PDFs.
      - Use para procurar em todas as referências de uma vez (`grep -ril "termo" references/texto/`) e para ler trechos longos.
      - Cada página começa com `=== p. N ===`, em que N é a página do arquivo PDF. O número impresso, que é o que vai para o resumo, costuma aparecer logo abaixo da marca ou no pé da página.
      - Páginas escaneadas começam com `[texto de OCR]` e têm erros de reconhecimento (ex.: "wha" por "who"). Citação literal tirada delas é conferida na imagem do PDF.
      - Tabelas, quadros de destaque e páginas em duas colunas saem embaralhados. Para ler uma tabela: `pdftotext -layout -f N -l N "references/PDF/<arquivo>.pdf" -`.
-     - Antes de anotar a página no resumo, confirme no PDF.
+     - **EPUB não tem páginas.** O texto vem dividido em `=== seção N: título ===`, na ordem de leitura. Quando o EPUB reproduz a paginação impressa, ela aparece como `[p. N]` no meio do texto (hoje: Mischel 1968 e Woolf 1925), e é esse número que vai para o resumo. Sem `[p. N]`, a citação com página exige uma edição paginada; o cabeçalho do `.txt` avisa.
+     - Os EPUBs do Internet Archive (Szasz 1961, Wittgenstein 1953, James 1890) são OCR automático, uma seção por página escaneada, com erros que o script não tem como corrigir: as imagens não vêm no EPUB. O Szasz é o pior, com cerca de 1 página em 6 com trechos ilegíveis.
+     - Antes de anotar a página no resumo, confirme no PDF ou no EPUB.
    - **Onde guardar os resumos:** em `references/resumos/<chave>.md`. Os resumos são **versionados**, porque os PDFs não vão para o git e as próximas sessões dependem deles. Escreva o resumo antes de citar a obra no caso.
    - **Origem dos PDFs:** só fontes legítimas (editora, PubMed Central, repositório do autor, acesso institucional). Antes de baixar qualquer arquivo, peça confirmação ao autor informando o nome do arquivo, a origem e o tamanho. Se o PDF não estiver acessível, peça ao autor; nunca baixe de sites piratas.
    - **Direitos autorais:** resuma com palavras próprias. Citações literais devem ser curtas e sempre com a página.
