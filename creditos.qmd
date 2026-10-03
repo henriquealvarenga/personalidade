@@ -64,7 +64,7 @@ O desenvolvimento contou com auxílio de IA generativa:
 ::: {.callout-note}
 ## Transparência sobre uso de IA
 
-A IA foi utilizada como ferramenta de apoio, não substituto do trabalho intelectual. Toda informação foi verificada, todas as referências conferidas individualmente, todos os DOIs validados. A responsabilidade pelo conteúdo final é integralmente do autor.
+A IA foi utilizada como ferramenta de apoio, não substituto do trabalho intelectual.
 :::
 :::
 
