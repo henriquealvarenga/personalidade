@@ -15,7 +15,7 @@ Os Big Five mostram estabilidade *test-retest* razoável ao longo de décadas �
 
 ## Plasticidade cortical — a base neural da transformação
 
-A leitura da personalidade como padrão modificável encontra base sólida na neurociência da plasticidade cortical. Os trabalhos pioneiros de **Michael Merzenich**, nas décadas de 1980 e 1990, mostraram que o cérebro adulto **permanece radicalmente maleável** [@merzenich_neuroscience_2013]: os mapas sensoriais no córtex não são fixos, mas se reorganizam continuamente em função do uso e da experiência. Quem toca piano por anos tem expansão da representação cortical dos dedos; quem para, regride. 
+A leitura da personalidade como padrão modificável encontra base sólida na neurociência da plasticidade cortical. Os trabalhos pioneiros de **Michael Merzenich**, nas décadas de 1980 e 1990, mostraram que o cérebro adulto **permanece radicalmente maleável** [@merzenich_plasticity_2014]: os mapas sensoriais no córtex não são fixos, mas se reorganizam continuamente em função do uso e da experiência. Quem toca piano por anos tem expansão da representação cortical dos dedos; quem para, regride. 
 
 **Norman Doidge** [@doidge_brain_changes_2007] documenta transformações ainda mais radicais: pessoas com hemisférios cerebrais removidos que desenvolvem funções complexas no tecido remanescente; cegos que aprendem a "ver" por outros sentidos. Se estruturas tão fundamentais quanto a visão podem ser remapeadas.
 

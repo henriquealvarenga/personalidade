@@ -2,7 +2,7 @@
 title: "Transtornos de personalidade"
 ---
 
-Passado quase um século desde o trabalho de Schneider, o tópico de classificações da personalidade é ainda insatisfatório, e pode ser extremamente difícil encaixar um sujeito em categorias arbitrárias de personalidade [@sims_sintomas_2001]. Apesar de imperfeitos, os manuais classificatórios médicos em geral têm todos um capítulo dedicado a tipos de personalidade disfuncionais, usualmente denominados de **transtornos de personalidade**.
+Passado quase um século desde o trabalho de Schneider, o tópico de classificações da personalidade é ainda insatisfatório, e pode ser extremamente difícil encaixar um sujeito em categorias arbitrárias de personalidade [@oyebode_sims_sintomas_2018]. Apesar de imperfeitos, os manuais classificatórios médicos em geral têm todos um capítulo dedicado a tipos de personalidade disfuncionais, usualmente denominados de **transtornos de personalidade**.
 
 Atualmente, o DSM-5 classifica dez tipos de personalidades problemáticas em três grupos (@tbl-dsm5-clusters).
 

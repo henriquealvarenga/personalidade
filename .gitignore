@@ -49,6 +49,7 @@ references/*.bib.bak-*
 # PDFs de referências (mantidos localmente para consulta; não versionar)
 references/PDFs/
 references/pdfs/
+references/PDF/
 
 # Pixelmator: a fonte editável da capa (images/capa.pxd) É VERSIONADA, pois
 # serve de modelo para gerar/editar a capa. Se o .pxd ficar muito grande e você

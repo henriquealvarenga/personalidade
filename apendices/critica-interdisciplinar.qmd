@@ -12,7 +12,7 @@ Os dois apêndices são leitura independente. Quem ler os dois encontrará o mes
 
 ## A ilusão da continuidade neural
 
-A neurociência contemporânea, após os trabalhos de **Michael Merzenich** sobre plasticidade cortical nas décadas de 1980 e 1990, demonstrou que o cérebro adulto permanece maleável [@merzenich_neuroscience_2013]. Merzenich mostrou que mapas sensoriais no córtex não são fixos, mas se reorganizam constantemente baseados no uso e na experiência. Se tocamos piano, as representações corticais dos dedos expandem-se; se paramos, elas encolhem. Isso não é metáfora — é reorganização anatômica literal.
+A neurociência contemporânea, após os trabalhos de **Michael Merzenich** sobre plasticidade cortical nas décadas de 1980 e 1990, demonstrou que o cérebro adulto permanece maleável [@merzenich_plasticity_2014]. Merzenich mostrou que mapas sensoriais no córtex não são fixos, mas se reorganizam constantemente baseados no uso e na experiência. Se tocamos piano, as representações corticais dos dedos expandem-se; se paramos, elas encolhem. Isso não é metáfora — é reorganização anatômica literal.
 
 **Norman Doidge**, em suas explorações sobre neuroplasticidade, documenta casos de transformações radicais — pessoas com metade do cérebro removido desenvolvendo funções completas, cegos aprendendo a "ver" através de outros sentidos [@doidge_brain_changes_2007]. Se estruturas neurais tão fundamentais quanto a visão podem ser remapeadas, **que estrutura permaneceria suficientemente estável para ancorar algo chamado "personalidade"?**
 
@@ -67,7 +67,7 @@ Heráclito de Éfeso, no século V a.C., não apenas afirmou que não entramos d
 
 Curiosamente, algumas das críticas mais contundentes ao conceito de personalidade vieram de dentro da própria psiquiatria.
 
-**Kurt Schneider**, psiquiatra alemão do início do século XX, tentou distinguir *personalidades psicopáticas* (termo da época) das doenças mentais verdadeiras [@schneider_klinische_1923]. Para ele, personalidades anormais eram variações extremas do normal, causando sofrimento a si ou aos outros, mas **não eram doenças no sentido médico**. O que Schneider não antecipou plenamente foi a pergunta radical: *anormal em relação a quê?* Uma "personalidade obsessiva" valorizada em culturas que premiam perfeccionismo torna-se patológica em culturas que valorizam espontaneidade?
+**Kurt Schneider**, psiquiatra alemão do início do século XX, tentou distinguir *personalidades psicopáticas* (termo da época) das doenças mentais verdadeiras [@schneider_psychopathic_1958]. Para ele, personalidades anormais eram variações extremas do normal, causando sofrimento a si ou aos outros, mas **não eram doenças no sentido médico**. O que Schneider não antecipou plenamente foi a pergunta radical: *anormal em relação a quê?* Uma "personalidade obsessiva" valorizada em culturas que premiam perfeccionismo torna-se patológica em culturas que valorizam espontaneidade?
 
 **Marsha Linehan**, criadora da Terapia Comportamental Dialética (DBT), mudou substancialmente o tratamento do Transtorno de Personalidade Borderline ao reconhecer que sintomas emergem da interação entre vulnerabilidade emocional biológica e ambientes invalidantes [@linehan_cognitive_1993]. **Não há uma "personalidade borderline" interna autônoma — há padrões relacionais desenvolvidos adaptativamente em contextos específicos.** Quando o contexto muda (terapia, relações validantes, habilidades de regulação), os padrões mudam. A "personalidade" revela-se contextual, não substancial.
 

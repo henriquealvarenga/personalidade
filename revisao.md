@@ -53,7 +53,7 @@ Cada campo vazio tem um comentário `<!-- -->`, invisível no site, que indica d
    - **Fusão de lotes:** para fundir um lote de referências com conferência na Crossref e backup datado, use a skill `bib-merge-pdfs`, se disponível, mantendo o `note` no formato do cabeçalho do `.bib`.
 
 4. **PDFs: de preferência, ler e resumir antes de usar.**
-   - **Onde guardar os PDFs:** em `references/PDFs/<chave>.pdf`. É uma pasta local, fora do git, conforme o `.gitignore`.
+   - **Onde guardar os PDFs:** em `references/PDF/`, com o nome `SobrenomeAno - Título.pdf`: só o sobrenome do primeiro autor, colado ao ano (ex.: `Goldberg1993 - The structure of phenotypic personality traits.pdf`); os dois-pontos do título viram ` - `. É uma pasta local, fora do git, conforme o `.gitignore`.
    - **Onde guardar os resumos:** em `references/resumos/<chave>.md`. Os resumos são **versionados**, porque os PDFs não vão para o git e as próximas sessões dependem deles. Escreva o resumo antes de citar a obra no caso.
    - **Origem dos PDFs:** só fontes legítimas (editora, PubMed Central, repositório do autor, acesso institucional). Antes de baixar qualquer arquivo, peça confirmação ao autor informando o nome do arquivo, a origem e o tamanho. Se o PDF não estiver acessível, peça ao autor; nunca baixe de sites piratas.
    - **Direitos autorais:** resuma com palavras próprias. Citações literais devem ser curtas e sempre com a página.
