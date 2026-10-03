@@ -51,6 +51,10 @@ references/PDFs/
 references/pdfs/
 references/PDF/
 
+# Texto extraído dos PDFs (gerado por code/extrair_texto_pdfs.py; texto
+# integral de obras com direitos autorais, como os PDFs: não versionar)
+references/texto/
+
 # Pixelmator: a fonte editável da capa (images/capa.pxd) É VERSIONADA, pois
 # serve de modelo para gerar/editar a capa. Se o .pxd ficar muito grande e você
 # não quiser versioná-lo, descomente a linha abaixo:

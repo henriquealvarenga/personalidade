@@ -31,6 +31,7 @@ Antes de qualquer trabalho nos casos clínicos (`capitulos/parte-5-atividades/at
 - **Nunca invente referências.** Nada de autor, título, ano, periódico ou DOI tirado da memória.
 - Toda referência é **conferida duas vezes** antes de entrar no texto: primeiro os metadados (Crossref, PubMed, editora), depois o conteúdo (de preferência no PDF, lido e resumido).
 - Toda referência citada entra em `references/references.bib`, seguindo as convenções do cabeçalho desse arquivo.
+- Para procurar nos PDFs, use o texto em `references/texto/`, gerado por `python3 code/extrair_texto_pdfs.py` (rode de novo quando entrar PDF novo). O texto serve para achar o trecho; a página só vai para o resumo depois de conferida no PDF.
 - O procedimento completo está em [revisao.md](revisao.md), na seção "Regras sobre referências".
 
 ## Verificação
