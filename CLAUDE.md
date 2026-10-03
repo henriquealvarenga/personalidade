@@ -11,12 +11,14 @@ Livro-texto em português (Quarto *book*), publicado em <https://henriquealvaren
 |---|---|---|---|
 | `_quarto.yml` | `book.date` | `"2026-10-03"` (exibe "outubro de 2026" na página inicial) | ajustar para a data oficial da edição com ISBN |
 | `_quarto.yml` | `book.edition` | `"2ª edição"` | conferir |
-| `creditos.qmd` | ficha bibliográfica | Edição "2ª edição"; Ano "2026"; **ISBN "em cadastramento"** | pôr o ISBN e conferir o ano |
+| `creditos.qmd` | ficha bibliográfica | Edição "2ª edição"; Ano "2026"; **ISBN "2ª edição: em cadastramento. A 1ª edição (2020) tem o ISBN 978-65-00-08880-9"** | pôr o ISBN da 2ª edição, manter o da 1ª separado, conferir o ano |
 | `creditos.qmd` | "Como citar" — ABNT, Vancouver, APA e BibTeX | ano 2026 nos quatro; BibTeX com `edition = {2}` e `year = {2026}`, sem campo `isbn` | conferir o ano; acrescentar o ISBN onde o formato prevê |
 | `creditos.qmd` | fim da página | "*Última atualização: Outubro de 2026*" | atualizar |
-| `_includes/autor.html` | dados estruturados (JSON-LD do livro, invisíveis ao leitor, lidos por buscadores) | **`"isbn": "978-65-00-08880-9"`**, publicado desde 2026-08-08 | **pendência:** os Créditos dizem "em cadastramento". Confirmar se esse ISBN é deste livro (talvez da 1ª edição); trocar pelo novo ou remover |
+| `_includes/autor.html` | dados estruturados (JSON-LD, invisíveis ao leitor, lidos por buscadores) | livro com `"bookEdition": "2ª edição"`, **sem** `isbn`; a 1ª edição em `isBasedOn`, com o ISBN dela | pôr o ISBN novo em `"isbn"` do livro; não mexer no `isBasedOn` |
 | `README.md` | topo e seção "Edição" | "2ª edição — 2026"; "2ª edição (2026); a 1ª edição circulou em 2020" | conferir |
 | `epub-metadata.xml` | `dc:date`, `dc:rights` | publicação "2026"; edição "2026-05"; "© 2026" | arquivo sem uso desde a remoção do EPUB (2026-05-23); atualizar só se o EPUB voltar |
+
+- **Duas edições, dois ISBN — não confundir.** O número **978-65-00-08880-9 é da 1ª edição (2020)**, conforme a página de créditos do manuscrito original (`Original_Manuscripts/Personalidade - Uma Breve Introdução.docx`: "Copyright: © 2020 [...] ISBN: 978-65-00-08880-9 · Coleção: Temas em Psicopatologia") e o registro do ISBN, conferido pelo autor em 2026-10-03: *Personalidade: Uma Breve Introdução*, Henrique Alvarenga da Silva, formato digital, situação "Registrado", 04/09/2020 (finalizado em 08/09/2020). Cada edição tem seu próprio ISBN. O site é a **2ª edição**, que ainda não tem ISBN. Até 2026-10-03 o site atribuía por engano esse número à 2ª edição (`autor.html`, desde 2026-08-08); corrigido. Nunca usar o ISBN da 1ª edição como se fosse da 2ª.
 
   Não são datas do livro e **não** devem mudar: "Data de publicação: 30 de abril de 2017" em `creditos.qmd` (é da foto da capa); "escrito originalmente em 2020" em `index.qmd` (história da 1ª edição); `_extras/analise_personalidade.qmd` usa `Sys.Date()`, mas `_extras/` não entra no livro.
 

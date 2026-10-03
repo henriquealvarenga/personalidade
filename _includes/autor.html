@@ -4,7 +4,11 @@
      O @id da Pessoa é o MESMO usado em henriquealvarenga.com. É isso que
      faz os buscadores entenderem que o autor deste material e o médico do
      site principal são a mesma pessoa, consolidando a autoria de toda a
-     obra publicada no domínio numa única entidade. -->
+     obra publicada no domínio numa única entidade.
+
+     ISBN: o site é a 2ª edição, ainda sem ISBN. O número 978-65-00-08880-9
+     é da 1ª edição (2020) e só pode aparecer em "isBasedOn". Quando a 2ª
+     edição tiver ISBN, pôr em "isbn" do livro (ver CLAUDE.md). -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -40,11 +44,19 @@
       "author": { "@id": "https://henriquealvarenga.com/#pessoa" },
       "url": "https://henriquealvarenga.com/personalidade/",
       "inLanguage": "pt-BR",
-      "isbn": "978-65-00-08880-9",
+      "bookEdition": "2ª edição",
       "bookFormat": "https://schema.org/EBook",
       "isAccessibleForFree": true,
-      "learningResourceType": "Material didático",
-      "learningResourceType": "Livro-texto",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "Personalidade: Uma Breve Introdução",
+        "bookEdition": "1ª edição",
+        "bookFormat": "https://schema.org/EBook",
+        "datePublished": "2020",
+        "isbn": "978-65-00-08880-9",
+        "author": { "@id": "https://henriquealvarenga.com/#pessoa" }
+      },
+      "learningResourceType": ["Material didático", "Livro-texto"],
       "educationalLevel": "Graduação em Medicina",
       "about": [
         { "@type": "Thing", "name": "Personalidade" },
