@@ -16,5 +16,5 @@ Revisão sistemática Cochrane (atualiza a de 2012) de ensaios clínicos randomi
 
 ## Onde é citada no livro
 
-- `10-tratamento.qmd`: DBT no tratamento do transtorno borderline.
 - `caso-i.qmd`, bloco "Importância do diagnóstico hoje": eficácia das psicoterapias específicas e qualidade da evidência (pp. 1–3).
+- `10-tratamento.qmd`, seção "Terapia Comportamental Dialética (DBT)": 75 ensaios, um terço com DBT; DBT superior ao tratamento usual com evidência de baixa qualidade; sem diferença clara entre os tipos de psicoterapia (pp. 2–3).

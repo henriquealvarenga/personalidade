@@ -18,7 +18,7 @@ Material **original** para fins didáticos. Construído a partir da **categoria 
 - **Idade:** 41 anos
 - **Gênero:** masculino
 - **Ocupação:** assistente de turno noturno em biblioteca universitária (mesmo cargo há 14 anos)
-- **Contexto da entrevista:** ambulatório de saúde mental, primeira consulta. Encaminhado pela clínica geral após relato da irmã mais velha de "comportamento estranho que está piorando" — sem episódio agudo, sem internação, sem risco.
+- **Contexto da entrevista:** ambulatório de saúde mental, primeira consulta. Encaminhado pela clínica geral após relato da irmã mais nova de "comportamento estranho que está piorando" — sem episódio agudo, sem internação, sem risco.
 - **Duração estimada do vídeo:** 4 a 5 minutos
 - **Diagnóstico-alvo para o professor:** Transtorno de personalidade esquizotípica (DSM-5-TR F21; na CID-11, transtorno esquizotípico, 6A22, classificado no espectro da esquizofrenia e fora dos transtornos de personalidade)
 - **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo

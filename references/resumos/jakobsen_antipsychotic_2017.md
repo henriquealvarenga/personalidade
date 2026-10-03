@@ -17,3 +17,4 @@ Segundo o resumo: revisão sistemática (Embase e PubMed, com todos os nomes gen
 
 - `caso-b.qmd`, bloco "Importância do diagnóstico hoje": escassez de evidência sobre antipsicóticos no esquizotípico.
 - Interessa ao Cap. 10 (afirmação sem citação sobre antipsicóticos no grupo A; callout "[VERIFICAR — atualização]", item "Tratamento específico por cluster A e C").
+- `10-tratamento.qmd`, parágrafo sobre o grupo A: só quatro ensaios randomizados com antipsicóticos no esquizotípico (amissulprida, risperidona, tiotixeno).

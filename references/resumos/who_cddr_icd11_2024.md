@@ -105,3 +105,5 @@ Em ordem de página, agrupados por parte do manual.
 - `caso-g.qmd`, bloco "O diagnóstico no DSM-5-TR e na CID-11": afetividade negativa (p. 560), desapego (p. 561), anancastia (p. 563) e a classificação provável de Felipe como transtorno leve (p. 556); a ressalva de que o desapego das diretrizes inclui não gostar de interação social (p. 561).
 - `caso-h.qmd`, blocos "O diagnóstico no DSM-5-TR e na CID-11" (pp. 557, 560: desconfiança dentro da afetividade negativa; classificação provável de Eurídice; emoções externalizantes da dissocialidade) e "Críticas ao diagnóstico" (p. 567: a ressalva cultural).
 - `caso-i.qmd`, blocos "História do diagnóstico na psiquiatria" (p. 554), "O diagnóstico no DSM-5-TR e na CID-11" (pp. 553–554, 557–558, 563–564; classificação provável de Pedro) e "Críticas ao diagnóstico" (p. 348).
+- `08-transtornos.qmd`, quadro "E a esquizotípica?": o 6A22 no agrupamento esquizofrenia e outros transtornos psicóticos primários (p. 161).
+- `08-transtornos.qmd`, tabela `@tbl-dsm-cid11`, linha do borderline: sobreposição do padrão borderline com afetividade negativa, dissocialidade e desinibição (p. 563).

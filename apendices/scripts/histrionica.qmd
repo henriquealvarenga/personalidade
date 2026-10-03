@@ -20,7 +20,7 @@ Material **original** para fins didáticos, construído a partir da **categoria 
 - **Ocupação:** professora de dança contemporânea em escola particular; faz aulas particulares aos finais de semana e ocasionalmente trabalha como mestre de cerimônias em casamentos
 - **Contexto da entrevista:** ambulatório de psiquiatria geral, primeira consulta. A paciente procurou atendimento por conta própria após uma "crise" em um aniversário de uma colega, em que precisou ser retirada da pista de dança chorando.
 - **Duração estimada do vídeo:** 4 a 5 minutos
-- **Diagnóstico-alvo para o professor:** Transtorno de personalidade histriônica (DSM-5-TR F60.4; CID-11 6D10, perfil dimensional de **afetividade negativa (6D11.0) + dissocialidade (6D11.2)** com foco em busca de atenção)
+- **Diagnóstico-alvo para o professor:** Transtorno de personalidade histriônica (DSM-5-TR F60.4; CID-11 6D10; nos estudos, associações fracas a moderadas com **dissocialidade (6D11.2)**, **desinibição (6D11.3)** e **afetividade negativa (6D11.0)**, como na tabela do Cap. 8; o núcleo clínico é a busca de atenção)
 - **Diagnóstico-alvo oculto para o aluno:** **NÃO** revelar no vídeo
 
 ---
@@ -157,7 +157,7 @@ Transtorno de personalidade histriônica.
 
 ### Pistas clínicas presentes no roteiro
 
-1. **Reação afetiva intensa e desproporcional ao vínculo real** (crise pública diante de ex de relacionamento de duas semanas e meia).
+1. **Reação afetiva intensa e desproporcional ao vínculo real** (crise pública diante do ex de um relacionamento de seis encontros em dois meses e meio).
 2. **Idealização e descrição vaga do parceiro**, sem informações concretas — "intensidade", "sintonia", "olhar profundo", sem saber o que ele faz.
 3. **Emoções superficiais e mutáveis**: lágrima curta, recuperação rápida, oscilação narrativa.
 4. **Busca ativa de atenção**: ocupação que envolve palco (dança, cerimonial), preocupação com aparência, satisfação explícita ao receber olhar do outro.

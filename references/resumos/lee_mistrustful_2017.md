@@ -32,3 +32,4 @@ Sem página (texto do PMC). Seções do artigo entre parênteses.
 - `caso-h.qmd`, bloco "Importância do diagnóstico hoje": incapacidade, saída precoce do trabalho, agressividade, violência, *stalking*, litígio; comorbidade em ~75%; ausência de ensaios e de medicamento aprovado; efeito pequeno dos antipsicóticos sobre a agressividade em ensaios no borderline; abandono em hospital-dia; reconhecer a parte de verdade nas suspeitas.
 - `caso-h.qmd`, bloco "O diagnóstico no DSM-5-TR e na CID-11": os dois fatores, desconfiança e hostilidade (amostra norueguesa).
 - `caso-h.qmd`, bloco "Críticas ao diagnóstico": negligência pela pesquisa; confiabilidade; estrutura dimensional; comorbidade; agregação familiar com o transtorno delirante; demografia e atribuição ao trauma e ao estresse.
+- `10-tratamento.qmd`, parágrafo sobre o grupo A: no paranoide, nenhum medicamento aprovado nem ensaio específico; efeito pequeno dos antipsicóticos sobre a agressividade em ensaios no borderline.

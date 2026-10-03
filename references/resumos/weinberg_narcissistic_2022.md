@@ -26,3 +26,4 @@ Revisão de dois autores do McLean Hospital (Harvard) sobre os avanços da últi
 - `caso-f.qmd`, bloco "História do diagnóstico na psiquiatria": mudança da definição de empatia do DSM-III ao Modelo Alternativo.
 - `caso-f.qmd`, bloco "Importância do diagnóstico hoje": prevalência em amostras gerais e clínicas; comorbidades e prejuízos; ausência de ensaios randomizados, abandono, motivação, princípios do tratamento e curso lento.
 - `caso-f.qmd`, bloco "Críticas ao diagnóstico": critérios centrados no narcisismo grandioso; coexistência das duas formas; o diagnóstico vivido como rótulo vergonhoso.
+- `10-tratamento.qmd`, lista "Outras psicoterapias com evidência" (TFP): nenhuma psicoterapia testada em ensaio randomizado para o transtorno narcisista.

@@ -27,3 +27,4 @@ Revisão narrativa sobre o estigma dos transtornos de personalidade, a partir do
 - `caso-d.qmd`, bloco "Críticas ao diagnóstico": estigma da periculosidade e efeitos do rótulo no sistema de justiça (p. 3).
 - `caso-f.qmd`, bloco "Críticas ao diagnóstico": pouca familiaridade do público, estigma pouco estudado, visto como vantagem nos negócios (p. 4).
 - `caso-i.qmd`, bloco "Críticas ao diagnóstico": estigma entre profissionais, empatia dos psiquiatras e leitura das tentativas de suicídio como busca de atenção (pp. 3–4).
+- `08-transtornos.qmd`, seção "Limites do modelo categórico": o borderline entre os transtornos de personalidade mais estigmatizados e o mais estudado quanto ao estigma (p. 3).

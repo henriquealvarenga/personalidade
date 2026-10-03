@@ -22,7 +22,7 @@ Muitos psiquiatras consideram a abordagem atual de transtornos de personalidade 
 
 Um outro problema é que os transtornos de personalidade sofrem de um estigma ainda maior que outros diagnósticos psiquiátricos [@magallonneri_stigmatization_2013; @catthoor_adolescents_2015]. Indivíduos com diagnóstico de transtorno de personalidade geralmente sofrem de rejeição tanto por parte do público como também por parte dos profissionais de saúde, reduzindo a chance de serem ajudados [@sheehan_stigma_2016]. Além disso, o diagnóstico de um transtorno de personalidade cria também um preconceito do indivíduo consigo mesmo, o que pode acarretar piora da autoestima, vergonha, sentimentos depressivos e sensação de incapacidade diante da vida [@sheehan_stigma_2016].
 
-Por todos esses motivos, muitos psiquiatras são relutantes em dar um diagnóstico de transtorno de personalidade, em especial o de transtorno de personalidade borderline [@zimmerman_differences_1999], cujo estigma é muito maior do que os outros [@sheehan_stigma_2016].
+Por todos esses motivos, muitos psiquiatras são relutantes em dar um diagnóstico de transtorno de personalidade, em especial o de transtorno de personalidade borderline [@zimmerman_differences_1999], um dos transtornos de personalidade mais estigmatizados e o mais estudado quanto ao estigma [@sheehan_stigma_2016, p. 3].
 
 Por outro lado, "proteger" o paciente evitando um diagnóstico pode também ter consequências negativas. Um paciente com transtorno de personalidade borderline diagnosticado erroneamente com transtorno bipolar poderá fazer uso desnecessário de medicações pouco efetivas para sua situação e poderá deixar de buscar a terapia adequada [@paris_reluctant_2007]. Além disso, a eficácia do tratamento de outros transtornos psiquiátricos é reduzida quando há comorbidade com transtornos de personalidade, e não reconhecer o transtorno de personalidade dificulta ainda mais esse tratamento. Pacientes com depressão e transtorno de personalidade borderline não respondem de forma consistente aos antidepressivos e geralmente fazem uso de uma série de medicações em sequência ou de associações de medicamentos em excesso [@paris_reluctant_2007].
 
@@ -58,7 +58,7 @@ A estrutura da CID-11 tem três componentes:
 | **6D11.1** Desapego | Distância interpessoal e emocional, evitação de proximidade, restrição expressiva |
 | **6D11.2** Dissocialidade | Desprezo pelos direitos e sentimentos dos outros, autocentramento, agressão |
 | **6D11.3** Desinibição | Tendência à ação impulsiva, busca de gratificação imediata, irresponsabilidade |
-| **6D11.4** Anancástico | Foco rígido em padrões pessoais ou sociais de correção, perfeccionismo, controle |
+| **6D11.4** Anancastia | Foco rígido em padrões pessoais ou sociais de correção, perfeccionismo, controle |
 
 : Os cinco domínios de traço da CID-11 {#tbl-cid11-trait-domains .striped}
 
@@ -70,7 +70,7 @@ A escolha de preservar **borderline** como qualificador — e não, por exemplo,
 
 ::: {.callout-note appearance="simple"}
 ## E a esquizotípica?
-A personalidade esquizotípica **nunca esteve** entre os transtornos de personalidade da CID — desde a CID-10 já estava classificada no espectro da esquizofrenia (F21). Na CID-11, mantém essa posição como **transtorno esquizotípico** (código **6A22**), no agrupamento *esquizofrenia e outros transtornos psicóticos primários*. O DSM-5, em contraste, conserva a esquizotípica entre os transtornos de personalidade, com nota cruzada para o espectro da esquizofrenia.
+A CID-10 tirou a esquizotípica dos transtornos de personalidade: o **transtorno esquizotípico** (F21), antes classificado junto com eles, passou para o bloco da esquizofrenia (F20–F29), por partilhar fenômenos e história familiar com os transtornos desse bloco [@who_icd10_1992, p. 201]. A CID-11 manteve essa posição: o transtorno esquizotípico (código **6A22**) fica no agrupamento *esquizofrenia e outros transtornos psicóticos primários* [@who_cddr_icd11_2024, p. 161]. O DSM-5, em contraste, conserva a esquizotípica entre os transtornos de personalidade, com nota cruzada para o espectro da esquizofrenia [@apa_dsm5tr_2022, p. 103-104].
 :::
 
 A tabela abaixo mostra como cada transtorno categórico do DSM-5 mapeia *aproximadamente* no sistema dimensional da CID-11, com a referência histórica do diagnóstico equivalente na CID-10. Os perfis de traço seguem uma revisão de nove estudos empíricos [@simon_crosswalk_2023]: os domínios ligados por "+" são os que mais se associam a cada tipo; os "secundários" aparecem na maioria dos estudos, com associação menor. Os qualificadores não são "tradução um-para-um" das antigas categorias — um mesmo paciente pode receber vários qualificadores, e a mesma combinação pode descrever apresentações clínicas diferentes em pacientes diferentes.
@@ -81,12 +81,12 @@ A tabela abaixo mostra como cada transtorno categórico do DSM-5 mapeia *aproxim
 | Esquizoide | 6D11.1 Desapego (predominante) | F60.1 Esquizoide |
 | Esquizotípica | **6A22** (espectro da esquizofrenia, *fora* dos PD) | F21 (espectro da esquizofrenia) |
 | Antissocial | 6D11.2 Dissocialidade + 6D11.3 Desinibição | F60.2 Dissocial |
-| **Borderline** | 6D10 + **6D11.5 Padrão Borderline**; traços mais associados: 6D11.0 Afetividade negativa + 6D11.3 Desinibição | F60.31 Emocionalmente instável, tipo borderline |
+| **Borderline** | 6D10 + **6D11.5 Padrão Borderline**; traços mais associados: 6D11.0 Afetividade negativa + 6D11.3 Desinibição; as diretrizes da OMS citam também 6D11.2 Dissocialidade [@who_cddr_icd11_2024, p. 563] | F60.31 Emocionalmente instável, tipo borderline |
 | Histriônica | 6D11.2 Dissocialidade, 6D11.3 Desinibição e 6D11.0 Afetividade negativa (associações fracas a moderadas) | F60.4 Histriônica |
-| Evitativa | 6D11.0 Afetividade negativa + 6D11.1 Desapego; secundário: 6D11.4 Anancástico | F60.6 Ansiosa (evitativa) |
+| Evitativa | 6D11.0 Afetividade negativa + 6D11.1 Desapego; secundário: 6D11.4 Anancastia | F60.6 Ansiosa (evitativa) |
 | Dependente | 6D11.0 Afetividade negativa; secundário: 6D11.3 Desinibição | F60.7 Dependente |
-| Obsessivo-compulsiva | 6D11.4 Anancástico; secundário: 6D11.0 Afetividade negativa | F60.5 Anancástica |
-| Narcisista | 6D11.2 Dissocialidade; secundários: 6D11.4 Anancástico e 6D11.3 Desinibição | F60.8 "Outros" |
+| Obsessivo-compulsiva | 6D11.4 Anancastia; secundário: 6D11.0 Afetividade negativa | F60.5 Anancástica |
+| Narcisista | 6D11.2 Dissocialidade; secundários: 6D11.4 Anancastia e 6D11.3 Desinibição | F60.8 "Outros" |
 
 : Mapeamento dos transtornos do DSM-5 para a CID-11, com equivalente histórico CID-10 {#tbl-dsm-cid11 .striped .hover}
 
