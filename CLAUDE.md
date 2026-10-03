@@ -2,6 +2,15 @@
 
 Livro-texto em português (Quarto *book*), publicado em <https://henriquealvarenga.com/personalidade/>. Um push na `main` publica o site pelo CI; **nunca faça push sem o OK do autor**.
 
+## Data de publicação e ISBN
+
+- A data de publicação é **fixa**: `date: "2026-10-03"` no `_quarto.yml` (exibida como "outubro de 2026"). **Nunca use `date: today`**: com ele, cada render troca a data.
+- **Lembrete ao autor:** quando o ISBN do livro sair, revisar juntos:
+  - a data de publicação no `_quarto.yml`;
+  - o campo **ISBN** ("em cadastramento") na ficha bibliográfica de `creditos.qmd`;
+  - os quatro formatos de "Como citar" em `creditos.qmd` (ano e, se for o caso, o ISBN);
+  - a linha "*Última atualização*" no fim de `creditos.qmd`.
+
 ## Casos clínicos da Atividade 1
 
 Antes de qualquer trabalho nos casos clínicos (`capitulos/parte-5-atividades/atividade-1-casos/` ou `apendices/scripts/`), **leia [revisao.md](revisao.md) inteiro** e siga o roteiro de sessão descrito lá. Ao final da sessão, atualize o progresso e o diário nesse arquivo.
