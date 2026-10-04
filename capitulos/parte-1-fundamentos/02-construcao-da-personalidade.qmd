@@ -4,7 +4,7 @@ title: "A construção da personalidade"
 
 A personalidade de um indivíduo é o resultado de inúmeros fatores atuando ao longo da infância e da adolescência. Influências genéticas, ambientais e sociais atuam na formação do cérebro e da personalidade durante períodos específicos [@weaver_shaping_2009; @weaver_integrating_2014], diferentes para cada função cerebral [@knudsen_sensitive_2004, p. 1414, 1421]. Num estudo com 220 adultos japoneses, poucas experiências da infância previram traços da vida adulta, e de modo diferente em homens e mulheres; as experiências, porém, foram relatadas retrospectivamente, sujeitas a viés de memória [@kitamura_understanding_2003, p. 323, 325, 328]. Os padrões característicos de uma pessoa, seus estilos de enfrentamento e suas formas de interação no ambiente social surgem durante a infância e normalmente se consolidam no final da adolescência ou início da idade adulta [@butcher_personality_2013].
 
-Esse processo de construção depende de um substrato neural em maturação, e essa maturação não é uniforme: ela acontece em janelas sensíveis específicas, em que o cérebro fica especialmente plástico para certos tipos de aprendizado. Essas janelas são o que chamamos de **períodos críticos** do desenvolvimento, tema do próximo capítulo.
+Esse processo de construção depende de um substrato neural em maturação, e essa maturação não é uniforme: ela acontece em janelas sensíveis específicas, em que o cérebro fica especialmente plástico para certos tipos de aprendizado. Essas janelas são o que chamamos de **períodos críticos e sensíveis** do desenvolvimento.
 
 ::: {.callout-tip appearance="simple"}
 ## Conceito-chave

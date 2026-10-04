@@ -24,11 +24,3 @@ A alta prevalência desses transtornos em pacientes ambulatoriais e hospitalizad
 : Prevalência dos transtornos de personalidade na população {#tbl-prevalencia .striped}
 
 População geral: amostra de 2.053 adultos de Oslo (Noruega), avaliados com critérios do DSM-III-R; prevalência ponderada. \* Mais comum nos homens nessa amostra (diferença estatisticamente significativa). \*\* Pacientes em tratamento psiquiátrico ambulatorial (859 pacientes, Rhode Island, EUA; critérios do DSM-IV).
-
-::: {.callout-warning appearance="simple"}
-## [VERIFICAR — atualização epidemiológica adicional]
-Já complementado: @torgersen_prevalence_2001 + @volkert_prevalence_2018 (meta-análise mais ampla). Falta ainda:
-- @zimmerman_prevalence_2005 → considerar atualização pós-DSM-5;
-- adicionar revisões 2020-2025 sobre prevalência em populações
-  específicas (atenção primária, jovens adultos, pós-pandemia).
-:::

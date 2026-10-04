@@ -65,7 +65,7 @@ book:
       chapters:
         - capitulos/parte-1-fundamentos/01-introducao.qmd
         - capitulos/parte-1-fundamentos/02-construcao-da-personalidade.qmd
-        - capitulos/parte-1-fundamentos/03-periodos-criticos.qmd
+        - capitulos/parte-1-fundamentos/03-periodos-sensiveis.qmd
         - capitulos/parte-1-fundamentos/04-plasticidade.qmd
         - capitulos/parte-1-fundamentos/05-personalidade-e-saude.qmd
     - part: "Parte II — Taxonomia, traços e transtornos"
