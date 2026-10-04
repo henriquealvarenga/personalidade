@@ -827,7 +827,7 @@ div#refs {
 
 // Em livros com página de referências (references.qmd), o Quarto gera a lista
 // do fim de cada capítulo com style="display: none", mas deixa o título
-// "Referências" visível. Com estilo numérico (Vancouver), o número citado no
+// "Referências" visível. Com estilo numérico, o número citado no
 // capítulo só bate com a lista do próprio capítulo; por isso ela é mostrada.
 // Os links das citações são apontados para ela em _includes/referencias-locais.html.
 section#bibliography > div#refs {

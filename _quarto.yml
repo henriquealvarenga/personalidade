@@ -123,10 +123,12 @@ book:
     - apendices/scripts/borderline.qmd      # Script I — TP Borderline
 
 # =========================================================================
-# Bibliografia — Vancouver (numérico), processado pelo Citeproc do Pandoc
+# Bibliografia — Nature Publishing Group - NLM/Vancouver (numérico, número
+# sobrescrito), processado pelo Citeproc do Pandoc. O CSL tem dois ajustes
+# locais comentados no arquivo (ordinal feminino; volume ausente).
 # =========================================================================
 bibliography: references/references.bib
-csl: references/csl_styles/vancouver.csl
+csl: references/csl_styles/nature-publishing-group-vancouver.csl
 citeproc: true
 link-citations: true
 link-bibliography: true

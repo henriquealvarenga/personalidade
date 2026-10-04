@@ -118,7 +118,7 @@ Cada campo vazio tem um comentário `<!-- -->`, invisível no site, que indica d
 
    Regras de forma:
    - **Dentro dos blocos:** só prosa (parágrafos, listas, negrito para conceitos-chave). Não use títulos (`#`) dentro dos blocos.
-   - **Citações:** no formato Pandoc, `[@chave]` ou `@chave`. O estilo de citação (Vancouver, numérico, definido no `_quarto.yml`) é aplicado automaticamente.
+   - **Citações:** no formato Pandoc, `[@chave]` ou `@chave`. O estilo de citação (numérico, definido no `_quarto.yml`) é aplicado automaticamente; a posição da citação não depende dele.
    - **Limpeza:** ao preencher um bloco, apague o `*Em elaboração.*` e o comentário-guia dele.
    - **Extensão:** combine com o autor na primeira sessão e registre a decisão em [Decisões de estilo](#decisões-de-estilo).
 
@@ -172,7 +172,7 @@ Registre aqui as decisões que o autor tomar nas sessões, como extensão de cad
 
 - **Extensão dos blocos:** três parágrafos curtos por bloco — decisão do autor (2026-10-03), a partir do Caso A.
 - **Ligação com o caso:** cada bloco termina, quando cabe, voltando ao paciente (no Caso A: critérios do DSM-5-TR que Marina preenche, classificação provável na CID-11, a recusa de promoção que não é desapego, a pergunta sobre norma cultural e prejuízo).
-- **Citações:** o estilo Vancouver não mostra a página no texto; manter o localizador (`[@chave, p. X]`) mesmo assim, porque fica no código e nos resumos. Disney (2013) é citado sem página (o PDF local é o manuscrito aceito, com paginação própria).
+- **Citações:** o estilo numérico do livro não mostra a página no texto; manter o localizador (`[@chave, p. X]`) mesmo assim, porque fica no código e nos resumos. A posição da citação não depende do estilo: a citação fica no fim da afirmação que a fonte sustenta, e trocar o CSL não pode exigir mudança no texto (autor, 2026-10-04; o estilo passou de Vancouver a Nature Publishing Group - NLM/Vancouver, com número sobrescrito). Disney (2013) é citado sem página (o PDF local é o manuscrito aceito, com paginação própria).
 
 ## Progresso
 
