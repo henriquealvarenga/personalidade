@@ -20,7 +20,9 @@ Essa fraqueza empírica levou o grupo de trabalho do DSM-5 a não incluir amabil
 - p. 169: escalas de dependência de outros modelos (SNAP, DAPP-BQ) carregam no fator neuroticismo; os resultados fracos com amabilidade "contribuíram para a decisão" do grupo de trabalho do DSM-5 de não representar a amabilidade no modelo dimensional.
 - p. 170: as facetas do DSM-5 ligadas à dependência — insegurança de separação, ansiedade, submissão — ficam no domínio de emocionalidade negativa.
 - p. 171: síntese — a dependência envolve amabilidade (submissão, autossacrifício, credulidade) além de neuroticismo; entender o transtorno só pela insegurança e pela ansiedade seria incompleto.
+- p. 172: o neuroticismo do FFM, mesmo em pessoas sem transtorno, "is responsive to pharmacotherapy": um ISRS (paroxetina) reduziu o neuroticismo de voluntários saudáveis, contra placebo (Knutson et al., 1998; replicado por Tang et al., 2009), mas os efeitos de ansiolíticos e antidepressivos em pessoas sem transtorno são "mixed".
 
 ## Onde é citada no livro
 
-- Ainda não citada. Candidata a: `caso-a.qmd`, blocos "O diagnóstico no DSM-5-TR e na CID-11" (por que o desapego não serve) e "Críticas ao diagnóstico" (os modelos de traço não têm o polo de amabilidade excessiva).
+- `caso-a.qmd`: o modelo do DSM-5 não representa a amabilidade, e as facetas ligadas à dependência ficaram na afetividade negativa (pp. 169–170).
+- `04-plasticidade.qmd`, quadro "Estabilidade *vs.* mudança": mudanças individuais associadas a intervenções farmacológicas (p. 172).

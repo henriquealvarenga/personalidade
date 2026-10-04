@@ -8,20 +8,20 @@ Apesar de a estabilidade desses padrões ser tradicionalmente considerada a cara
 
 ::: {.callout-note appearance="simple"}
 ## Estabilidade *vs.* mudança
-Os Big Five mostram estabilidade *test-retest* razoável ao longo de décadas — coeficientes na faixa de 0,5 a 0,7 em estudos longitudinais de longo prazo. Mas estabilidade não é imutabilidade: há mudança de nível médio ao longo da vida (em geral aumento de conscienciosidade e amabilidade, redução de neuroticismo) e há mudança individual associada a psicoterapia, eventos de vida e intervenções farmacológicas.
+Os traços do Big Five mostram estabilidade razoável ao longo dos anos [@roberts_rankorder_2000, p. 3-4, 17]. Mas estabilidade não é imutabilidade: com a idade, a maioria das pessoas fica mais responsável, mais amável e menos propensa a emoções negativas, e há também mudanças individuais, associadas a psicoterapia, eventos de vida e intervenções farmacológicas [@hopwood_stability_2018; @gore_dependency_2013, p. 172].
 :::
 
-## Plasticidade cortical — a base neural da transformação
+## Plasticidade cortical
 
-A leitura da personalidade como padrão modificável encontra base sólida na neurociência da plasticidade cortical. Os trabalhos pioneiros de **Michael Merzenich**, nas décadas de 1980 e 1990, mostraram que o cérebro adulto **permanece radicalmente maleável** [@merzenich_plasticity_2014]: os mapas sensoriais no córtex não são fixos, mas se reorganizam continuamente em função do uso e da experiência. Quem toca piano por anos tem expansão da representação cortical dos dedos; quem para, regride. 
+A leitura da personalidade como padrão modificável é compatível com a neurociência da plasticidade cortical. Os trabalhos pioneiros de **Michael Merzenich** mostraram que o cérebro adulto **permanece maleável** em qualquer idade [@merzenich_plasticity_2014, p. 2-3]: os mapas sensoriais no córtex não são fixos, mas se reorganizam continuamente em função do uso e da experiência.
 
-**Norman Doidge** [@doidge_brain_changes_2007] documenta transformações ainda mais radicais: pessoas com hemisférios cerebrais removidos que desenvolvem funções complexas no tecido remanescente; cegos que aprendem a "ver" por outros sentidos. Se estruturas tão fundamentais quanto a visão podem ser remapeadas.
+**Norman Doidge** [@doidge_brain_changes_2007, cap. 1, 11] documenta transformações ainda mais radicais: uma mulher nascida sem o hemisfério esquerdo, cujo hemisfério direito assumiu funções complexas como a fala e a linguagem; cegos que aprendem a "ver" por outros sentidos.
 
 ::: {.callout-note appearance="simple"}
 ## O "eu" como múltiplos sistemas paralelos
 Joseph LeDoux [@ledoux_synaptic_self_2002] argumenta que o que chamamos de "eu" não é uma entidade unitária, mas a coordenação imperfeita de **múltiplos sistemas cerebrais paralelos** — memória explícita e implícita, regulação emocional, controle motor, planejamento. Quando esses sistemas estão razoavelmente alinhados, sentimos coerência; quando se desencontram (no estresse, na dissociação, no sonho), a coerência se quebra. A personalidade, nessa leitura, é menos uma "coisa" do que um *efeito de integração* — e por isso pode ser transformada quando os componentes se reorganizam.
 :::
 
-A plasticidade cortical é a **explicação neural** de que traços de personalidade não são imutáveis, e mudança terapêutica significativa é biologicamente plausível.
+A plasticidade cortical não demonstra, por si só, que traços de personalidade mudem, mas torna biologicamente plausível uma mudança terapêutica significativa.
 
 
