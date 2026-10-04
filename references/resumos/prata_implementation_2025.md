@@ -13,8 +13,10 @@ Artigo especial escrito por técnicos do Ministério da Saúde e da OPAS que apr
 
 - p. 1, resumo: "O Brasil iniciou, em 2021, a implementação da [...] CID-11, com término previsto para 2027".
 - p. 2, Figura 1 (cronograma, elaborado a partir da Nota Técnica 91/2024): 2019, aprovação na Assembleia Mundial da Saúde; 2021, início da tradução; 2022, publicação pela OMS; 2024, publicação em português; 2027, "previsão de uso da CID-11 no Brasil" e "CID-11 implementada nos sistemas de informação em saúde".
+- p. 4 (Infraestrutura de tecnologia da informação): "até 2024, o Brasil utilizava exclusivamente a versão 2008 da CID-10"; será necessária "uma etapa intermediária, de uso da CID-10 versão 2019 por pelo menos 2 anos" (lida em 2026-10-04).
 - O artigo **não** fala em "1º de janeiro de 2027" nem chama 2026 de "ano de transição e capacitação", como o Cap. 8 dizia antes da correção de 2026-10-03.
 
 ## Onde é citada no livro
 
-- `08-transtornos.qmd`, callout "Implicação clínica da virada dimensional": início da implementação em 2021.
+- `08-transtornos.qmd`, callout "Implicação clínica da virada dimensional": início da implementação em 2021 (p. 1).
+- `08-transtornos.qmd`, parágrafo sobre a CID-10 depois da tabela dos grupos do DSM-5: a CID-10 segue como a classificação usada no Brasil até a implantação da CID-11 (p. 4; item L1-27).

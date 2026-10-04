@@ -20,5 +20,5 @@ Nota técnica do Ministério da Saúde que atualiza o cronograma de implementaç
 
 ## Onde é citada no livro
 
-- `08-transtornos.qmd`, callout "Implicação clínica da virada dimensional": situação da CID-11 no Brasil (início previsto em janeiro de 2027, transição até 2027 ou 2028, CID-10 versão 2019 em uso desde 2025).
+- `08-transtornos.qmd`, callout "Implicação clínica da virada dimensional": situação da CID-11 no Brasil (início previsto em janeiro de 2027, transição até 2027 ou 2028, CID-10 versão 2019 em uso desde 2025; pp. 2–3).
 - Situação conferida em 2026-10-03: buscas na web não encontraram norma ou notícia posterior que altere esse cronograma.

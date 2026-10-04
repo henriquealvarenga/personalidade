@@ -15,5 +15,5 @@ Revisão das psicoterapias com resultados promissores para transtornos de person
 
 ## Onde é citada no livro
 
-- `04-plasticidade.qmd`: utilidade da psicoterapia para modificar traços disfuncionais (citada com @storebo_psychological_2020; afirmação geral, não conferida nesta sessão).
+- `04-plasticidade.qmd`, seção "Eventos de vida e modificações da personalidade": nos transtornos de personalidade, a psicoterapia reduz sintomas e melhora o funcionamento (p. 202). Até 2026-10-04 era citada para "modificar traços de personalidade disfuncionais", o que o artigo não sustenta: "those enduring traits that persist even when the disorder remits" (p. 208). Corrigido no item L1-14 da verificação factual.
 - `caso-g.qmd`, bloco "Importância do diagnóstico hoje": resultado do ensaio de TCC × terapia dinâmica breve no transtorno evitativo e do ensaio anterior no grupo C.

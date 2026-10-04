@@ -95,7 +95,7 @@ Em ordem de página, agrupados por parte do manual.
 
 ## Onde é citada no livro
 
-- `08-transtornos.qmd`, seção "A CID-11 — o modelo dimensional" e callout "Implicação clínica da virada dimensional": datas de aprovação (2019) e de entrada em vigor (2022) da CID-11.
+- `08-transtornos.qmd`, seção "A CID-11 — o modelo dimensional" e callout "Implicação clínica da virada dimensional": datas de aprovação (2019) e de entrada em vigor (2022) da CID-11 (p. 1).
 - Candidata a: `caso-a.qmd`, bloco "O diagnóstico no DSM-5-TR e na CID-11" (perfil de traços e gravidade); fonte para corrigir a tabela `@tbl-dsm-cid11` do Cap. 8, se o autor decidir.
 - `caso-b.qmd`, blocos "História do diagnóstico na psiquiatria" (p. 161), "Importância do diagnóstico hoje" (pp. 177–178), "O diagnóstico no DSM-5-TR e na CID-11" (pp. 177, 179–180, 557–558, 561, 568) e "Críticas ao diagnóstico" (pp. 161, 178–179). No Caso B, a p. 561 (desapego: recusa de promoções) serve no sentido direto — Otávio recusa duas vezes o turno do dia, com aumento, para evitar gente.
 - `caso-c.qmd`, blocos "Importância do diagnóstico hoje" (p. 565) e "O diagnóstico no DSM-5-TR e na CID-11" (pp. 300, 307, 556, 557, 559, 563). A classificação provável de Helena (transtorno de personalidade leve, 6D10.0, com anancastia proeminente, 6D11.4) é inferência a partir das pp. 556–557 e 559.
@@ -107,3 +107,4 @@ Em ordem de página, agrupados por parte do manual.
 - `caso-i.qmd`, blocos "História do diagnóstico na psiquiatria" (p. 554), "O diagnóstico no DSM-5-TR e na CID-11" (pp. 553–554, 557–558, 563–564; classificação provável de Pedro) e "Críticas ao diagnóstico" (p. 348).
 - `08-transtornos.qmd`, quadro "E a esquizotípica?": o 6A22 no agrupamento esquizofrenia e outros transtornos psicóticos primários (p. 161).
 - `08-transtornos.qmd`, tabela `@tbl-dsm-cid11`, linha do borderline: sobreposição do padrão borderline com afetividade negativa, dissocialidade e desinibição (p. 563).
+- `06-taxonomia.qmd` (seção "A virada dimensional da CID-11") e `08-transtornos.qmd` (parágrafo sobre o qualificador borderline): o qualificador pode facilitar a identificação de quem responde a certos tratamentos psicoterápicos (p. 554; item L1-30).

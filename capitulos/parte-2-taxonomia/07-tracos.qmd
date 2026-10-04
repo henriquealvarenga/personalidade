@@ -42,7 +42,7 @@ Um traço de personalidade é uma tendência em sentir, comportar e pensar de fo
 
 Além desses cinco traços de personalidade, existem ainda vários outros, cuja importância varia segundo a linha teórica em uso. Por exemplo, traços **narcisísticos** de personalidade — definidos como uma orientação interpessoal autocentrada, autoengrandecedora, autoritária, dominante e manipuladora — podem ter influência importante no comportamento [@roberts_personality_2017]. Da mesma forma, a **alexitimia**, conceituada como dificuldade em reconhecer e descrever as próprias emoções, também tem influência importante no comportamento e na saúde mental [@sifneos_alexithymic_1973].
 
-Se, por um lado, um modelo dimensional como o de traços oferece mais informação, por outro lado ele é bem mais complexo de ser usado na prática diária do médico. Devido a essa complexidade, a abordagem dimensional da personalidade foi inserida no DSM-5 em sua **Seção III** ("Medidas e modelos emergentes"), e não na seção principal de transtornos de personalidade [@apa_dsm5_2013].
+Se, por um lado, um modelo dimensional como o de traços oferece mais informação, por outro lado ele pode parecer mais complexo de usar na prática diária do médico. Essa foi uma das objeções da direção da APA ao modelo alternativo proposto para o DSM-5, que ela considerou sem utilidade clínica: o modelo foi rejeitado e publicado na **Seção III**, como modelo de pesquisa, e não na seção principal de transtornos de personalidade [@mulder_diagnosis_2019, p. 27-28; @apa_dsm5_br_2014, p. 645].
 
 ::: {.callout-note appearance="simple"}
 ## Nota histórica

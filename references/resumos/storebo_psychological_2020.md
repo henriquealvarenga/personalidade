@@ -18,3 +18,4 @@ Revisão sistemática Cochrane (atualiza a de 2012) de ensaios clínicos randomi
 
 - `caso-i.qmd`, bloco "Importância do diagnóstico hoje": eficácia das psicoterapias específicas e qualidade da evidência (pp. 1–3).
 - `10-tratamento.qmd`, seção "Terapia Comportamental Dialética (DBT)": 75 ensaios, um terço com DBT; DBT superior ao tratamento usual com evidência de baixa qualidade; sem diferença clara entre os tipos de psicoterapia (pp. 2–3).
+- `04-plasticidade.qmd`, seção "Eventos de vida e modificações da personalidade": a psicoterapia reduz sintomas e melhora o funcionamento no TPB (desfechos primários: gravidade, autolesão, suicidalidade, funcionamento; pp. 1–2). Até 2026-10-04 era citada para "modificar traços" (item L1-14 da verificação factual).

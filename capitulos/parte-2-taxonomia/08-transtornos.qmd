@@ -14,7 +14,7 @@ Atualmente, o DSM-5 classifica dez tipos de personalidades problemáticas em tr�
 
 : Classificação dos transtornos de personalidade segundo o DSM-5 {#tbl-dsm5-clusters .striped .hover}
 
-A **CID-10**, vigente desde 1992 e ainda em uso parcial nos sistemas de saúde brasileiros por questões de legado, tinha oito diagnósticos categóricos e não os agrupava em *clusters* — uma classificação intermediária entre a categórica do DSM-5 e a dimensional que viria a ser adotada pela CID-11 (desenvolvida em seção própria mais adiante neste capítulo).
+A **CID-10**, cujas diretrizes clínicas são de 1992 e que segue como a classificação usada no Brasil até a implantação da CID-11 [@prata_implementation_2025, p. 4], tinha oito tipos categóricos de transtorno de personalidade e não os agrupava em *clusters*, como faz o DSM [@who_icd10_1992, p. 198].
 
 ## Limites do modelo categórico
 
@@ -32,10 +32,10 @@ O DSM tem história turbulenta com transtornos de personalidade. Cada edição r
 
 Críticos de dentro da psiquiatria já apontavam esse problema. **Thomas Szasz** [@szasz_myth_mental_1961] argumentava que muitos transtornos de personalidade são "problemas de vida medicalizados", julgamentos morais disfarçados de taxonomia científica — sua tese é exagerada, mas o núcleo da denúncia (a fronteira entre categoria diagnóstica e juízo moral é mais porosa do que admitimos) permanece como advertência ética. **R. D. Laing** [@laing_divided_self_1960], da antipsiquiatria britânica, propôs inversão de perguntas: em vez de "*por que essa pessoa tem essa personalidade anormal?*", perguntar "*que contexto tornaria esse comportamento compreensível?*".
 
-Essas críticas — e a leitura situacionista e processual da personalidade — são desenvolvidas no [Apêndice II — Crítica interdisciplinar](../../apendices/critica-interdisciplinar.qmd). O estudante deste capítulo não precisa adotar essas críticas para usar o DSM-5 na clínica; mas precisa **conhecê-las** para não confundir uma taxonomia operacional com uma ontologia.
+O estudante deste capítulo não precisa adotar essas críticas para usar o DSM-5 na clínica; mas precisa **conhecê-las** para não confundir uma taxonomia operacional com uma ontologia.
 :::
 
-Devido a essas inúmeras dificuldades, o DSM-5 incluiu em sua **Seção III** um capítulo com um **modelo alternativo para transtornos de personalidade** que adota uma abordagem **dimensional** (baseada em traços) em vez da abordagem categórica tradicional [@apa_dsm5_2013]. A próxima seção descreve a resposta mais ambiciosa a essas mesmas dificuldades — a reformulação completa adotada pela CID-11.
+Devido a essas inúmeras dificuldades, o DSM-5 incluiu em sua **Seção III** um **modelo alternativo para transtornos de personalidade**, que é **híbrido**: define o transtorno pelo prejuízo no funcionamento da personalidade e por traços patológicos, e dele se derivam seis transtornos específicos [@apa_dsm5tr_2022, p. 881; @apa_dsm5_br_2014, p. 645].
 
 ## A CID-11 — o modelo dimensional
 
@@ -66,7 +66,7 @@ A estrutura da CID-11 tem três componentes:
 
 - **6D11.5** *Padrão Borderline* — apresentação caracterizada por instabilidade afetiva intensa, comportamento autodestrutivo, padrão relacional caótico e desregulação emocional grave.
 
-A escolha de preservar **borderline** como qualificador — e não, por exemplo, antissocial ou narcisista — reflete o reconhecimento de que essa apresentação tem **utilidade clínica consolidada** (psicoterapias específicas como a DBT, prognóstico próprio, decisões terapêuticas distintas) que não se reduz integralmente ao perfil dimensional [@bach_icd11_personality_2018].
+A escolha de preservar **borderline** como qualificador — e não, por exemplo, antissocial ou narcisista — teve razões práticas: dar continuidade ao cuidado na passagem da CID-10 para a CID-11 e ajudar a identificar quem pode responder a certas psicoterapias [@who_cddr_icd11_2024, p. 554; @reed_innovations_2019, p. 16; @bach_icd11_personality_2018, p. 5].
 
 ::: {.callout-note appearance="simple"}
 ## E a esquizotípica?
@@ -92,5 +92,5 @@ A tabela abaixo mostra como cada transtorno categórico do DSM-5 mapeia *aproxim
 
 ::: {.callout-tip appearance="simple"}
 ## Implicação clínica da virada dimensional
-Na prática brasileira, isso significa que o profissional formado hoje precisa **conhecer dois sistemas** simultaneamente: o DSM-5-TR (categórico, ainda hegemônico em ensino e literatura científica) e a CID-11 (dimensional, aprovada pela Assembleia Mundial da Saúde em 2019 e em vigor internacionalmente desde 2022) [@who_icd11_2022; @who_cddr_icd11_2024]. No Brasil, a CID-11 **ainda não substituiu a CID-10**: o processo de implementação começou em 2021 [@prata_implementation_2025], e o uso da CID-11 nos sistemas de vigilância em saúde está previsto para **começar em janeiro de 2027**, de forma gradual, com integração plena até 2027 ou 2028; até lá, o país usa a CID-10 na versão de 2019, adotada em 2025 [@brasil_notatecnica91_2024]. Apesar disso, conhecer o modelo dimensional desde já é necessário — tanto pela hegemonia da CID-11 na literatura científica internacional quanto pela necessidade de preparação para a virada nacional. Os capítulos seguintes deste livro mantêm a apresentação categórica como organizador didático, mas o estudante deve saber traduzir cada diagnóstico para o perfil dimensional correspondente — e reconhecer que essa tradução é aproximada, não exata. A implicação para o tratamento é discutida no [Cap. 10 (Tratamento)](10-tratamento.qmd), e a crítica conceitual mais ampla, no [Apêndice II](../../apendices/critica-interdisciplinar.qmd).
+Na prática brasileira, isso significa que o profissional formado hoje precisa **conhecer dois sistemas** simultaneamente: o DSM-5-TR (categórico) e a CID-11 (dimensional, aprovada pela Assembleia Mundial da Saúde em 2019 e em vigor internacionalmente desde 2022) [@who_icd11_2022; @who_cddr_icd11_2024, p. 1]. No Brasil, a CID-11 **ainda não substituiu a CID-10**: o processo de implementação começou em 2021 [@prata_implementation_2025, p. 1], e o uso da CID-11 nos sistemas de vigilância em saúde está previsto para **começar em janeiro de 2027**, de forma gradual, com integração plena até 2027 ou 2028; até lá, o país usa a CID-10 na versão de 2019, adotada em 2025 [@brasil_notatecnica91_2024, p. 2-3]. Apesar disso, conhecer o modelo dimensional desde já é necessário, como preparação para a mudança no país. Os capítulos seguintes deste livro mantêm a apresentação categórica como organizador didático, mas o estudante deve saber traduzir cada diagnóstico para o perfil dimensional correspondente — e reconhecer que essa tradução é aproximada, não exata.
 :::

@@ -14,6 +14,7 @@ O artigo revisa a genealogia habitual da psicopatia: a *manie sans délire* de P
 ## Trechos úteis para os casos
 
 - p. 14 (resumo): até o fim do século XIX, "personalidade" designava os aspectos subjetivos do eu, e "transtorno da personalidade", alteração da consciência.
+- p. 16: "The Hippocratic fourfold humoral view of the temperaments lasted well into the eighteenth century", quando Richerand tentou reexplicar os temperamentos pelo tamanho e pela predominância de certos órgãos; a teoria dos temperamentos deu à noção moderna de transtorno de personalidade o princípio de que "psychological types are determined by an organic substratum" (lida em 2026-10-04).
 - p. 19: o que Pinel quis dizer com *manie sans délire* foi debatido durante todo o século XIX; em 1866, Falret argumentou que a única razão para manter a categoria era usá-la como defesa nos tribunais; "as intenções clínicas de Pinel tinham pouco a ver com os transtornos de personalidade".
 - p. 19: a afirmação de que a *moral insanity*, cunhada por Prichard, foi precursora do transtorno psicopático "foi efetivamente desacreditada" (cita Whitlock: "nem a mais remota semelhança" entre os exemplos de Pinel e Prichard e a personalidade psicopática de hoje).
 - p. 20: a preocupação principal de Prichard era dar lugar a quadros maníaco-depressivos sem sintomas psicóticos; seus casos muitas vezes melhoravam; "Prichard não estava falando de personalidades psicopáticas".
@@ -31,3 +32,4 @@ O artigo revisa a genealogia habitual da psicopatia: a *manie sans délire* de P
 
 - `caso-d.qmd`, bloco "História do diagnóstico na psiquiatria": revisão da genealogia Pinel–Prichard; sentido antigo de "psicopático"; Koch e a degeneração; Schneider (1923) e a definição ampla; a captura eugênica; o desaparecimento do termo nas classificações (CID-10 F60.2).
 - `caso-h.qmd`, bloco "História do diagnóstico na psiquiatria": os fanáticos entre os dez tipos de personalidade psicopática de Schneider (livro de 1923, várias vezes reeditado).
+- `06-taxonomia.qmd`, seção "Tipologias: dos gregos a Schneider": a explicação humoral dos temperamentos durou até o século XVIII; os tipos psicológicos determinados por um substrato orgânico, os humores e depois os órgãos (p. 16).

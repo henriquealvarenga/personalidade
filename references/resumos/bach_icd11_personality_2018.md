@@ -26,7 +26,8 @@ Os autores insistem em que os qualificadores não são categorias, e sim dimens�
 
 ## Onde é citada no livro
 
-- Já citada no Cap. 8 (padrão borderline). Candidata a: `caso-a.qmd`, bloco "O diagnóstico no DSM-5-TR e na CID-11".
+- `06-taxonomia.qmd` (seção "A virada dimensional da CID-11") e `08-transtornos.qmd` (parágrafo sobre o qualificador borderline): a sugestão de que o qualificador sirva de indicador familiar para escolher a psicoterapia (p. 5). Até 2026-10-04 era citada para razões que o artigo não dá (DBT, MBT, TFP, "inviável reformar", prognóstico próprio do borderline; no artigo o prognóstico vem da gravidade, p. 12); corrigido no item L1-30.
+- Candidata a: `caso-a.qmd`, bloco "O diagnóstico no DSM-5-TR e na CID-11".
 - `caso-b.qmd`, bloco "O diagnóstico no DSM-5-TR e na CID-11" (p. 6).
 - `caso-d.qmd`, bloco "O diagnóstico no DSM-5-TR e na CID-11" (caso 3 como contraste com a gravidade moderada de Diogo, p. 9).
 - `caso-g.qmd`, bloco "O diagnóstico no DSM-5-TR e na CID-11": a fórmula "leve, com afetividade negativa e desapego" para o antigo evitativo (p. 11) e o caso 2 (pp. 7, 9).

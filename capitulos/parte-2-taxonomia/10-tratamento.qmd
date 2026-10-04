@@ -32,10 +32,5 @@ Esta seção foi expandida em maio de 2026, mas as descrições de MBT, TFP e Sc
 - **Farmacoterapia**: revisões sistemáticas recentes sobre uso de estabilizadores, ISRS e antipsicóticos de segunda geração em borderline.
 - **Tratamento específico por cluster A e C**.
 - **Setting de tratamento**: ambulatorial vs hospital-dia vs internação; risco de iatrogenia.
-- **Tratamento na CID-11**: a virada dimensional ([discutida no Cap. 8](08-transtornos.qmd#a-cid-11-o-modelo-dimensional)) muda o que é alvo terapêutico — em vez de tratar "personalidade borderline" como tipo, a CID-11 sugere intervir sobre **severidade global** (6D10) e **domínios de traço** (6D11.x) que estejam clinicamente comprometendo o funcionamento. A DBT, por exemplo, pode ser indicada tanto para casos com *padrão borderline* (6D11.5) quanto para apresentações com alta desinibição (6D11.3) e afetividade negativa (6D11.0) sem padrão borderline formal.
-:::
-
-::: {.callout-tip appearance="simple"}
-## Conexão com o apêndice
-A eficácia da DBT é, além de fato clínico, um **argumento conceitual**: se padrões de personalidade fossem essências fixas, a DBT não poderia funcionar como funciona. Esse argumento é desenvolvido no [Apêndice II — Crítica interdisciplinar](../../apendices/critica-interdisciplinar.qmd).
+- **Tratamento na CID-11**: a virada dimensional muda o que é alvo terapêutico — em vez de tratar "personalidade borderline" como tipo, a CID-11 sugere intervir sobre **severidade global** (6D10) e **domínios de traço** (6D11.x) que estejam clinicamente comprometendo o funcionamento. A DBT, por exemplo, pode ser indicada tanto para casos com *padrão borderline* (6D11.5) quanto para apresentações com alta desinibição (6D11.3) e afetividade negativa (6D11.0) sem padrão borderline formal.
 :::

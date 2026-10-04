@@ -11,9 +11,11 @@ Tradução brasileira oficial do DSM-5 (2013). O capítulo de transtornos da per
 
 ## Trechos úteis para os casos
 
+- p. 645 (abertura do capítulo): "Em qualquer processo de revisão em curso, especialmente em um processo de tal complexidade, surgem diferentes pontos de vista [...]. Assim, transtornos da personalidade são inclusos tanto na Seção II quanto na Seção III"; a Seção III "inclui o modelo de pesquisa proposto [...] desenvolvido pelo Grupo de Trabalho". A "complexidade" é a do processo de revisão, não a do modelo na prática. O PDF local não traz o título da Seção III em português.
 - p. 645: lista dos transtornos do capítulo; "transtorno da personalidade evitativa é um padrão de inibição social, sentimentos de inadequação e hipersensibilidade a avaliação negativa".
 - p. 672: "Transtorno da Personalidade Evitativa", no grupo C, com o código 301.82 (F60.6); critérios em português nas pp. 672–673.
 
 ## Onde é citada no livro
 
 - `caso-g.qmd`, bloco "História do diagnóstico na psiquiatria": o nome "evitativa" na edição brasileira do DSM-5 (o mesmo diagnóstico que outras traduções chamam de "esquiva").
+- `06-taxonomia.qmd`, `07-tracos.qmd` e `08-transtornos.qmd`: o modelo alternativo publicado na Seção III como modelo de pesquisa (p. 645; item L1-28).
