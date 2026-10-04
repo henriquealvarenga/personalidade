@@ -165,7 +165,7 @@ Em 2026-10-04 o autor decidiu mandar fotos das páginas destes livros. As frases
 | `schneider_psychopathic_1958` | `06:11` | sumário com os dez tipos e definições de personalidade anormal e psicopática (Berrios 1993, p. 22, e Livesley 2001, p. 5, já conferidos: ver L1-23 e L1-24) |
 | `widiger_oxford_2017` | `06:19` | capítulo introdutório (os cinco domínios e a consolidação nos anos 1980 já estão em Goldberg 1993, pp. 26–27; o rótulo "FFT" é o item L1-25). O `.bib` tem o organizador; a suspeita do planejamento era infundada |
 | `ledoux_synaptic_self_2002` | `04:24` | a tese do "eu" como coordenação imperfeita de sistemas paralelos; o apêndice (`critica-interdisciplinar.qmd:21`) atribui a LeDoux uma tese mais forte ("ficção sintetizada"); título da edição brasileira (ver L1-53) |
-| `doidge_brain_changes_2007` | `04:20` | hemisferectomia e substituição sensorial; "funções complexas" (cap. 4) × "funções completas" (`critica-interdisciplinar.qmd:17`) |
+| `doidge_brain_changes_2007` | `04:20` | hemisferectomia e substituição sensorial; "funções complexas" (cap. 4) × "funções completas" (`critica-interdisciplinar.qmd:17`). **Situação em 2026-10-04:** há um PDF local (`references/PDF/Doidge-Brain-Changes-Itself.pdf`), mas é um arquivo de Word convertido, sem página de créditos e sem a paginação impressa (224 p.), com erros de digitação/OCR: serve para ler e localizar, não para dar página nem citação literal sem conferir. Os casos estão no cap. 1 ("A Woman Perpetually Falling", substituição sensorial) e no cap. 11 ("More than the Sum of Her Parts", a mulher com metade do cérebro). Edição de referência, pela foto do verso da folha de rosto mandada pelo autor: Penguin Books, New York, 2007, brochura, ISBN 978-0-14-311310-2 (capa dura: Viking Penguin, 2007, ISBN 978-0-670-03830-5); o `.bib` hoje registra a Viking. Plano: citar pelo capítulo (`[@doidge_brain_changes_2007, cap. 11]`) ou conferir a página numa pré-visualização da brochura; ajustar o `.bib` e o note (a edição brasileira *O cérebro que se transforma*, Record, 2008, não foi conferida). |
 | `laing_divided_self_1960` | `08:33` | a "inversão de perguntas" (as perguntas entre aspas parecem formulação do livro, não citação) |
 
 #### Pistas para os próximos lotes (achadas durante o Lote 1)
@@ -190,7 +190,7 @@ A unidade de trabalho é o **item**, não o capítulo: cada item é corrigido em
 |---|---|---|
 | 1 ✔ | V-01, V-02, L1-14 (gravidade alta); L1-01, L1-27, L1-28, L1-30 (vários capítulos). **Feita em 2026-10-04**, com L1-02, L1-44, parte de L1-45 (quadro final do cap. 8) e de L1-53 (Bach e First) e seis remissões tiradas (ver o Diário) | — |
 | 2 ✔ | L1-03, L1-04, L1-05, L1-06, L1-07, L1-08, L1-09, L1-10, L1-11, L1-12, V-06, L1-13 (caps. 1–3 e quadros VERIFICAR). **Feita em 2026-10-04** (L1-02 já tinha sido feito na sessão 1) | — |
-| 3 | V-05, L1-15, V-23, L1-16, L1-17, L1-18, L1-19, V-20, L1-20, L1-21, L1-22 (caps. 4–5) | LeDoux, Doidge |
+| 3 | V-05, L1-15, V-23, L1-16, L1-17, L1-18, L1-19, V-20, L1-20, L1-21, L1-22 (caps. 4–5) | Doidge (PDF local, ver "Aguardando páginas"); LeDoux fica para outro dia: deixar `04:22` e o resto de LeDoux para quando chegarem as fotos (folha de rosto, verso e sumário) |
 | 4 | L1-23, L1-24, L1-25, L1-26, L1-29, L1-31, L1-32, V-09, L1-33, L1-34 (caps. 6–7) | Schneider, Widiger |
 | 5 | L1-35, L1-36, V-10, L1-37, L1-38, V-07, L1-39, L1-40 (cap. 8, linhas 5–31) | Andreasen (08:21) |
 | 6 | L1-41, L1-42, L1-43, V-11, L1-45 (o resto do capítulo; o quadro final já foi feito) (cap. 8, linhas 33–95) | Laing |
