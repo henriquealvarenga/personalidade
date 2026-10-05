@@ -124,8 +124,9 @@ book:
 
 # =========================================================================
 # Bibliografia — Nature Publishing Group - NLM/Vancouver (numérico, número
-# sobrescrito), processado pelo Citeproc do Pandoc. O CSL tem dois ajustes
-# locais comentados no arquivo (ordinal feminino; volume ausente).
+# sobrescrito), processado pelo Citeproc do Pandoc. O CSL tem ajustes locais
+# comentados no arquivo (língua padrão pt-BR; ordinal feminino; volume
+# ausente; espaço antes da URL e do ano de acesso; edição nos capítulos).
 # =========================================================================
 bibliography: references/references.bib
 csl: references/csl_styles/nature-publishing-group-vancouver.csl
