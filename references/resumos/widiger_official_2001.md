@@ -29,6 +29,9 @@ Capítulo de Thomas Widiger sobre a história e os problemas das classificaçõe
 - p. 76: Kaplan (1983) e Frances et al. (1995) defendiam critérios neutros ou equilibrados quanto ao gênero; os critérios do dependente e do histriônico foram revistos em parte com essa intenção, mas não tanto quanto eles recomendavam.
 - p. 76: "os clínicos de fato tendem a superdiagnosticar o transtorno de personalidade histriônica em mulheres" (Garb, 1997); boa parte disso vem de não seguir os critérios, mas a direção do erro resulta da proximidade entre a sintomatologia histriônica e comportamentos estereotipadamente femininos; a solução preferível não é tornar o transtorno "mais masculino", e sim dar mais especificidade comportamental aos critérios.
 - p. 76: o antissocial se associa a comportamentos estereotipadamente masculinos, mas é menos superdiagnosticado nos homens do que o histriônico nas mulheres, porque seus critérios são mais específicos em comportamento e menos sujeitos a aplicação errada.
+- p. 66: no DSM-III-R, dois diagnósticos novos, o sádico e o *self-defeating*, foram para um apêndice de categorias que pediam mais estudo: a inclusão aprovada pelo comitê consultivo foi derrubada pela diretoria da APA "due to their controversial nature and questionable empirical support" (lida em 2026-10-05).
+- p. 68: no DSM-IV, o passivo-agressivo, o transtorno de personalidade mais diagnosticado durante a Segunda Guerra, "was downgraded to an appendix"; o *self-defeating* e o sádico "were deleted entirely from the manual" (lida em 2026-10-05).
+- p. 76 (seção "Differences across Gender and Culture"): "The proposal to include masochistic personality disorder in DSM-III-R generated substantial controversy for DSM-III-R and DSM-IV" (Caplan, 1991; Widiger, 1995) (lida em 2026-10-05).
 
 ## Onde é citada no livro
 
@@ -40,3 +43,4 @@ Capítulo de Thomas Widiger sobre a história e os problemas das classificaçõe
 - `caso-e.qmd`, bloco "Críticas ao diagnóstico": superdiagnóstico em mulheres e revisão parcial dos critérios (p. 76).
 - `caso-f.qmd`, bloco "História do diagnóstico na psiquiatria": entrada do narcisista no DSM-III (1980) (p. 64).
 - `06-taxonomia.qmd`, seção "Transtornos": os onze transtornos específicos do DSM-III, com o compulsivo (depois obsessivo-compulsivo) e o passivo-agressivo, que o DSM-IV passou para um apêndice (pp. 64, 66–68).
+- `08-transtornos.qmd`, quadro "A volatilidade histórica das categorias diagnósticas": a personalidade masoquista no apêndice do DSM-III-R e fora do DSM-IV, depois da controvérsia ligada ao gênero (pp. 66, 68, 76); o passivo-agressivo rebaixado a apêndice no DSM-IV (p. 68) (itens L1-39, 2026-10-05).

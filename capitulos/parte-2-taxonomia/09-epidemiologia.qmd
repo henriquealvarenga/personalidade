@@ -2,7 +2,7 @@
 title: "Epidemiologia dos transtornos de personalidade"
 ---
 
-Estima-se que entre **9% e 16% da população** apresente critérios para diagnóstico de algum transtorno de personalidade [@andreasen_introductory_2014]. Meta-análise mais recente, agregando dez estudos populacionais em países ocidentais (publicados em 27 artigos), encontrou prevalência global em torno de **12%** [@volkert_prevalence_2018]. A prevalência é ainda maior em amostras de pacientes com algum transtorno psiquiátrico (**30% a 50%**) [@andreasen_introductory_2014].
+Estima-se que entre **9% e 16% da população** apresente critérios para diagnóstico de algum transtorno de personalidade [@black_introductory_2014]. Meta-análise mais recente, agregando dez estudos populacionais em países ocidentais (publicados em 27 artigos), encontrou prevalência global em torno de **12%** [@volkert_prevalence_2018]. A prevalência é ainda maior em amostras de pacientes com algum transtorno psiquiátrico (**30% a 50%**) [@black_introductory_2014].
 
 Em amostras de pacientes em tratamento psiquiátrico ambulatorial, a prevalência combinada dos transtornos de personalidade **borderline** e **obsessivo-compulsiva** atinge taxas de quase 20% (@tbl-prevalencia) [@zimmerman_prevalence_2005]. Entre os pacientes internados em unidades psiquiátricas, o transtorno de personalidade borderline chega a cerca de 20% [@apa_dsm5tr_2022, p. 755].
 

@@ -108,3 +108,4 @@ Em ordem de página, agrupados por parte do manual.
 - `08-transtornos.qmd`, quadro "E a esquizotípica?": o 6A22 no agrupamento esquizofrenia e outros transtornos psicóticos primários (p. 161).
 - `08-transtornos.qmd`, tabela `@tbl-dsm-cid11`, linha do borderline: sobreposição do padrão borderline com afetividade negativa, dissocialidade e desinibição (p. 563).
 - `06-taxonomia.qmd` (seção "A virada dimensional da CID-11") e `08-transtornos.qmd` (parágrafo sobre o qualificador borderline): o qualificador pode facilitar a identificação de quem responde a certos tratamentos psicoterápicos (p. 554; item L1-30).
+- `08-transtornos.qmd`, quadro "A volatilidade histórica das categorias diagnósticas": a CID-11 abandonou os tipos categóricos, exceto o padrão borderline, qualificador opcional (p. 554; item L1-40, 2026-10-05).

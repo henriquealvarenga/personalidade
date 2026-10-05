@@ -18,3 +18,4 @@ Estudo do projeto MIDAS (Rhode Island) que compara a frequência do diagnóstico
 
 - `08-transtornos.qmd`: relutância dos psiquiatras em diagnosticar o transtorno borderline.
 - `caso-i.qmd`, bloco "Críticas ao diagnóstico": 0,4% contra 14,4% (p. 1572).
+- `08-transtornos.qmd`, desde 2026-10-05 com página (p. 1572) e ao lado de Paris 2007 (p. 36), porque Zimmerman e Mattia atribuem a relutância à falta de tempo na avaliação inicial, não ao estigma ("the need for more time to conduct a comprehensive intake evaluation", p. 1572; item L1-38).

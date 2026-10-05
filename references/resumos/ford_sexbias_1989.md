@@ -17,8 +17,10 @@ Estudo experimental clássico sobre viés de sexo no diagnóstico dos transtorno
 - p. 303 (resultados): na história equilibrada, o sexo não influiu; na histriônica, o diagnóstico histriônico foi dado a 44% dos homens e 76% das mulheres; na antissocial, o antissocial foi dado a 42% dos homens e 15% das mulheres, e as mulheres receberam mais o diagnóstico histriônico (46%) do que o antissocial (15%). Nenhum dos 10 critérios isolados diferiu entre pacientes homens e mulheres.
 - p. 304 (discussão): o viés foi maior nas histórias menos ambíguas, o que afasta a explicação pelas taxas de base; as expectativas estereotipadas são evocadas pelos rótulos dos transtornos, não pelos critérios; especificar os critérios e tirar deles os traços ligados ao sexo pode não eliminar nem reduzir muito o viés; propõem treinar o uso sistemático dos critérios.
 - Maass (2019, pp. 101–102) descreve o estudo. Os percentuais que ele atribui a "outro estudo citado por Ford e Widiger" (76% e 22%; 49% e 41%) conferem com o relato de Warner (1978) na p. 301. Mas Maass simplifica o método: diz que os 354 psicólogos receberam uma de nove histórias clínicas, quando só 266 as receberam.
+- p. 304 (discussão): os resultados sugerem que a decisão de trocar o nome proposto, *masochistic*, por *self-defeating personality disorder*, para separar o diagnóstico da literatura psicanalítica, "may have been prudent"; mas "a diagnosis of hysteria or masochism by any other name may still be sexist" (lida em 2026-10-05).
 
 ## Onde é citada no livro
 
 - `caso-e.qmd`, bloco "Críticas ao diagnóstico": o experimento com 354 psicólogos, que avaliaram histórias clínicas ou trechos delas, e o viés no diagnóstico, não nos critérios (pp. 302–303).
 - Possível uso no `caso-d.qmd` (antissocial).
+- `08-transtornos.qmd`, quadro "A volatilidade histórica das categorias diagnósticas": a personalidade masoquista, que no DSM-III-R passou a se chamar *self-defeating* e foi criticada por viés contra as mulheres (p. 304; item L1-39, 2026-10-05, junto com Widiger 2001).

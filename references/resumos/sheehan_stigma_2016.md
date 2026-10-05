@@ -28,3 +28,4 @@ Revisão narrativa sobre o estigma dos transtornos de personalidade, a partir do
 - `caso-f.qmd`, bloco "Críticas ao diagnóstico": pouca familiaridade do público, estigma pouco estudado, visto como vantagem nos negócios (p. 4).
 - `caso-i.qmd`, bloco "Críticas ao diagnóstico": estigma entre profissionais, empatia dos psiquiatras e leitura das tentativas de suicídio como busca de atenção (pp. 3–4).
 - `08-transtornos.qmd`, seção "Limites do modelo categórico": o borderline entre os transtornos de personalidade mais estigmatizados e o mais estudado quanto ao estigma (p. 3).
+- `08-transtornos.qmd`, seção "Limites do modelo categórico": os transtornos de personalidade "podem" sofrer estigma maior que outros diagnósticos (p. 3, *might be even more stigmatized*; item L1-37); psiquiatras podem evitar o diagnóstico para proteger do estigma (pp. 4–5; item L1-38), 2026-10-05.
