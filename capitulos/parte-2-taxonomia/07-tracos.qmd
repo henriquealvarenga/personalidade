@@ -2,17 +2,17 @@
 title: "Traços de personalidade"
 ---
 
-O conceito de personalidade refere-se à integração dinâmica da totalidade da experiência subjetiva e dos padrões de comportamento de uma pessoa, incluindo comportamentos conscientes e inconscientes, representando uma entidade muito mais complexa e sofisticada do que simplesmente a soma de todas as suas características componentes.
+O conceito de personalidade refere-se à integração dinâmica da totalidade da experiência subjetiva e dos padrões de comportamento de uma pessoa, incluindo comportamentos conscientes e inconscientes, representando uma entidade muito mais complexa e sofisticada do que simplesmente a soma de todas as suas características componentes [@allport_personality_1937, p. 43-44, 48; @lewin_dynamic_1935, p. 44, 56].
 
 Por outro lado, grande parte da tradição científica ocidental se baseia na capacidade de fragmentar o todo em unidades menores e de compreensão mais simples. Se observarmos fragmentos do comportamento humano, podemos encontrar alguns padrões, podemos perceber que em alguns aspectos também somos parecidos uns com os outros. Alguns são tímidos, outros são extrovertidos; uns são cautelosos, outros audaciosos; uns são inseguros, outros corajosos.
 
-Podemos usar uma infinidade de termos para caracterizar os diversos aspectos da personalidade de um sujeito. Galton, um dos primeiros a avaliar a quantidade desses termos na língua inglesa no século XIX, encontrou mais de 1.000 diferentes termos para descrever a personalidade [@galton_measurement_1884]. Allport e Odbert (1936) ampliaram esse levantamento ao vasculhar o *Webster's New International Dictionary*, identificando cerca de 4.500 termos descritivos estáveis [@allport_traitnames_1936] — lista que Cattell, mais tarde, reduziu por análise fatorial a um conjunto de fatores mais enxuto, base do modelo 16PF e precursor do *Big Five* [@goldberg_structure_1993].
+Podemos usar uma infinidade de termos para caracterizar os diversos aspectos da personalidade de um sujeito. Galton, um dos primeiros a avaliar a quantidade desses termos na língua inglesa no século XIX, encontrou mais de 1.000 diferentes termos para descrever a personalidade [@galton_measurement_1884]. Allport e Odbert (1936) ampliaram esse levantamento ao vasculhar o *Webster's New International Dictionary*, identificando 17.953 termos, cerca de 4.500 deles descritivos de traços estáveis [@allport_traitnames_1936, p. 24, 26] — lista que Cattell, mais tarde, reduziu primeiro a 35 variáveis e depois, por análise fatorial, a um conjunto de fatores mais enxuto, base do modelo 16PF e precursor do *Big Five* [@goldberg_structure_1993, p. 26-27; @boyle_methods_2009, p. 113].
 
 Entretanto, apesar dessa infinidade de formas de nomear os mais diversos aspectos do ser humano, os estudiosos da personalidade em geral concordam que cinco dimensões básicas podem ser usadas para caracterizar a personalidade, usualmente conhecidas como o modelo **Big Five** [@goldberg_structure_1993]. Esses traços formam o acrônimo **OCEAN**:
 
 | Letra | Traço (en / pt)                                                                                                | Polo oposto                                            |
 |:-----:|:---------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------|
-| **O** | *Openness to experience* — aberto a experiências                                                               | fechado, convencional (psicoticismo)                  |
+| **O** | *Openness to experience* — aberto a experiências                                                               | fechado, convencional                                 |
 | **C** | *Conscientiousness* — meticuloso, organizado                                                                   | despreocupado, desinibido                              |
 | **E** | *Extraversion* — extrovertido                                                                                  | introvertido, emocionalmente retraído                  |
 | **A** | *Agreeableness* — afável, consensual                                                                           | antagônico, sempre discordante                         |
@@ -24,7 +24,7 @@ O estudo da personalidade é em grande parte dominado por essa corrente que estu
 
 | Polo positivo / saudável        | Domínio Big Five            | Polo negativo / problemático      |
 |:--------------------------------|:----------------------------|:----------------------------------|
-| Lucidez                         | *Openness to experience*    | Psicoticismo                      |
+| Aberto a experiências           | *Openness to experience*    | Fechado, convencional             |
 | Meticuloso                      | *Conscientiousness*         | Desinibido                        |
 | Extrovertido                    | *Extraversion*              | Retraído                          |
 | Afável                          | *Agreeableness*             | Antagônico                        |
@@ -36,15 +36,15 @@ Um traço de personalidade é uma tendência em sentir, comportar e pensar de fo
 
 > "Um traço \[de personalidade\] é uma tendência ou disposição em
 > relação a comportamentos específicos; um comportamento específico é
-> uma manifestação de um traço."
+> um exemplo ou uma manifestação de um traço."
 >
-> — DSM-5 [@apa_dsm5_2013]
+> — DSM-5-TR (tradução nossa) [@apa_dsm5tr_2022, p. 893]
 
-Além desses cinco traços de personalidade, existem ainda vários outros, cuja importância varia segundo a linha teórica em uso. Por exemplo, traços **narcisísticos** de personalidade — definidos como uma orientação interpessoal autocentrada, autoengrandecedora, autoritária, dominante e manipuladora — podem ter influência importante no comportamento [@roberts_personality_2017]. Da mesma forma, a **alexitimia**, conceituada como dificuldade em reconhecer e descrever as próprias emoções, também tem influência importante no comportamento e na saúde mental [@sifneos_alexithymic_1973].
+Além desses cinco traços de personalidade, existem ainda vários outros, cuja importância varia segundo a linha teórica em uso. Por exemplo, traços **narcisísticos** de personalidade — definidos como uma orientação interpessoal autocentrada, autoengrandecedora, com senso de merecimento, dominante e manipuladora — podem ter influência importante no comportamento [@roberts_personality_2017, p. 105]. Da mesma forma, a **alexitimia**, conceituada como dificuldade em reconhecer e descrever as próprias emoções, também tem influência importante no comportamento e na saúde mental [@sifneos_alexithymic_1973].
 
 Se, por um lado, um modelo dimensional como o de traços oferece mais informação, por outro lado ele pode parecer mais complexo de usar na prática diária do médico. Essa foi uma das objeções da direção da APA ao modelo alternativo proposto para o DSM-5, que ela considerou sem utilidade clínica: o modelo foi rejeitado e publicado na **Seção III**, como modelo de pesquisa, e não na seção principal de transtornos de personalidade [@mulder_diagnosis_2019, p. 27-28; @apa_dsm5_br_2014, p. 645].
 
 ::: {.callout-note appearance="simple"}
 ## Nota histórica
-Allport & Odbert (1936) foram os primeiros a fazer um levantamento sistemático do *léxico de personalidade*, partindo do dicionário Webster. Cattell, na década seguinte, pegou essa lista e aplicou análise fatorial para reduzi-la — base do **16PF**. Quando se diz, em livros didáticos, que "Cattell encontrou 4.500 termos", a atribuição correta é a Allport & Odbert; Cattell apenas trabalhou estatisticamente sobre o material que eles compilaram [@allport_traitnames_1936].
+Allport & Odbert (1936) foram os primeiros a fazer um levantamento sistemático do *léxico de personalidade* da língua inglesa, partindo do dicionário Webster [@allport_traitnames_1936, p. 22-24; @goldberg_structure_1993, p. 26]. Cattell, na década seguinte, pegou essa lista e aplicou análise fatorial para reduzi-la — base do **16PF** [@goldberg_structure_1993, p. 26; @boyle_methods_2009, p. 113].
 :::

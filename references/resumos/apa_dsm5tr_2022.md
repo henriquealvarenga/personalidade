@@ -170,3 +170,4 @@ Trechos agrupados por transtorno, em ordem de página dentro de cada grupo.
 - `08-transtornos.qmd`, quadro "E a esquizotípica?": nota cruzada para o espectro da esquizofrenia (pp. 103–104).
 - `09-epidemiologia.qmd`, parágrafo de abertura: cerca de 20% de borderline entre pacientes de internação psiquiátrica (p. 755).
 - `06-taxonomia.qmd` (seção "Transtornos: a categorização médica do século XX") e `08-transtornos.qmd` (parágrafo antes da seção "A CID-11 — o modelo dimensional"): o modelo alternativo é híbrido (funcionamento da personalidade + traços patológicos) e deriva seis transtornos (p. 881; item L1-28).
+- `07-tracos.qmd`, citação em destaque: a definição de traço do Modelo Alternativo, "A trait is a tendency or disposition toward specific behaviors; a specific behavior is an instance or manifestation of a trait", em tradução própria (p. 893).

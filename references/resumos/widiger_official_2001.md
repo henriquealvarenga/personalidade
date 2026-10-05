@@ -39,3 +39,4 @@ Capítulo de Thomas Widiger sobre a história e os problemas das classificaçõe
 - `caso-e.qmd`, bloco "História do diagnóstico na psiquiatria": entrada da personalidade histérica no DSM-II (p. 63).
 - `caso-e.qmd`, bloco "Críticas ao diagnóstico": superdiagnóstico em mulheres e revisão parcial dos critérios (p. 76).
 - `caso-f.qmd`, bloco "História do diagnóstico na psiquiatria": entrada do narcisista no DSM-III (1980) (p. 64).
+- `06-taxonomia.qmd`, seção "Transtornos": os onze transtornos específicos do DSM-III, com o compulsivo (depois obsessivo-compulsivo) e o passivo-agressivo, que o DSM-IV passou para um apêndice (pp. 64, 66–68).
