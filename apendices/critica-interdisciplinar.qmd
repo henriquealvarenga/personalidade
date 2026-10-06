@@ -73,7 +73,7 @@ Curiosamente, algumas das críticas mais contundentes ao conceito de personalida
 
 O próprio DSM (Manual Diagnóstico e Estatístico) tem história turbulenta com transtornos de personalidade. Cada edição recategoriza, adiciona, remove diagnósticos. A "personalidade masoquista" foi removida por críticas feministas; a "personalidade passivo-agressiva" perdeu *status* diagnóstico. **Se personalidades fossem realidades naturais, essa volatilidade diagnóstica seria inexplicável.**
 
-**Thomas Szasz**, psiquiatra crítico, argumentava que transtornos de personalidade são "problemas de vida medicalizados", não doenças médicas — são julgamentos morais disfarçados de taxonomia científica [@szasz_myth_mental_1961]. Sua tese é exagerada, mas o núcleo da denúncia — *a fronteira entre categoria diagnóstica e juízo moral é mais porosa do que admitimos* — persiste como advertência.
+**Thomas Szasz**, psiquiatra crítico, argumentava que transtornos de personalidade são "problemas de vida medicalizados", não doenças médicas — são julgamentos morais disfarçados de taxonomia científica [@szasz_myth_mental_1974]. Sua tese é exagerada, mas o núcleo da denúncia — *a fronteira entre categoria diagnóstica e juízo moral é mais porosa do que admitimos* — persiste como advertência.
 
 **R. D. Laing**, da antipsiquiatria britânica, propôs que comportamentos rotulados como "esquizoides" ou "paranoides" fazem sentido quando entendemos histórias relacionais das pessoas [@laing_divided_self_1960]. O que parece "personalidade patológica" pode ser resposta perfeitamente racional a situações insanas. Laing inverte a pergunta: não "*por que essa pessoa tem essa personalidade anormal?*", mas "*que contexto tornaria esse comportamento compreensível?*".
 

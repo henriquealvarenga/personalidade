@@ -20,7 +20,7 @@ Revisão curta sobre por que os psiquiatras relutam em diagnosticar o transtorno
 
 ## Onde é citada no livro
 
-- `08-transtornos.qmd`: consequências de "proteger" o paciente evitando o diagnóstico.
+- `08-transtornos.qmd`: consequências de "proteger" o paciente evitando o diagnóstico — o borderline tratado como bipolar recebe remédios pouco eficazes e deixa de ir para a psicoterapia (pp. 38–39); resposta inconsistente aos antidepressivos e polifarmácia (p. 38). Páginas acrescentadas em 2026-10-06 (item L1-45).
 - `caso-i.qmd`, bloco "Importância do diagnóstico hoje": tentativas de suicídio repetidas e internações (p. 36); custo de não diagnosticar (pp. 38–39).
 - `caso-i.qmd`, bloco "Críticas ao diagnóstico": diferencial com o bipolar (pp. 37–38); estigma e reclassificação (p. 36).
 - `08-transtornos.qmd`, seção "Limites do modelo categórico": relutância em diagnosticar o borderline, entre outras razões pelo estigma (p. 36; item L1-38, 2026-10-05, junto com Zimmerman 1999, p. 1572).

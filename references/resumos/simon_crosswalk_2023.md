@@ -33,7 +33,7 @@ Limites declarados pelos próprios autores: poucos estudos (por isso, sem metan�
 
 ## Onde é citada no livro
 
-- `08-transtornos.qmd`, tabela `@tbl-dsm-cid11` e parágrafo que a apresenta: fonte dos perfis de traço de todas as linhas (correção de 2026-10-03). Na linha do dependente, o desapego saiu (era cópia da evitativa); nas linhas paranoide, borderline, histriônica, evitativa, obsessivo-compulsiva e narcisista, os domínios foram completados conforme as seções 2.1 a 2.9.
+- `08-transtornos.qmd`, tabela `@tbl-dsm-cid11` e parágrafo que a apresenta: fonte dos perfis de traço de todas as linhas (correção de 2026-10-03). Na linha do dependente, o desapego saiu (era cópia da evitativa); nas linhas paranoide, borderline, histriônica, evitativa, obsessivo-compulsiva e narcisista, os domínios foram completados conforme as seções 2.1 a 2.9. Em 2026-10-06 (item L1-45), a citação do parágrafo ganhou as páginas: nove estudos (p. 2) e as seções por tipo (pp. 2–5).
 - Candidata a: `caso-a.qmd`, blocos "O diagnóstico no DSM-5-TR e na CID-11" e "Críticas ao diagnóstico" (a advertência sobre validade).
 - `caso-b.qmd`, bloco "O diagnóstico no DSM-5-TR e na CID-11": a revisão-fonte da tabela do Cap. 8 não traz perfil de traços para o esquizotípico (p. 2), o que é coerente com a linha "6A22" da tabela.
 - `caso-c.qmd`, blocos "O diagnóstico no DSM-5-TR e na CID-11" (p. 3) e "Críticas ao diagnóstico" (p. 6).

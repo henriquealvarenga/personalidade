@@ -23,7 +23,7 @@ Revisão narrativa sobre o estigma dos transtornos de personalidade, a partir do
 
 ## Onde é citada no livro
 
-- `08-transtornos.qmd`, seção "Limites do modelo categórico" (citada antes desta rodada): estigma dos transtornos de personalidade — rejeição pelo público e pelos profissionais, autoestigma — e, em especial, do *borderline*. O Caso D não reconferiu essas afirmações do Cap. 8.
+- `08-transtornos.qmd`, seção "Limites do modelo categórico" (citada antes desta rodada): estigma dos transtornos de personalidade — rejeição pelo público e pelos profissionais, autoestigma — e, em especial, do *borderline*. O Caso D não reconferiu essas afirmações do Cap. 8. Em 2026-10-06 (item L1-45) entraram as páginas: rejeição pelo público (p. 3) e pelos profissionais (p. 4); autoestigma, com autoestima, depressão, vergonha e sensação de incapacidade (p. 4).
 - `caso-d.qmd`, bloco "Críticas ao diagnóstico": estigma da periculosidade e efeitos do rótulo no sistema de justiça (p. 3).
 - `caso-f.qmd`, bloco "Críticas ao diagnóstico": pouca familiaridade do público, estigma pouco estudado, visto como vantagem nos negócios (p. 4).
 - `caso-i.qmd`, bloco "Críticas ao diagnóstico": estigma entre profissionais, empatia dos psiquiatras e leitura das tentativas de suicídio como busca de atenção (pp. 3–4).
