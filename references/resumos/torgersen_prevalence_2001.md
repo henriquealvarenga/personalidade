@@ -30,7 +30,7 @@ Estudo populacional com amostra representativa de 2.053 adultos de 18 a 65 anos 
 
 ## Onde é citada no livro
 
-- `09-epidemiologia.qmd`, tabela `@tbl-prevalencia`, coluna "População geral" (valores corrigidos em 2026-10-03; antes não batiam com o artigo).
+- `09-epidemiologia.qmd`, tabela `@tbl-prevalencia`, coluna "População geral" (p. 593; valores corrigidos em 2026-10-03; antes não batiam com o artigo). Em 2026-10-07 (item L1-47), o asterisco de "mais comum nos homens" passou do nome do transtorno para o valor de Oslo, no antissocial e no obsessivo-compulsivo, e a legenda passou a dizer "população geral e pacientes de ambulatório psiquiátrico".
 - `caso-a.qmd`, bloco "Importância do diagnóstico hoje": prevalência do transtorno dependente em Oslo.
 - `caso-b.qmd`, bloco "Importância do diagnóstico hoje": prevalência em Oslo (0,6%), coerente com a tabela do Cap. 9.
 - `caso-c.qmd`, bloco "Importância do diagnóstico hoje": prevalência de 2,0% em Oslo e diferença entre os sexos.

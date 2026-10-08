@@ -32,7 +32,7 @@ O estudo da personalidade é em grande parte dominado por essa corrente que estu
 
 : Os Big Five como um *continuum* entre polos opostos {#tbl-bigfive-continuum .striped}
 
-Um traço de personalidade é uma tendência em sentir, comportar e pensar de forma relativamente consistente ao longo do tempo. São padrões relativamente persistentes de pensamento, percepção e relacionamento exibidos em uma ampla gama de situações, contextos sociais e pessoais [@apa_dsm5_2013].
+Um traço de personalidade é uma tendência em sentir, comportar e pensar de forma relativamente consistente ao longo do tempo. São padrões relativamente persistentes de pensamento, percepção e relacionamento exibidos em uma ampla gama de situações, contextos sociais e pessoais [@apa_dsm5_br_2014, p. 647].
 
 > "Um traço \[de personalidade\] é uma tendência ou disposição em
 > relação a comportamentos específicos; um comportamento específico é

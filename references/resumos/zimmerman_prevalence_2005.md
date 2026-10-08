@@ -26,7 +26,7 @@ Estudo do projeto MIDAS (Rhode Island) com 859 pacientes psiquiátricos ambulato
 
 ## Onde é citada no livro
 
-- `09-epidemiologia.qmd`, tabela `@tbl-prevalencia` (coluna "População clínica"; o valor do dependente, 1,4%, confere).
+- `09-epidemiologia.qmd`, tabela `@tbl-prevalencia` (coluna "População clínica", p. 1912; o valor do dependente, 1,4%, confere) e a frase que a apresenta: os mais frequentes no ambulatório são o evitativo, o borderline e o obsessivo-compulsivo (pp. 1911–1912). Até 2026-10-07 a frase falava numa "prevalência combinada" do borderline e do obsessivo-compulsivo de "quase 20%", que é a soma de 9,3% e 8,7% (conta duas vezes quem tem os dois) e deixava de fora o evitativo (item L1-46 da verificação factual).
 - `caso-a.qmd`, bloco "Importância do diagnóstico hoje".
 - `caso-b.qmd`, bloco "Importância do diagnóstico hoje": prevalência em ambulatório (coerente com a tabela do Cap. 9) e comorbidade com outros transtornos de personalidade.
 - `caso-c.qmd`, blocos "Importância do diagnóstico hoje" (prevalência no ambulatório) e "Críticas ao diagnóstico" (cerca de metade com outro transtorno de personalidade).

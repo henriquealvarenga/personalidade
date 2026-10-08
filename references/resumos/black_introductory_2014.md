@@ -20,10 +20,12 @@ Manual introdutório de psiquiatria, já pelo DSM-5. O cap. 17 apresenta os dez 
 - p. 463: "between 9% and 16% of respondents" na população geral; "In some studies, 30%–50% of outpatients have a personality disorder".
 - p. 465: "the presence of a personality disorder is often associated with a poorer response to treatment, as has been shown for several mental disorders, including major depression, panic disorder, and obsessive-compulsive disorder".
 - p. 471 (transtorno paranoide): "Group therapy should be avoided because patients with paranoid personality disorder tend to misinterpret statements and situations that arise in the course of the therapy".
+- p. 469: "few of the 10 personality disorders have been studied sufficiently to recommend specific treatments. For this reason, recommendations made below are often based on clinical experience, not research evidence"; "reviews of outcome studies have shown that treatment results are largely positive".
+- p. 470: nenhum medicamento aprovado pela FDA para transtorno de personalidade; alguns transtornos foram muito estudados (borderline) e outros quase nada (histriônico); na psicoterapia, o borderline "has been actively studied, and several evidence-based psychotherapies now exist, whereas schizoid personality disorder [...] has been virtually ignored".
 
 ## Onde é citada no livro
 
 - `08-transtornos.qmd`, seção "Limites do modelo categórico": muitos psiquiatras consideram a abordagem atual de pouca ajuda no tratamento (p. 463).
 - `08-transtornos.qmd`, mesma seção: menor eficácia do tratamento de outros transtornos quando há comorbidade com transtorno de personalidade (p. 465; item V-07, junto com Butcher 2013, p. 358).
-- `09-epidemiologia.qmd`: prevalência de 9% a 16% na população e de 30% a 50% em pacientes (citada sem página; frase a rever na sessão 7 da Fase 3).
-- `10-tratamento.qmd`: terapia de grupo desaconselhada no paranoide (citada sem página; sessão 7).
+- `09-epidemiologia.qmd`: prevalência de 9% a 16% na população e, em alguns estudos, de 30% a 50% dos pacientes ambulatoriais (p. 463; até 2026-10-07 o texto dizia "pacientes com algum transtorno psiquiátrico", sem "em alguns estudos" nem "ambulatoriais").
+- `10-tratamento.qmd`: poucos estudos de tratamento para a maioria dos transtornos de personalidade, com exceção do borderline (pp. 469–470, junto com Hadjipavlou 2010; item L1-48); terapia de grupo desaconselhada no paranoide (p. 471).

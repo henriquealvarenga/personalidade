@@ -2,25 +2,25 @@
 title: "Epidemiologia dos transtornos de personalidade"
 ---
 
-Estima-se que entre **9% e 16% da população** apresente critérios para diagnóstico de algum transtorno de personalidade [@black_introductory_2014]. Meta-análise mais recente, agregando dez estudos populacionais em países ocidentais (publicados em 27 artigos), encontrou prevalência global em torno de **12%** [@volkert_prevalence_2018]. A prevalência é ainda maior em amostras de pacientes com algum transtorno psiquiátrico (**30% a 50%**) [@black_introductory_2014].
+Estima-se que entre **9% e 16% da população** apresente critérios para diagnóstico de algum transtorno de personalidade [@black_introductory_2014, p. 463]. Meta-análise mais recente, agregando dez estudos populacionais em países ocidentais (publicados em 27 artigos), encontrou prevalência global em torno de **12%** [@volkert_prevalence_2018]. A prevalência é ainda maior em amostras de pacientes com algum transtorno psiquiátrico: em alguns estudos, **30% a 50%** dos pacientes ambulatoriais [@black_introductory_2014, p. 463].
 
-Em amostras de pacientes em tratamento psiquiátrico ambulatorial, a prevalência combinada dos transtornos de personalidade **borderline** e **obsessivo-compulsiva** atinge taxas de quase 20% (@tbl-prevalencia) [@zimmerman_prevalence_2005]. Entre os pacientes internados em unidades psiquiátricas, o transtorno de personalidade borderline chega a cerca de 20% [@apa_dsm5tr_2022, p. 755].
+Em amostras de pacientes em tratamento psiquiátrico ambulatorial, os transtornos de personalidade mais frequentes são o **evitativo**, o **borderline** e o **obsessivo-compulsivo** (@tbl-prevalencia) [@zimmerman_prevalence_2005, p. 1911-1912]. Entre os pacientes internados em unidades psiquiátricas, o transtorno de personalidade borderline chega a cerca de 20% [@apa_dsm5tr_2022, p. 755].
 
 A alta prevalência desses transtornos em pacientes ambulatoriais e hospitalizados demonstra a importância do conhecimento desse tema — não apenas pelos especialistas, mas também pelo médico generalista.
 
-| Personalidade            | População geral [@torgersen_prevalence_2001] | População clínica\*\* [@zimmerman_prevalence_2005] |
+| Personalidade            | População geral [@torgersen_prevalence_2001, p. 593] | População clínica\*\* [@zimmerman_prevalence_2005, p. 1912] |
 |:-------------------------|:--------------------------------------------:|:----------------------------------------------:|
 | Paranoide                | 2,4%                                         | 4,2%                                           |
 | Esquizoide               | 1,7%                                         | 1,4%                                           |
 | Esquizotípica            | 0,6%                                         | 0,6%                                           |
-| Antissocial\*            | 0,7%                                         | 3,6%                                           |
+| Antissocial              | 0,7%\*                                       | 3,6%                                           |
 | **Borderline**           | 0,7%                                         | **9,3%**                                       |
 | Histriônica              | 2,0%                                         | 1,0%                                           |
-| Evitativa                | 5,0%                                         | 14,7%                                          |
+| **Evitativa**            | 5,0%                                         | **14,7%**                                      |
 | Dependente               | 1,5%                                         | 1,4%                                           |
-| **Obsessivo-compulsiva**\* | 2,0%                                       | **8,7%**                                       |
+| **Obsessivo-compulsiva** | 2,0%\*                                       | **8,7%**                                       |
 | Narcisista               | 0,8%                                         | 2,3%                                           |
 
-: Prevalência dos transtornos de personalidade na população {#tbl-prevalencia .striped}
+: Prevalência dos transtornos de personalidade na população geral e em pacientes de ambulatório psiquiátrico {#tbl-prevalencia .striped}
 
 População geral: amostra de 2.053 adultos de Oslo (Noruega), avaliados com critérios do DSM-III-R; prevalência ponderada. \* Mais comum nos homens nessa amostra (diferença estatisticamente significativa). \*\* Pacientes em tratamento psiquiátrico ambulatorial (859 pacientes, Rhode Island, EUA; critérios do DSM-IV).
