@@ -15,4 +15,5 @@ Artigo que descreve a construção do Personality Inventory for DSM-5 (PID-5) e 
 
 ## Onde é citada no livro
 
-- Já citada em outro capítulo. Candidata a: `caso-a.qmd`, bloco "O diagnóstico no DSM-5-TR e na CID-11" (facetas do Modelo Alternativo ligadas à dependência).
+- Hoje não é citada no livro. Até 2026-10 aparecia no cap. 11 (`11-big-data.qmd`) como apoio a "as redes sociais firmaram-se como laboratório de comportamento humano", o que o artigo não trata (a única menção à internet é a coleta por questionário online, manuscrito, p. 4); saiu na Fase 3 do Lote 2 da verificação factual (item V-19).
+- Candidata a: `caso-a.qmd`, bloco "O diagnóstico no DSM-5-TR e na CID-11" (facetas do Modelo Alternativo ligadas à dependência).
