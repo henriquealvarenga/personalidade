@@ -28,8 +28,7 @@ book:
   description: |
     Livro-texto sobre personalidade para o ensino de psicopatologia, com
     capítulos clínicos sobre traços, transtornos, epidemiologia, tratamento
-    e big data. Em apêndice opcional, o ensaio filosófico-literário
-    'A descoberta às avessas' problematiza o próprio conceito.
+    e big data.
   keyword: "personalidade, psicopatologia, transtornos de personalidade, Big Five, DSM-5, psiquiatria, educação médica, Fernando Pessoa, Walt Whitman"
   cover-image: images/capa.jpg
   favicon: images/favicon.png
@@ -78,56 +77,9 @@ book:
     - part: "Parte III — Personalidade na era digital"
       chapters:
         - capitulos/parte-3-era-digital/11-big-data.qmd
-    - part: "Parte IV — A personalidade na cultura: cinema e literatura"
-      chapters:
-        - capitulos/parte-4-cultura/12-personalidade-como-mascara.qmd
-        - capitulos/parte-4-cultura/13-personalidade-como-narrativa.qmd
-        - capitulos/parte-4-cultura/14-personalidade-no-transtorno.qmd
-    - part: "Parte V — Atividades"
-      chapters:
-        # ── Atividade 1: Casos clínicos (versão para leitura, diagnóstico oculto) ──
-        # Nomes neutros (caso-a…caso-i) para o endereço da página não revelar
-        # o diagnóstico. Os scripts correspondentes estão no Apêndice C.
-        - capitulos/parte-5-atividades/atividade-1-casos/00-introducao.qmd
-        - capitulos/parte-5-atividades/atividade-1-casos/caso-a.qmd   # TP Dependente
-        - capitulos/parte-5-atividades/atividade-1-casos/caso-b.qmd   # TP Esquizotípica
-        - capitulos/parte-5-atividades/atividade-1-casos/caso-c.qmd   # TP Obsessivo-Compulsiva
-        - capitulos/parte-5-atividades/atividade-1-casos/caso-d.qmd   # TP Antissocial
-        - capitulos/parte-5-atividades/atividade-1-casos/caso-e.qmd   # TP Histriônica
-        - capitulos/parte-5-atividades/atividade-1-casos/caso-f.qmd   # TP Narcisista
-        - capitulos/parte-5-atividades/atividade-1-casos/caso-g.qmd   # TP Evitativa
-        - capitulos/parte-5-atividades/atividade-1-casos/caso-h.qmd   # TP Paranoide
-        - capitulos/parte-5-atividades/atividade-1-casos/caso-i.qmd   # TP Borderline
-        # Falta: TP Esquizoide (cluster A) — adicionar como Caso J quando pronto.
-        # ── Atividade 2: Quatro visões da personalidade × IAs ──
-        - capitulos/parte-5-atividades/atividade-2-visoes-ia/01-leitura-preparatoria.qmd
-        - capitulos/parte-5-atividades/atividade-2-visoes-ia/02-atividade.qmd
     - creditos.qmd
     - references.qmd
 
-  appendices:
-    - apendices/descoberta-as-avessas.qmd
-    - apendices/critica-interdisciplinar.qmd
-    # ── Apêndice C: scripts para simulação em vídeo (material do professor) ──
-    # Cada script usa number-sections: false, para não ganhar letra própria
-    # de apêndice (evita "Apêndice D — Script A").
-    - apendices/scripts/00-introducao.qmd
-    - apendices/scripts/dependente.qmd      # Script A — TP Dependente
-    - apendices/scripts/esquizotipica.qmd   # Script B — TP Esquizotípica
-    - apendices/scripts/obsessivo.qmd       # Script C — TP Obsessivo-Compulsiva
-    - apendices/scripts/antissocial.qmd     # Script D — TP Antissocial
-    - apendices/scripts/histrionica.qmd     # Script E — TP Histriônica
-    - apendices/scripts/narcisista.qmd      # Script F — TP Narcisista
-    - apendices/scripts/esquiva.qmd         # Script G — TP Evitativa
-    - apendices/scripts/paranoide.qmd       # Script H — TP Paranoide
-    - apendices/scripts/borderline.qmd      # Script I — TP Borderline
-
-# =========================================================================
-# Bibliografia — Nature Publishing Group - NLM/Vancouver (numérico, número
-# sobrescrito), processado pelo Citeproc do Pandoc. O CSL tem ajustes locais
-# comentados no arquivo (língua padrão pt-BR; ordinal feminino; volume
-# ausente; espaço antes da URL e do ano de acesso; edição nos capítulos).
-# =========================================================================
 bibliography: references/references.bib
 csl: references/csl_styles/nature-publishing-group-vancouver.csl
 citeproc: true

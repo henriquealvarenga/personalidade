@@ -4,7 +4,7 @@ validate_bib.py — Validador bibliográfico para o livro Personalidade.
 
 O que faz:
   1.  Lê references.bib e indexa todas as chaves disponíveis.
-  2.  Varre todos os .qmd (capitulos/, coda/, apendices/, *.qmd raiz)
+  2.  Varre todos os .qmd (capitulos/, coda/, apendices/, _nao-publicado/, *.qmd raiz)
       atrás de citações no estilo Pandoc: @chave, [@chave], -@chave,
       [@chave1; @chave2], etc.
   3.  Reporta:
@@ -63,7 +63,7 @@ except ImportError:
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 BIB_FILE = PROJECT_ROOT / "references" / "references.bib"
 QMD_DIRS = [PROJECT_ROOT, PROJECT_ROOT / "capitulos",
-            PROJECT_ROOT / "coda", PROJECT_ROOT / "apendices"]
+            PROJECT_ROOT / "coda", PROJECT_ROOT / "apendices", PROJECT_ROOT / "_nao-publicado"]
 
 # Campos mínimos por tipo BibTeX para uma referência ABNT decente
 REQUIRED_FIELDS: dict[str, set[str]] = {

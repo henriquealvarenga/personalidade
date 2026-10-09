@@ -8,8 +8,8 @@ Cada caso clínico existe em duas versões:
 
 | Versão | Onde | Situação |
 |---|---|---|
-| **Leitura** (Atividade 1) | `capitulos/parte-5-atividades/atividade-1-casos/caso-x.qmd` | esqueleto publicado, a escrever |
-| **Script** para simulação em vídeo (Apêndice C) | `apendices/scripts/<diagnóstico>.qmd` | pronto; é a **fonte** da história clínica |
+| **Leitura** (Atividade 1) | `_nao-publicado/parte-5-atividades/atividade-1-casos/caso-x.qmd` | esqueleto publicado, a escrever |
+| **Script** para simulação em vídeo (Apêndice C) | `_nao-publicado/apendices/scripts/<diagnóstico>.qmd` | pronto; é a **fonte** da história clínica |
 
 Cada página de leitura tem, nesta ordem:
 
@@ -125,8 +125,8 @@ Cada campo vazio tem um comentário `<!-- -->`, invisível no site, que indica d
 5. **Fechar o caso.** Com os cinco blocos e a história prontos, remova o aviso "Página em elaboração" do topo.
 
 6. **Verificar.**
-   - `python3 code/validate_bib.py --no-doi`: zero erros.
-   - `python3 code/deep_validate_bib.py`: as entradas novas precisam sair OK.
+   - `.venv/bin/python code/validate_bib.py --no-doi`: zero erros.
+   - `.venv/bin/python code/deep_validate_bib.py`: as entradas novas precisam sair OK.
    - `rm -rf _book && quarto render --to html`: sem avisos, especialmente "citation … not found".
    - `python3 code/verificar_spoiler.py caso-x`: precisa dar OK.
 

@@ -250,7 +250,7 @@ QUARTO_XREF_PREFIXES = ("tbl-", "fig-", "eq-", "sec-", "lst-", "exm-",
 def gather_cited_keys() -> set[str]:
     cited: set[str] = set()
     dirs = [PROJECT_ROOT, PROJECT_ROOT / "capitulos",
-            PROJECT_ROOT / "coda", PROJECT_ROOT / "apendices"]
+            PROJECT_ROOT / "coda", PROJECT_ROOT / "apendices", PROJECT_ROOT / "_nao-publicado"]
     for d in dirs:
         if not d.exists():
             continue

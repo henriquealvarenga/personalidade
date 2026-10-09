@@ -20,11 +20,13 @@ Livro-texto em português (Quarto *book*), publicado em <https://henriquealvaren
 
 - **Duas edições, dois ISBN — não confundir.** O número **978-65-00-08880-9 é da 1ª edição (2020)**, conforme a página de créditos do manuscrito original (`Original_Manuscripts/Personalidade - Uma Breve Introdução.docx`: "Copyright: © 2020 [...] ISBN: 978-65-00-08880-9 · Coleção: Temas em Psicopatologia") e o registro do ISBN, conferido pelo autor em 2026-10-03: *Personalidade: Uma Breve Introdução*, Henrique Alvarenga da Silva, formato digital, situação "Registrado", 04/09/2020 (finalizado em 08/09/2020). Cada edição tem seu próprio ISBN. O site é a **2ª edição**, que ainda não tem ISBN. Até 2026-10-03 o site atribuía por engano esse número à 2ª edição (`autor.html`, desde 2026-08-08); corrigido. Nunca usar o ISBN da 1ª edição como se fosse da 2ª.
 
-  Não são datas do livro e **não** devem mudar: "Data de publicação: 30 de abril de 2017" em `creditos.qmd` (é da foto da capa); "escrito originalmente em 2020" em `index.qmd` (história da 1ª edição); `_extras/analise_personalidade.qmd` usa `Sys.Date()`, mas `_extras/` não entra no livro.
+  Não são datas do livro e **não** devem mudar: "Data de publicação: 30 de abril de 2017" em `creditos.qmd` (é da foto da capa); "escrito originalmente em 2020" em `index.qmd` (história da 1ª edição); `_nao-publicado/extras/analise_personalidade.qmd` usa `Sys.Date()`, mas `_nao-publicado/extras/` não entra no livro.
 
 ## Casos clínicos da Atividade 1
 
-Antes de qualquer trabalho nos casos clínicos (`capitulos/parte-5-atividades/atividade-1-casos/` ou `apendices/scripts/`), **leia [revisao.md](revisao.md) inteiro** e siga o roteiro de sessão descrito lá. Ao final da sessão, atualize o progresso e o diário nesse arquivo.
+Desde 2026-10-09, as Partes IV e V, os três apêndices e os extras estão em `_nao-publicado/`, fora do site (ver o README da pasta, que guarda os blocos do `_quarto.yml` para devolvê-los ao livro).
+
+Antes de qualquer trabalho nos casos clínicos (`_nao-publicado/parte-5-atividades/atividade-1-casos/` ou `_nao-publicado/apendices/scripts/`), **leia [revisao.md](revisao.md) inteiro** e siga o roteiro de sessão descrito lá. Ao final da sessão, atualize o progresso e o diário nesse arquivo.
 
 ## Referências (valem para o livro todo)
 
@@ -47,6 +49,6 @@ Já existe texto pronto das obras do repositório. **Antes de abrir um PDF, cons
 
 ## Verificação
 
-- `python3 code/validate_bib.py --no-doi`: citações sem entrada no `.bib`, campos ABNT, padrão das chaves.
+- `.venv/bin/python code/validate_bib.py --no-doi`: citações sem entrada no `.bib`, campos ABNT, padrão das chaves. (Os validadores precisam do `bibtexparser`, que está instalado só no `.venv` do projeto, não no `python3` do Homebrew; os outros scripts de `code/` usam só a biblioteca padrão.)
 - `rm -rf _book && quarto render --to html`: o livro deve ser gerado sem avisos.
-- `python3 code/verificar_spoiler.py`: confere se as páginas de caso revelam o diagnóstico fora dos blocos recolhidos.
+- `python3 code/verificar_spoiler.py`: confere se as páginas de caso revelam o diagnóstico fora dos blocos recolhidos. (Só funciona com os casos renderizados; desde 2026-10-09 eles estão em `_nao-publicado/` e não entram no site.)
