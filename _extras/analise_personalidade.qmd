@@ -1,4 +1,30 @@
+<!--
+Passo a passo — gerar o dashboard da Atividade 2 antes da aula
+(instruções tiradas de 02-atividade.qmd em 2026-10-09, item L2-58 da verificação factual)
 
+Pré-requisitos (uma única vez):
+1. R instalado (CRAN, https://cran.r-project.org/, ou Homebrew: brew install r).
+2. Pacote tidyverse instalado no R: install.packages("tidyverse")
+3. Quarto com suporte a R.
+
+Rodar o dashboard (a cada aula):
+1. No terminal, na raiz do repositório do livro:
+     quarto render _extras/analise_personalidade.qmd
+2. Abrir o arquivo gerado, _extras/analise_personalidade.html, no navegador e projetar em sala.
+
+Toda vez que se roda quarto render, o script busca a versão mais recente das respostas
+no Google Sheets. Se um aluno acabou de responder, basta renderizar de novo.
+
+Problemas comuns:
+- "could not connect to host": a rede está bloqueando o Google Sheets. Reconectar ou usar
+  a internet do celular.
+- "Error: 'read_csv' is not exported": o tidyverse não está instalado (pré-requisito 2).
+- Tabela com NA em "grupo": alguma resposta do formulário não bate com o gabarito abaixo.
+  Editar o `gabarito` para incluir a frase nova.
+
+O dashboard também pode ser publicado como página pública, por exemplo no QuartoPub
+(https://quartopub.com/).
+-->
 ---
 title: "Análise das Visões de Personalidade"
 author: "Henrique Alvarenga"

@@ -10,12 +10,11 @@ Scaffold com estrutura editorial. Análises substantivas a escrever pelo autor.
 
 ## Abertura
 
-> *Apenas dispondo o material de tal maneira poderia oferecer algo
-> próximo ao que sou — não a explicação, mas a sucessão.*
+> *Harry consiste em cem ou mil eus, não em dois.*
 >
-> — Herman Hesse, *O Lobo da Estepe*
+> — Hermann Hesse, *O Lobo da Estepe* ("Tratado do Lobo da Estepe"; tradução nossa) [@hesse_steppenwolf_1929]
 
-A neurociência contemporânea — Damásio em particular — vem desmontando a ideia do eu como entidade unitária e estável. O eu, na proposta de Damásio, é uma **construção narrativa em tempo real**: o cérebro produz, a cada instante, uma história sobre quem somos a partir de fragmentos sensoriais, emocionais e memoriais [@damasio_self_2010]. A literatura modernista — Hesse, Kaufman no cinema — chegou à mesma intuição cinquenta a setenta anos antes.
+A neurociência contemporânea — Damásio em particular — vem desmontando a ideia do eu como entidade unitária e estável. O eu, na proposta de Damásio, é uma **construção narrativa em tempo real**: o cérebro produz, a cada instante, uma história sobre quem somos a partir de fragmentos sensoriais, emocionais e memoriais [@damasio_self_2010]. A literatura modernista — Hesse, já em 1927 — e, depois, o cinema de Kaufman chegaram à mesma intuição.
 
 Este capítulo articula essa tese: a personalidade é menos uma propriedade que se tem do que uma narrativa que se conta — e que pode ser reescrita, contradita, fragmentada.
 
@@ -34,7 +33,7 @@ Conectar a tese ao trabalho clínico: a importância da **história clínica** c
 
 - A vida como representação de si mesma — recursão narrativa sem fundo.
 - O sobrenome Cotard como referência à síndrome psiquiátrica homônima (delírio niilista, certeza de estar morto).
-- A reconsolidação da memória [@nader_fear_2000; @schiller_extinction_2010] como mecanismo neural análogo ao que Caden tenta fazer narrativamente — reescrever a história a cada montagem.
+- A reconsolidação da memória — mostrada em memórias de medo, em ratos e em humanos [@nader_fear_2000, p. 723; @schiller_extinction_2010] — como imagem do que Caden tenta fazer narrativamente: reescrever a história a cada montagem.
 :::
 
 ## O Lobo da Estepe (Hermann Hesse, 1927)
@@ -63,7 +62,7 @@ Damásio distingue três níveis do eu [@damasio_self_2010]:
 A escrever:
 
 - Como o nível 3 (autobiográfico) é o nível em que **a personalidade reside**, no sentido em que a usamos cotidianamente.
-- Como esse nível é, por construção, **reconstruído a cada lembrança** — a memória autobiográfica não é arquivo fixo, é processo de reescritura constante [@nader_fear_2000; @schiller_extinction_2010].
+- Como esse nível pode ser **reconstruído a cada lembrança**: a memória reativada pode ser atualizada (reconsolidação), como mostram estudos com memórias de medo em ratos e em humanos [@nader_fear_2000, p. 723; @schiller_extinction_2010]; estender isso à memória autobiográfica é hipótese [@nader_fear_2000, p. 725].
 - Implicações clínicas: por que duas pessoas com a mesma "biografia" objetiva têm personalidades distintas. Por que a psicoterapia pode mudar personalidade (a narrativa muda).
 :::
 
@@ -92,14 +91,4 @@ Conectar com:
 1. Exibir cena-chave de *Synecdoche, NY* (Caden contrata o ator para interpretá-lo).
 2. Pedir aos alunos que escrevam, em primeira pessoa, **duas anamneses do mesmo paciente fictício** — uma curta, uma longa. Comparar as duas "personalidades" que emergem.
 3. Discutir: o que muda quando o paciente escolhe quais memórias contar primeiro?
-:::
-
-::: {.callout-warning appearance="simple"}
-## [VERIFICAR — referências bibliográficas]
-Adicionar entradas no `.bib`:
-
-- Kaufman, *Synecdoche, New York* (2008) — Sony Pictures Classics. Filme.
-- Hesse, *Der Steppenwolf* (1927) — edição brasileira: Record (trad. Ivo Barroso) é a referência mais usada.
-- McAdams, D. P., *The Stories We Live By: Personal Myths and the Making of the Self* (1993).
-- Minsky, *The Society of Mind* (1986) — opcional, para o argumento da assembleia.
 :::

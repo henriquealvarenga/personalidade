@@ -10,11 +10,6 @@ Scaffold com estrutura editorial. Análises substantivas a escrever pelo autor. 
 
 ## Abertura
 
-> *Diagnostiquei a mim mesma, fala a personagem [Susanna] — porque ninguém
-> mais quis fazê-lo.*
->
-> — *Garota, Interrompida* (1999)
-
 O cinema, ao representar transtornos de personalidade, divide-se grosseiramente entre o **estereótipo dramático** — onde o transtorno vira gimmick narrativo — e a **verdade clínica** — onde o filme se torna um material legítimo para o ensino de psicopatologia. Os filmes deste capítulo foram escolhidos por se aproximarem do segundo polo: representações de transtorno de personalidade *borderline* (TPB) que escapam do clichê e dialogam com a literatura clínica.
 
 ::: {.callout-warning appearance="simple"}
@@ -29,7 +24,7 @@ Notar que o capítulo tem duplo objetivo:
 
 ::: {.callout-warning appearance="simple"}
 ## [ESCREVER — sinopse e análise]
-**Sinopse**: Diane "Die" Després é uma viúva canadense de classe trabalhadora que recupera, sob nova legislação fictícia, a guarda de seu filho adolescente Steve — diagnosticado com TDAH e comportamento explosivo, recém-expulso de uma instituição. Acompanha-as Kyla, vizinha gaga e enigmática, que ajuda Steve nos estudos. O filme é rodado em formato 1:1 (quadrado), com duas aberturas marcantes para 16:9 nos momentos em que a narrativa "respira".
+**Sinopse**: Diane "Die" Després é uma viúva canadense de classe trabalhadora que recebe de volta o filho adolescente Steve — diagnosticado com TDAH e comportamento explosivo, expulso de uma instituição depois de provocar um incêndio. Uma lei fictícia permite aos pais sem recursos internar em hospitais os filhos com problemas de comportamento. Acompanha-os Kyla, vizinha gaga e enigmática, que ajuda Steve nos estudos. O filme é rodado em formato 1:1 (quadrado), com duas aberturas marcantes para 16:9 nos momentos em que a narrativa "respira".
 
 **Análise clínica**:
 
@@ -43,7 +38,7 @@ Notar que o capítulo tem duplo objetivo:
 
 ::: {.callout-warning appearance="simple"}
 ## [ESCREVER — sinopse e análise]
-**Sinopse**: Susanna Kaysen (Winona Ryder), 17 anos, é internada em um hospital psiquiátrico em 1967 após uma tentativa de suicídio com aspirina e vodka. Permanece internada 18 meses, no setor de adolescentes. Diagnóstico recebido: *borderline personality disorder*. O filme é baseado no livro de memórias homônimo de Kaysen (1993).
+**Sinopse**: Susanna Kaysen (Winona Ryder), 18 anos, é internada em um hospital psiquiátrico em 1967 após uma tentativa de suicídio com aspirina e vodka. Permanece internada 18 meses, no setor de adolescentes. Diagnóstico recebido: *borderline personality disorder*. O filme é baseado no livro de memórias homônimo de Kaysen (1993).
 
 **Análise clínica**:
 
@@ -61,7 +56,7 @@ Articular uma tipologia rápida das representações cinematográficas de TP:
 
 1. **Estereótipo dramático** (a evitar): *Atração Fatal*, *Garota Exemplar* — TPB / antissocial como vilania narrativa, sem nuance clínica.
 2. **Caricatura cômica**: *As Good as It Gets* (TOC + TP obsessivo-compulsiva) — útil para conversação introdutória, mas reforça estereótipos.
-3. **Representação verossímil**: *Mommy*, *Garota Interrompida*, *Black Swan* (em parte), *Persona* (Bergman, capítulo anterior) — material clinicamente discutível em sala.
+3. **Representação verossímil**: *Mommy*, *Garota Interrompida*, *Black Swan* (em parte), *Persona* (Bergman, cap. 12) — material clinicamente discutível em sala.
 4. **Documentário e drama autobiográfico**: *Tarnation* (Caouette, 2003), *The Bridge* (Steel, 2006) — alta carga ética; usar com critério.
 
 Conectar a discussão com a literatura sobre **estigma midiático** em saúde mental e impacto sobre busca de tratamento.
@@ -93,14 +88,4 @@ Conectar com:
 2. Em sala: discutir o ciclo idealização/desvalorização de Die e Steve, mapeando-o nos critérios do DSM-5 para TPB.
 3. Exercício escrito: redigir o **plano terapêutico** que cada aluno proporia para Die.
 4. Encerramento: comparar com diretrizes (NICE, APA) para TPB.
-:::
-
-::: {.callout-warning appearance="simple"}
-## [VERIFICAR — referências bibliográficas]
-Adicionar entradas no `.bib`:
-
-- Dolan, X., *Mommy* (2014) — Les Films Séville / Mongrel Media. Filme.
-- Mangold, J., *Girl, Interrupted* (1999) — Columbia Pictures. Filme.
-- Kaysen, S., *Girl, Interrupted* (1993) — Turtle Bay Books. Memoir base do filme.
-- Sieff, E., *Media frames of mental illness: the potential impact of negative frames* (2003) — para a discussão sobre estigma.
 :::

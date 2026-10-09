@@ -22,9 +22,9 @@ Esta atividade em grupo ensina **três coisas ao mesmo tempo**:
 
 A turma é dividida em **quatro grupos**, cada um responsável por uma visão:
 
-1. **Personalidade como Essência** — visão clássica/aristotélica; biologia profunda; traços inatos.
+1. **Personalidade como Essência** — visão clássica (Platão, Descartes); biologia profunda; traços inatos.
 2. **Personalidade como Narrativa** — Ricoeur, McAdams; *life story model*.
-3. **Personalidade como Dinâmica Relacional** — Merleau-Ponty, Kohut, Winnicott; *self* como emergência relacional.
+3. **Personalidade como Dinâmica Relacional** — Merleau-Ponty, Kohut, Lewin; *self* como emergência relacional.
 4. **Personalidade como Produção Social** — Foucault, Goffman, Butler; performance, papéis, discursos.
 
 ::: {.callout-note appearance="simple"}
@@ -85,47 +85,6 @@ Conforme os alunos respondem ao formulário, as respostas são gravadas em uma p
 - tabela final agrupada por teoria.
 
 Esse dashboard é renderizado **fora do livro** — não entra no *build* automático, porque depende de acesso à internet a cada execução e os dados precisam estar sempre frescos.
-
-::: {.callout-note appearance="simple"}
-## Passo a passo — gerar o dashboard antes da aula
-
-**Pré-requisitos** (verificar uma única vez na primeira aula que usar a atividade):
-
-1. **R** instalado no seu Mac (em geral via [CRAN](https://cran.r-project.org/) ou Homebrew: `brew install r`).
-2. **Pacote `tidyverse`** instalado no R. Para instalar, abra o R no terminal ou no Positron e rode:
-   ```r
-   install.packages("tidyverse")
-   ```
-3. **Quarto** com suporte a R (já instalado, pois você usa pra renderizar o livro).
-
-**Rodar o dashboard** (a cada aula que usar a atividade):
-
-1. Abra o **Positron** e dentro dele abra o arquivo
-   `_extras/analise_personalidade.qmd`.
-2. No terminal do Positron, garanta que está na raiz do projeto:
-   ```bash
-   cd "/Users/henriquealvarenga/Developer/_UFSJ/Personalidade_Project"
-   ```
-3. Renderize o arquivo:
-   ```bash
-   quarto render _extras/analise_personalidade.qmd
-   ```
-4. O Quarto vai gerar o arquivo `_extras/analise_personalidade.html`. Abra-o:
-   ```bash
-   open _extras/analise_personalidade.html
-   ```
-5. Conecte o Mac ao projetor da sala e mostre o HTML aberto no Safari/Chrome.
-
-**Toda vez que rodar `quarto render`, o *script* busca a versão mais recente das respostas no Google Sheets.** Se um aluno acabou de submeter, basta re-renderizar para o gráfico atualizar.
-
-**Solução de problemas comuns:**
-
-- *"could not connect to host"*: sua rede está bloqueando o Google Sheets. Tente reconectar ou usar a internet do celular.
-- *"Error: 'read_csv' is not exported"*: o `tidyverse` não está instalado. Volte ao pré-requisito 2.
-- *Tabela com `NA` em "grupo"*: alguma resposta do formulário não bate com o gabarito hardcoded no *script*. Edite o `gabarito` no `analise_personalidade.qmd` para incluir a frase nova.
-
-**Se quiser que o dashboard fique disponível como página pública** (sem precisar do seu Mac aberto), pode publicar via [QuartoPub](https://quartopub.com/) com um comando — gratuito, gera URL própria. Posso te ajudar quando precisar.
-:::
 
 ## Para usar como avaliação
 

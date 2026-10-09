@@ -20,4 +20,5 @@ Coletânea de artigos de Lewin escritos em alemão, sobre a psicologia da pessoa
 
 ## Onde é citada no livro
 
+- `atividade-2-visoes-ia/01-leitura-preparatoria.qmd`, seção "Personalidade como Dinâmica Relacional": o comportamento como função da pessoa e do ambiente psicológico, B = f(PE) (p. 79, cap. 3, "Environmental forces").
 - `07-tracos.qmd`, primeiro parágrafo: a personalidade como totalidade que inclui o que não é consciente e que não se reduz à soma das partes (pp. 44, 56).
