@@ -32,7 +32,6 @@ O DSM tem história turbulenta com transtornos de personalidade. Cada edição r
 
 Críticos de dentro da psiquiatria já apontavam esse problema. **Thomas Szasz** [@szasz_myth_mental_1974, p. 4-5, 262, 267] argumentava que as chamadas doenças mentais são "problemas de vida" medicalizados, julgamentos morais disfarçados de taxonomia científica — sua tese é exagerada, mas o núcleo da denúncia (a fronteira entre categoria diagnóstica e juízo moral é mais porosa do que admitimos) permanece como advertência ética. **R. D. Laing** [@laing_divided_self_1960], da antipsiquiatria britânica, propôs inversão de perguntas: em vez de "*por que essa pessoa tem essa personalidade anormal?*", perguntar "*que contexto tornaria esse comportamento compreensível?*".
 
-O estudante deste capítulo não precisa adotar essas críticas para usar o DSM-5 na clínica; mas precisa **conhecê-las** para não confundir uma taxonomia operacional com uma ontologia.
 :::
 
 Devido a essas inúmeras dificuldades, o DSM-5 incluiu em sua **Seção III** um **modelo alternativo para transtornos de personalidade**, que é **híbrido**: define o transtorno pelo prejuízo no funcionamento da personalidade e por traços patológicos, e dele se derivam seis transtornos específicos [@apa_dsm5tr_2022, p. 881; @apa_dsm5_br_2014, p. 645].
@@ -74,7 +73,7 @@ A escolha de preservar **borderline** como qualificador — e não, por exemplo,
 A CID-10 não pôs a esquizotípica entre os transtornos de personalidade: o **transtorno esquizotípico** (F21) fica no bloco da esquizofrenia (F20–F29), por partilhar fenômenos e história familiar com os transtornos desse bloco [@who_icd10_1992, p. 201]. A CID-11 manteve essa posição: o transtorno esquizotípico (código **6A22**) fica no agrupamento *esquizofrenia e outros transtornos psicóticos primários* [@who_cddr_icd11_2024, p. 161]. O DSM-5, em contraste, conserva a esquizotípica entre os transtornos de personalidade, com nota cruzada para o espectro da esquizofrenia [@apa_dsm5tr_2022, p. 103-104].
 :::
 
-A tabela abaixo mostra como cada transtorno categórico do DSM-5 mapeia *aproximadamente* no sistema dimensional da CID-11, com a referência histórica do diagnóstico equivalente na CID-10. Os perfis de traço seguem uma revisão de nove estudos empíricos [@simon_crosswalk_2023, p. 2-5]: os domínios ligados por "+" são os que mais se associam a cada tipo; os "secundários" aparecem na maioria dos estudos, com associação menor. Os qualificadores não são "tradução um-para-um" das antigas categorias — um mesmo paciente pode receber vários qualificadores, e a mesma combinação pode descrever apresentações clínicas diferentes em pacientes diferentes.
+Os perfis de traço seguem uma revisão de nove estudos empíricos [@simon_crosswalk_2023, p. 2-5]: os domínios ligados por "+" são os que mais se associam a cada tipo; os "secundários" aparecem na maioria dos estudos, com associação menor. Os qualificadores não são "tradução um-para-um" das antigas categorias — um mesmo paciente pode receber vários qualificadores, e a mesma combinação pode descrever apresentações clínicas diferentes em pacientes diferentes.
 
 | DSM-5 | CID-11 (perfil dimensional típico) | CID-10 (histórico) |
 |:------|:------------------------------------|:--------------------|

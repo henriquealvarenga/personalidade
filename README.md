@@ -3,9 +3,7 @@
 > 2ª edição — 2026
 
 Livro-texto sobre personalidade para o ensino de psicopatologia no Curso de
-Medicina da Universidade Federal de São João del-Rei (UFSJ). Em apêndice
-opcional, o ensaio filosófico-literário *A descoberta às avessas* problematiza
-o próprio conceito.
+Medicina da Universidade Federal de São João del-Rei (UFSJ).
 
 **Autor:** Henrique Alvarenga da Silva
 **Edição:** 2ª edição (2026), ainda sem ISBN. A 1ª edição saiu em 2020, em formato digital (ISBN 978-65-00-08880-9, coleção Temas em Psicopatologia), como material didático da disciplina de psicopatologia.
